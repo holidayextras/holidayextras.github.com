@@ -1,0 +1,7 @@
+name: Holiday Extras
+markdown: kramdown
+pygments: true
+baseurl: /
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://holidayextras.github.io/'
