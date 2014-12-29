@@ -2,5 +2,29 @@
 layout: default
 title: Home
 ---
-
-Is this thing on?
+<div itemscope itemType="http://schema.org/Blog">
+  <header>
+    <div class="container">
+      <h1 itemprop="name headline">The Hungry Geek</h1>
+      <p>by <span itemprop="copyrightHolder publisher">Holiday Extras</span></p>
+    </div>
+  </header>
+  <main class="container">
+    <ul class="posts">
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">
+            <section>
+              <h2>&#9998; {{ post.title }}</h2>
+              <div class="blog-summary">
+                <blockquote>{{ post.excerpt | strip_html }}</blockquote>
+                <i>By {{ post.author }} &#9883; {{ post.date | date: "%-d %B %Y"}}</i>
+                <small><b>Tags:</b> {{ post.tags | join: ' '}}</small>
+              </div>
+            </section>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </main>
+</div>
