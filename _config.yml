@@ -1,6 +1,10 @@
-name: Holiday Extras
+name: Holiday Extras - Hungry Geek
+description: Holiday Extras Geek Blog
 markdown: kramdown
+kramdown:
+  input: GFM
 pygments: true
+permalink: pretty
 baseurl: /
 prose:
   rooturl: '_posts'
