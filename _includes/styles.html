@@ -11,7 +11,7 @@
 }
 
 body {
-   font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
    font-weight: 300;
    color:#333;
 }
@@ -48,8 +48,8 @@ hr.end {
 hr.end:after {
   content: "\269b";
   display: inline-block;
-  position: relative; 
-  top: -0.7em;  
+  position: relative;
+  top: -0.7em;
   font-size: 1.5em;
   padding: 0 0.25em;
   background: white;
@@ -77,7 +77,7 @@ nav ul li {
   display:inline-block;
 }
 nav ul li.active {
-  background:#d5edae;
+  background:rgba(255,255,255,0.9);
 }
 nav ul li a {
   font-size:1.4em;
@@ -85,28 +85,54 @@ nav ul li a {
   font-weight:300;
   display:block;
   text-decoration:none;
-  color: #609;
+  color: #88C438;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 /* -- HEADER -- */
 header {
-  background:rgba(136,196,56,1);
   padding:6em 0 4em 0;
+  color:#FFF;
   position:relative;
+  background: linear-gradient(274deg, #660099, #264c7a);
+  background-size: 400% 400%;
+
+  -webkit-animation: AnimationName 17s ease infinite;
+  -moz-animation: AnimationName 17s ease infinite;
+  -o-animation: AnimationName 17s ease infinite;
+  animation: AnimationName 17s ease infinite;
+}
+@-webkit-keyframes AnimationName {
+  0%{background-position:0% 47%}
+  50%{background-position:100% 54%}
+  100%{background-position:0% 47%}
+}
+@-moz-keyframes AnimationName {
+  0%{background-position:0% 47%}
+  50%{background-position:100% 54%}
+  100%{background-position:0% 47%}
+}
+@-o-keyframes AnimationName {
+  0%{background-position:0% 47%}
+  50%{background-position:100% 54%}
+  100%{background-position:0% 47%}
+}
+@keyframes AnimationName {
+  0%{background-position:0% 47%}
+  50%{background-position:100% 54%}
+  100%{background-position:0% 47%}
 }
 header:after {
   content:"";
-  width: 0; 
-  height: 0; 
-  border-left: 20px solid transparent;
-  border-right: 20px solid transparent;
-  border-top: 20px solid rgba(136,196,56,1);
+  width: 40px;
+  height: 40px;
   position:absolute;
   left:50%;
   right:50%;
   bottom:-20px;
   margin-left:-20px;
+  transform: rotate(45deg);
+  background: #FFF;
 }
 header h1, header p  {
   text-align:center;
@@ -135,7 +161,7 @@ ul.posts li a section {
   border-bottom:dotted 1px rgba(136,196,56,1);
 }
 ul.posts li a section h2 {
-  color:rgba(102,0,153,1);
+  color:#88C438;
   text-decoration:none;
 }
 ul.posts li a section h2:hover {
