@@ -3,7 +3,7 @@ description: Holiday Extras Geek Blog
 markdown: kramdown
 kramdown:
   input: GFM
-pygments: true
+highlighter: true
 permalink: pretty
 baseurl: /
 prose:
