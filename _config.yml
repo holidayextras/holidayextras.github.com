@@ -10,4 +10,13 @@ paginate: 5
 prose:
   rooturl: '_posts'
   siteurl: 'http://holidayextras.github.io/'
-
+  ignore:
+    - index.html
+    - feed.xml
+    - holidayextras.sublime-project
+    - .gitignore
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_site
+    - /projects
