@@ -20,3 +20,51 @@ prose:
     - /_includes
     - /_site
     - /projects
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          type: "text"
+          label: "Blog title"
+      - name: "date"
+        field:
+          element: "text"
+          type: "text"
+          placeholder: "2015-01-01 12:00:00"
+          label: "date and time of post"
+      - name: "categories"
+        field:
+          element: "text"
+          type: "text"
+          placeholder: "NodeJS"
+          label: "Category"
+      - name: "author"
+        field:
+          element: "text"
+          type: "text"
+          label: "Your full name"
+      - name: "tags"
+        field:
+          element: "text"
+          type: "text"
+          label: "Searchable tags"
+      - name: "comments"
+        field:
+          element: "select"
+          options:
+            - name: 'On'
+              value: 'true'
+            - name: 'Off'
+              value: 'false'
+          label: "Allow people to comment on your post?"
+      - name: "time"
+        field:
+          element: "text"
+          type: "text"
+          label: "Time it takes to read your post"
+          placeholder: "5 mins"
