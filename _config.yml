@@ -26,6 +26,11 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "author"
+        field:
+          element: "text"
+          type: "text"
+          label: "Your full name"
       - name: "title"
         field:
           element: "text"
@@ -36,18 +41,13 @@ prose:
           element: "text"
           type: "text"
           placeholder: "2015-01-01 12:00:00"
-          label: "date and time of post"
+          label: "Date and time of post"
       - name: "categories"
         field:
           element: "text"
           type: "text"
           placeholder: "NodeJS"
-          label: "Category"
-      - name: "author"
-        field:
-          element: "text"
-          type: "text"
-          label: "Your full name"
+          label: "Categories"
       - name: "tags"
         field:
           element: "text"
@@ -57,9 +57,9 @@ prose:
         field:
           element: "select"
           options:
-            - name: 'On'
+            - name: 'Yes'
               value: 'true'
-            - name: 'Off'
+            - name: 'No'
               value: 'false'
           label: "Allow people to comment on your post?"
       - name: "time"
