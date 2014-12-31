@@ -5,6 +5,7 @@ tagline: Making concurrent Javascript easier
 date: 2014-12-31 12:00:00
 tags: JS
 comments: true
+github: https://github.com/holidayextras/WorkerJS/
 ---
 
 ## Introduction

@@ -32,7 +32,7 @@ category: blog
             <section>
               <h2>&#9998; {{ post.title }}</h2>
               <div class="blog-summary">
-                <blockquote>{{ post.excerpt }}</blockquote>
+                <blockquote>{{ post.excerpt | strip_html }}</blockquote>
                 <i>By {{ post.author }} &#9883; {{ post.date | date: "%-d %B %Y"}}</i>
                 <small><b>Tags:</b> {{ post.tags | join: ' '}}</small>
               </div>

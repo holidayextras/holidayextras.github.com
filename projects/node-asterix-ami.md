@@ -5,6 +5,7 @@ tagline: An extremely lightweight Asterisk AMI connector
 date: 2014-12-31 12:00:00
 tags: JS
 comments: true
+github: https://github.com/holidayextras/node-asterisk-ami/
 ---
 
 ## Install

@@ -5,6 +5,7 @@ tagline: A dependency-free Javascript Tracer
 date: 2014-12-31 12:00:00
 tags: JS NodeJS
 comments: true
+github: https://github.com/holidayextras/hxTracer/
 ---
 
 I wrote this javascript tracer to gain a better insight into how a project worked. Hopefully it'll help others too. Keep reading for an explanation on how it works.
