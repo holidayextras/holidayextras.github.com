@@ -22,6 +22,10 @@ prose:
     - /projects
   metadata:
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"  
       - name: "layout"
         field:
           element: "hidden"
@@ -38,10 +42,9 @@ prose:
           label: "Blog title"
       - name: "date"
         field:
-          element: "text"
+          element: "hidden"
           type: "text"
-          placeholder: "2015-01-01 12:00:00"
-          label: "Date and time of post"
+          value: CURRENT_DATETIME
       - name: "categories"
         field:
           element: "text"
