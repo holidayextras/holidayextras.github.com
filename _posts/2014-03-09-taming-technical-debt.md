@@ -43,7 +43,7 @@ You may have to reiterate analogies and consequences constantly to get the conce
 ## 4. Limit its influence
 Sometimes you’ll have to take shortcuts during development and allow some technical debt to creep in consciously. This may be because of time constraints, or could be because your perfect solution is blocked by something you can’t control. No matter the cause, build to minimise the impact of your less than ideal code wherever possible. For example, on our mobile app we have the following code:
 
-```
+```javacript
 parse: (response, options) ->
   # Normalize airport code location
   if location = response.trip?.out_departure_iata

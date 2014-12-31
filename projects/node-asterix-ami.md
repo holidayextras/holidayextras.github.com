@@ -8,6 +8,9 @@ comments: true
 github: https://github.com/holidayextras/node-asterisk-ami/
 ---
 
+<iframe src="http://ghbtns.com/github-btn.html?user=holidayextras&repo=node-asterisk-ami&type=watch&count=true"
+  allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20" align="center"></iframe>
+
 ## Install
 
 Try out the beta for version 0.2.0 and let us know what you think!

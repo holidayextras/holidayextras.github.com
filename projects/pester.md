@@ -8,6 +8,9 @@ comments: true
 github: https://github.com/holidayextras/node-pester/
 ---
 
+<iframe src="http://ghbtns.com/github-btn.html?user=holidayextras&repo=node-pester&type=watch&count=true"
+  allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20" align="center"></iframe>
+
 This small module will check your package.json and make sure you are running the Node.js version specfied in package.engines.node.
 
 ## Installation

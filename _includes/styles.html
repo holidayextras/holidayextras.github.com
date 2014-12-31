@@ -201,11 +201,15 @@ pre {
   border-radius: 0.25em;
   border: solid 1px rgba(238,238,238,1);
   margin:0.5em;
-  white-space: pre-wrap;       /* css-3 */
-  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-  white-space: -pre-wrap;      /* Opera 4-6 */
-  white-space: -o-pre-wrap;    /* Opera 7 */
-  word-wrap: break-word;
+  overflow-x:scroll;
+}
+pre a {
+  color:rgba(0,0,0,0.2);
+  padding:0 0.5em 0 0;
+  margin-right:0.5em;
+  text-decoration: none;
+  border-right:solid 1px;
+  display:inline-block;
 }
 p > code {
   line-height: 1.61em;
@@ -230,10 +234,11 @@ p > code {
   margin:1%;
   padding:1em;
   text-align:center;
-  height:8em;
+  height:10em;
   border:solid 1px rgba(221,221,221,1);
   border-radius:0.5em;
   transition: all .2s ease-in-out;
+  position:relative;
 }
 .projects li a:hover {
   -webkit-transform: scale(1.05);
@@ -244,6 +249,7 @@ p > code {
   background:rgba(222,75,149,1);
   color:rgba(255,255,255,0.9);
 }
+
 .project {
   margin-bottom:1em;
 }
@@ -269,5 +275,9 @@ p > code {
   left:0;
   bottom:-0.6em;
   color:rgba(136,196,56,1);
+}
+
+.project .project-content iframe {
+margin-bottom:1em;
 }
 </style>

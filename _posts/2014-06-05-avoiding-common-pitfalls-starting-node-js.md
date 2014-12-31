@@ -18,7 +18,7 @@ So back to starting out with Node.js. What I want to cover are the main mistakes
 ## 1. Deeply nested callbacks.
 When getting started with Node.js at first you may find the idea of callbacks unnatural (especially if you’ve come from a synchronous language like PHP). You should however be able to pick up the concept quickly enough. The danger however, comes if you get too carried away and end up deeply nesting your callbacks. This results in code that no one wants to have the displeasure of having to read or maintain after you, like this for example:
 
-```
+```javascript
 doSomething(function (err1, result1) {
   if(err1) return console.log(err1);
   thenDoThis(result1, function (err2, result2) {
@@ -34,7 +34,7 @@ doSomething(function (err1, result1) {
 ### Promises
 One solution to this awful mess is to use Promises. If you don’t know what Promises are it’s definitely worth investing some time in getting to know and understand how they work. There are many Promise libraries already available however one of the more popular ones is [Q](https://github.com/kriskowal/q). Here is the same code above using Promises (with Q):
 
-```
+```javascript
 Q.fcall(doSomething)
 .then(thenDoThis)
 .then(andThenThis)
@@ -52,7 +52,7 @@ There is a bit of background work required in order to adapt your functions to r
 ### Control flow modules
 Another alternative to Promises is to use control flow modules which can help to reduce code complexity. A popular module is [Async](https://github.com/caolan/async). Below I’ve modified the original deeply nested code to use Async:
 
-```
+```javascript
 async.waterfall([
   function(cb) {
     doSomething(cb);
@@ -74,7 +74,7 @@ As with the Promise example above you can see that the code is once again much m
 ## 2. Remember to return callbacks
 Leading on from the above section you’ll realise that as you get to grips with Node.js that callbacks will start to become a common sight. One thing thats important to remember is to always return your callbacks. You’ll find this becomes more necessary the more complex your code gets. Consider the following code:
 
-```
+```javascript
 function doSomething(err, cb) {
   if(err) cb('Error');
   cb(null, 'Success');
@@ -87,14 +87,14 @@ doSomething(true, function(err, result) {
 
 What you’ll actually find in your terminal output is:
 
-```
+```javascript
 Error undefined
 null 'Success'
 ```
 
 So what’s actually happened is that the callback has been executed twice. While this wouldn’t necessarily be a problem in most cases, in others it can result in unexpected behaviour which can be very problematic to debug. I found this out the hard way on many occasions, so save yourself the trouble and return callbacks where you can. The correct code would be:
 
-```
+```javascript
 function doSomething(err, cb) {
   if(err) return cb('Error');
   return cb(null, 'Success');
@@ -107,14 +107,14 @@ This will result in the expected terminal output of just: `Error undefined`.
 Another common mistake I made when working on my first Node.js project was to not separate my code enough. I’ve since tried to avoid letting my Javascript files and methods from becoming too long. Node.js has an inbuilt Module system, accessible via `module.exports` which can be used to export both objects and functions with ease. I’ve included an simple example of an exported function below.
 
 
-```
+```javascript
 //hello.js
 module.exports = function(name) {
   return 'Hello ' + name;
 }
 ```
 
-```
+```javascript
 //test.js
 var sayHello = require('./hello');
 sayHello('John'); // returns 'Hello John'
