@@ -24,7 +24,7 @@ npm install pagespeed
 
 ### How to use it
 
-```
+```javascript
 var pagespeed = require('pagespeed');
 app.configure( function( ) {
 ...

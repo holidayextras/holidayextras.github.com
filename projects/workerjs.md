@@ -8,6 +8,10 @@ comments: true
 github: https://github.com/holidayextras/WorkerJS/
 ---
 
+<iframe src="http://ghbtns.com/github-btn.html?user=holidayextras&repo=WorkerJS&type=watch&count=true"
+  allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20" align="center"></iframe>
+
+
 ## Introduction
 TLDR; WorkerJS makes it easy to write lightweight, concise, concurrent, clustered Javascript.
 
@@ -26,7 +30,7 @@ On the other side of things is the 'Gateway'. The 'Gateway' makes it easy for th
 
 Calling a function on the 'instance' object within the 'Gateway' will cause the 'Worker' to invoke the same function, which can do all it's heavy processing and interact with the main Javascript thread via the functions in the 'Bridge'.
 
-```
+```javascript
 var theRestOfMyCode;
 
 WorkerJS({
@@ -57,7 +61,8 @@ WorkerJS({
 });
 ```
 ## Example Working with Primes
-```
+
+```javscript
 // The goal is to populate this array with a bunch of prime numbers.
 // These variables can be considered shared memory.
 var primes=[];
@@ -116,7 +121,7 @@ checkProgress();
 ## More Effective Example
 This example uses a cluster of workers to get the job done much MUCH faster. If you run this example you'll see it run a quick benchmark to determine how many workers the browser can effectively use - it will then spawn that many workers in a cluster. The Gateway only gets invoked once, and calling instances.testIfPrime() invokes the function on each of the clustered workers. The callback fires once all the worker's functions callback. The Bridge allows each Worker to request work units from main thread and write their output back to the main thread. Pretty neat.
 
-```
+```javascript
 var primes=[];
 var unit = 1;
 var finished = false;
@@ -170,7 +175,7 @@ WorkerJS({ // TLDR; Functions we want to push into the Worker scope.
 
 Sample Console Output:
 
-```
+```javascript
 Computing most effective number of workers... 
 Benchmark [ 1 workers ] 258 ms - 29 units processed
 Benchmark [ 2 workers ] 260 ms - 61 units processed
