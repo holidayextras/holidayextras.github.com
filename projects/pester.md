@@ -5,6 +5,7 @@ tagline: Will pester you, if you're running the wrong version of Node.js for you
 date: 2014-12-31 12:00:00
 tags: JS NodeJS
 comments: true
+github: https://github.com/holidayextras/node-pester/
 ---
 
 This small module will check your package.json and make sure you are running the Node.js version specfied in package.engines.node.
