@@ -5,7 +5,9 @@ kramdown:
   input: GFM
 highlighter: true
 permalink: pretty
-baseurl: /
+baseurl: /blog/
+paginate: 5
 prose:
   rooturl: '_posts'
   siteurl: 'http://holidayextras.github.io/'
+
