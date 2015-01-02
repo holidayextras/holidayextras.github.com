@@ -25,6 +25,8 @@ OR
 * Click on 'view drafts'
 * Click 'new file'
 * Write your blog post using [markdown](http://daringfireball.net/projects/markdown/syntax)
+* On the right hand side you can preview you post
+* Click on 'meta data' onteh right hand side and ensure you fill out all details
 * Click 'save'
 * Write a short decription of your post in the "Describe your Changes" section
 * Click 'commit'
