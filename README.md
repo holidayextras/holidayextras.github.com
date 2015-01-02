@@ -9,7 +9,7 @@ The Holiday Extras Blog should be simple to use for everyone, it requires no kno
 ### Requirements
 * You must have a github account
 * Visit prose.io
-* Authorize Prose.io on github
+* Authorize Prose on github - <https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=public_repo> **NB** Ensure it has access to ONLY public repos!
 * Visit <http://prose.io/#holidayextras/holidayextras.github.com> (you should be logged in)
 * Now you should see a list of all exisitng blog posts on Hungry Geek
 * Create a blog post
