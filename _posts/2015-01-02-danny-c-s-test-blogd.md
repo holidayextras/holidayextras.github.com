@@ -2,7 +2,7 @@
 date: CURRENT_DATETIME
 layout: post
 published: false
-title: "Danny C's Test Blogd"
+title: "Danny C's Test Blog"
 comments: "true"
 author: Danny C
 time: 10 secs
