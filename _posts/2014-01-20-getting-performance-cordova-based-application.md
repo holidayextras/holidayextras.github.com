@@ -9,6 +9,8 @@ comments: true
 time: 5 mins
 ---
 
+<img src="http://cordova.apache.org/images/cordova_bot.png" alt="cordova logo">
+
 Holiday Extras have recently launched their first [mobile app](http://mobile.holidayextras.co.uk/) in parallel on [iOS](http://mobile.holidayextras.co.uk/) and [Android](http://mobile.holidayextras.co.uk/). Our main developmental aims for the early version were to 1. keep the codebase as maintainable as possible using our existing skill sets, 2. maintain the ability to iterate quickly, and 3. make the app as fast as possible.
 
 Given that we’re a bit of a web development powerhouse, we settled on using [Apache Cordova](http://cordova.apache.org/) to put a JavaScript app on a iOS and Android. It’s quick to develop and maintain for us because we already know how to write front-end JavaScript apps, but how do you go about getting native performance from a Cordova based application? Here are 5 steps we took:
