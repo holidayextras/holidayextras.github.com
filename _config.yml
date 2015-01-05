@@ -5,7 +5,7 @@ kramdown:
   input: GFM
 highlighter: true
 permalink: pretty
-baseurl: /blog/
+baseurl: /
 paginate: 5
 prose:
   rooturl: '_posts'
