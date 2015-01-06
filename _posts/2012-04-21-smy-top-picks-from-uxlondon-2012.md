@@ -13,7 +13,7 @@ My top picks from this years [UXLondon](http://2011.uxlondon.com/) (I’ll share
 
 ## Day 1
 
-[Luke Wroblewski](https://twitter.com/lukew) - Go Mobile
+### [Luke Wroblewski](https://twitter.com/lukew) - Go Mobile
 This talk was for me the best talk I have heard on Mobile, was such a practical look at mobile UI and mobile behaviours. Plenty of takeaways from the talk alone. Others went onto his workshop, sadly I didn’t but am sure would be a detailed step-by-step guide to anyone designing a mobile app.
 For me him defining 4 use-cases for mobile helps you consider what people use their mobile for:
 
