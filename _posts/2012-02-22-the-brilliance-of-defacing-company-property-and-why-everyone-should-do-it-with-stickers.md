@@ -27,7 +27,7 @@ Here’s mine, and a few others:
 ![@dan_jenkins]({{ site.baseurl }}assets/img/matthewpack.jpg)
 [@matthewpack](http://www.twitter.com/matthewpack)
 
-![@marcgreenstock]({{ site.baseurl }}/assets/img/marcgreenstock.jpg)
+![@marcgreenstock]({{ site.baseurl }}assets/img/marcgreenstock.jpg)
 [@marcgreenstock](http://www.twitter.com/marcgreenstock)
 
 ![@markfermor1]({{ site.baseurl }}assets/img/markfermor1.jpg)
