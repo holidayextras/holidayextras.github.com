@@ -1,202 +1,57 @@
-<!DOCTYPE html>
-<html lang="en" class="gitHub no-js">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--<title>Shape Hover Effect with SVG | Demo 1</title>
-    <meta name="description" content="Hover Effects with animated SVG Shapes using Snap.svg" />
-    <meta name="keywords" content="animated svg, hover effect, grid, svg shape html, " />
-    <meta name="author" content="Codrops" />
-    <link rel="shortcut icon" href="../favicon.ico">-->
-    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
-    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
-    <link rel="stylesheet" type="text/css" href="css/demo.css" />
-    <link rel="stylesheet" type="text/css" href="css/component.css" />
-    <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
-    <script src="js/snap.svg-min.js"></script>
-    <script src="https://code.jquery.com/jquery.js"></script>
-    <!--[if IE]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <script type="text/javascript">
-        (function ($, undefined) {
-
-          function addRepos(repos, page) {
-            repos = repos || [];
-            page = page || 1;
-
-            var uri = "https://api.github.com/orgs/holidayextras/repos?callback=?"
-                    + "&per_page=100"
-                    + "&page="+page;
-
-            $.getJSON(uri, function (result) {
-              if (result.data && result.data.length > 0) {
-                repos = repos.concat(result.data);
-                addRepos(repos, page + 1);
-              }
-              else {
-                $(function () {
-                  $("#num-repos").text(repos.length);
-
-                  // Convert pushed_at to Date.
-                  $.each(repos, function (i, repo) {
-                    repo.pushed_at = new Date(repo.pushed_at);
-
-                    var weekHalfLife  = 1.146 * Math.pow(10, -9);
-
-                    var pushDelta    = (new Date) - Date.parse(repo.pushed_at);
-                    var createdDelta = (new Date) - Date.parse(repo.created_at);
-
-                    var weightForPush = 1;
-                    var weightForWatchers = 1.314 * Math.pow(10, 7);
-
-                    repo.hotness = weightForPush * Math.pow(Math.E, -1 * weekHalfLife * pushDelta);
-                    repo.hotness += weightForWatchers * repo.watchers / createdDelta;
-                  });
-
-                  // Sort by highest # of watchers.
-                  repos.sort(function (a, b) {
-                    if (a.hotness < b.hotness) return 1;
-                    if (b.hotness < a.hotness) return -1;
-                    return 0;
-                  });
-
-                  $.each(repos, function (i, repo) {
-                    addRepo(repo);
-                  });
-
-                  // Sort by most-recently pushed to.
-                  repos.sort(function (a, b) {
-                    if (a.pushed_at < b.pushed_at) return 1;
-                    if (b.pushed_at < a.pushed_at) return -1;
-                    return 0;
-                  });
-
-                  $.each(repos.slice(0, 3), function (i, repo) {
-                    addRecentlyUpdatedRepo(repo);
-                  });
-                });
-              }
-            });
-          }
-          addRepos();
-
-          $.getJSON("https://api.github.com/orgs/holidayextras/members?callback=?", function (result) {
-            var members = result.data;
-
-            $(function () {
-              $("#num-members").text(members.length);
-            });
-          });
-
-        })(jQuery);
-      </script>
-
+---
+layout: default
+title: Blog by The Holiday Extras Tech Team
+category: blog
+---
+<div itemscope itemType="http://schema.org/Blog">
+  <header>
     <div class="container">
-      <a class="brand blog" href="http://hungrygeek.holidayextras.co.uk/"></a>
-      <section id="grid" class="grid clearfix list-unstyled row"><!-- Need to change this to <ul> -->
-        <a href="http://holidayextras.github.io/WorkerJS/" data-path-hover="m 180,34.57627 -180,0 L 0,0 180,0 z" class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-          <figure>
-            <img src="img/1.png" />
-            <svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 180,160 0,218 0,0 180,0 z"/></svg>
-            <figcaption>
-              <h2>WorkerJS</h2>
-              <p>Makes it easy to write lightweight, concise, concurrent, clustered Javascript.</p>
-            </figcaption>
-          </figure>
-        </a>
-        <a href="http://holidayextras.github.io/node-pester/" data-path-hover="m 180,34.57627 -180,0 L 0,0 180,0 z" class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-          <figure>
-            <img src="img/3.png" />
-            <svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 180,160 0,218 0,0 180,0 z"/></svg>
-            <figcaption>
-              <h2>Pester</h2>
-              <p>Will pester you, if you're running the wrong version of Node.js for your app.</p>
-            </figcaption>
-          </figure>
-        </a>
-        <a href="http://holidayextras.github.io/hxTracer" data-path-hover="m 180,34.57627 -180,0 L 0,0 180,0 z" class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-          <figure>
-            <img src="img/5.png" />
-            <svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 180,160 0,218 0,0 180,0 z"/></svg>
-            <figcaption>
-              <h2>hxTracer</h2>
-              <p>A dependency-free Javascript Tracer.</p>
-            </figcaption>
-          </figure>
-        </a>
-        <a href="#" data-path-hover="m 180,34.57627 -180,0 L 0,0 180,0 z" class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-          <figure>
-            <img src="img/7.png" />
-            <svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 180,160 0,218 0,0 180,0 z"/></svg>
-            <figcaption>
-              <h2>asterisk-ami</h2>
-              <p>An extremely lightweight Asterisk AMI connector.</p>
-            </figcaption>
-          </figure>
-        </a>
-      </section>
-      <div class="row">
-        <div class="col-xs-12 col-sm-6">
-            <div class="panel panel-default">
-            <div class="panel-heading">Statistics</div>
-            <div class="panel-body">
-                    <a href="https://github.com/holidayextras/repositories"><span id="num-repos"></span> public repos</a>
-                    <br>
-                    <a href="https://github.com/holidayextras?tab=members"><span id="num-members"></span> members</a>
+      <h1 itemprop="name headline">The Hungry Geek</h1>
+      <p>by <span itemprop="copyrightHolder publisher">Holiday Extras</span></p>
+    </div>
+  </header>
+  <main class="container">
+    <ul class="posts">
+      {% for post in paginator.posts %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">
+          <section>
+            <h2>&#9998; {{ post.title }}</h2>
+            <div class="blog-summary">
+              <blockquote>{{ post.excerpt | strip_html }}</blockquote>
+              <i>By {{ post.author }} ~ {{ post.date | date: "%-d %B %Y"}}</i>
+              <small><b>Tags:</b> {{ post.tags | join: ' '}}</small>
             </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6">
-            <div class="panel panel-default">
-            <div class="panel-heading">Recently Updated</div>
-            <div class="panel-body">
-              -
-            </div>
-          </div>
-        </div>
-      </div>
-    </div><!-- /container -->
-    <script>
-      (function() {
+          </section>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <!-- Pagination links -->
+    {% if paginator.total_pages > 1 %}
+    <div class="pagination">
+      {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+      {% else %}
+      <span>&laquo; Prev</span>
+      {% endif %}
 
-        function init() {
-          var speed = 250,
-            easing = mina.easeinout;
+      {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+      {{ page }}
+      {% elsif page == 1 %}
+      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+      {% endfor %}
 
-          [].slice.call ( document.querySelectorAll( '#grid > a' ) ).forEach( function( el ) {
-            var s = Snap( el.querySelector( 'svg' ) ), path = s.select( 'path' ),
-              pathConfig = {
-                from : path.attr( 'd' ),
-                to : el.getAttribute( 'data-path-hover' )
-              };
-
-            el.addEventListener( 'mouseenter', function() {
-              path.animate( { 'path' : pathConfig.to }, speed, easing );
-            } );
-
-            el.addEventListener( 'mouseleave', function() {
-              path.animate( { 'path' : pathConfig.from }, speed, easing );
-            } );
-          } );
-        }
-
-        init();
-
-      })();
-    </script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-46962272-1', 'holidayextras.github.io');
-      ga('send', 'pageview');
-    </script>
-  </body>
-</html>
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+      {% else %}
+      <span>Next &raquo;</span>
+      {% endif %}
+    </div>
+    {% endif %}
+  </main>
+</div>

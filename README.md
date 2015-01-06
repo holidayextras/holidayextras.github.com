@@ -1,0 +1,90 @@
+<div align="center"><img src="http://jekyllrb.com/img/octojekyll.png" width="40%" /></div>
+
+The Hungry Geek Blog - by Holiday Extras
+========================
+
+This is a new blog created using Jekyll and GitHub pages.
+The Holiday Extras Blog should be simple to use for everyone, it requires no knowledge of anything technical in order to write a blog post.
+
+### Requirements
+* You must have a github account
+
+### Creating a post
+* Pull down the master branch of holidayextras.github.io `git pull master`
+* Create a branch with a name of your choice `git checkout -b blogPost`
+* Navigate to the `/_posts` folder
+* Create a new markdown file and write your blog post
+* Commmit you branch
+
+### Send a blog post for review
+Blog posts have to be reviewed in the same way code on our website does, ideally we would like 2 people to review the post.
+
+1. From a technical aspect (if required)
+2. From an editorial aspect (check for typos')
+
+To get your work reviewed, please put in a Pull Request in the normal way
+
+### Reviewing a blog post
+Blog posts reviews will run the same as our day to day work (blog posts should be part of our work anyway).
+You can review a PR, comment on the content or editorial parts of the blog post and publish when we have 2 x :+1:'s
+*TO DO* Create new check box list for blog post reviewing.
+
+### Prose.io
+Prose.io is a online WYSIWYG editor for creating, editing and comitting blog posts.
+In Holiday Extras we are not using it to simplify markdown, we are using it to allow non technical users to publish blog posts on GitHub without the need to learn how to Pull, Commit and PR a branch.
+
+*CONTROVERSY*
+To get prose.io to work you need to give it permission to access your github account (in order to publish posts, which is what we need it for). Out of the box this gives prose.io permission to all repos you have access to, meaning it has access to `tripapplite`.
+However, we can restrict prose.io to have access to public repos only.
+
+prose.io should be used ONLY if you are not technically capable of using github command line.
+If this is the case, we may restrict your github access to ONLY the HX Blog repo for protection.
+
+### Creating a post with prose.io
+
+* Authorize Prose on github - <https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=public_repo> **NB** Ensure it has access to ONLY public repos!
+* Visit <http://prose.io/#holidayextras/holidayextras.github.com> (you should be logged in automatically)
+* Now you should see a list of all exisitng blog posts on Hungry Geek
+* Click on 'view drafts'
+* Click 'new file'
+* Write your blog post using [markdown](http://daringfireball.net/projects/markdown/syntax)
+* On the right hand side you can preview you post
+* Click on 'meta data' on the right hand side and ensure you fill out all details
+* Click 'save'
+* Write a short decription of your post in the "Describe your Changes" section
+* Click 'commit'
+This will save the blog post in the drafts section of the wesbite ready for reviewing.
+
+#### Send a blog post for review
+* Pester someone to look at your blog post in slack
+* Once you have found a victim - Let them know you have created a blog post in drafts and the name of the file
+
+#### Reviewing a blog post in prose.io
+* In the drafts section of prose.io
+* Read and review the blog post, send any changes back to the author directly (on slack or other medium)
+* Once you are happy and it has been reviewed by two different people you can click 'draft to post'
+* Write a short decription of your post in the "Describe your Changes" section
+* The post will now be live
+
+2. Github
+
+Just like any normal dev work, you can review a PR, comment on the content or editorial parts of the blog post and publish when we have 2 x :+1:'s
+
+--
+
+## Technical
+### Jekyll
+Jekyll is a static site generator - No more databases, comment moderation, or pesky updates to install — just your content.
+It uses HTML files for structure and Markdown files for content.
+
+#### To Install
+```ruby
+gem install jekyll
+```
+
+#### To Run
+```
+jekyll serve
+```
+The Holiday Extras blog should now be running on your machine at http://127.0.0.1:4000/
+
