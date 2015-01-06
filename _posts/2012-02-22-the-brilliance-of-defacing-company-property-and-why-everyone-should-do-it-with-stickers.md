@@ -7,6 +7,8 @@ author: Dan Jenkins
 tags: Laptops Macs Stickers Vinyls
 comments: true
 time: 6 mins
+redirect_from:
+  - 2012/02/22/the-brilliance-of-defacing-company-property-and-why-everyone-should-do-it-with-stickers/
 ---
 
 Whilst working at [Holiday Extras](http://www.holidayextras.com), I’ve been lucky enough to have been given a laptop; a Macbook Pro. We all work on Macs at Holiday Extras, with one exception. They’re great to work on and I can’t imagine developing our projects on anything else. Around a third of all the Macs in the company are laptops. They’re great but are they too common? Make a difference, with stickers!

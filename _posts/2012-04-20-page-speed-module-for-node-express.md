@@ -7,6 +7,8 @@ author: Paul Clarke
 tags: NodeJS NPM PageSpeed
 comments: true
 time: 2 min
+redirect_from:
+  - 2012/04/20/page-speed-module-for-node-express/
 ---
 
 ## Page Speed Module

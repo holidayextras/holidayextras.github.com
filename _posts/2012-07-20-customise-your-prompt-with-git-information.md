@@ -7,6 +7,8 @@ author: Dan Jenkins
 tags: Bash Command-line Git Prompt Shell Terminal
 comments: true
 time: 7 mins
+redirect_from:
+  - 2012/07/20/customise-your-prompt-with-git-information/
 ---
 
 ## What’s involved and why?

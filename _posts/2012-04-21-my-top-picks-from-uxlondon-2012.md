@@ -2,11 +2,13 @@
 layout: post
 title: My top picks from UXLondon 2012
 date: 2012-04-21 12:00:00
-categories: Conferences UX
+categories: Conferences
 author: Anna Divers
 tags: Customer Engagement User Experience UX UXLondon 
 comments: true
 time: 10 mins
+redirect_from:
+  - 2012/04/21/my-top-picks-from-uxlondon-2012/
 ---
 
 My top picks from this years [UXLondon](http://2011.uxlondon.com/) (I’ll share links to slides/videos once they’re available). Enjoyed this year immensely, got more out of it than last year, ate far too much steak and generally had an all-round good time.

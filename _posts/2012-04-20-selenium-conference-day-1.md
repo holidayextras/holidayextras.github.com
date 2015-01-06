@@ -7,6 +7,8 @@ author: Alanna Mooney
 tags: Conference SEConf Selenium
 comments: true
 time: 10 mins
+redirect_from:
+  - 2012/04/20/selenium-conference-day-1/
 ---
 
 [Holiday Extras](http://www.holidayextras.co.uk) sent four of us to a [Selenium Conference](http://seleniumconf.org/) to learn more about automated testing. The business is keen for the Web Delivery Team to get involved in automated testing and Selenium is one of the ways we’re going to go about it. The conference ran for 3 days in London, the first day was workshops which we didn’t attend and two days of talks.

@@ -2,11 +2,13 @@
 layout: post
 title: SSL SAN Termination in the Amazon Cloud with ELBs
 date: 2012-03-16 12:00:00
-categories: ops
+categories: Ops
 author: Mark Fermor
 tags: AWS ELB san ssl
 comments: true
 time: 4 mins
+redirect_from:
+  - 2012/03/16/ssl-san-termination-in-the-amazon-cloud-with-elbs/
 ---
 
 ## How we carried out SSL termination in the cloud

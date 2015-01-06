@@ -7,6 +7,8 @@ author: Paul Clarke
 tags: PHP vim
 comments: true
 time: 1 min
+redirect_from:
+  - 2012/02/29/vim-skills/
 ---
 
 While we’re fixing some warnings in some bad php, aren’t you bored of changing all those instances of

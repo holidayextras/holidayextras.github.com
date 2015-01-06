@@ -7,6 +7,8 @@ author: Matthew Tyas
 tags: none
 comments: true
 time: 5 mins
+redirect_from:
+  - 2012/08/07/a-clutch-of-fresh-faces/
 ---
 
 You probably can’t hear the laughter emanating from the web delivery team at the moment but trust me it’s there. As it dissipates, heads return to screens and the coding begins anew, as we work to maintain, build and upgrade the various sites under our control. I’m Matthew Tyas; a student at the [University of Kent](http://www.kent.ac.uk/) and I, alongside my four fellow compatriots, have been a Web Developer of one form or another at [Holiday Extras](http://www.holidayextras.co.uk) for the last year.

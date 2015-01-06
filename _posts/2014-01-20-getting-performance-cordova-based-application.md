@@ -2,11 +2,13 @@
 layout: post
 title: 5 tips for great performance from your Cordova app
 date: 2014-01-20 12:00:00
-categories: Mobile App Cordova
+categories: Mobile
 author: Mike Carter
 tags: Mobile App Cordova iOS Android
 comments: true
 time: 5 mins
+redirect_from: 
+  - 2014/01/20/getting-performance-cordova-based-application/
 ---
 
 <img src="http://cordova.apache.org/images/cordova_bot.png" alt="cordova logo">

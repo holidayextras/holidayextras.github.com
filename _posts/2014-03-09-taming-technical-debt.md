@@ -7,6 +7,8 @@ author: Mike Carter
 tags: Tech Debt
 comments: true
 time: 5 mins
+redirect_from: 
+  - /2014/03/09/taming-technical-debt/
 ---
 
 Technical debt comes in many forms. It’s what’s left when you take a shortcut to make a deadline, what’s created when the application you build gradually stops suiting its original requirements, the result of creating a solution to a problem you perhaps don’t fully understand, or when a feature gets built upon again and again in an unchecked way.

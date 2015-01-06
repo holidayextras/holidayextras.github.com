@@ -7,6 +7,8 @@ highlighter: true
 permalink: pretty
 baseurl: /
 paginate: 5
+gems:
+  - jekyll-redirect-from
 prose:
   rooturl: '_posts'
   siteurl: 'http://holidayextras.github.io/'

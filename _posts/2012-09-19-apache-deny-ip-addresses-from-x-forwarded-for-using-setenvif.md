@@ -2,11 +2,13 @@
 layout: post
 title: Apache Deny IP addresses from x-forwarded-for (using SetEnvIF)
 date: 2012-09-19 12:00:00
-categories: ops
+categories: Ops
 author: Mark Fermor
 tags: Apache, AWS, Block, Deny, ELB, Firewall, IPAddress,
 comments: true
 time: 3 mins
+redirect_from:
+  - 2012/09/19/apache-deny-ip-addresses-from-x-forwarded-for-using-setenvif/
 ---
 
 I’ve seen many methods for being able to block or deny specific IP addresses based on the X-Forwarded-For (XFF) header with Apache, most methods either make use of Apache’s SetEnvIF directive or create a mod_rewrite rule. I’ve not been able to find anywhere that covers this problem when the XFF header contains multiple IPs (which is allowed to happen as directed by the RFC) and I don’t feel its correct to allow a request to get as far as needing to execute Apache mod_rewrite rules.

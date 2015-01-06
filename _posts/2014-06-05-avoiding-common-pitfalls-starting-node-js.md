@@ -1,15 +1,15 @@
 ---
-date: 2014-06-05T12:00:00.000Z
 layout: post
 title: Avoiding common pitfalls starting Node.js
+date: 2014-01-20 12:00:00
 categories: NodeJS
 author: Andrew Castle
 tags: NodeJS Javascript Promises
-comments: 
-  - true
-  - "true"
+comments: true
 time: 5 mins
 published: true
+redirect_from: 
+  - /2014/06/05/avoiding-common-pitfalls-starting-node-js/
 ---
 
 Not too long ago one morning I walked into the office and found myself tasked with a project that would be written entirely in Node.js, something which I knew very little about. But hey, it’s only Javascript right, how hard can it be? Or so I thought…

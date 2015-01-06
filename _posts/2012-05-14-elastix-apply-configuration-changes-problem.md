@@ -2,11 +2,13 @@
 layout: post
 title: "Elastix 'apply configuration changes' problem"
 date: 2012-05-14 12:00:00
-categories: Asterisk Elastix PHP VoIP
+categories: VoIP
 author: Dan Jenkins
 tags: Asterisk Elastix PHP VoIP
 comments: true
 time: 8 mins
+redirect_from:
+  - 2012/05/14/elastix-apply-configuration-changes-problem/
 ---
 
 ## The background…
