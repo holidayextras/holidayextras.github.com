@@ -75,7 +75,7 @@ Just like any normal dev work, you can review a PR, comment on the content or ed
 ## Technical
 ### Jekyll
 Jekyll is a static site generator - No more databases, comment moderation, or pesky updates to install — just your content.
-It uses HTML files for sturcture and Markdown files for content.
+It uses HTML files for structure and Markdown files for content.
 
 #### To Install
 ```ruby
