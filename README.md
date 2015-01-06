@@ -86,5 +86,5 @@ gem install jekyll
 ```
 jekyll serve
 ```
-The Holiday Extras blog should now be running on your machine at http://127.0.0.1:4000/blog/
+The Holiday Extras blog should now be running on your machine at http://127.0.0.1:4000/
 
