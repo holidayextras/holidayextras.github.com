@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoiding common pitfalls starting Node.js
-date: 2014-01-20 12:00:00
+date: 2014-06-05 12:00:00
 categories: NodeJS
 author: Andrew Castle
 tags: NodeJS Javascript Promises
