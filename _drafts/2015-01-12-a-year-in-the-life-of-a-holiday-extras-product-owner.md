@@ -4,16 +4,10 @@ layout: post
 published: false
 title: A Year in the Life of a Holiday Extras Product Owner
 comments: "true"
----
-
----
-date: CURRENT_DATETIME
-layout: post
-published: false
-title: A Year in the Life of a Holiday Extras Product Owner
-comments: "true"
 author: Anna Divers
-tags: "Product Owner, Lean, Agile, Product Development"
+tags: "Product-Owner Lean  Agile Product-Development"
+categories: productowner
+time: 8 mins
 ---
 
 ## A Year in the Life of a Holiday Extras Product Owner and my recommended events for all you PO's out there!
