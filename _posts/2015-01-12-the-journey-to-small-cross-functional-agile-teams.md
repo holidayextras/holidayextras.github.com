@@ -1,22 +1,12 @@
 ---
-date: CURRENT_DATETIME
 layout: post
-published: false
-title: "The journey to small, cross-functional, Agile teams"
-comments: "true"
----
-
----
-date: CURRENT_DATETIME
-layout: post
-published: false
-title: "The journey to small, cross-functional, Agile teams"
-comments: "true"
+title: The journey to small, cross-functional, Agile teams
+categories: business
 author: Anna Divers
-categories: Business
-tags: "Organisational structure, Agile, Scrum"
+tags: Organisational-Structure Agile Scrum
+time: 4 mins
+comments: true
 ---
-
 ## How do you transition a large, homogeneous web team to a cluster of small, cross-functional Agile teams?
 
 2014 saw us transition from a large, established web development team of 50+ to smaller, cross-functional pods operating in an Agile Scrum environment.  
@@ -52,7 +42,7 @@ Here's what we learned along the way.
 
 **Product Owners need quality time and sole focus.  They also need to be available**  Once again we didn’t have spare Product Owners lying around, but recognised the role needed to be pretty senior due to the level of accountability and decision-making it would have.  So our Associate Directors stepped into the role for the first year - dual-running however is difficult so we have now looked at ways in which we can fill the product owner roles to enable them to step out of the detail.
 
-**Looking back at the outcomes**-  I think we’ve seen:
+**Looking back at the outcomes** -  I think we’ve seen:
 - more engagement
 - more focus
 - more clarity
