@@ -38,9 +38,9 @@ ps.  If you ever get to meet Jeff ask him about the Leafblower incident.
 
 **December 2014** - hooked up with an old friend and associate Gwyn Morfey (formerly MD of New Bamboo) to talk about how best to scale and manage Scrum teams, was reassuring to talk through our transformation in the web development space this year and hear we were doing a lot of things right!
 
-_So what’s next in 2016?_
+_So what’s next in 2015?_
 
-- a small matter of some homework pre the arrival of Roman Pilcher to our Learning Academy for our Certified Product Owner Training (better late than never!)
+- a small matter of some homework pre the arrival of Roman Pichler to our Learning Academy for our Certified Product Owner Training (better late than never!)
 - More on mobile and mobile in Travel specifically at Mobile World Congress, Barcelona in March
 - UXLondon in May is already booked and in the diary.  Can’t wait!
 - we have more pods to embed, and new product owners to develop.
