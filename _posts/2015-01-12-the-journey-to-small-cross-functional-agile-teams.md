@@ -14,11 +14,11 @@ Here's what we learned along the way.
 
 **It takes a lot of planning.**  This time a year ago (January) we started the planning, it wasn’t until mid-May that we made the move.   So many factors to consider - what pods were needed, what roles were needed in each pod, how would we measure the success of the pods, how would we transition existing work, how would we allocate work and finally who should go in each pod?
 
-**Collaboration is key.**  A group of senior managers worked together and involved a number of the team, together with our People Team in evolving the plan.  By involving members of the team meant we had ambassadors when it came to the final, public comms.  We were also able to predict and address some of the questions which came up in advance.
+**Collaboration is key.**  A group of senior managers worked together and involved a number of the team, together with our People Team in evolving the plan.  Involving members of the team meant we had ambassadors when it came to the final, public comms.  We were also able to predict and address some of the questions which came up in advance.
 
 **The right mix is important** - the roles, personalities, level of experience and skill-set.  It’s important to get this right so that the pods have the greatest chance of early success.  
 
-**Communicating to the rest of the business.**  Whilst comms in the web team itself was good and well received, It is probably fair to say we didn’t do enough of this to the wider business.  We had sent communication out and made a video on pods, but there was clearly more needed to understand the changes and how it impacted them.   More than one person thought the pods were the little red meeting booths we have peppered around the business!  Oops!
+**Communicating to the rest of the business.**  Whilst comms in the web team itself were good and well received, it is probably fair to say we didn’t do enough of this to the wider business.  We had sent communication out and made a video on pods, but there was clearly more needed to understand the changes and how it impacted them.   More than one person thought the pods were the little red meeting booths we have peppered around the business!  Oops!
 
 **Getting the balance right.**  We had geared our pods around our strategic themes and whilst we did have a trading pod from day one, we under-resourced this and had to address this later on in the year.
 
@@ -52,4 +52,4 @@ Here's what we learned along the way.
 - more progress towards our strategic objectives, not just trading
 - more career opportunities opened up within the web team
 
-_What I love the most however is the fact we really do have a web team who are so comfortable now with change, and who embrace new opportunities, supportive of each other along the way._
+_What I love the most however is the fact we really do have a web team who are so comfortable now with change, and who embrace new opportunities and are supportive of each other along the way._
