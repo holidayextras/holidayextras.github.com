@@ -6,7 +6,6 @@ categories: Misc
 author: Dan Jenkins
 tags: Laptops Macs Stickers Vinyls
 comments: true
-time: 6 mins
 redirect_from:
   - 2012/02/22/the-brilliance-of-defacing-company-property-and-why-everyone-should-do-it-with-stickers/
 ---

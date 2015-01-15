@@ -6,7 +6,6 @@ categories: Misc
 author: Mike Carter
 tags: Tech Debt
 comments: true
-time: 5 mins
 redirect_from: 
   - /2014/03/09/taming-technical-debt/
 ---

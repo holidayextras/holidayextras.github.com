@@ -4,7 +4,6 @@ title: A Year in the Life of a Holiday Extras Product Owner
 categories: productowner
 author: Anna Divers
 tags: Product-Owner Lean Agile Product-Development
-time: 8 mins
 comments: true
 ---
 

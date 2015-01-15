@@ -6,7 +6,6 @@ categories: Ops
 author: Mark Fermor
 tags: AWS ELB san ssl
 comments: true
-time: 4 mins
 redirect_from:
   - 2012/03/16/ssl-san-termination-in-the-amazon-cloud-with-elbs/
 ---
