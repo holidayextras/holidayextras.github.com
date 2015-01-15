@@ -1,20 +1,11 @@
 ---
-date: CURRENT_DATETIME
-layout: post
-published: false
-title: "The journey to small, cross-functional, Agile teams"
-comments: "true"
----
-
----
-date: CURRENT_DATETIME
 layout: post
 published: false
 title: "The journey to small, cross-functional, Agile teams"
 comments: "true"
 author: Anna Divers
 categories: Business
-tags: "Organisational structure, Agile, Scrum"
+tags: Organisational-Structure Agile Scrum
 ---
 
 ## How do you transition a large, homogeneous web team to a cluster of small, cross-functional Agile teams?
