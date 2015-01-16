@@ -3,7 +3,6 @@ layout: default
 category: blog
 ---
 
-<!--{% capture readtime %}{{ page.content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first }}{% endcapture %}-->
 {% assign readtime = page.content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first %}
 <article class="post" itemscope itemType="http://schema.org/BlogPosting">
   <header class="post-header">
