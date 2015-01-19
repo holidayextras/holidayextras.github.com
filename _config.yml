@@ -57,9 +57,3 @@ prose:
           element: "text"
           type: "text"
           label: "Searchable tags"
-      - name: "time"
-        field:
-          element: "text"
-          type: "text"
-          label: "Time it takes to read your post"
-          placeholder: "5 mins"

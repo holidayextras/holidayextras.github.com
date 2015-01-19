@@ -6,7 +6,6 @@ categories: PHP
 author: Dan Jenkins
 tags: Coding-Standards Exam PHP Zend
 comments: true
-time: 4 mins
 redirect_from:
   - 2012/02/29/lessons-about-php-before-my-php-5-3-zend-certification-exam/
 ---
