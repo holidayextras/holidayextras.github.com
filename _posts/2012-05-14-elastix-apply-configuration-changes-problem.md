@@ -6,7 +6,6 @@ categories: VoIP
 author: Dan Jenkins
 tags: Asterisk Elastix PHP VoIP
 comments: true
-time: 8 mins
 redirect_from:
   - 2012/05/14/elastix-apply-configuration-changes-problem/
 ---

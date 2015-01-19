@@ -6,7 +6,6 @@ categories: Mobile
 author: Mike Carter
 tags: Mobile App Cordova iOS Android
 comments: true
-time: 5 mins
 redirect_from: 
   - 2014/01/20/getting-performance-cordova-based-application/
 ---

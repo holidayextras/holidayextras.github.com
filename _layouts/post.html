@@ -2,10 +2,12 @@
 layout: default
 category: blog
 ---
+
+{% assign readtime = page.content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first %}
 <article class="post" itemscope itemType="http://schema.org/BlogPosting">
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><span itemprop="dateCreated datePublished">{{ page.date | date: "%b %-d, %Y" }}</span> - <span itemprop="author accountablePerson copyrightHolder editor" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span> - {{ page.time }}</p>
+    <p class="post-meta"><span itemprop="dateCreated datePublished">{{ page.date | date: "%b %-d, %Y" }}</span> - <span itemprop="author accountablePerson copyrightHolder editor" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span> - {% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min reading time</p>
   </header>
   <div class="container">
     <div class="post-content" itemprop="articleBody">

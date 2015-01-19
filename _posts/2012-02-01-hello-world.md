@@ -6,7 +6,6 @@ categories: Misc
 author: Damien Turner
 tags: none
 comments: true
-time: 30 seconds
 redirect_from:
   - 2012/02/01/hello-world/
 ---

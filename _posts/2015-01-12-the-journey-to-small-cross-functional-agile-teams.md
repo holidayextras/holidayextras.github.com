@@ -4,7 +4,6 @@ title: The journey to small, cross-functional, Agile teams
 categories: business
 author: Anna Divers
 tags: Organisational-structure Agile Scrum
-time: 4 mins
 comments: true
 ---
 ## How do you transition a large, homogeneous web team to a cluster of small, cross-functional Agile teams?

@@ -6,7 +6,6 @@ categories: Conferences
 author: Dan Jenkins
 tags: Meetup Twitter TwitterUK, UKOpenhouse
 comments: true
-time: 6 mins
 redirect_from:
   - 2012/04/30/twitter-uks-first-ukopenhouse/
 ---

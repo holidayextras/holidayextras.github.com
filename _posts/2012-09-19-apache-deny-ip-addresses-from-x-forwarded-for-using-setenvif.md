@@ -6,7 +6,6 @@ categories: Ops
 author: Mark Fermor
 tags: Apache AWS Block Deny ELB Firewall IPAddress
 comments: true
-time: 3 mins
 redirect_from:
   - 2012/09/19/apache-deny-ip-addresses-from-x-forwarded-for-using-setenvif/
 ---
