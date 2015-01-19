@@ -16,7 +16,7 @@ comments: true
 ps.  San Francisco is an amazing place, I fell in love with it.  If you get a chance, go!
 
 
-**March 2014** - Found a neat (new-to-me) lean product development conference - LeanDayLondon https://leanday.splashthat.com/ (found through the equally resourceful site for product owners <http://www.mindtheproduct.com/>).  Really recommend this 2-day conference - high quality talks and I loved the fact that the content was also aimed at applying lean in large, established companies and not merely start-ups alone.  Loved listening to Dr Tendayi Viki talk about the Ambidextrous Organisation and how the biggest challenge for large organisations trying to innovate is their size - they have to keep their cash cow going but innovate at the same time (they need to develop new cows).
+**March 2014** - Found a neat (new-to-me) lean product development conference - LeanDayLondon <https://leanday.splashthat.com/> (found through the equally resourceful site for product owners <http://www.mindtheproduct.com/>).  Really recommend this 2-day conference - high quality talks and I loved the fact that the content was also aimed at applying lean in large, established companies and not merely start-ups alone.  Loved listening to Dr Tendayi Viki talk about the Ambidextrous Organisation and how the biggest challenge for large organisations trying to innovate is their size - they have to keep their cash cow going but innovate at the same time (they need to develop new cows).
 Thank you Neo Innovation <http://neo.com/> and Made by Many <http://madebymany.com/> for putting this event on - one for a return visit this year I hope.
 
 
