@@ -6,7 +6,6 @@ categories: Misc
 author: Matthew Tyas
 tags: none
 comments: true
-time: 5 mins
 redirect_from:
   - 2012/08/07/a-clutch-of-fresh-faces/
 ---

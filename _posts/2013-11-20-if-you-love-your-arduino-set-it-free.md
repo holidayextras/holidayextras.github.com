@@ -6,7 +6,6 @@ categories: Misc
 author: Paul Clarke
 tags: Arduino DIY Electronics
 comments: true
-time: 3 min
 redirect_from:
   - 2013/11/20/free-arduino/
 ---

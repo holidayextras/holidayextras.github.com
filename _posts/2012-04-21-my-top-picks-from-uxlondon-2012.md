@@ -6,7 +6,6 @@ categories: Conferences
 author: Anna Divers
 tags: Customer Engagement User Experience UX UXLondon 
 comments: true
-time: 10 mins
 redirect_from:
   - 2012/04/21/my-top-picks-from-uxlondon-2012/
 ---

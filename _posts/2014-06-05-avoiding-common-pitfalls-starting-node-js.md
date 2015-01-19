@@ -6,7 +6,6 @@ categories: NodeJS
 author: Andrew Castle
 tags: NodeJS Javascript Promises
 comments: true
-time: 5 mins
 published: true
 redirect_from: 
   - /2014/06/05/avoiding-common-pitfalls-starting-node-js/

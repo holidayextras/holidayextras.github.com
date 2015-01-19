@@ -6,7 +6,6 @@ categories: Conferences
 author: Alanna Mooney
 tags: Conference SEConf Selenium
 comments: true
-time: 10 mins
 redirect_from:
   - 2012/04/20/selenium-conference-day-2/
 ---
