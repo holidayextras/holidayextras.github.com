@@ -38,7 +38,7 @@ category: blog
 
       {% for page in (1..paginator.total_pages) %}
       {% if page == paginator.page %}
-      {{ page }}
+      <span>{{ page }}</span>
       {% elsif page == 1 %}
       <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
       {% else %}

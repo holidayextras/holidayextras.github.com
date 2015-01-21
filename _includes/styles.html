@@ -1,21 +1,20 @@
-<!-- For critical styles -->
-<!-- No PX Values -->
-<!-- RGBA Colors only -->
-
-<link href='http://fonts.googleapis.com/css?family=Roboto:300,700|Yanone+Kaffeesatz:200,400,700' rel='stylesheet' type='text/css'>
-
 <style>
 * {
   margin:0;
   padding:0;
   box-sizing: border-box;
+  line-height:1.61;
 }
 
 body {
    font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
    font-weight: 300;
    color:rgba(51,51,51,1);
-   line-height:1.6em;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight:400;
+  line-height:1.1em;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -27,13 +26,7 @@ h1 {
   font-size:3em;
   font-weight:200;
 }
-@media all and (min-width: 768px) {
-  h1 {
-    font-size:5em;
-  }
-}
 p {
-  line-height:1.61;
   padding:0.5em 0;
 }
 a {
@@ -151,16 +144,20 @@ header h1, header p  {
 footer {
   margin-bottom:1em;
   overflow:hidden;
+  clear:both;
+  padding-top:1em;
 }
 footer small {
   float:right;
   display:block;
   clear:both;
 }
+footer a {
+  padding:0.9em 0;
+}
 
 /* -- POSTS -- */
 ul.posts {
-  margin:1em 0;
   list-style:none;
 }
 ul.posts li a {
@@ -183,6 +180,9 @@ ul.posts li a section i, ul.posts li a section small {
   padding:0.5em 0;
   display:block;
 }
+ul.posts li:last-of-type a section {
+  border:none;
+}
 
 /* -- POST -- */
 .post {
@@ -198,10 +198,8 @@ ul.posts li a section i, ul.posts li a section small {
 }
 .post ul, .post ol {
   padding:0 0 0.5em 1.5em;
-  line-height: 1.61em;
 }
 pre {
-  line-height: 1.61em;
   background: rgba(250,250,250,1);
   padding: 1em;
   border-radius: 0.25em;
@@ -218,7 +216,6 @@ pre a {
   display:inline-block;
 }
 p > code {
-  line-height: 1.61em;
   background: rgba(250,250,250,1);
   padding: 0.25em;
   border-radius: 0.25em;
@@ -282,8 +279,33 @@ p > code {
   bottom:-0.6em;
   color:rgba(136,196,56,1);
 }
-
+.project-summary blockquote{
+  font-size:0.8em;
+}
 .project .project-content iframe {
 margin-bottom:1em;
+}
+
+/* pagination */
+.pagination {
+  text-align:center;
+  float:none;
+  display:block;
+  padding:1em;
+  border-top:solid 1px rgba(136,196,56,1);
+  border-bottom:solid 1px rgba(136,196,56,1);
+}
+.pagination  * {
+  padding:12px;
+  text-align:center;
+}
+
+@media all and (min-width: 768px) {
+  h1 {
+    font-size:5em;
+  }
+  .pagination * {
+    padding:0;
+  }
 }
 </style>
