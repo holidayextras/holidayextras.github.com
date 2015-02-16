@@ -39,7 +39,7 @@ I think it is paramount to have people in your team who care. Obviously, not jus
 
 We all have those moments when our verbal filter malfunctions, but we can’t all be like that, all of the time. But, we *should* be like that some of the time, allow yourselves to be brutally honest with each other, as long as it is constructive.
 
-Management **MUST **trust every member of each team to be able to do their job and to do it well. You have to have that relationship where you know you’re allowed to get on and produce the best that you’re capable of and, in turn, your manager should be rewarded for that trust, by you delivering the best that you can.
+Management **MUST** trust every member of each team to be able to do their job and to do it well. You have to have that relationship where you know you’re allowed to get on and produce the best that you’re capable of and, in turn, your manager should be rewarded for that trust, by you delivering the best that you can.
 
 Don’t let people be afraid to question decisions, that should be expected. There is no point having a room full of "yes men".
 
