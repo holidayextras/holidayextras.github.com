@@ -123,16 +123,17 @@ header {
   100%{background-position:0% 47%}
 }
 header:after {
-  content:"";
-  width: 40px;
-  height: 40px;
-  position:absolute;
-  left:50%;
-  right:50%;
-  bottom:-20px;
-  margin-left:-20px;
-  transform: rotate(45deg);
-  background: rgba(255,255,255,1);
+  content: "";
+  width: 0;
+  height: 0;
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  bottom: 0;
+  margin-left: -28px;
+  border-bottom: 28px solid #fff;
+  border-left: 28px solid transparent;
+  border-right: 28px solid transparent;
 }
 header h1, header p  {
   text-align:center;
