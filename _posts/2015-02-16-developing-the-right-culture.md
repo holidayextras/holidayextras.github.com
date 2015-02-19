@@ -11,7 +11,7 @@ Recently, at work, we’ve been discussing how we have managed to create the pos
 
 We’ve spoken to people outside of our company and found that they often struggle trying to create the kind of culture we see when we look at some of the [Times Best 100 Companies to work for](http://www.thesundaytimes.co.uk/best100companies) and want to know how you can create the kind of culture you can be proud of.
 
-And it has been extremely hard to pinpoint exactly what it is that has created the environment that we all spend our days bouncing around in.
+It has been extremely hard to pinpoint exactly what it is that has created the environment that we all spend our days bouncing around in.
 
 The following things are true for our culture;
 
@@ -33,11 +33,11 @@ The following things are true for our culture;
 
 ## So, how have we got here?
 
-Again, this is quite a difficult question to answer, but that’s the point of this, so I’ll try.
+Again, this is quite a difficult question to answer, but that’s the point of this so I’ll try.
 
-I think it is paramount to have people in your team who care. Obviously, not just about themselves. They need to care about the product, the customer, their colleagues and about themselves. Everyones well-being should be a consideration.
+I think it is paramount to have people in your team who care. Obviously, not just about themselves. They need to care about the product, the customer, their colleagues and themselves. Everyones well-being should be a consideration.
 
-We all have those moments when our verbal filter malfunctions, but we can’t all be like that, all of the time. But, we *should* be like that some of the time, allow yourselves to be brutally honest with each other, as long as it is constructive.
+We all have those moments when our verbal filter malfunctions, but we can’t all be like that all of the time. However, we *should* be like that some of the time. Allow yourselves to be brutally honest with each other, as long as it is constructive.
 
 Management **MUST** trust every member of each team to be able to do their job and to do it well. You have to have that relationship where you know you’re allowed to get on and produce the best that you’re capable of and, in turn, your manager should be rewarded for that trust, by you delivering the best that you can.
 
@@ -49,7 +49,7 @@ Our people are like this.
 
 ## How can other companies build their own culture?
 
-It’s very hard to change an existing culture, but I think it is so much easier coming from the top down. If you’re in a senior position, use it to your advantage. Let your juniors challenge you, be open to their ideas and honest with your responses.
+It’s very hard to change an existing culture, but I think it is so much easier coming from the top down. If you’re in a senior position use it to your advantage. Let your juniors challenge you, be open to their ideas and honest with your responses.
 
 Ask the opinions of your colleagues, including those in other departments / disciplines.
 
@@ -71,7 +71,7 @@ Do research and find examples and share them with your team and your seniors. Sh
 
 ## In closing…
 
-The funny thing is, that good people will create a good culture, which will attract good people, which will create an even better culture. It’s almost like a self learning, self improving system. As long as you keep it clean, don’t let the bad stuff build up and don’t be afraid to have a bit of a clean out to stop any bad "juju" spreading.
+The funny thing is that, good people will create a good culture, which will attract good people, which will create an even better culture. It’s almost like a self learning, self improving system. As long as you keep it clean, don’t let the bad stuff build up and don’t be afraid to have a bit of a clean out to stop any bad "juju" spreading.
 
-We all have to work, but the really good people enjoy their jobs and they pick jobs that they will be able to enjoy or be able to make a difference and make more enjoyable, if those good people work for you, *well done*. That is because you cared enough to make their job enjoyable.
+We all have to work, but the really good people enjoy their jobs and they pick jobs that they will be able to enjoy or be able to make a difference and make more enjoyable. If those good people work for you, *well done*. That is because you cared enough to make their job enjoyable.
 
