@@ -10,7 +10,7 @@ The Holiday Extras Blog should be simple to use for everyone, it requires no kno
 * You must have a github account
 
 ### Creating a post
-* Pull down the master branch of holidayextras.github.io `git pull master`
+* Pull down the master branch of holidayextras.github.com `git pull master`
 * Create a branch with a name of your choice `git checkout -b blogPost`
 * Navigate to the `/_posts` folder
 * Create a new markdown file and write your blog post
@@ -27,13 +27,14 @@ To get your work reviewed, please put in a Pull Request in the normal way
 ### Reviewing a blog post
 Blog posts reviews will run the same as our day to day work (blog posts should be part of our work anyway).
 You can review a PR, comment on the content or editorial parts of the blog post and publish when we have 2 x :+1:'s
-*TO DO* Create new check box list for blog post reviewing.
+
+**TO DO** Create new check box list for blog post reviewing.
 
 ### Prose.io
 Prose.io is a online WYSIWYG editor for creating, editing and comitting blog posts.
 In Holiday Extras we are not using it to simplify markdown, we are using it to allow non technical users to publish blog posts on GitHub without the need to learn how to Pull, Commit and PR a branch.
 
-*CONTROVERSY*
+**CONTROVERSY**
 To get prose.io to work you need to give it permission to access your github account (in order to publish posts, which is what we need it for). Out of the box this gives prose.io permission to all repos you have access to, meaning it has access to `tripapplite`.
 However, we can restrict prose.io to have access to public repos only.
 
