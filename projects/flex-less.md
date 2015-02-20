@@ -26,20 +26,20 @@ Flex Less is a mixin created to enable to to use all basic functions of CSS flex
 ## Flexbox support
 Flexbox has had multiple types on syntax since it's introduction these are...
 
-### 2009 syntax
+### 2009 syntax 
 `display:box`  
 *(with -webkit- prefix)*  
 Android  
 Safari v.3+  
 Blackberry v.7+  
 
-### 2011 syntax
+### 2011 syntax 
 `display:flexbox`  
 *(with -ms- prefix)*  
 IE v.10  
 
-### Current syntax
-`display:flex`  
+### Current syntax 
+`display:flex`
 Chrome  
 Firefox  
 Opera  
