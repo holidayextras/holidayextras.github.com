@@ -3,7 +3,6 @@ description: Holiday Extras Geek Blog
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: true
 permalink: pretty
 baseurl: /
 paginate: 5
