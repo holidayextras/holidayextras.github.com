@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Flex-Less
-tagline: A mixin created to enable to to use all basic functions of CSS flexbox for all supported flexbox browsers.
+tagline: A mixin created to enable you to use all basic functions of CSS flexbox for all supported browsers.
 date: 2015-02-20 12:00:00
 tags: less mixin css flexbox
 comments: true
@@ -20,11 +20,11 @@ The CSS Flexible Box Layout Module [CSS - Flexible](www.w3.org/TR/css3-flexbox/)
 Since when has that stopped us using box-shadows or border-radius?
 Use flexbox now on small page components as progressive enhancement, and with Flex Less you wont have to worry about the countless vendor prefixes for flexbox.
 
-Flex Less is a mixin created to enable to to use all basic functions of CSS flexbox for all supported flexbox browsers.
+Flex-Less is a mixin created to enable you to use all basic functions of CSS flexbox for all supported browsers.
 
 
 ## Flexbox support
-Flexbox has had multiple types on syntax since it's introduction these are...
+Flexbox has had multiple types of syntax since it's introduction these are...
 
 ### 2009 syntax 
 `display:box`  
@@ -80,8 +80,6 @@ This defines the alignment along the main axis. It helps distribute extra free s
 ```css
 @justify-content: start, end, center, space-between, space-around
 ```
-
-*FIXME - Creates duplicate CSS*
   
 ### Flexbox Align Items
 This defines the default behaviour for how flex items are laid out along the cross axis on the current line. Think of it as the justify-content version for the cross-axis (perpendicular to the main-axis).
@@ -96,8 +94,6 @@ This aligns a flex container's lines within when there is extra space in the cro
 ```css
 @align-items: start, end, center, space-between, space-around
 ```
-
-*FIXME - Creates duplicate CSS*
 
 ## Flexbox Bugs
 There is a superb repo on github which references all FlexBox browser bugs - 
