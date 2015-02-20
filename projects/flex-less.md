@@ -13,7 +13,7 @@ github: https://github.com/holidayextras/flex-less
 
 
 Flexbox is awesome! It's a powerful addition to CSS and you should be using it NOW!
-The CSS Flexible Box Layout Module [CSS - Flexible](www.w3.org/TR/css3-flexbox/) has been a Candidate Recommendation since September 2012.
+The CSS Flexible Box Layout Module [CSS - Flexible](http://www.w3.org/TR/css3-flexbox/) has been a Candidate Recommendation since September 2012.
 
 > "That’s cool! But I can’t use it because XYZ doesn’t support it."
 
