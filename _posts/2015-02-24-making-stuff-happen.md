@@ -20,7 +20,7 @@ Here's a few suggestions to help make stuff happen!
 
 3. **Tell somebody:** Just by sharing the idea, you are more likely to complete it because you would likely get feedback, good or bad, that will drive you towards achieving that goal.
 
-4. **Make a "do not do" list:** Things like Facebook, watching a TV show & even cooking a meal take up time. Get takeout / Turn off the TV / Block Facebook & use that time saved to work on your idea. If you really start to think about it, you waste a lot more time that you realise.
+4. **Make a "do not do" list:** Things like Facebook, watching a TV show & even cooking a meal take up time. Get takeout / Turn off the TV / Block Facebook & use that time saved to work on your idea. If you really start to think about it, you waste a lot more time than you realise.
 
 5. **Get up an hour earlier:** You will be less likely to procrastinate in the morning (maybe after a coffee to get you going) and it's better for you than staying up an hour late.
 
