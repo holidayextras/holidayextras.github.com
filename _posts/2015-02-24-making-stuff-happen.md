@@ -27,4 +27,4 @@ Here's a few suggestions to help make stuff happen!
 
 If you really can't do any of the above, there is a more extreme option…
 
-**Remove it:** Yep, just take an idea off your list! If you really can't bear to delegate it or it's been stagnating for ages, kill it off, all those extra ideas that clutter up your list are making the whole thing seem overwhealming. By removing a few (or at least one), you will find better clarity & focus to pick off the tasks that really matter to you.
+**Remove it:** Yep, just take an idea off your list! If you really can't bear to delegate it or it's been stagnating for ages, kill it off, all those extra ideas that clutter up your list are making the whole thing seem overwhelming. By removing a few (or at least one), you will find better clarity & focus to pick off the tasks that really matter to you.
