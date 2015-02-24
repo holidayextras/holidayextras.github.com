@@ -7,9 +7,6 @@ tags: todo workflow lists
 comments: true
 ---
 
-Making stuff happen
-====
-
 Do you have a "todo list" with ideas on it that never get completed? You have the same 24 hours in a day as everybody else but still find it hard to fit in all the things you want to get done.
 
 Here's a few suggestions to help make stuff happen!
