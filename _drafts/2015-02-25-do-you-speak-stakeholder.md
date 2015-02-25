@@ -8,7 +8,7 @@ categories: ""
 tags: "communication, stakeholders"
 ---
 
-As Product Owner (PO) of New Products, whenever I’m starting work on a project I carry out an exercise - at least mentally - identifying who is or should be involved beyond my pod. Leaving aside end-users or customers (who deserve a post of their own!) I see that **stakeholders typically fall into one of two categories** - strategic and operational - and they have very different information requirements:
+As Product Owner (PO) of New Products, whenever I’m starting work on a project I carry out an exercise - at least mentally - identifying who is or should be involved beyond my team. Leaving aside end-users or customers (who deserve a post of their own!) I see that **stakeholders typically fall into one of two categories** - strategic and operational - and they have very different information requirements:
 
 The **strategic** guys are going to be thinking long-term: they’ll want to develop the product vision and strategy in line with the business’ goals, they’ll be keen to see that the project is delivered as expected, and help with any big decisions - such as which project to develop in which order. 
 
