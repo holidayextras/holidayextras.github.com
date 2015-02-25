@@ -24,4 +24,4 @@ WII-FM is asking the question ‘**What’s in it for me**?’ Place yourselves 
 
 To conclude then, it’s not just the PO who can utilise these tips: everybody should bear in mind when they are communicating who their audience is. Where language fails, it can really help to make use of communication aids, such as sketches and diagrams (a picture paints a thousand words!), avoid using jargon and employ analogies which help people to relate to what you’re saying.
 
-Try it out for yourself - and let us know how you get on! 
+Try it out for yourself - and let us know how you get on!
