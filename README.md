@@ -54,7 +54,7 @@ If this is the case, we may restrict your github access to ONLY the HX Blog repo
 * Click 'save'
 * Write a short decription of your post in the "Describe your Changes" section
 * Click 'commit'
-This will save the blog post in the drafts section of the wesbite ready for reviewing.
+This will save the blog post in the drafts section of the website ready for reviewing.
 
 #### Send a blog post for review
 * Pester someone to look at your blog post in slack
