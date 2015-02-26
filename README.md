@@ -35,8 +35,8 @@ Prose.io is a online WYSIWYG editor for creating, editing and comitting blog pos
 In Holiday Extras we are not using it to simplify markdown, we are using it to allow non technical users to publish blog posts on GitHub without the need to learn how to Pull, Commit and PR a branch.
 
 **CONTROVERSY**
-To get prose.io to work you need to give it permission to access your github account (in order to publish posts, which is what we need it for). Out of the box this gives prose.io permission to all repos you have access to, meaning it has access to `tripapplite`.
-However, we can restrict prose.io to have access to public repos only.
+To get prose.io to work you need to give it permission to access your github account (in order to publish posts, which is what we need it for). Out of the box this gives prose.io permission to all repos you have access to, meaning it has access to all public __and private__ repos.
+However, we can restrict github access on repos, so those who need to use prose.io wont have access to business critical repos
 
 prose.io should be used ONLY if you are not technically capable of using github command line.
 If this is the case, we may restrict your github access to ONLY the HX Blog repo for protection.
