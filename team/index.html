@@ -1,0 +1,17 @@
+---
+layout: default
+title: The Holiday Extras Tech Team
+---
+<div class="team">
+  <header>
+    <div class="container">
+      <h1>The tech team</h1>
+      <p>at <span>Holiday Extras</span></p>
+    </div>
+  </header>
+  <main class="container">
+    {% for member in site.data.members %}
+      <li><a href="{{ member.page }}">{{ member.name }}</a></li>
+    {% endfor %}
+  </main>
+</div>

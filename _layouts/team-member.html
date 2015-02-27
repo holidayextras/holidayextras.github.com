@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% assign member = site.data.members[page.member] %}
+
+<article class="team-member">
+  <header>
+    {% if member.email %}
+      <img src="{{ member.email | to_gravatar }}" alt="A photo of {{ page.full-name }}" />
+    {% endif %}
+    <h1>{{ member.name }}</h1>
+    <p>{{ member.role }}</p>
+  </header>
+  <div class="container">
+    {{ content }}
+  </div>
+</article>
