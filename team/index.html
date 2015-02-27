@@ -10,8 +10,13 @@ title: The Holiday Extras Tech Team
     </div>
   </header>
   <main class="container">
-    {% for member in site.data.members %}
-      <li><a href="{{ member.page }}">{{ member.name }}</a></li>
+    {% for team in site.data.team %}
+      <h3>{{ team.title }}</h3>
+      <ul>
+        {% for member in team.members %}
+          <li>{{ member.name }}</li>
+        {% endfor %}
+      </ul>
     {% endfor %}
   </main>
 </div>

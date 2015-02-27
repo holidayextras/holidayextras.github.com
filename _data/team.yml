@@ -1,0 +1,14 @@
+- title: Developers
+  members:
+    - name: Jack Crawford
+      role: Web Developer
+      email: jack.crawford@holidayextras.com
+      twitter: jackdcrawford
+    - name: Jodie Doubleday
+      role: UXUI Architect
+      email: jodie.doubleday@holidayextras.com
+      twitter: jodiedoubleday
+
+- title: Testers
+  members:
+    - name: Siobhan Heaton
