@@ -1,7 +1,7 @@
 ---
 comments: "true"
 layout: post
-published: false
+published: true
 title: "Do you speak stakeholder?"
 author: Caroline Woodhams
 categories: ""
