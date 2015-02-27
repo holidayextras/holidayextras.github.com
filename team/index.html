@@ -11,10 +11,13 @@ title: The Holiday Extras Tech Team
   </header>
   <main class="container">
     {% for team in site.data.team %}
-      <h3>{{ team.title }}</h3>
+      <h2>{{ team.title }}</h2>
       <ul>
         {% for member in team.members %}
-          <li>{{ member.name }}</li>
+          <li>
+            <h3>{{ member.name }}</h3>
+            <img src="{{ member.email | to_gravatar }}" alt="A photo of {{ member.name }}" />
+          </li>
         {% endfor %}
       </ul>
     {% endfor %}
