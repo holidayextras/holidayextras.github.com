@@ -79,9 +79,12 @@ Jekyll is a static site generator - No more databases, comment moderation, or pe
 It uses HTML files for structure and Markdown files for content.
 
 #### To Install
+
 ```ruby
-gem install jekyll
+bundle install
 ```
+
+(If you don't already have ```bundle``` installed, run ```gem install bundle``` first)
 
 #### To Run
 ```
