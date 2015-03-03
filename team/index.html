@@ -14,8 +14,8 @@ title: The Holiday Extras Tech Team
       {% for member_hash in site.data.members %}
         {% assign member = member_hash[1] %}
         <li>
-          {% if member.gravatar_email %}
-            <img src="{{ member.gravatar_email | to_gravatar }}" alt="A photo of {{ member.name }}" />
+          {% if member.gravatar_md5 %}
+            <img src="http://www.gravatar.com/avatar/{{ member.gravatar_md5 }}?s=400" alt="A photo of {{ member.name }}" />
           {% else %}
             <img src="{{ site.baseurl }}assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
           {% endif %}

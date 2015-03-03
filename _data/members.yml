@@ -1,65 +1,70 @@
 anna_divers:
   name: Anna Divers
   role: Associate Director
+  # gravatar_md5: bbcf4f3d9d713d912b44de5cdfba9276
   twitter: annadivers
 alanna_mooney:
   name: Alanna Mooney
   role: Scrum Master
-  gravatar_email: alanna.mooney@holidayextras.com
+  gravatar_md5: 827526410b82eece1cec6bb60241b8c3
   twitter: alannamooney
-andrew_castle:
-  name: Andrew Castle
+andy_castle:
+  name: Andy Castle
   role: Web Developer
-  gravatar_email: andrew.castle@holidayextras.com
+  gravatar_md5: 6316fed1cc6f011a4280e7d50bde82d3
   twitter: andycastleuk
 caroline_woodhams:
   name: Caroline Woodhams
   role: Product Owner
+  # gravatar_md5: 768de83673b1d12535c914b59b1ec664
   twitter: Caroline_Ruiz82
 damien_turner:
   name: Damien Turner
   role: Head of IT and Infrastructure
+  gravatar_md5: 37fcc568baa6313c094a2f8e8fcf5b94
   twitter: dent275
 jack_crawford:
   name: Jack Crawford
   role: Web Developer
-  gravatar_email: jack.crawford@holidayextras.com
+  gravatar_md5: 03d1655ebfab8299cf2848a294620ab1
   twitter: jackdcrawford
 jodie_doubleday:
   name: Jodie Doubleday
   role: UXUI Architect
-  gravatar_email: jodie.doubleday@holidayextras.com
+  gravatar_md5: 2d45a614f60b0a7154c66b81e666c5a9
   twitter: jodiedoubleday
 luke_frake:
   name: Luke Frake
   role: Front End Developer
-  gravatar_email: luke.frake@holidayextras.com
+  gravatar_md5: e4f58c959b0336f2645574b774164667
   twitter: LukeFrake
 mark_fermor:
   name: Mark Fermor
   role: Senior Systems Admin
+  # gravatar_md5: a769b1736d17133974a74176bc497161
   twitter: markfermor1
 matthew_tyas:
   name: Matthew Tyas
   role: Web Developer
+  # gravatar_md5: ba814ae5bf495589d2dce37d95816a11
   twitter: MatthewJTyas
 mike_carter:
   name: Mike Carter
   role: Software Architect
-  gravatar_email: mike.carter@holidayextras.com
+  gravatar_md5: 4bf27b79f3b5a877ac116e1ef471a882
   twitter: mcarterj
 paul_clarke:
   name: Paul Clarke
   role: Software Engineer
-  gravatar_email: paul.clarke@holidayextras.com
+  gravatar_md5: adc24f01132a2e924329a59643172b92
   twitter: pauly
 rob_huzzey:
   name: Rob Huzzey
   role: Web Developer
-  gravatar_email: robert.huzzey@holidayextras.com
+  gravatar_md5: 804ad167803fc170fbd4651d459ada5b
   twitter: theHuzz
 rob_johnson:
   name: Rob Johnson
   role: Developer
-  gravatar_email: rob.johnson@holidayextras.com
+  gravatar_md5: 4550a440411b13515e47f9ec14eddd21
   twitter: notABluesSinger
