@@ -6,8 +6,8 @@ category: blog
 {% assign readtime = page.content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first %}
 <article class="post" itemscope itemType="http://schema.org/BlogPosting">
   <header class="post-header">
-    {% if author.gravatar_email %}
-      <img src="{{ author.gravatar_email | to_gravatar }}" alt="A photo of {{ member.name }}" />
+    {% if author.gravatar_md5 %}
+      <img src="http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=400" alt="A photo of {{ member.name }}" />
     {% else %}
       <img src="{{ site.baseurl }}assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
     {% endif %}
