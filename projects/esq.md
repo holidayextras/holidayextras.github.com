@@ -3,7 +3,7 @@ layout: project
 title: ESQ (Elasticsearch Query)
 tagline: An easy way to build elasticsearch queries without having to writing lots and lots of code
 date: 2014-12-31 12:00:00
-tags: elastic-search es node npm
+tags: elasticsearch esq querying queries query elastic search dsl
 comments: true
 github: https://github.com/holidayextras/esq/
 ---
