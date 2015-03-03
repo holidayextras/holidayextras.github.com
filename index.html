@@ -3,6 +3,7 @@ layout: default
 title: Blog by The Holiday Extras Tech Team
 category: blog
 ---
+
 <div itemscope itemType="http://schema.org/Blog">
   <header>
     <div class="container">
@@ -19,7 +20,8 @@ category: blog
             <h2>&#9998; {{ post.title }}</h2>
             <div class="blog-summary">
               <blockquote>{{ post.excerpt | strip_html }}</blockquote>
-              <i>By {{ post.author }} - {{ post.date | date: "%-d %B %Y"}}</i>
+              {% assign author = site.data.members.[post.author] %}
+              <i>By {{ author.name }} - {{ post.date | date: "%-d %B %Y"}}</i>
               <small><b>Tags:</b> {{ post.tags | join: ' '}}</small>
             </div>
           </section>
