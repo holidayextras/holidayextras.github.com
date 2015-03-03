@@ -3,7 +3,7 @@ layout: post
 title: Hello World!
 date: 2012-02-01 12:00:00
 categories: Misc
-author: Damien Turner
+author: damien_turner
 tags: none
 comments: true
 redirect_from:

@@ -3,7 +3,7 @@ layout: post
 title: If you love your Arduino, set it free
 date: 2013-11-20 12:00:00
 categories: Misc
-author: Paul Clarke
+author: paul_clarke
 tags: Arduino DIY Electronics
 comments: true
 redirect_from:

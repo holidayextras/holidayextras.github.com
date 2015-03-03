@@ -3,7 +3,7 @@ layout: post
 title: Apache Deny IP addresses from x-forwarded-for (using SetEnvIF)
 date: 2012-09-19 12:00:00
 categories: Ops
-author: Mark Fermor
+author: mark_fermor
 tags: Apache AWS Block Deny ELB Firewall IPAddress
 comments: true
 redirect_from:

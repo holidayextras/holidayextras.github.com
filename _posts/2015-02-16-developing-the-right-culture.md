@@ -2,7 +2,7 @@
 layout: post
 title: Developing the right culture
 categories: culture
-author: Rob Johnson
+author: rob_johnson
 tags: culture
 comments: true
 ---

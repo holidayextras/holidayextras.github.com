@@ -3,7 +3,7 @@ layout: post
 title: The brilliance of defacing company property and why everyone should do it with stickers
 date: 2012-02-22 12:00:00
 categories: Misc
-author: Dan Jenkins
+author: dan_jenkins
 tags: Laptops Macs Stickers Vinyls
 comments: true
 redirect_from:

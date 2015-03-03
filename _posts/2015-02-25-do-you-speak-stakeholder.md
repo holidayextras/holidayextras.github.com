@@ -3,9 +3,9 @@ comments: "true"
 layout: post
 published: true
 title: "Do you speak stakeholder?"
-author: Caroline Woodhams
+author: caroline_woodhams
 categories: ""
-tags: "communication, stakeholders"
+tags: communication stakeholders
 ---
 
 As Product Owner (PO) of New Products, whenever I’m starting work on a project I carry out an exercise - at least mentally - identifying who is or should be involved beyond my team. Leaving aside end-users or customers (who deserve a post of their own!) I see that **stakeholders typically fall into one of two categories** - strategic and operational - and they have very different information requirements:

@@ -3,7 +3,7 @@ layout: post
 title: A Clutch of Fresh Faces
 date: 2012-04-07 12:00:00
 categories: Misc
-author: Matthew Tyas
+author: matthew_tyas
 tags: none
 comments: true
 redirect_from:

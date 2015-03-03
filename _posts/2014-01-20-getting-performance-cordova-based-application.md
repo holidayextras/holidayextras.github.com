@@ -3,7 +3,7 @@ layout: post
 title: 5 tips for great performance from your Cordova app
 date: 2014-01-20 12:00:00
 categories: Mobile
-author: Mike Carter
+author: mike_carter
 tags: Mobile App Cordova iOS Android
 comments: true
 redirect_from: 

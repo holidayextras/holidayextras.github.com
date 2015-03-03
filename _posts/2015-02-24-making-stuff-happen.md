@@ -2,7 +2,7 @@
 layout: post
 title: Making stuff happen
 categories: workflow
-author: Rob Huzzey
+author: rob_huzzey
 tags: todo workflow lists
 comments: true
 ---

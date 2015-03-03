@@ -3,7 +3,7 @@ layout: post
 title: My top picks from UXLondon 2012
 date: 2012-04-21 12:00:00
 categories: Conferences
-author: Anna Divers
+author: anna_divers
 tags: Customer Engagement User Experience UX UXLondon 
 comments: true
 redirect_from:
