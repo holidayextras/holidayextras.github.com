@@ -20,7 +20,7 @@ The Holiday Extras Blog should be simple to use for everyone, it requires no kno
 Blog posts have to be reviewed in the same way code on our website does, ideally we would like 2 people to review the post.
 
 1. From a technical aspect (if required)
-2. From an editorial aspect (check for typos')
+2. From an editorial aspect (check for typos)
 
 To get your work reviewed, please put in a Pull Request in the normal way
 
@@ -91,4 +91,11 @@ bundle install
 jekyll serve
 ```
 The Holiday Extras blog should now be running on your machine at http://127.0.0.1:4000/
+
+##### Running this on another IP address?
+Need to view this on an alternative IP address?  Serving up this blog from a VM, say?
+Pass in the alternate address:
+```
+jekyll serve --host 1.2.3.4
+```
 
