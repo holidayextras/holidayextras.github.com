@@ -3,7 +3,7 @@ layout: post
 title: Avoiding common pitfalls starting Node.js
 date: 2014-06-05 12:00:00
 categories: NodeJS
-author: Andrew Castle
+author: andrew_castle
 tags: NodeJS Javascript Promises
 comments: true
 published: true

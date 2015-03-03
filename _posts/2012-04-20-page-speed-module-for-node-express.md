@@ -3,7 +3,7 @@ layout: post
 title: Page speed module for NodeJs + Express now available on npm
 date: 2012-04-20 12:00:00
 categories: NodeJS
-author: Paul Clarke
+author: paul_clarke
 tags: NodeJS NPM PageSpeed
 comments: true
 redirect_from:

@@ -3,7 +3,7 @@ comments: "true"
 layout: post
 published: true
 title: "Do you speak stakeholder?"
-author: Caroline Woodhams
+author: caroline_woodhams
 categories: ""
 tags: "communication, stakeholders"
 ---

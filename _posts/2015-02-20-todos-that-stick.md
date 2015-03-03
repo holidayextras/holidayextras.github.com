@@ -2,7 +2,7 @@
 layout: post
 title: To-dos that stick
 categories: workflow
-author: Jack Crawford
+author: jack_crawford
 tags: todo workflow apps
 comments: true
 ---

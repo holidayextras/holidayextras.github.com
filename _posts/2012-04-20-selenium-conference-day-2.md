@@ -3,7 +3,7 @@ layout: post
 title: "Selenium Conference: Day 2"
 date: 2012-04-20 12:00:00
 categories: Conferences
-author: Alanna Mooney
+author: alanna_mooney
 tags: Conference SEConf Selenium
 comments: true
 redirect_from:

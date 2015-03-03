@@ -1,0 +1,60 @@
+anna_divers:
+  name: Anna Divers
+  role: Associate Director
+  twitter: annadivers
+alanna_mooney:
+  name: Alanna Mooney
+  role: Scrum Master
+  gravatar_email: alanna.mooney@holidayextras.com
+  twitter: alannamooney
+andrew_castle:
+  name: Andrew Castle
+  role: Web Developer
+  gravatar_email: andrew.castle@holidayextras.com
+  twitter: andycastleuk
+caroline_woodhams:
+  name: Caroline Woodhams
+  role: Product Owner
+  twitter: Caroline_Ruiz82
+damien_turner:
+  name: Damien Turner
+  role: Head of IT and Infrastructure
+  twitter: dent275
+jack_crawford:
+  name: Jack Crawford
+  role: Web Developer
+  gravatar_email: jack.crawford@holidayextras.com
+  twitter: jackdcrawford
+jodie_doubleday:
+  name: Jodie Doubleday
+  role: UXUI Architect
+  gravatar_email: jodie.doubleday@holidayextras.com
+  twitter: jodiedoubleday
+mark_fermor:
+  name: Mark Fermor
+  role: Senior Systems Admin
+  twitter: markfermor1
+matthew_tyas:
+  name: Matthew Tyas
+  role: Web Developer
+  twitter: MatthewJTyas
+mike_carter:
+  name: Mike Carter
+  role: Software Architect
+  gravatar_email: mike.carter@holidayextras.com
+  twitter: mcarterj
+paul_clarke:
+  name: Paul Clarke
+  role: Software Engineer
+  gravatar_email: paul.clarke@holidayextras.com
+  twitter: pauly
+rob_huzzey:
+  name: Rob Huzzey
+  role: Web Developer
+  gravatar_email: robert.huzzey@holidayextras.com
+  twitter: theHuzz
+rob_johnson:
+  name: Rob Johnson
+  role: Developer
+  gravatar_email: rob.johnson@holidayextras.com
+  twitter: notABluesSinger

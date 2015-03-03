@@ -3,7 +3,7 @@ layout: post
 title: "Elastix 'apply configuration changes' problem"
 date: 2012-05-14 12:00:00
 categories: VoIP
-author: Dan Jenkins
+author: dan_jenkins
 tags: Asterisk Elastix PHP VoIP
 comments: true
 redirect_from:

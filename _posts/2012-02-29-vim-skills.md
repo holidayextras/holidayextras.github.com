@@ -3,7 +3,7 @@ layout: post
 title: Vim skills
 date: 2012-02-22 12:00:00
 categories: PHP
-author: Paul Clarke
+author: paul_clarke
 tags: PHP vim
 comments: true
 redirect_from:

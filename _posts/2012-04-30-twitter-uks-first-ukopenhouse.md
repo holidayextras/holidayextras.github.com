@@ -3,7 +3,7 @@ layout: post
 title: "Twitter UK’s first #ukopenhouse"
 date: 2012-02-29 12:00:00
 categories: Conferences
-author: Dan Jenkins
+author: dan_jenkins
 tags: Meetup Twitter TwitterUK, UKOpenhouse
 comments: true
 redirect_from:

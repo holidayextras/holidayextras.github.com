@@ -3,7 +3,7 @@ layout: post
 title: Lessons about PHP before my PHP 5.3 Zend certification exam
 date: 2012-02-29 12:00:00
 categories: PHP
-author: Dan Jenkins
+author: dan_jenkins
 tags: Coding-Standards Exam PHP Zend
 comments: true
 redirect_from:

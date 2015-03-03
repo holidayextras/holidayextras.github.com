@@ -3,7 +3,7 @@ layout: post
 title: Taming your Technical Debt
 date: 2014-03-09 12:00:00
 categories: Misc
-author: Mike Carter
+author: mike_carter
 tags: Tech Debt
 comments: true
 redirect_from: 

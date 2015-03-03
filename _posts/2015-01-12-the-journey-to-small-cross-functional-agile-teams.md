@@ -2,7 +2,7 @@
 layout: post
 title: "The journey to small, cross-functional, Agile teams"
 categories: Business
-author: Anna Divers
+author: anna_divers
 tags: Organisational-structure Agile Scrum
 comments: true
 ---

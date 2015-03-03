@@ -3,7 +3,7 @@ layout: post
 title: Customise your prompt with git information
 date: 2012-07-20 12:00:00
 categories: Misc
-author: Dan Jenkins
+author: dan_jenkins
 tags: Bash Command-line Git Prompt Shell Terminal
 comments: true
 redirect_from:

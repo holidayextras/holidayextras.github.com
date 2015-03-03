@@ -9,17 +9,25 @@ title: The Holiday Extras Tech Team
       <p>at <span>Holiday Extras</span></p>
     </div>
   </header>
-  <main class="container">
-    {% for team in site.data.team %}
-      <h2>{{ team.title }}</h2>
-      <ul>
-        {% for member in team.members %}
-          <li>
-            <h3>{{ member.name }}</h3>
-            <img src="{{ member.email | to_gravatar }}" alt="A photo of {{ member.name }}" />
-          </li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
+  <main class="">
+    <ul>
+      {% for member_hash in site.data.members %}
+        {% assign member = member_hash[1] %}
+        <li>
+          {% if member.gravatar_email %}
+            <img src="{{ member.gravatar_email | to_gravatar }}" alt="A photo of {{ member.name }}" />
+          {% else %}
+            <img src="{{ site.baseurl }}assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
+          {% endif %}
+          <div class="overlay">
+            <h2>{{ member.name }}</h2>
+            <p>{{ member.role }}</p>
+            <div class="social">
+              <a href="http://www.twitter.com/{{ member.twitter }}" title="{{ member.name }} twitter" class="twitter"><i class="fa fa-twitter fa-fw"></i>@{{ member.twitter }}</a>
+            </div>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
   </main>
 </div>

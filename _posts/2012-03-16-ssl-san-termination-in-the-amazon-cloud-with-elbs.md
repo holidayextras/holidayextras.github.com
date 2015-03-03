@@ -3,7 +3,7 @@ layout: post
 title: SSL SAN Termination in the Amazon Cloud with ELBs
 date: 2012-03-16 12:00:00
 categories: Ops
-author: Mark Fermor
+author: mark_fermor
 tags: AWS ELB san ssl
 comments: true
 redirect_from:
