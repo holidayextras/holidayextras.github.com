@@ -67,7 +67,7 @@ I then loop over the brands array, using Lo-Dash, to create my brand information
 
 Inside the loop, I can start pushing what I would normally write directly into my initConfig object.
 
-<div data-height="110" data-theme-id="12057" data-slug-hash="LErwXd" data-default-tab="js" data-user="lukefrake" class='codepen'><pre><code>sass[&#x27;dist/&#x27; + brand + &#x27;/css/main.min.css] = &#x27;src/styles/&#x27; + brand + &#x27;/default.scss&#x27;;</code></pre>
+<div data-height="110" data-theme-id="12057" data-slug-hash="LErwXd" data-default-tab="js" data-user="lukefrake" class='codepen'><pre><code>sass[&#x27;dist/&#x27; + brand + &#x27;/css/main.min.css&#x27;] = &#x27;src/styles/&#x27; + brand + &#x27;/default.scss&#x27;;</code></pre>
 <p>See the Pen <a href='http://codepen.io/lukefrake/pen/LErwXd/'>LErwXd</a> by Luke Frake (<a href='http://codepen.io/lukefrake'>@lukefrake</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 </div><script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
