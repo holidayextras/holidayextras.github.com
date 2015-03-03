@@ -46,7 +46,7 @@ mark_fermor:
 matthew_tyas:
   name: Matthew Tyas
   role: Web Developer
-  # gravatar_md5: ba814ae5bf495589d2dce37d95816a11
+  gravatar_md5: ba814ae5bf495589d2dce37d95816a11
   twitter: MatthewJTyas
 mike_carter:
   name: Mike Carter
