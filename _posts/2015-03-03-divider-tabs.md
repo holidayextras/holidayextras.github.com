@@ -17,7 +17,7 @@ I have some sort of OCD tendencies, this isn't such a bad thing when it comes to
 
 When I first joined I was discussing an idea about having a way of ordering tabs in a certain manor for quick and easy access and maybe categories. After a little while of discussing this with my Pod, I decided to have a look online for a plugin/extension to help me. There were quite a few out there which I downloaded and tried, but none really done it for me.
 
-Until I stumbled across Divider Tabs, Chrome plugin. This has been a complete life saver since downloading.. I know it wont be to everyones taste but it works for me nonetheless. 
+Until I stumbled across [Divider Tabs](https://chrome.google.com/webstore/detail/divider-tabs/mpbblhoepkmpgalgppdoahgeoknmjgpc?hl=en), Chrome plugin. This has been a complete life saver since downloading.. I know it wont be to everyones taste but it works for me nonetheless. 
 
 **So what does it do?**
 Well for the sake of simplicity, it creates a divider tab which can store your 'favourites' or 'most used' links. You can add however many links into the divider tab and it once you 'lock' the tab it saves them links until you decide to remove them or edit them.
