@@ -13,7 +13,7 @@ A few people have asked me what the plugin is that I store my day to day links i
 
 Since joining the Web Team, I have never in my life had so many tabs open at once.
 
-I have some sort of OCD tendencies, this isn't such a bad thing when it comes to my job role, when it comes to my tabs however, them tendencies drive me absolutely insane, I like to know where everything is.
+I have some sort of OCD tendencies, this isn't such a bad thing when it comes to my job role, when it comes to my tabs however, these tendencies drive me absolutely insane, I like to know where everything is.
 
 When I first joined I was discussing an idea about having a way of ordering tabs in a certain manor for quick and easy access and maybe categories. After a little while of discussing this with my Pod, I decided to have a look online for a plugin/extension to help me. There were quite a few out there which I downloaded and tried, but none really done it for me.
 
