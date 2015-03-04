@@ -35,7 +35,7 @@ The categories I have currently are:
 This works for me currently but I can imagine in time, this will become bigger.
 
 Inside the email tab I have my GMail and our company intranet, so the bare basics.
-Inside Deployments, I have the likes of Github, Travis CI, TeamCity etc
+Inside Deployments, I have the likes of Github, Travis CI, TeamCity, etc.
 Triage consists of different links for my team sprint board and a few other sprint/kanban boards.
 
 If I click any of the links inside the tab, it opens it in a new tab as you'd expect.
