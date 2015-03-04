@@ -7,7 +7,7 @@ tags: organisation extension plugin
 comments: true
 ---
 
-##How do you organise your tabs?
+## How do you organise your tabs?
 
 A few people have asked me what the plugin is that I store my day to day links in, so I thought I'd post about it!
 
