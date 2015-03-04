@@ -3,9 +3,9 @@ comments: "true"
 layout: post
 published: true
 title: "Building sites dynamically with Grunt"
-author: Luke Frake
+author: luke_frake
 categories: ""
-tags: "grunt gruntjs javascript"
+tags: grunt gruntjs javascript
 ---
 
 
