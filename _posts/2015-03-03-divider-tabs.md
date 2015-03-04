@@ -24,7 +24,7 @@ Well for the sake of simplicity, it creates a divider tab which can store your '
 You are able to create as many as you want from what I can see, but I only require 4/5 'divider tabs' on a day to day basis.
 
 The way that I use this is to have categories for the links, just like you would in a file cabinet with different categories, except this is virtual. 
-The categories I have currently are; 
+The categories I have currently are:
 - Email+
 - Deployments
 - Documents
