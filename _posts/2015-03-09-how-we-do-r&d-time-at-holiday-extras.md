@@ -2,7 +2,7 @@
 comments: "true"
 layout: post
 published: true
-title: "How we do R&D time at Holiday Extras."
+title: "How we do R&D time at Holiday Extras"
 author: luke_frake
 categories: ""
 tags: R&D culture
