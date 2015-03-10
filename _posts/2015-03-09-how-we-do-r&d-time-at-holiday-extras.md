@@ -8,13 +8,13 @@ categories: ""
 tags: R&D culture
 ---
 
-Lots of companies do R&D time differently, Google famously have 20% time, the Atlassian team have their [ShipIt days](http://blogs.atlassian.com/2011/11/now-shipping-atlassian-shipit-day/), and at Holiday Extras, we have 'Project Lounge', and I'm going to open the doors to these sessions, to explain just how we do things and what I think works so well for us.
+Lots of companies do R&D time differently, Google famously have 20% time, the Atlassian team have their [ShipIt days](http://blogs.atlassian.com/2011/11/now-shipping-atlassian-shipit-day/) and at Holiday Extras we have ‘Project Lounge’. I’m going to open the doors to these sessions, to explain just how we do things and what I think works so well for us.
 
 ## We encourage failure
 I say this in the most positive way possible because, at Holiday Extras, we love learning from something whether that is from a great success, or an unavoidable failure. We think people learn best without a fear of failure and so it's encouraged. If at the end of a Project Lounge all you can come back and say is 'I didn't get anywhere, but I now understand something inside and out' or 'I've learned that *framework x* doesn't fit our needs' that's great. We absolutely prefer that to 'I solved a problem with a technology I've used loads before and it went really well'. This time is there to both succeed and fail, so we try and push ourselves as much as possible.
 
 ## Recurring
-Everybody gets Project Lounge every two weeks, without fail. Keeping this recurring means that people can plan what they are going to work on in the following session, we find this helps everything get going quicker, reducing time wasted at the beginning of each session.
+Everybody gets Project Lounge every two weeks, without fail. Keeping this recurring means that people can plan what they are going to work on in the following session. We find this helps everything get going quicker, reducing time wasted at the beginning of each session.
 This also helps us when planning projects, as everybody has 9 working days every two weeks, stopping unnecessary planning headaches.
 
 ## A place to transform ideas
