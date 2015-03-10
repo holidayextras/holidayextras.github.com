@@ -18,8 +18,8 @@ Everybody gets Project Lounge every two weeks, without fail. Keeping this recurr
 This also helps us when planning projects, as everybody has 9 working days every two weeks, stopping unnecessary planning headaches.
 
 ## A place to transform ideas
-As a dev team who work very closely with a busy business, we can often see areas that we think can be improved. These can range from small changes & automating repetitive tasks to huge projects.
-For a lot of us, these kind of improvements are the most fun because we can see how it changes for the people we work with every day, and our customers. There is nothing more exciting for us than when something we learn from Project Lounge can also provide a real improvement!
+As a dev team who work very closely with a busy business, we often see areas that we think can be improved. These range from small changes & automating repetitive tasks to huge projects.
+For a lot of us, these kind of improvements are the most fun because we can see how it benefits the people we work with every day, and our customers. There is nothing more exciting for us than when something we learn from Project Lounge can also provide a real improvement!
 
 ## Share back
 At the end of every session there is the opportunity for people to show what they have learned, this can range from an informal chat to a full tour of a finished product showing what they have created. This gives people time to show what they have done, but we also use these sessions to teach each other what we have learned, so that we all benefit from each others new skills and/or knowledge.
