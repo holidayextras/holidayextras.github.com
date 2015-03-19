@@ -23,6 +23,11 @@ damien_turner:
   role: Head of IT and Infrastructure
   gravatar_md5: 37fcc568baa6313c094a2f8e8fcf5b94
   twitter: dent275
+george_storer:
+  name: George Storer
+  role: Web Developer
+  gravatar_md5: 8b9afbd287dff06b2258db1561cda20f
+  twitter: hxstorer
 jack_crawford:
   name: Jack Crawford
   role: Web Developer
