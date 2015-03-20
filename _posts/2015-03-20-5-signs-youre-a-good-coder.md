@@ -9,7 +9,7 @@ comments: true
 
 ##### 1. You don't solve problems until you understand the system/context.
 
-If this sounds like a simple one then that's because it is. You can't consistently and reliably fix problems if you don't know what else you are affecting further up or down the stack.  Take your time, understand all the local variables and touch points, pick through the flow of the system learning where data comes from and where it goes to. In a mature system, chances are your problem has already been solved elsewhere, if others have architected their code properly you could well find your solution already exists in tools code or common functionality.
+If this sounds like a simple one then that's because it is. You can't consistently and reliably fix problems if you don't know what else you are affecting further up or down the stack. Take your time, understand all the local variables and touch points, pick through the flow of the system learning where data comes from and where it goes to. In a mature system, chances are your problem has already been solved elsewhere, if others have architected their code properly you could well find your solution already exists in tools code or common functionality.
 
 ##### 2. You [Keep it simple, stupid](http://en.wikipedia.org/wiki/KISS_principle).
 
