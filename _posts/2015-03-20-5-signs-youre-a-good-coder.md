@@ -21,7 +21,7 @@ You can write all the crap code you like but if it's organised, decoupled and pr
 
 ##### 4. You dont test your own code.
 
-We're talking unit tests here.  It's fairly easy to figure out when you have finished solving a problem, but this does now mean you are no position to rationalise about the solution. You now have preconceptions and blindspots and it's very difficult to put your assumptions aside, this leads to poor tests even if coverage is high.  Do yourself and favour and let someone else write the tests for you.  Ofcourse, if you are lucky enough to be afforded TDD, this point is completely irrelevant.
+We're talking unit tests here.  It's fairly easy to figure out when you have finished solving a problem, but this does now mean you are in no position to rationalise about the solution. You now have preconceptions and blindspots and it's very difficult to put your assumptions aside, this leads to poor tests even if coverage is high.  Do yourself and favour and let someone else write the tests for you.  Ofcourse, if you are lucky enough to be afforded TDD, this point is completely irrelevant.
 
 ##### 5. You've learnt to detect code smell and more importantly, you act on it.
 
