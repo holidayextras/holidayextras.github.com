@@ -57,7 +57,7 @@ hr.end:after {
 .container {
   width:90%;
   max-width:40em;
-  margin:0px auto;
+  margin: 1.5em auto;
 }
 
 /* -- NAV -- */
@@ -159,7 +159,6 @@ footer a {
 /* -- POSTS -- */
 ul.posts {
   list-style:none;
-  margin-top:1.5em;
 }
 ul.posts li a {
   text-decoration:none;
@@ -194,9 +193,6 @@ ul.posts li:last-of-type a section {
   display:block;
   margin:0px auto;
 }
-.post-content {
-  margin-top:1.5em;
-}
 .post ul, .post ol {
   padding:0 0 .5em 1.5em;
 }
@@ -230,13 +226,13 @@ p > code {
   border: solid 1px rgb(238,238,238);
 }
 
-/* -- Projects -- */
-.projects {
+/* -- Exebition element -- */
+.exebition {
   overflow:hidden;
   list-style:none;
   margin:1.5em 0;
 }
-.projects li a {
+.exebition li a {
   color:inherit;
   text-decoration:none;
   display:block;
@@ -251,16 +247,20 @@ p > code {
   transition: all .2s ease-in-out;
   position:relative;
 }
-.projects li a:hover {
+.exebition li a:hover {
   -webkit-transform: scale(1.05);
   -moz-transform: scale(1.05);
   -o-transform: scale(1.05);
   -ms-transform: scale(1.05);
   transform: scale(1.05);
+}
+
+.exebition-projects li a:hover {
   background:rgb(222,75,149);
   color:rgba(255,255,255,0.9);
 }
 
+/* -- Projects -- */
 .project {
   margin-bottom:1em;
 }
@@ -269,9 +269,6 @@ p > code {
 }
 .project img {
   max-width: 100%;
-}
-.project-content {
-  margin-top:1em;
 }
 .project .downloads {
   text-align:center;
@@ -365,6 +362,7 @@ margin-bottom:1em;
   padding:12px;
   text-align:center;
 }
+
 @media all and (min-width: 480px) {
   .team li {
     width:25%;
