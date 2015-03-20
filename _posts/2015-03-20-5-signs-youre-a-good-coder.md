@@ -15,7 +15,7 @@ If this sounds like a simple one then that's because it is. You can't consistent
 
 Anybody can make a solution complicated but it takes a clever person to make a problem simple. Regardless of the size of the problem, design your solution away from your screen, you'll be amazed at what happens when you stop thinking in terms of code and actually consider the problem as a thing. Also, it's a simple fact, the less code you write the less chances there are for bugs to occur.  
 
-##### 3. You spend a good percentage of your timing designing your solution.
+##### 3. You spend a good percentage of your time designing your solution.
 
 You can write all the crap code you like but if it's organised, decoupled and properly thought out, chances are it'll still be useful, maintainable and scalable (who knew!). Think about variable and function names, they're the contract you will live by for the lifetime of the system and often, coming up with a good name will help tell you when your architecture is wrong. Think small defined units of work and how they fit together.
 
