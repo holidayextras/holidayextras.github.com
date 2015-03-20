@@ -2,7 +2,7 @@
 layout: post
 title: 5 signs you're a good coder
 categories: programming
-author: kevinhodges
+author: kevin_hodges
 tags: software engineer coding programmer
 comments: true
 ---
