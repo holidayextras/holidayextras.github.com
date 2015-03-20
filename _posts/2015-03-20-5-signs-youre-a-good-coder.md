@@ -11,9 +11,9 @@ comments: true
 
 If this sounds like a simple one then that's because it is. You can't consistently and reliably fix problems if you don't know what else you are affecting further up or down the stack.  Take your time, understand all the local variables and touch points, pick through the flow of the system learning where data comes from and where it goes to. In a mature system, chances are your problem has already been solved elsewhere, if others have architected their code properly you could well find your solution already exists in tools code or common functionality.
 
-##### 2. You KISS.
+##### 2. You [Keep it simple, stupid](http://en.wikipedia.org/wiki/KISS_principle).
 
-[Keep it simple, stupid](http://en.wikipedia.org/wiki/KISS_principle). Anybody can make a solution complicated but it takes a clever person to make a problem simple. Regardless of the size of the problem, design your solution away from your screen, you'll be amazed at what happens when you stop thinking in terms of code and actually consider the problem as a thing. Also, it's a simple fact, the less code you write, the less chances there are for bugs to occur.  
+Anybody can make a solution complicated but it takes a clever person to make a problem simple. Regardless of the size of the problem, design your solution away from your screen, you'll be amazed at what happens when you stop thinking in terms of code and actually consider the problem as a thing. Also, it's a simple fact, the less code you write the less chances there are for bugs to occur.  
 
 ##### 3. You spend a good percentage of your timing designing your solution.
 
