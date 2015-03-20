@@ -19,9 +19,9 @@ Anybody can make a solution complicated but it takes a clever person to make a p
 
 You can write all the crap code you like but if it's organised, decoupled and properly thought out, chances are it'll still be useful, maintainable and scalable (who knew!). Think about variable and function names, they're the contract you will live by for the lifetime of the system and often, coming up with a good name will help tell you when your architecture is wrong. Think small defined units of work and how they fit together.
 
-##### 4. You dont test your own code.
+##### 4. You don't just think you are open minded but you are actually open minded.
 
-We're talking unit tests here. It's fairly easy to figure out when you have finished solving a problem, but this does now mean you are in no position to rationalise about the solution. You now have preconceptions and blindspots and it's very difficult to put your assumptions aside, this leads to poor tests even if coverage is high.  Do yourself and favour and let someone else write the tests for you. Ofcourse, if you are lucky enough to be afforded TDD, this point is completely irrelevant.
+If to you, other peoples opinions are their problem then it is you who has the problem. Regardless of what you believe, everyone has the ability to challenge everyone however high up or low down the perceived heriarchy they are. If you don't give those opinions the time of day then a huge opportunity for someone to learn something is being missed. When discussing ideas with people or reading a blog post or listening to a conference speaker or whatever, don't just think, comprehend.
 
 ##### 5. You've learnt to detect code smell and more importantly, you act on it.
 
