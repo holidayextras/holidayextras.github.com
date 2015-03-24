@@ -17,7 +17,7 @@ The Holiday Extras Blog should be simple to use for everyone, it requires no kno
 * Commmit you branch
 
 ### Send a blog post for review
-Blog posts have to be reviewed in the same way code on our website does, ideally we would like 2 people to review the post.
+Blog posts have to be reviewed in the same way code on our website does, ideally we would like 2 people to review the post. The template for the pull request can be found [here](https://github.com/holidayextras/hx-culture/blob/master/pr-template-blogpost.mkd)
 
 1. From a technical aspect (if required)
 2. From an editorial aspect (check for typos)
