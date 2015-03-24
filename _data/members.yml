@@ -1,7 +1,9 @@
+# Keep it alphabetcial please
+
 anna_divers:
   name: Anna Divers
   role: Associate Director
-  # gravatar_md5: bbcf4f3d9d713d912b44de5cdfba9276
+  gravatar_md5: bbcf4f3d9d713d912b44de5cdfba9276
   twitter: annadivers
 alanna_mooney:
   name: Alanna Mooney
@@ -43,6 +45,11 @@ jodie_doubleday:
   role: UXUI Architect
   gravatar_md5: 2d45a614f60b0a7154c66b81e666c5a9
   twitter: jodiedoubleday
+kevin_hodges:
+  name: Kevin Hodges
+  role: Head of Technology Shortbreaks
+  gravatar_md5: 882959cb2cd12fd22ceb6fd2a545f009
+  twitter: kevin_hodges
 luke_frake:
   name: Luke Frake
   role: Front End Developer
@@ -51,7 +58,7 @@ luke_frake:
 mark_fermor:
   name: Mark Fermor
   role: Senior Systems Admin
-  # gravatar_md5: a769b1736d17133974a74176bc497161
+  gravatar_md5: a769b1736d17133974a74176bc497161
   twitter: markfermor1
 matthew_tyas:
   name: Matthew Tyas
@@ -78,8 +85,3 @@ rob_johnson:
   role: Developer
   gravatar_md5: 4550a440411b13515e47f9ec14eddd21
   twitter: notABluesSinger
-kevin_hodges:
-  name: Kevin Hodges
-  role: Head of Technology Shortbreaks
-  gravatar_md5: 882959cb2cd12fd22ceb6fd2a545f009
-  twitter: kevin_hodges
