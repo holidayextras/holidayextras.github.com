@@ -28,6 +28,6 @@ c) Long functions, heavy nesting, many parameters/variables, alarm bells should 
 d) [Cyclomatic complexity](http://en.wikipedia.org/wiki/Cyclomatic_complexity), keep your code modular, focused and concise.
 e) Most importantly, if it doesn't feel right but you're not sure why, get a second opinion.
 
-## 5 You don't just think you are open minded but you are actually open minded.
+## 5. You don't just think you are open minded but you are actually open minded.
 
 If to you, other peoples opinions are their problem then it is you who has the problem. Regardless of what you believe, everyone has the ability to challenge everyone however high up or low down the perceived heriarchy they are. If you don't give those opinions the time of day then a huge opportunity for someone to learn something is being missed. When discussing ideas with people, reading a blog post, listening to a conference speaker or whatever, don't just think, comprehend.
