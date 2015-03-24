@@ -19,7 +19,7 @@ Create a default PR (pull request) template that all PR authors must fill in bef
 
 For us, these take the form of multiple headings explaining various aspects of the PR, for example _"What does this PR do?"_, _"What tests does this PR have?"_, _"How should this work be manually tested?"_, _"What are the relevant tickets?"_. Forcing the author to fill these in thoroughly helps to give reviewers the context for the change before they get to the code step.
 
-For this to work, it's important to flat out reject PRs that don't properly utilise your template without good reason. You can see the PR template we use in our [hx culture repository](https://github.com/holidayextras/hx-culture).
+For this to work, it's important to flat out reject PRs that don't properly utilise your template without good reason. Take a look at the [PR template we use](https://gist.github.com/michaelcarter/42e31149a7debc4390be) for inspiration.
 
 ___
 
@@ -46,7 +46,7 @@ Ever find yourself bringing up the same points over and over in code review acro
 
 Over time you'll find that when in doubt, people check the documents as a reference point for antipatterns and coding standards prior to putting in PRs, and code quality will improve automatically.
 
-We use a separate [hx culture repository](https://github.com/holidayextras/hx-culture) for our best practice markdown docs. This way, people are free to challenge the best practices through PRs of their own into the documents themselves.
+We use a separate 'hx culture' repository for our best practice markdown docs. This way, people are free to challenge the best practices through PRs of their own into the documents themselves.
 
 ___
 
