@@ -6,6 +6,8 @@ title: "How we do R&D time at Holiday Extras"
 author: luke_frake
 categories: ""
 tags: R&D culture
+redirect_from:
+  - /2015/03/09/how-we-do-r&d-time-at-holiday-extras/
 ---
 
 Lots of companies do R&D time differently, Google famously have 20% time, the Atlassian team have their [ShipIt days](http://blogs.atlassian.com/2011/11/now-shipping-atlassian-shipit-day/) and at Holiday Extras we have ‘Project Lounge’. I’m going to open the doors to these sessions, to explain just how we do things and what I think works so well for us.
