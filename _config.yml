@@ -4,7 +4,8 @@ markdown: kramdown
 kramdown:
   input: GFM
 permalink: pretty
-baseurl: /
+url: http://holidayextras.github.com
+baseurl: 
 paginate: 5
 gems:
   - jekyll-redirect-from
