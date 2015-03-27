@@ -84,4 +84,4 @@ There is a welcome party/networking night for all attending the conference, the 
 ### 1.00am
 We finally make it to bed, after stopping off at McDonalds for a midnight snack!
 
-So that’s day 1 all wrapped up. Take a look at what happened on [Day 2]({{ site.baseurl}}conferences/2012/07/20/selenium-conference-day-2/)
+So that’s day 1 all wrapped up. Take a look at what happened on [Day 2]({{ site.url }}{{ site.baseurl }}/conferences/2012/07/20/selenium-conference-day-2/)

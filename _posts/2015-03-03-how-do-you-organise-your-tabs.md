@@ -13,20 +13,20 @@ I have some sort of OCD tendencies, this isn't such a bad thing when it comes to
 
 When I first joined I was discussing an idea about having a way of ordering tabs in a certain manor for quick and easy access and maybe categories. After a little while of discussing this with my team, I decided to have a look online for a plugin/extension to help me. There were quite a few out there which I downloaded and tried, but none of them really did it for me.
 
-I then stumbled across [Divider Tabs](https://chrome.google.com/webstore/detail/divider-tabs/mpbblhoepkmpgalgppdoahgeoknmjgpc?hl=en), Chrome plugin. This has been a complete life saver since downloading.. I know it won't be to everyones taste but it works for me nonetheless. 
+I then stumbled across [Divider Tabs](https://chrome.google.com/webstore/detail/divider-tabs/mpbblhoepkmpgalgppdoahgeoknmjgpc?hl=en), Chrome plugin. This has been a complete life saver since downloading.. I know it won't be to everyones taste but it works for me nonetheless.
 
 **So what does it do?**
 Well for the sake of simplicity, it creates a divider tab which can store your 'favourites' or 'most used' links. You can add however many links into the divider tab and once you 'lock' the tab it saves those links until you decide to remove them or edit them.
 You are able to create as many as you want from what I can see, but I only require 4/5 'divider tabs' on a day to day basis.
 
-The way that I use this is to have categories for the links, just like you would in a file cabinet with different categories, except this is virtual. 
+The way that I use this is to have categories for the links, just like you would in a file cabinet with different categories, except this is virtual.
 The categories I have currently are:
 - Email+
 - Deployments
 - Documents
 - Triage
 
-![dividerTabs]({{ site.baseurl }}assets/img/dividerTabs.png)
+![dividerTabs]({{ site.url }}{{ site.baseurl }}/assets/img/dividerTabs.png)
 
 This works for me currently but I can imagine in time, this will become bigger.
 
