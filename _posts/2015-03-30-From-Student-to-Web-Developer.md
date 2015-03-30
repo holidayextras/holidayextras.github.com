@@ -6,8 +6,6 @@ categories: Misc
 author: louis_pryer
 tags: none
 comments: true
-redirect_from:
-  - 2015/03/30/From-Student-to-Web-Developer/
 ---
 
 So it’s not long now until I will be writing up my report on my time at Holiday Extras, then I will be heading back to the University of Kent to finish off my Computer Science degree. I thought this would be the perfect time to reflect on my Industry Placement year, what I have gained from it and how it has influenced my decisions for my final year at university and my plans once I graduate. Hopefully this post will influence other students like myself to consider taking a year out like I have done and learn that there is more to studying then getting coursework in on time and acing the exams, for there is some things university degrees don’t or can’t teach you.
