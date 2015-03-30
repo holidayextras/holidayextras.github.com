@@ -88,7 +88,7 @@ bundle install
 
 #### To Run
 ```
-jekyll serve
+jekyll serve --config _config.yml,_config_dev.yml
 ```
 The Holiday Extras blog should now be running on your machine at http://127.0.0.1:4000/
 
