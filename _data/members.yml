@@ -50,6 +50,11 @@ kevin_hodges:
   role: Head of Technology Shortbreaks
   gravatar_md5: 882959cb2cd12fd22ceb6fd2a545f009
   twitter: kevin_hodges
+louis_pryer:
+  name: Louis Pryer
+  role: Web Developer
+  gravatar_md5: 66fa6c32d739e0b90417cda633308444
+  twitter: LouisPryer  
 luke_frake:
   name: Luke Frake
   role: Front End Developer
