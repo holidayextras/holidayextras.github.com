@@ -75,7 +75,7 @@ app.get('/getNameModular', function (request, response) {
   getNameController(request, response);
 });
 ```
-So now, I have access to `getNameController.js`, I am going to give `request` and `response` straight to a controller and handle the logic there.
+In a new file, add the code above. I now have access to `getNameController.js`, I am going to give `request` and `response` straight to our new controller and handle the logic there.
 
 ```
 module.exports = function(request, response) {
@@ -86,7 +86,7 @@ module.exports = function(request, response) {
   }
 };
 ```
-You will have to add the new `getNameModular` route to your `server.js` file (remembering to add in the require statement too) and then in a new file, add the controller logic. I would recommend sorting your code into various folders to make your codebase easier to navigate.
+You will have to add the new `getNameModular` route to your `server.js` file (remembering to add in the require statement too). I would recommend sorting your code into various folders to make your codebase easier to navigate.
 
 We have the same logic now in the controller as we did originally in my `/getName` route. You can reply to a `request` anywhere that you have the `response` matching the `request`. The above will return the exact same result if you go to `http://localhost:3000/getNameModular?name=Harley` as if you got to `http://localhost:3000/getName?name=Harley`.
 
@@ -144,7 +144,7 @@ Add `sayHelloInFrench` to your `logMiddleware` file. This kind of middleware sha
 
 ## Views
 
-I have yet to mention anything to do with user interface - you can use ExpressJS to make a rich UI. A view is the UI and will contain your HTML and your CSS.
+I have yet to mention anything to do with user interface - you can use ExpressJS to make a rich UI. A view is responsible for the UI and will return your HTML to the client.
 
 How do we load a view? This is done the same way as we have done things in the earlier steps of this tutorial - by hitting a route. Within the routes functionality, we render a view. Before that, you must add the above somewhere into your `server.js` file
 
@@ -197,7 +197,7 @@ So our above controller checks if name and age have been passed into the query s
 
 ## Controllers
 
-Finally, I will speak about controllers. I have yet to come across any official explanation of a controller but I think of them as the handlers of the route. This is where the main functionality of the your application should start - whether you respond straight to your client or you call upon another function to act on the request.
+Finally, I will talk about controllers. A controller isn't a rigid feature as it is in some other frameworks. I think of them as the handlers of the routes. This is where the main functionality of the your application should start - whether you respond straight to your client or you call upon another function to act on the request.
 
 I have avoided putting any logic into my routes, except for the earlier stages, I believe that the routes need to be as clear as possible to keep the path through your codebase as simple and as understandable as we can.
 
