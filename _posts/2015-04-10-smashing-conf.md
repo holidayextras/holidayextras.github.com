@@ -8,7 +8,9 @@ tags: conference smashing ux
 comments: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem ex aut, quam. Minus a dolore perspiciatis exercitationem debitis ex, hic nihil praesentium eum eveniet dolorum, totam, enim adipisci, architecto numquam.
+Last month (17th–18th of March 2015) I attended Smashing Conference Oxford. It was my first time at this conference and I enjoyed it a great deal, met some really interesting people and left feeling inspired to apply a bunch of the things I'd learnt back to the real world.
+
+Below are my notes, key points and interpretations of each of the talks I attended.
 
 ## A good writer is a good thinker - Christopher Murphy [@fehler](http://twitter.com/fehler)
 
@@ -63,7 +65,7 @@ _A case study on designing the [The Royal Borough of Kensington and Chelsea](htt
 * Load images depending on screen size, directly from HTML elements with `srcset` attribute
 * The following syntax
 
-```
+```html
 <img srcset="large.jpg  1024w,
       medium.jpg 640w,
       small.jpg  320w"
