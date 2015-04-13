@@ -28,8 +28,8 @@ I will walk you through how to make a basic ExpressJS application step-by-step. 
 Routing is how we determine the way our web application reacts to certain requests. If someone makes a GET request to `www.example.com/sayHello` (this being our ExpressJS application) our route would be `/sayHello`. If the request was to `www.example.com` our route would be `/` - this is slightly different because when there is no `/myRoute` part of the request, the route itself is defaulted to just  `/`. So, now what? We need to handle requests based on route and request method (GET, POST, DELETE ect.). Start by adding the below to a JavaScript file.
 
 ```
-var express = require('express')
-var app = express()
+var express = require('express');
+var app = express();
 
 app.post('/', function(request, response){
   response.send("You have used the method POST.");
@@ -49,7 +49,7 @@ var server = app.listen(3000, function () {
 });
 ```
 
-What does the above piece of code do? `var app = express()` is how we reference our application - so `app` becomes our application as a whole. The next 2 blocks of 3-line code are how we handle requests to certain routes. So if we make a POST request to `/` we will respond with "You have used the method POST.". If we make a GET request to `/sayHello` we will respond with “Hello World”. Your browser will send GET requests by default, if you want to find out how to send POST requests and other methods, look into a REST client such as Postman (a Chrome extension). Finally, the part after that is us creating a server. We are telling our application to listen on port 3000 for requests. Without this, we wouldn't have an application to run. To get your ExpressJS app up and running, you need to run the command `node pathToMyServerFile/server.js` (assuming you save the above code in a file called `server.js`). Once you have done this, go to `http://localhost:3000` or `http://localhost:3000/sayHello` and see what you have made!
+What does the above piece of code do? `var app = express();` is how we reference our application - so `app` becomes our application as a whole. The next 2 blocks of 3-line code are how we handle requests to certain routes. So if we make a POST request to `/` we will respond with "You have used the method POST.". If we make a GET request to `/sayHello` we will respond with “Hello World”. Your browser will send GET requests by default, if you want to find out how to send POST requests and other methods, look into a REST client such as Postman (a Chrome extension). Finally, the part after that is us creating a server. We are telling our application to listen on port 3000 for requests. Without this, we wouldn't have an application to run. To get your ExpressJS app up and running, you need to run the command `node pathToMyServerFile/server.js` (assuming you save the above code in a file called `server.js`). Once you have done this, go to `http://localhost:3000` or `http://localhost:3000/sayHello` and see what you have made!
 
 Remember that each time you add a peice of functionality, you have to kill your server and run `node pathToMyServerFile/server.js` again. Alternatively look into the node modules such as “Nodemon” or "Supervisor" to do this for you.
 
@@ -201,6 +201,6 @@ Finally, I will talk about controllers. A controller isn't a rigid feature as it
 
 I have avoided putting any logic into my routes, except for the earlier stages, I believe that the routes need to be as clear as possible to keep the path through your codebase as simple and as understandable as we can.
 
-If you have had any issues with getting your application to work, visit [my GitHub page](https://github.com/HarleyRowland/Tutorials/tree/master/testExpressApp) for the full code of this application.
+If you have had any issues with getting your application to work, visit [my GitHub page](https://github.com/HarleyRowland/TestsAndTutorials/tree/master/testExpressApp) for the full code of this application.
 
 I have, of course, only touched on the very basics of what ExpressJS has to offer. There is still far, far more amazing stuff that you can accomplish with this framework and I hope that this post will start some people off in the right direction.
