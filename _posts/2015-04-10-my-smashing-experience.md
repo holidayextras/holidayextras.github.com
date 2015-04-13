@@ -1,13 +1,13 @@
 ---
 layout: post
 title: My smashing experience
-date: 2015-04-10 08:20:00
 categories: conference
 author: jack_crawford
 tags: conference smashing ux
 comments: true
 ---
 
+![Smashing Conference](/assets/img/katzi-mausi-tea.png)
 Last month (17th–18th of March 2015) I attended [Smashing Conference Oxford](http://smashingconf.com/oxford-2015/). It was my first time at this conference and I enjoyed it a great deal, met some really interesting people and left feeling inspired to apply a bunch of the things I'd learnt back to the real world.
 
 Below are my notes, key points and interpretations of each of the talks I attended.
