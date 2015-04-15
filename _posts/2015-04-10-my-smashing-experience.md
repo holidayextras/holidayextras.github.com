@@ -49,7 +49,7 @@ _A case study on designing the [The Royal Borough of Kensington and Chelsea](htt
 
 * Identify what the client actually _needs_, not what they _want_. This is essential but is usually hard!
 * Don't forget the call centre! They are a valuable user research resource that shouldn't be ignored
-* All pages should have one primary goal split things that do two things into two pages
+* All pages should have one primary goal, split things that do two things into two pages
 * Split up mental models e.g. don't ask for application number and street name in the same input field
 * Always test your tests
 * If all else fails, "blame it on the new CMS"
@@ -113,7 +113,7 @@ _An in-depth look into the power of data visualisation_
 ---
 
 ## Building beyond the browser - Tom Gianattasio [@attasi](http://twitter.com/attasi)
-_How the guys at [macaw](http://macaw.co/) used [node-webit](http://nwjs.io/) to build their desktop hybrid app_
+_How the guys at [macaw](http://macaw.co/) used [node-webkit](http://nwjs.io/) to build their desktop hybrid app_
 
 * Gives you control over the window (draggable, shape, transparency)
 * Chromium arguments can be passed in e.g. `--disable-web-security`
@@ -223,7 +223,7 @@ _Social media is a powerful marketing, customer support and payment taking tool_
 ---
 
 ## User research for designers & engineers - Rachel Ilan Simpson [@rilan](http://twitter.com/rilan)
-_User research is _really_ scary but absolutely essential_
+_User research is really scary but absolutely essential_
 
 * Talking to users is _scary_, it could invalidate our products & ideas
 * Why talk?
