@@ -12,13 +12,13 @@ redirect_from:
 ---
 
 
-Being a placement student at Holiday Extras I have only dipped my toes in the ocean of Web Development, however one amazing piece of technology I have come across is [ExpressJS](http://expressjs.com/). We use it largely here at Holiday Extras and I have already learnt how simple it is to do so much. So what is ExpressJS? It is a JavaScript framework which runs on [NodeJS](https://nodejs.org/). Why would you want to use ExpressJS? Because it is simple and efficient to get brilliant results, code can be easily organised into neat modules and it is versatile - you can create whole web applications with UIs or an API to make requests to. You will also have access to tons of simple-to-use functions to create your brand new, cutting-edge web application and more!
+Being a placement student at Holiday Extras I have only dipped my toes in the ocean of Web Development, however one amazing piece of technology I have come across is [ExpressJS](http://expressjs.com/). We use it largely here at Holiday Extras and I have already learnt how simple it is to do so much. So what is ExpressJS? It is a JavaScript framework which runs on [Node.js](https://nodejs.org/). Why would you want to use ExpressJS? Because it is simple and efficient to get brilliant results, code can be easily organised into neat modules and it is versatile - you can create whole web applications with UIs or an API to make requests to. You will also have access to tons of simple-to-use functions to create your brand new, cutting-edge web application and more!
 
 I will walk you through how to make a basic ExpressJS application step-by-step. The end result will have aspects of an API and of an application rendering a display for a requesting client.
 
 ## My Assumptions
 
-* You will have a reasonable understanding of JavaScript and NodeJS.
+* You will have a reasonable understanding of JavaScript and Node.js.
 * You will have already installed ExpressJS.
 * You will have a basic understanding of what a templating language is for.
 * You will be making an application with me as we go through the tutorial.
