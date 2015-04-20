@@ -18,7 +18,7 @@ category: blog
     <div class="post-content" itemprop="articleBody">
       {{ content }}
     </div>
-    <small><b>Tags</b> <span itemprop="about keywords">{{page.tags | join: ', '}}</span></small>
+    <small class="tags"><b>Tags</b> <span itemprop="about keywords">{{page.tags | join: ', '}}</span></small>
     {% if page.comments %}
       {% include disqus.html %}
     {% endif %}
