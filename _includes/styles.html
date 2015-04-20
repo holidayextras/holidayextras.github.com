@@ -9,7 +9,7 @@ body {
    font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
    font-weight: 300;
    color:rgb(51,51,51);
-   font-size:1.4em;
+   font-size:1.2em;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -20,11 +20,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-weight:400;
   line-height:1.1em;  
-  margin:.5em 0 0;
+  margin:.5em 0;
 }
 
 h1 {
-  font-size:3em;
+  font-size:2.5em;
   font-weight:200;
 }
 p {
@@ -187,12 +187,13 @@ ul.posts li a section i, ul.posts li a section small {
 ul.posts li:last-of-type a section {
   border:none;
 }
-p.author {
+ul.posts .author {
   text-align:right;
   font-size:.75em;
-  margin:1em 0;
+  margin:1em 0 0;
+  overflow:hidden;
 }
-p.author img {
+ul.posts .author img {
   width:100px;
   border-radius:50%;
   padding:4px;
@@ -200,8 +201,11 @@ p.author img {
   background:#fff;
   float:right;
   margin-left:1em;
-  margin-top:-1em;
 }
+ul.posts .author .author-details {
+  margin-top:2em;
+}
+
 .tags {
   font-size:.6em;
   margin-top:-1em;
@@ -422,7 +426,7 @@ margin-bottom:1em;
 }
 @media all and (min-width: 780px) {
   h1 {
-    font-size:3em;
+    font-size:4em;
   }
   .pagination * {
     padding:0;

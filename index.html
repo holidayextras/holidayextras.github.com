@@ -21,14 +21,14 @@ category: blog
             <div class="blog-summary">
               <blockquote>{{ post.excerpt | strip_html | truncatewords: 50}}</blockquote>
               {% assign author = site.data.members.[post.author] %}
-              <p class="author">
+              <div class="author">
                 {% if author.gravatar_md5 %}
                   <img src="http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=400" alt="A photo of {{ member.name }}" />
                 {% else %}
                   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
                 {% endif %}
-                By {{ author.name }}<br/>{{ post.date | date: "%-d %B %Y"}}
-              </p>
+                <div class="author-details">By {{ author.name }}<br/>{{ post.date | date: "%-d %B %Y"}}</div>
+              </div>
             </div>
           </section>
         </a>
