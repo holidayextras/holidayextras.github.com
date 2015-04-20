@@ -17,7 +17,7 @@ category: blog
         <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">
           <section>
             <h2>{{ post.title }}</h2>
-            <small class="tags"><b>Tags:</b> {{ post.tags | join: ' '}}</small>
+            <!--<small class="tags"><b>Tags:</b> {{ post.tags | join: ' '}}</small>- No point having these until we can filter by them --> 
             <div class="blog-summary">
               <blockquote>{{ post.excerpt | strip_html | truncatewords: 50}}</blockquote>
               {% assign author = site.data.members.[post.author] %}

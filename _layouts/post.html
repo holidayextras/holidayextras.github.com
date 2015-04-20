@@ -18,7 +18,7 @@ category: blog
     <div class="post-content" itemprop="articleBody">
       {{ content }}
     </div>
-    <!--<small class="tags"><b>Tags</b> <span itemprop="about keywords">{{page.tags | join: ', '}}</span></small> - No point having these until we can filter by them --> 
+    <small class="tags"><b>Tags</b> <span itemprop="about keywords">{{page.tags | join: ', '}}</span></small>
     {% if page.comments %}
       {% include disqus.html %}
     {% endif %}
