@@ -6,7 +6,7 @@ kramdown:
 permalink: pretty
 url: http://holidayextras.github.com
 baseurl: 
-paginate: 5
+paginate: 10
 gems:
   - jekyll-redirect-from
 prose:
