@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning the Basics of ExpressJS"
-date: 2015-04-02 09:00:00
+date: 2015-04-20 09:00:00
 categories: ExpressJS
 author: harley_rowland
 tags: ExpressJS JavaScript Tutorial
