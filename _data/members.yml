@@ -25,6 +25,12 @@ damien_turner:
   role: Head of IT and Infrastructure
   gravatar_md5: 37fcc568baa6313c094a2f8e8fcf5b94
   twitter: dent275
+dan_jenkins:
+  name: Dan Jenkins
+  role: Software Engineer (2008 - 2013)
+  gravatar_md5: db32ea38124c4a4939fb271528f4c55b
+  twitter: dan_jenkins
+  currently_employed: false
 harley_rowland:
   name: Harley Rowland
   role: Web Developer
