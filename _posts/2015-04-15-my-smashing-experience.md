@@ -249,7 +249,7 @@ _Performance on the web matters more than ever, make sure your sites are (or see
 * Unblock your scripts
 * Lie about performance e.g. make the UI seem as though a request has finished, even if it's still queued in the background
 * Don't make fonts required on first render
-* Frameworks that are focused on Front-End performance: [React]([React]), [Ember fastboot](https://github.com/tildeio/ember-cli-fastboot)
+* Frameworks that are focused on Front-End performance: [React](https://facebook.github.io/react/), [Ember fastboot](https://github.com/tildeio/ember-cli-fastboot)
 * [Critical CSS](https://github.com/addyosmani/critical): Extract and inline the most important CSS and defer the rest
 * Distract the user with an actual experience
 * Load scripts separately if functionality is different? [HTTP2](https://http2.github.io/) speed benefits should reduce round-trip disadvantage
