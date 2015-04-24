@@ -21,9 +21,8 @@ So I was using git directly using the command line, but git didn’t come with t
 ## What customisation did I make?
 If I’m in a directory that’s under git version control, my prompt will tell me about the status of the repository and which branch I’m on. Git will now autocomplete when pressing tab too; it’ll even autocomplete an alias in my git config file! It’s a real time saver when you’re working with git every day.
 
-Below is the prompt from my latest NodeJS module, '[saucelabs](https://github.com/holidayextras/node-saucelabs)''
+Below is the prompt from my latest NodeJS module, [saucelabs](https://github.com/holidayextras/node-saucelabs)
 
-<IMG>
 ![Bash Prompt]({{ site.url }}{{ site.baseurl }}/assets/img/bash_prompt.png)
 
 You can see I’m on branch master, and I have no changes waiting to be added to the repository. You can also see that the last command I ran returned with an exit status of OK, this is displayed with the green tick.
@@ -82,7 +81,7 @@ vi ~/.profile
 
 You’ll notice the lack of .bash_profile, as stated earlier in the post, when you sudo into root, you’re actually using shell.
 
-![Root Prompt]({{ site.baseurl }}assets/img/root_prompt.png)
+![Root Prompt]({{ site.url }}{{ site.baseurl }}/assets/img/root_prompt.png)
 
 You can see when in root, I get no git details and it looks very red; there’s a reason for that…you’re not meant to stay as root for long! Get in and get out asap.
 

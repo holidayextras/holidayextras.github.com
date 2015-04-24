@@ -13,20 +13,22 @@ category: team
     <ul>
       {% for member_hash in site.data.members %}
         {% assign member = member_hash[1] %}
-        <li>
-          {% if member.gravatar_md5 %}
-            <img src="http://www.gravatar.com/avatar/{{ member.gravatar_md5 }}?s=400" alt="A photo of {{ member.name }}" />
-          {% else %}
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
-          {% endif %}
-          <div class="overlay">
-            <h2>{{ member.name }}</h2>
-            <p>{{ member.role }}</p>
-            <div class="social">
-              <a href="http://www.twitter.com/{{ member.twitter }}" title="{{ member.name }} twitter" class="twitter"><i class="fa fa-twitter fa-fw"></i>@{{ member.twitter }}</a>
+        {% if member.currently_employed %}
+          <li>
+            {% if member.gravatar_md5 %}
+              <img src="http://www.gravatar.com/avatar/{{ member.gravatar_md5 }}?s=400" alt="A photo of {{ member.name }}" />
+            {% else %}
+              <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
+            {% endif %}
+            <div class="overlay">
+              <h2>{{ member.name }}</h2>
+              <p>{{ member.role }}</p>
+              <div class="social">
+                <a href="http://www.twitter.com/{{ member.twitter }}" title="{{ member.name }} twitter" class="twitter"><i class="fa fa-twitter fa-fw"></i>@{{ member.twitter }}</a>
+              </div>
             </div>
-          </div>
-        </li>
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </main>
