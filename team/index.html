@@ -13,7 +13,7 @@ category: team
     <ul>
       {% for member_hash in site.data.members %}
         {% assign member = member_hash[1] %}
-        {% if member.currently_employed %}
+        {% if member.currently_employed == yes %}
           <li>
             {% if member.gravatar_md5 %}
               <img src="http://www.gravatar.com/avatar/{{ member.gravatar_md5 }}?s=400" alt="A photo of {{ member.name }}" />
