@@ -4,8 +4,8 @@ markdown: kramdown
 kramdown:
   input: GFM
 permalink: pretty
-url: http://holidayextras.github.com
-baseurl: 
+url: http://hungrygeek.holidayextras.co.uk
+baseurl:
 paginate: 10
 gems:
   - jekyll-redirect-from
@@ -27,7 +27,7 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "title"  
+          label: "title"
       - name: "layout"
         field:
           element: "hidden"

@@ -1,0 +1,37 @@
+{% assign year = 'now' | date: "%Y" %}
+{% assign calendar = site.data.events | sort: 'date_for_ordering' | where: "year", year | group_by: "month" %}
+
+<section>
+  <h2>{{ year }} Calendar</h2>
+  <p></p>
+  {% if site.data.events %}
+  <ul class="calendar">
+  {% for month in calendar %}
+    <li>
+      <h3>{{ site.data.month_names[month.name] }}</h3>
+      <ul>
+      {% for event in month.items %}
+        <li>
+          <h4>{{ event.name }}</h4>
+          <div class="location">{{ event.location }}</div>
+          <div class="date">{{ event.pretty_date }}</div>
+          {% if event.description %}<blockquote>{{ event.description }}</blockquote>{% endif %}
+          {% if event.speakers %}
+          <ul class="speakers">
+            {% for speaker in event.speakers %}
+            <li>
+              <a href="{{ site.url }}{{ site.baseurl }}/speaking/{{ speaker.name | slugify }}">{{ speaker.name }}</a>
+              {{ speaker.title }}
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+          {% if event.link %}<div class="website"><a href="{{ event.link }}" title="{ event.name }}" target="_blank">Visit Website</a></div>{% endif %}
+        </li>
+      {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+</section>

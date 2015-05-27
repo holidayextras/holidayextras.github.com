@@ -1,0 +1,18 @@
+---
+layout: default
+category: speaking
+---
+<article class="speaker">
+  <header class="speaker-header">
+    <h1 class="speaker-title">{{ page.title }}</h1>
+    <p class="speaker-tagline">{{ page.tagline }}</p>
+    {% if page.description %}<p class="speaker-description">{{ page.description }}</p>{% endif %}
+    {% if page.twitter %}<a href="https://twitter.com/{{page.twitter}}" title="Follow {{page.title}} on Twitter" >Twitter</a>{% endif %}
+    {% if page.github %}<a href="https://github.com/{{page.github}}" title="View {{page.title}} on GitHub" >Github</a>{% endif %}
+  </header>
+  <div class="container">
+    <div class="speaker-content">
+      {{ content }}
+    </div>
+  </div>
+</article>
