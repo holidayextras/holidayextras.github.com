@@ -1,4 +1,4 @@
-- name: 'TEDxUniversityofKent'
+- name: 'TEDx University of Kent'
   location: 'Canterbury, UK'
   link: 'http://www.tedxuniversityofkent.com/'
   description: ''
@@ -9,7 +9,6 @@
   year: '2015'
   speakers:
     - name: 'Luke Frake'
-      title: ''
 
 - name: 'APIdays Mediterranea 2015'
   location: 'Barcelona, Spain'
@@ -22,4 +21,4 @@
   year: '2015'
   speakers:
     - name: 'Simon Wood'
-      title: 'APIs From The Trenches'
+      talk: 'APIs From The Trenches'

@@ -2,11 +2,9 @@
 layout: speaker
 title: Simon Wood
 tagline: Technology Director
-description: Passionate geek with a love of Javascript, APIs, and Cloud.
-gravatar_md5: e4f58c959b0336f2645574b774164667
+gravatar_md5: 39bb8762f3a25ebc00ebd75bc4f363af
 github: hpoom
 twitter: hpoom
-category: speaking
+category: speaker
 ---
-
-[http://www.speakerdeck.com/hpoom](View My Speaker Deck)
+[View slides on speaker deck](http://www.speakerdeck.com/hpoom)

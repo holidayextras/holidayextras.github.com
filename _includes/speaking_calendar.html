@@ -1,37 +1,49 @@
 {% assign year = 'now' | date: "%Y" %}
-{% assign calendar = site.data.events | sort: 'date_for_ordering' | where: "year", year | group_by: "month" %}
-
-<section>
-  <h2>{{ year }} Calendar</h2>
-  <p></p>
-  {% if site.data.events %}
-  <ul class="calendar">
-  {% for month in calendar %}
-    <li>
-      <h3>{{ site.data.month_names[month.name] }}</h3>
-      <ul>
+{% assign filter_by_year = site.data.speaking | sort: "date_for_ordering" | group_by: "year" %}
+<hr />
+<section class="speaking-calendar">
+  {% if filter_by_year.size == 0 %}
+  <p>No talks to display.</p>
+  {% else %}
+  {% for year in filter_by_year %}
+  <h2>{{ year.name }} Calendar</h2>
+  <ul class="month-list">
+  {% assign filter_by_month = year.items | sort: "date_for_ordering" | group_by: "month" %}
+  {% for month in filter_by_month %}
+    <li class="month">
+      <div class="month-name">{{ site.data.month_names[month.name] }}</div>
+      <ul class="events">
       {% for event in month.items %}
-        <li>
-          <h4>{{ event.name }}</h4>
-          <div class="location">{{ event.location }}</div>
-          <div class="date">{{ event.pretty_date }}</div>
+        <li class="event">
+          <div class="event-name">{{ event.name }}</div>
+          <div class="event-meta">
+            <span class="date"><i class="fa fa-calendar"></i> {{ event.pretty_date }}</span>
+            <span class="location"><i class="fa fa-location-arrow"></i> {{ event.location }}</span>
+            {% if event.link %}<span class="website"><i class="fa fa-globe"></i> <a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">Website</a></span>{% endif %}
+          </div>
           {% if event.description %}<blockquote>{{ event.description }}</blockquote>{% endif %}
-          {% if event.speakers %}
-          <ul class="speakers">
+          {% if event.speakers.size %}
+          <h5>Speakers</h5>
+          <ul class="event-speakers">
             {% for speaker in event.speakers %}
-            <li>
-              <a href="{{ site.url }}{{ site.baseurl }}/speaking/{{ speaker.name | slugify }}">{{ speaker.name }}</a>
-              {{ speaker.title }}
+            {% assign url = speakers | where:"title",speaker.name | map: "url" %}
+            <li class="event-speaker">
+              {% if url.size > 0 %}
+              <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ speaker.name }}'s Profile'">{{ speaker.name }}</a>
+              {% else %}
+              {{ speaker.name }}
+              {% endif %}
+              {% if speaker.talk %} - {{ speaker.talk }}{% endif %}
             </li>
             {% endfor %}
           </ul>
           {% endif %}
-          {% if event.link %}<div class="website"><a href="{{ event.link }}" title="{ event.name }}" target="_blank">Visit Website</a></div>{% endif %}
         </li>
       {% endfor %}
       </ul>
     </li>
   {% endfor %}
   </ul>
+  {% endfor %}
   {% endif %}
 </section>
