@@ -429,6 +429,10 @@ margin-bottom:1em;
   background:rgb(222,75,149);
   color:rgba(255,255,255,0.9);
 }
+.speaking-calendar .event .event-talk {
+  font-size: 1.2em;
+  margin: .2em 0;
+}
 .speaking-calendar .event .event-name {
   font-size: 1em;
   margin: .4em 0;

@@ -11,6 +11,7 @@
     {% for speaker in event.speakers %}
     {% unless speaker.name == page.title %}{% continue %}{% endunless %}
     <li class="event">
+      {% if speaker.talk %}<div class="event-talk">{{ speaker.talk }}</div>{% endif %}
       <div class="event-name">{{ event.name }}</div>
       <div class="event-meta">
         <span class="date"><i class="fa fa-calendar"></i> {{ event.pretty_date }}</span>
