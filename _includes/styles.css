@@ -405,12 +405,8 @@ margin-bottom:1em;
   text-align: center;
   font-size: 2.2em;
 }
-.speaking-calendar {
-}
 .speaking-calendar .month-list {
   list-style: none;
-}
-.speaking-calendar .month {
 }
 .speaking-calendar .month .month-name {
   font-size:1.4em;
@@ -467,7 +463,6 @@ margin-bottom:1em;
   margin: .2em 0;
 }
 
-.speaker-profiles {}
 .speaker-profiles .profiles-list {
   list-style: none;
 }

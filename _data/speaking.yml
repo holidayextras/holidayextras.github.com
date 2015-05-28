@@ -7,6 +7,7 @@
   year: '2015'
   speakers:
     - name: 'Luke Frake'
+      talk: 'The internet needs us, all of us.'
 
 - name: 'APIdays Mediterranea 2015'
   location: 'Barcelona, Spain'
