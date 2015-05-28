@@ -1,19 +1,21 @@
-{% assign year = 'now' | date: "%Y" %}
-{% assign filter_by_year = site.data.speaking | sort: "date_for_ordering" | group_by: "year" %}
+{% assign this_year = 'now' | date: "%Y" %}
+{% assign filter_by_year = site.data.speaking | sort: "year" | group_by: "year" %}
 <hr />
 <section class="speaking-calendar">
   {% if filter_by_year.size == 0 %}
   <p>No talks to display.</p>
   {% else %}
   {% for year in filter_by_year %}
+    {% if year.name < this_year %}{% continue %}{% endif %}
   <h2>{{ year.name }} Calendar</h2>
   <ul class="month-list">
-    {% assign filter_by_month = year.items | sort: "date_for_ordering" | group_by: "month" %}
+    {% assign filter_by_month = year.items | sort: "month" | group_by: "month" %}
     {% for month in filter_by_month %}
     <li class="month">
       <div class="month-name">{{ site.data.month_names[month.name] }}</div>
       <ul class="events">
-        {% for event in month.items %}
+        {% assign events = month.items | sort: "date_for_ordering" %}
+        {% for event in events %}
         <li class="event">
           <div class="event-name">{{ event.name }}</div>
           <div class="event-meta">
