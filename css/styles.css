@@ -15,11 +15,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-weight:400;
   line-height:1.1em;
-}
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-weight:400;
-  line-height:1.1em;
   margin:.5em 0;
 }
 
@@ -372,13 +367,22 @@ margin-bottom:1em;
        -o-transform:translateY(0%);
           transform:translateY(0%);
 }
+.team .twitter {
+  min-height:44px;
+  line-height:44px;
+}
+
 .twitter {
   color:rgb(64,153,255);
   text-decoration:none;
   font-size:.8em;
   display:block;
-  min-height:44px;
-  line-height:44px;
+}
+.github {
+  color:rgb(51,51,51);
+  text-decoration:none;
+  font-size:.8em;
+  display:block;
 }
 .facebook {
   color:rgb(59,89,152);
@@ -386,6 +390,130 @@ margin-bottom:1em;
 .google {
   color:rgb(211, 72, 54);
 }
+
+
+/* --- Speaking --- */
+.speaking section {
+  margin: 2.5em 0;
+}
+.speaking h2 {
+  text-align: center;
+  font-size: 2.2em;
+}
+.speaking-calendar .month-list {
+  list-style: none;
+}
+.speaking-calendar .month .month-name {
+  font-size:1.4em;
+  margin: .2em 0;
+  text-align: right;
+}
+.speaking-calendar .events {
+  list-style: none;
+}
+.speaking-calendar .event {
+  padding: 0.6em 1.5em;
+  border: solid 1px rgb(221,221,221);
+  border-radius: .5em;
+  margin: 0 0 1em 0;
+  transition: all .2s ease-in-out;
+  position:relative;
+}
+.speaking-calendar .event:hover {
+  transform: scale(1.02);
+  background:rgb(222,75,149);
+  color:rgba(255,255,255,0.9);
+}
+.speaking-calendar .event .event-talk {
+  font-size: 1.2em;
+  margin: .2em 0;
+}
+.speaking-calendar .event .event-name {
+  font-size: 1em;
+  margin: .4em 0;
+  font-weight: bold;
+}
+.speaking-calendar .event-meta {
+  font-size: 0.8em;
+  margin: .2em 0 .4em 0;
+}
+.speaking-calendar .event-meta i {
+  margin-right: .4em;
+}
+.speaking-calendar .event-meta span {
+  padding-right: 1.3em;
+  display: block;
+}
+.speaking-calendar a {
+  text-decoration: none;
+  font-weight: bold;
+}
+.speaking-calendar .event:hover a {
+  color: rgb(255,255,255);
+}
+.speaking-calendar .event h5 {
+  margin-top: 1.5em;
+}
+.speaking-calendar .event .event-speakers {
+  list-style: none;
+}
+.speaking-calendar .event .event-speaker {
+  font-size: 0.8em;
+  margin: .2em 0;
+}
+
+.speaker-profiles .profiles-list {
+  list-style: none;
+}
+.speaker-profiles .profile {
+  min-height: 200px;
+  margin: 2em 0;
+}
+.speaker-profiles .profile:after {
+  clear: both;
+  content: ' ';
+  display: block;
+  height: 0px;
+  width: 0px;
+}
+.speaker-profiles .profile > img {
+  float: left;
+  width: 105px;
+  height: 105px;
+  margin-right: 0.8em;
+  border-radius:50%;
+  padding:4px;
+  border:solid 1px rgb(136,196,56);
+  background:#fff;
+}
+.speaker-profiles .profile-details {
+  float: left;
+}
+.speaker-profiles .profile h3 {
+  font-size: 1.7em;
+  margin: 0;
+}
+.speaker-profiles .profile h3 a {
+  text-decoration: none;
+}
+.speaker-profiles .profile-job {
+  margin-bottom: 2em;
+}
+
+
+/* --- Speaker Profile --- */
+article.speaker {
+}
+article.speaker section {
+  margin: 2.5em 0;
+}
+.speaker-social {
+  text-align: center;
+}
+.speaker-social a {
+  text-decoration: none;
+}
+
 
 /* pagination */
 .pagination {
@@ -436,6 +564,17 @@ margin-bottom:1em;
   .tags {
     float:right;
     margin-top:1.5em
+  }
+  .speaking-calendar .event-meta span {
+    display: inline;
+  }
+  .speaker-profiles .profile > img {
+    width: 200px;
+    height: 200px;
+    margin-right: 2em;
+  }
+  .speaker-profiles .profile h3 {
+    margin-top: 0.2em;
   }
 }
 @media all and (min-width: 1000px) {
