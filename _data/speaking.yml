@@ -7,6 +7,7 @@
   year: '2015'
   speakers:
     - name: 'Dan Cork'
+      talk: "Give CSS3 some love, because CSS4 is on it's way!"
 
 - name: 'TEDx University of Kent'
   location: 'Canterbury, UK'
