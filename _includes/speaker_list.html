@@ -1,4 +1,5 @@
 {% if speakers.size %}
+{% assign speakers = speakers | sort: "title" %}
 <hr />
 <section class="speaker-profiles">
   <h2>Speaker Profiles</h2>
@@ -7,9 +8,9 @@
     {% for speaker in speakers %}
     <li class="profile">
       {% if speaker.gravatar_md5 %}
-      <img src="http://www.gravatar.com/avatar/{{ speaker.gravatar_md5 }}?s=200" alt="A photo of {{ speaker.name }}" />
+      <img src="http://www.gravatar.com/avatar/{{ speaker.gravatar_md5 }}?s=200" alt="A photo of {{ speaker.title }}" />
       {% else %}
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ speaker.name }}" />
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ speaker.title }}" />
       {% endif %}
       <div class="profile-details">
         <h3><a href="{{ site.url }}{{ site.baseurl }}{{ speaker.url }}">{{ speaker.title }}</a></h3>
