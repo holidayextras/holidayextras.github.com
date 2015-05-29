@@ -469,6 +469,13 @@ margin-bottom:1em;
   min-height: 200px;
   margin: 2em 0;
 }
+.speaker-profiles .profile:after {
+  clear: both;
+  content: ' ';
+  display: block;
+  height: 0px;
+  width: 0px;
+}
 .speaker-profiles .profile > img {
   float: left;
   width: 105px;
@@ -479,9 +486,12 @@ margin-bottom:1em;
   border:solid 1px rgb(136,196,56);
   background:#fff;
 }
+.speaker-profiles .profile-details {
+  float: left;
+}
 .speaker-profiles .profile h3 {
   font-size: 1.7em;
-  margin-bottom: 0;
+  margin: 0;
 }
 .speaker-profiles .profile h3 a {
   text-decoration: none;
@@ -562,6 +572,9 @@ article.speaker section {
     width: 200px;
     height: 200px;
     margin-right: 2em;
+  }
+  .speaker-profiles .profile h3 {
+    margin-top: 0.2em;
   }
 }
 @media all and (min-width: 1000px) {
