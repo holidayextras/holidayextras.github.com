@@ -6,7 +6,7 @@ module.exports = function(grunt) {
     uglify: {
       inline:{
         files: {
-          '_includes/preloadCSS.min.js': ['js/preloadCSS.js']
+          '_includes/js/preloadCSS.min.js': ['js/preloadCSS.js']
         }
       }
     },
@@ -17,7 +17,7 @@ module.exports = function(grunt) {
           cleancss: true
         },
         files: {
-          "_includes/critical.min.css": "less/critical.less",
+          "_includes/css/critical.min.css": "less/critical.less",
           "css/styles.min.css": "less/hungrygeek.less"
         }
       }
