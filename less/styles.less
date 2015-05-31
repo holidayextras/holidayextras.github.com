@@ -1,16 +1,3 @@
-* {
-  margin:0;
-  padding:0;
-  box-sizing: border-box;
-  line-height:1.61;
-}
-
-body {
-   font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-   font-weight: 300;
-   color:rgb(51,51,51);
-   font-size:1.2em;
-}
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-weight:400;
@@ -57,39 +44,9 @@ hr.end:after {
   margin:0px auto;
 }
 
-/* -- NAV -- */
-nav {
-  overflow:hidden;
-  position:absolute;
-  z-index:1;
-  text-align:center;
-  width:100%;
-}
-nav ul {
-  text-align:center;
-  margin-top:.5em;
-}
-nav ul li {
-  display:inline-block;
-}
-nav ul li.active {
-  background:rgba(255,255,255,0.3);
-}
-nav ul li a {
-  font-size:1.1em;
-  padding:.25em;
-  font-weight:200;
-  display:block;
-  text-decoration:none;
-  color: rgba(136,196,56,1);
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-}
 
 /* -- HEADER -- */
 header {
-  padding:6em 0 4em 0;
-  color:rgb(255,255,255);
-  position:relative;
   background: linear-gradient(274deg, rgba(102,0,153,1), rgba(38,76,122,1));
   background-size: 400% 400%;
 
@@ -117,24 +74,6 @@ header {
   0%{background-position:0% 47%}
   50%{background-position:100% 54%}
   100%{background-position:0% 47%}
-}
-header:after {
-  content: "";
-  width: 0;
-  height: 0;
-  position: absolute;
-  left: 50%;
-  right: 50%;
-  bottom: 0;
-  margin-left: -28px;
-  border-bottom: 28px solid rgb(255,255,255);
-  border-left: 28px solid transparent;
-  border-right: 28px solid transparent;
-}
-header h1, header p  {
-  text-align:center;
-  max-width:90%;
-  margin:0px auto;
 }
 
 /* -- FOOTER -- */
