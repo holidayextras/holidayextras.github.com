@@ -18,7 +18,7 @@ module.exports = function(grunt) {
         },
         files: {
           "_includes/critical.min.css": "less/critical.less",
-          "css/styles.min.css": "less/styles.less"
+          "css/styles.min.css": "less/hungrygeek.less"
         }
       }
     },

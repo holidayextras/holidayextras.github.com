@@ -2,18 +2,18 @@
 layout: default
 category: speaking
 ---
-<article class="speaker">
-  <header class="speaker-header">
-    <h1 class="speaker-title">{{ page.title }}</h1>
-    <p class="speaker-tagline">{{ page.tagline }}</p>
-    <div class="speaker-social">
+<article class="profile">
+  <header class="profile-header">
+    <h1 class="profile-title">{{ page.title }}</h1>
+    <p class="profile-tagline">{{ page.tagline }}</p>
+    <div class="profile-social">
       {% if page.twitter %}<a href="https://twitter.com/{{page.twitter}}" title="Follow {{page.title}} on Twitter" class="fa fa-3x fa-twitter fa-fw" target="_blank" ></a>{% endif %}
       {% if page.github %}<a href="https://github.com/{{page.github}}" title="View {{page.title}} on GitHub" class="fa fa-3x fa-github fa-fw" target="_blank" ></a>{% endif %}
     </div>
   </header>
   <div class="container">
     <section>
-      <div class="speaker-content">
+      <div class="profile-content">
         {{ content }}
       </div>
     </section>

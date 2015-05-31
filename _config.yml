@@ -24,6 +24,7 @@ prose:
     - /_site
     - /projects
     - /less
+    - /js
     - package.json
     - Gruntfile.js
   metadata:
