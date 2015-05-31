@@ -4,6 +4,9 @@ category: speaking
 ---
 <article class="profile">
   <header class="profile-header">
+    {% if page.gravatar_md5 %}
+      <img src="http://www.gravatar.com/avatar/{{ page.gravatar_md5 }}?s=300" alt="A photo of {{ page.title }}" />
+    {% endif %}
     <h1 class="profile-title">{{ page.title }}</h1>
     <p class="profile-tagline">{{ page.tagline }}</p>
     <div class="profile-social">

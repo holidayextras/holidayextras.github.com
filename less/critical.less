@@ -1,3 +1,7 @@
+@import "//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,400";
+
+@import "variables";
+
 * {
   margin:0;
   padding:0;
@@ -6,14 +10,14 @@
 }
 
 body {
-   font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-family: @body-font;
    font-weight: 300;
-   color:rgb(51,51,51);
+   color:@body-text;
    font-size:1.2em;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: @title-font;
   font-weight:400;
   line-height:1.1em;
   margin:.5em 0;
@@ -27,7 +31,7 @@ p {
   padding:.5em 0;
 }
 a {
-  color:rgb(136,196,56);
+  color:@link-text;
 }
 
 /* -- NAV -- */
@@ -35,7 +39,7 @@ nav {
   position:absolute;
   z-index:1;
   width:100%;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: @title-font;
   font-size:1.1em;
 
   ul {
@@ -46,14 +50,13 @@ nav {
       display:inline-block;
 
       &.active {
-        background:rgba(255,255,255,0.3);
+        background:@nav-link-bg;
       }
 
       a {
         padding:.25em;
         display:block;
         text-decoration:none;
-        color: rgba(136,196,56,1);
       }
 
     }
@@ -65,9 +68,10 @@ nav {
 /* -- HEADER -- */
 header {
   padding:6em 0 4em 0;
-  color:rgb(255,255,255);
+  color: @header-text;
   position:relative;
-  background: rgba(102,0,153,1);
+  background: @header-bg;
+  text-align:center;
 
   &:after {
     content: "";
@@ -78,23 +82,29 @@ header {
     right: 50%;
     bottom: 0;
     margin-left: -28px;
-    border-bottom: 28px solid rgb(255,255,255);
+    border-bottom: 28px solid @header-text;
     border-left: 28px solid transparent;
     border-right: 28px solid transparent;
   }
 
   h1, p {
-    text-align:center;
     max-width:90%;
     margin:0px auto;
   }
 
   img {
     width:150px;
+    height:150px;
     border-radius:50%;
     padding:4px;
-    border:solid 1px green;
-    background:#fff;
+    border:solid 1px @img-border;
+    background: @img-bg;
   }
 
+}
+
+.container {
+  width:90%;
+  max-width:40em;
+  margin:0px auto;
 }

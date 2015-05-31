@@ -1,29 +1,56 @@
-header {
-  background: linear-gradient(274deg, rgba(102,0,153,1), rgba(38,76,122,1));
+body header {
+  -webkit-animation: ColourChange 34s ease infinite;
+  -moz-animation: ColourChange 34s ease infinite;
+  -o-animation: ColourChange 34s ease infinite;
+  animation: ColourChange 34s ease infinite;
+}
+@-webkit-keyframes ColourChange {
+  0%{background-color:@header-bg}
+  50%{background-color:@header-bg-alt}
+  100%{background-color:@header-bg}
+}
+@-moz-keyframes ColourChange {
+  0%{background-color:@header-bg}
+  50%{background-color:@header-bg-alt}
+  100%{background-color:@header-bg}
+}
+@-o-keyframes ColourChange {
+  0%{background-color:@header-bg}
+  50%{background-color:@header-bg-alt}
+  100%{background-color:@header-bg}
+}
+@keyframes ColourChange {
+  0%{background-color:@header-bg}
+  50%{background-color:@header-bg-alt}
+  100%{background-color:@header-bg}
+}
+/* body header {
+  background: linear-gradient(274deg, @header-bg-alt, @header-bg);
   background-size: 400% 400%;
 
-  -webkit-animation: AnimationName 17s ease infinite;
-  -moz-animation: AnimationName 17s ease infinite;
-  -o-animation: AnimationName 17s ease infinite;
-  animation: AnimationName 17s ease infinite;
+  -webkit-animation: ShiftBg 17s ease infinite;
+  -moz-animation: ShiftBg 17s ease infinite;
+  -o-animation: ShiftBg 17s ease infinite;
+  animation: ShiftBg 17s ease infinite;
 }
-@-webkit-keyframes AnimationName {
+@-webkit-keyframes ShiftBg {
   0%{background-position:0% 47%}
   50%{background-position:100% 54%}
   100%{background-position:0% 47%}
 }
-@-moz-keyframes AnimationName {
+@-moz-keyframes ShiftBg {
   0%{background-position:0% 47%}
   50%{background-position:100% 54%}
   100%{background-position:0% 47%}
 }
-@-o-keyframes AnimationName {
+@-o-keyframes ShiftBg {
   0%{background-position:0% 47%}
   50%{background-position:100% 54%}
   100%{background-position:0% 47%}
 }
-@keyframes AnimationName {
+@keyframes ShiftBg {
   0%{background-position:0% 47%}
   50%{background-position:100% 54%}
   100%{background-position:0% 47%}
 }
+ */
