@@ -86,7 +86,19 @@ bundle install
 
 (If you don't already have ```bundle``` installed, run ```gem install bundle``` first)
 
+#### Building The Assets
+
+```
+grunt uglify    # minifies the js
+grunt less      # compiles and minifies the less files
+
+grunt watch     # watches for changes to less/js
+
+grunt           # this will compile, minify and watch
+```
+
 #### To Run
+
 ```
 jekyll serve --config _config.yml,_config_dev.yml
 ```
@@ -98,4 +110,3 @@ Pass in the alternate address:
 ```
 jekyll serve --host 1.2.3.4
 ```
-
