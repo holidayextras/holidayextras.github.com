@@ -89,18 +89,19 @@ bundle install
 #### Building The Assets
 
 ```
-grunt uglify    # minifies the js
-grunt less      # compiles and minifies the less files
+npm run uglify    # minifies the js
+npm run less      # compiles and minifies the less files
+npm run build-dev # runs uglify and less
 
-grunt watch     # watches for changes to less/js
+npm run watch     # watches for changes to less/js
 
-grunt           # this will compile, minify and watch
+npm start         # this will compile, minify, watch and start jekyll
 ```
 
 #### To Run
 
 ```
-jekyll serve --config _config.yml,_config_dev.yml
+npm start
 ```
 The Holiday Extras blog should now be running on your machine at http://127.0.0.1:4000/
 
