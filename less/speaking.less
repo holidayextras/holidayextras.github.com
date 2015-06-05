@@ -17,14 +17,10 @@
     list-style: none;
   }
 
-  .month {
-
-    .month-name {
-      font-size:1.4em;
-      margin: .2em 0;
-      text-align: right;
-    }
-
+  .month-name {
+    font-size:1.4em;
+    margin: .2em 0;
+    text-align: right;
   }
 
   .events {
@@ -50,32 +46,6 @@
 
     }
 
-    .event-talk {
-      font-size: 1.2em;
-      margin: .2em 0;
-    }
-
-    .event-name {
-      font-size: 1em;
-      margin: .4em 0;
-      font-weight: bold;
-    }
-
-    .event-meta {
-      font-size: 0.8em;
-      margin: .2em 0 .4em 0;
-
-      i {
-        margin-right: .4em;
-      }
-
-      span {
-        padding-right: 1.3em;
-        display: block;
-      }
-
-    }
-
     a {
       text-decoration: none;
       font-weight: bold;
@@ -85,16 +55,43 @@
       margin-top: 1.5em;
     }
 
-    .event-speakers {
-      list-style: none;
+  }
+
+  .event-talk {
+    font-size: 1.2em;
+    margin: .2em 0;
+  }
+
+  .event-name {
+    font-size: 1em;
+    margin: .4em 0;
+    font-weight: bold;
+  }
+
+  .event-meta {
+    font-size: 0.8em;
+    margin: .2em 0 .4em;
+
+    i {
+      margin-right: .4em;
     }
 
-    .event-speaker {
-      font-size: 0.8em;
-      margin: .2em 0;
+    span {
+      padding-right: 1.3em;
+      display: block;
     }
 
   }
+
+  .event-speakers {
+    list-style: none;
+  }
+
+  .event-speaker {
+    font-size: 0.8em;
+    margin: .2em 0;
+  }
+
 
 }
 
@@ -127,10 +124,6 @@
       background:@img-bg;
     }
 
-    .profile-details {
-      float: left;
-    }
-
     h3 {
       font-size: 1.7em;
       margin: 0;
@@ -141,10 +134,28 @@
 
     }
 
-    .profile-job {
-      margin-bottom: 2em;
-    }
-
   }
 
+  .profile-details {
+    float: left;
+  }
+
+  .profile-job {
+    margin-bottom: 2em;
+  }
+
+}
+
+@media all and (min-width: 780px) {
+  .speaking-calendar .event-meta span {
+    display: inline;
+  }
+  .speaker-profiles .profile > img {
+    width: 200px;
+    height: 200px;
+    margin-right: 2em;
+  }
+  .speaker-profiles .profile h3 {
+    margin-top: 0.2em;
+  }
 }
