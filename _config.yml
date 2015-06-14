@@ -8,6 +8,16 @@ url: http://hungrygeek.holidayextras.co.uk
 baseurl:
 paginate: 10
 exclude: ["less","js","node_modules","Gruntfile.js","package.json","README.md"]
+collections:
+  jobs:
+    output: true
+    permalink: /careers/:path/
+defaults:
+  - scope:
+      path: ""
+      collections: jobs
+    values:
+      layout: job
 gems:
   - jekyll-redirect-from
 prose:

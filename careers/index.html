@@ -16,27 +16,19 @@ category: careers
     <p>Here are some words about Holiday extras and a <a>link</a> to the Holiday extras website.</p>
     <h2>Open roles</h2>
     <p>Here are a selection of roles we are currently looking to fill.</p>
-    <ul class="exebition exebition-jobs">
+    <ul class="exhibition exhibition-jobs">
+    {% for job in site.jobs %}
       <li>
-        <a href="software-engineer">
+        <a href="{{ job.url | prepend: site.baseurl | replace: '//', '/' }}">
           <section>
-            <h2>Software Engineer</h2>
+            <h2>{{ job.title }}</h2>
             <div class="project-summary">
-              <blockquote>Come and work with some of the most exciting tech in the world!</blockquote>
+              <blockquote>{{ job.tagline }}</blockquote>
             </div>
           </section>
         </a>
       </li>
-      <li>
-        <a href="full-stack-developer">
-          <section>
-            <h2>Full stack developer</h2>
-            <div class="project-summary">
-              <blockquote>Come and work with some of the most exciting tech in the world!</blockquote>
-            </div>
-          </section>
-        </a>
-      </li>
+    {% endfor %}
     </ul>
     <h2>Are we missing your role?</h2>
     <p>We'd love to hear what your passionate about and what you think you could do for us, so send us an email and let's get talking <a href="mailto:join@holidayextras.com">join@holidayextras.com</a>!</p>
