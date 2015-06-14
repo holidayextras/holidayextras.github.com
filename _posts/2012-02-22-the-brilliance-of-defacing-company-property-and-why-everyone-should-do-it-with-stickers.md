@@ -20,25 +20,25 @@ You can probably figure out a lot about the user from how they’ve personalised
 ### Enough already, show me some pictures
 Here’s mine, and a few others:
 
-![@dan_jenkins]({{ site.baseurl }}assets/img/dan_jenkins.jpg)
+![@dan_jenkins]({{ site.url }}{{ site.baseurl }}/assets/img/dan_jenkins.jpg)
 [@dan_jenkins](http://www.twitter.com/dan_jenkins)
 
-![@dan_jenkins]({{ site.baseurl }}assets/img/matthewpack.jpg)
+![@dan_jenkins]({{ site.url }}{{ site.baseurl }}/assets/img/matthewpack.jpg)
 [@matthewpack](http://www.twitter.com/matthewpack)
 
-![@marcgreenstock]({{ site.baseurl }}assets/img/marcgreenstock.jpg)
+![@marcgreenstock]({{ site.url }}{{ site.baseurl }}/assets/img/marcgreenstock.jpg)
 [@marcgreenstock](http://www.twitter.com/marcgreenstock)
 
-![@markfermor1]({{ site.baseurl }}assets/img/markfermor1.jpg)
+![@markfermor1]({{ site.url }}{{ site.baseurl }}/assets/img/markfermor1.jpg)
 [@markfermor1](http://www.twitter.com/markfermor1)
 
-![@vitez2]({{ site.baseurl }}assets/img/vitez2.jpg)
+![@vitez2]({{ site.url }}{{ site.baseurl }}/assets/img/vitez2.jpg)
 [@vitez2](http://www.twitter.com/vitez2)
 
-![@matt_smith04]({{ site.baseurl }}assets/img/matt_smith04.jpg)
+![@matt_smith04]({{ site.url }}{{ site.baseurl }}/assets/img/matt_smith04.jpg)
 [@matt_smith04](http://www.twitter.com/matt_smith04)
 
-![WPKenny]({{ site.baseurl }}assets/img/WPKenny.jpg)
+![WPKenny]({{ site.url }}{{ site.baseurl }}/assets/img/WPKenny.jpg)
 [@WPKenny](http://www.twitter.com/WPKenny)
 
 This obviously doesn’t go down too well with some of our friends in IT, I know it causes real pain when they have to spend hours removing them when someone either leaves or gets an upgrade; but they enjoy it really… don’t they?

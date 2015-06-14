@@ -7,9 +7,9 @@ category: blog
 <article class="post" itemscope itemType="http://schema.org/BlogPosting">
   <header class="post-header">
     {% if author.gravatar_md5 %}
-      <img src="http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=400" alt="A photo of {{ member.name }}" />
+      <img src="http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=300" alt="A photo of {{ member.name }}" />
     {% else %}
-      <img src="{{ site.baseurl }}assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
     {% endif %}
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><span itemprop="dateCreated datePublished">{{ page.date | date: "%b %-d, %Y" }}</span> - <span itemprop="author accountablePerson copyrightHolder editor" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></span> - {% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min{% if readtime > '1' %}s{% endif %} reading time</p>
@@ -18,7 +18,7 @@ category: blog
     <div class="post-content" itemprop="articleBody">
       {{ content }}
     </div>
-    <small><b>Tags</b> <span itemprop="about keywords">{{page.tags | join: ', '}}</span></small>
+    <small class="tags"><b>Tags</b> <span itemprop="about keywords">{{page.tags | join: ', '}}</span></small>
     {% if page.comments %}
       {% include disqus.html %}
     {% endif %}

@@ -1,0 +1,27 @@
+{% if speakers.size %}
+{% assign speakers = speakers | sort: "title" %}
+<hr />
+<section class="speaker-profiles">
+  <h2>Speaker Profiles</h2>
+
+  <ul class="profiles-list">
+    {% for speaker in speakers %}
+    <li class="profile">
+      {% if speaker.gravatar_md5 %}
+      <img src="http://www.gravatar.com/avatar/{{ speaker.gravatar_md5 }}?s=200" alt="A photo of {{ speaker.title }}" />
+      {% else %}
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ speaker.title }}" />
+      {% endif %}
+      <div class="profile-details">
+        <h3><a href="{{ site.url }}{{ site.baseurl }}{{ speaker.url }}">{{ speaker.title }}</a></h3>
+        <div class="profile-job">{{ speaker.tagline }}</div>
+        <div class="social">
+          <a href="http://www.github.com/{{ speaker.github }}" title="{{ speaker.title }} on GitHub" class="github" target="_blank"><i class="fa fa-github fa-fw"></i>{{ speaker.github }}</a>
+          <a href="http://twitter.com/{{ speaker.twitter }}" title="Follow {{ speaker.title }} On Twitter" class="twitter" target="_blank"><i class="fa fa-twitter fa-fw"></i>@{{ speaker.twitter }}</a>
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}

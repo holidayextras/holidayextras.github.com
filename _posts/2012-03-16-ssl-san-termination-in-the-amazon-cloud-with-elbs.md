@@ -19,7 +19,7 @@ For SSL termination in the AWS cloud you really only have a few number of option
 
 2. Termination at the application level adding CPU cycles and latency to your application itself. It’s a pretty good option; however you then need to look after making changes to SSLs etc across your instances and applications when any change to the SSL occurs. Easily done if you have a good config management set-up, but even so its something extra to have to manage.
 
-3. Let the [AWS ELB](aws.amazon.com/elasticloadbalancing) handle it for you. SSL termination was a fairly new feature when we first came to start using it, but I was sure glad to see it available. When we first started looking at AWS ELBs, they didn’t come with any SSL termination support and then we’d have been forced into option 1 or 2 (luckily we weren’t on the cloud by that point so its not a head ache we had to go through).
+3. Let the [AWS ELB](http://aws.amazon.com/elasticloadbalancing) handle it for you. SSL termination was a fairly new feature when we first came to start using it, but I was sure glad to see it available. When we first started looking at AWS ELBs, they didn’t come with any SSL termination support and then we’d have been forced into option 1 or 2 (luckily we weren’t on the cloud by that point so its not a head ache we had to go through).
 
 From a cost point of view and because we don’t have to do much in order to look after ELBs, we decided to go with option number 3. That’s something I stick by even now, we’re about half a year running our systems in production on AWS and SSL termination at the ELB level has been of no concern at all. The procedure to change or update an SSL cert is as easy as ever and there is no load added to any lower tier of architecture.
 

@@ -1,0 +1,32 @@
+- name: 'Future Of Web Design - Rising Stars'
+  location: 'New York City, USA'
+  link: 'https://futureofwebdesign.com/nyc-2015/'
+  pretty_date: '2nd - 4th Nov, 2015'
+  date_for_ordering: '2015-11-02'
+  month: '11'
+  year: '2015'
+  speakers:
+    - name: 'Dan Cork'
+      talk: "Give CSS3 some love, because CSS4 is on it's way!"
+
+- name: 'TEDx University of Kent'
+  location: 'Canterbury, UK'
+  link: 'http://www.tedxuniversityofkent.com/'
+  pretty_date: '30th May, 2015'
+  date_for_ordering: '2015-05-30'
+  month: '05'
+  year: '2015'
+  speakers:
+    - name: 'Luke Frake'
+      talk: 'The internet needs us, all of us.'
+
+- name: 'APIdays Mediterranea 2015'
+  location: 'Barcelona, Spain'
+  link: 'http://mediterranea.apidays.io/'
+  pretty_date: '6th - 7th May, 2015'
+  date_for_ordering: '2015-05-06'
+  month: '05'
+  year: '2015'
+  speakers:
+    - name: 'Simon Wood'
+      talk: 'APIs From The Trenches'

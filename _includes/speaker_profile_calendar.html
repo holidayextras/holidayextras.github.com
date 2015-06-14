@@ -1,0 +1,28 @@
+{% assign talks = site.data.speaking | sort: "date_for_ordering" %}
+<hr />
+<section class="speaking-calendar">
+  <h2>Talks</h2>
+  {% if talks.size == 0 %}
+  <p>No talks to display.</p>
+  {% else %}
+  <ul class="events">
+    {% for event in talks reversed %}
+    {% if event.speakers.size %}
+    {% for speaker in event.speakers %}
+    {% unless speaker.name == page.title %}{% continue %}{% endunless %}
+    <li class="event">
+      {% if speaker.talk %}<div class="event-talk">{{ speaker.talk }}</div>{% endif %}
+      <div class="event-name">{{ event.name }}</div>
+      <div class="event-meta">
+        <span class="date"><i class="fa fa-calendar"></i> {{ event.pretty_date }}</span>
+        <span class="location"><i class="fa fa-location-arrow"></i> {{ event.location }}</span>
+        {% if event.link %}<span class="website"><i class="fa fa-globe"></i> <a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">Website</a></span>{% endif %}
+      </div>
+      {% if event.description %}<blockquote>{{ event.description }}</blockquote>{% endif %}
+    </li>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+</section>

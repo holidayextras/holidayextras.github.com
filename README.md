@@ -17,7 +17,7 @@ The Holiday Extras Blog should be simple to use for everyone, it requires no kno
 * Commmit you branch
 
 ### Send a blog post for review
-Blog posts have to be reviewed in the same way code on our website does, ideally we would like 2 people to review the post.
+Blog posts have to be reviewed in the same way code on our website does, ideally we would like 2 people to review the post. The template for the pull request can be found [here](https://github.com/holidayextras/hx-culture/blob/master/pr-template-blogpost.mkd)
 
 1. From a technical aspect (if required)
 2. From an editorial aspect (check for typos)
@@ -86,9 +86,22 @@ bundle install
 
 (If you don't already have ```bundle``` installed, run ```gem install bundle``` first)
 
-#### To Run
+#### Building The Assets
+
 ```
-jekyll serve
+npm run uglify    # minifies the js
+npm run less      # compiles and minifies the less files
+npm run build-dev # runs uglify and less
+
+npm run watch     # watches for changes to less/js
+
+npm start         # this will compile, minify, watch and start jekyll
+```
+
+#### To Run
+
+```
+npm start
 ```
 The Holiday Extras blog should now be running on your machine at http://127.0.0.1:4000/
 
@@ -98,4 +111,3 @@ Pass in the alternate address:
 ```
 jekyll serve --host 1.2.3.4
 ```
-

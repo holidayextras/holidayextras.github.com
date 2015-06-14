@@ -1,7 +1,9 @@
+# Keep it alphabetcial please
+
 anna_divers:
   name: Anna Divers
   role: Associate Director
-  # gravatar_md5: bbcf4f3d9d713d912b44de5cdfba9276
+  gravatar_md5: bbcf4f3d9d713d912b44de5cdfba9276
   twitter: annadivers
 alanna_mooney:
   name: Alanna Mooney
@@ -16,13 +18,29 @@ andy_castle:
 caroline_woodhams:
   name: Caroline Woodhams
   role: Product Owner
-  # gravatar_md5: 768de83673b1d12535c914b59b1ec664
+  gravatar_md5: 768de83673b1d12535c914b59b1ec664
   twitter: Caroline_Ruiz82
 damien_turner:
   name: Damien Turner
   role: Head of IT and Infrastructure
   gravatar_md5: 37fcc568baa6313c094a2f8e8fcf5b94
   twitter: dent275
+dan_jenkins:
+  name: Dan Jenkins
+  role: Software Engineer (2008 - 2013)
+  gravatar_md5: db32ea38124c4a4939fb271528f4c55b
+  twitter: dan_jenkins
+  currently_employed: false
+harley_rowland:
+  name: Harley Rowland
+  role: Web Developer
+  gravatar_md5: 4f0f550c7bf51690dc8841853bd4b258
+  twitter: HarleyRowland
+george_storer:
+  name: George Storer
+  role: Web Developer
+  gravatar_md5: 8b9afbd287dff06b2258db1561cda20f
+  twitter: hxstorer
 jack_crawford:
   name: Jack Crawford
   role: Web Developer
@@ -38,6 +56,21 @@ jodie_doubleday:
   role: UXUI Architect
   gravatar_md5: 2d45a614f60b0a7154c66b81e666c5a9
   twitter: jodiedoubleday
+joe_warren:
+  name: Joe Warren
+  role: Web Developer
+  gravatar_md5: 604ac7902855109cc651823282d66ca4
+  twitter: joezo
+kevin_hodges:
+  name: Kevin Hodges
+  role: Head of Technology Shortbreaks
+  gravatar_md5: 882959cb2cd12fd22ceb6fd2a545f009
+  twitter: kevin_hodges
+louis_pryer:
+  name: Louis Pryer
+  role: Web Developer
+  gravatar_md5: 66fa6c32d739e0b90417cda633308444
+  twitter: LouisPryer  
 luke_frake:
   name: Luke Frake
   role: Front End Developer
@@ -46,7 +79,7 @@ luke_frake:
 mark_fermor:
   name: Mark Fermor
   role: Senior Systems Admin
-  # gravatar_md5: a769b1736d17133974a74176bc497161
+  gravatar_md5: a769b1736d17133974a74176bc497161
   twitter: markfermor1
 matthew_tyas:
   name: Matthew Tyas

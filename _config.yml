@@ -4,8 +4,10 @@ markdown: kramdown
 kramdown:
   input: GFM
 permalink: pretty
-baseurl: /
-paginate: 5
+url: http://hungrygeek.holidayextras.co.uk
+baseurl:
+paginate: 10
+exclude: ["less","js","node_modules","Gruntfile.js","package.json","README.md"]
 gems:
   - jekyll-redirect-from
 prose:
@@ -21,12 +23,16 @@ prose:
     - /_includes
     - /_site
     - /projects
+    - /less
+    - /js
+    - package.json
+    - Gruntfile.js
   metadata:
     _posts:
       - name: "title"
         field:
           element: "text"
-          label: "title"  
+          label: "title"
       - name: "layout"
         field:
           element: "hidden"
