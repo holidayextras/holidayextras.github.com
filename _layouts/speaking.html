@@ -1,22 +1,19 @@
 ---
 layout: default
-title: Speaking Geek
 category: speaking
 ---
 {% assign speakers = site.pages | where: "category","speaker" %}
 <article class="speaking">
   <header>
     <div class="container">
-      <h1>Speaking Geek</h1>
+      <h1>{{page.title}}</h1>
     </div>
   </header>
   <div class="container">
     <section>
-      <p>At Holiday Extras we love attending meetups and conferences to chat tech with you like minded folk. A few of us even dabble at giving talks of our own!</p>
-      <p>See below for a list of events that we'll be speaking at this year.</p>
+      {{content}}
     </section>
     {% include speaking_calendar.html %}
     {% include speaker_list.html %}
-
   </div>
 </article>
