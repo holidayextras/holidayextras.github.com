@@ -95,19 +95,14 @@ npm run build-dev # runs uglify and less
 
 npm run watch     # watches for changes to less/js
 
-npm start         # this will compile, minify, watch and start jekyll
 ```
 
 #### To Run
 
 ```
-npm start
+npm start         # this will compile, minify, watch and start jekyll
 ```
 The Holiday Extras blog should now be running on your machine at http://127.0.0.1:4000/
 
 ##### Running this on another IP address?
-Need to view this on an alternative IP address?  Serving up this blog from a VM, say?
-Pass in the alternate address:
-```
-jekyll serve --host 1.2.3.4
-```
+Need to view this on an alternative IP address?  Serving up this blog from a VM, say? Update `_config_dev.yml`
