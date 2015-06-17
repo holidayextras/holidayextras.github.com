@@ -45,6 +45,7 @@ If this is the case, we may restrict your github access to ONLY the HX Blog repo
 
 * Authorize Prose on github - <https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=repo>
 * Visit <http://prose.io/#holidayextras/holidayextras.github.com> (you should be logged in automatically)
+* Click on folder `_posts`
 * Now you should see a list of all exisitng blog posts on Hungry Geek
 * Click on 'view drafts'
 * Click 'new file'
@@ -98,4 +99,3 @@ Pass in the alternate address:
 ```
 jekyll serve --host 1.2.3.4
 ```
-
