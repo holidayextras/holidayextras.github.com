@@ -45,6 +45,7 @@ If this is the case, we may restrict your github access to ONLY the HX Blog repo
 
 * Authorize Prose on github - <https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=repo>
 * Visit <http://prose.io/#holidayextras/holidayextras.github.com> (you should be logged in automatically)
+* Click on folder `_posts`
 * Now you should see a list of all exisitng blog posts on Hungry Geek
 * Click on 'view drafts'
 * Click 'new file'
@@ -102,7 +103,8 @@ npm run watch     # watches for changes to less/js
 ```
 npm start         # this will compile, minify, watch and start jekyll
 ```
-The Holiday Extras blog should now be running on your machine at http://127.0.0.1:4000/
+
+The Holiday Extras blog should now be running on your machine at http://localhost:4000/
 
 ##### Running this on another IP address?
-Need to view this on an alternative IP address?  Serving up this blog from a VM, say? Update `_config_dev.yml`
+Need to view this on an alternative IP address? Serving up this blog from a VM, say? Update `_config_dev.yml`

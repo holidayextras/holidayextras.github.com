@@ -1,15 +1,15 @@
 ---
 layout: default
-title: The Holiday Extras Tech Team
 category: team
 ---
 <div class="team">
   <header>
     <div class="container">
-      <h1>The Team</h1>
+      <h1>{{page.title}}</h1>
     </div>
   </header>
   <main>
+    {{content}}
     <ul>
       {% for member_hash in site.data.members %}
         {% assign member = member_hash[1] %}
