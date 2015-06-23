@@ -1,21 +1,17 @@
 ---
 layout: default
-title: Come and be part of the team
 category: careers
 ---
 
 <div>
   <header>
     <div class="container">
-      <h1>Join Holiday Extras</h1>
-      <p>More than just a job</p>
+      <h1>{{ page.title }}</h1>
+      <p>{{ page.tagline }}</p>
     </div>
   </header>
   <main class="container">
-    <h2>Who are Holiday Extras</h2>
-    <p>Here are some words about Holiday extras and a <a>link</a> to the Holiday extras website.</p>
-    <h2>Open roles</h2>
-    <p>Here are a selection of roles we are currently looking to fill.</p>
+    {{ content }}
     <ul class="exhibition exhibition-jobs">
     {% for job in site.jobs %}
       <li>
