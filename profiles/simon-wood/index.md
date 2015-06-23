@@ -1,5 +1,5 @@
 ---
-layout: speaker
+layout: profile
 title: Simon Wood
 tagline: Technology Director
 gravatar_md5: 39bb8762f3a25ebc00ebd75bc4f363af
