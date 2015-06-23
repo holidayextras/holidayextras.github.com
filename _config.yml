@@ -7,6 +7,7 @@ permalink: pretty
 url: http://hungrygeek.holidayextras.co.uk
 baseurl:
 paginate: 10
+exclude: ["less","js","node_modules","Gruntfile.js","package.json","README.md"]
 gems:
   - jekyll-redirect-from
 prose:
@@ -15,11 +16,13 @@ prose:
   ignore:
     - _data
     - _includes
-    - _layouts
+    - /_layouts
+    - /_includes
+    - /_site
     - assets
     - css
-    - less
     - js
+    - less
     - .gitignore
     - _config.yml
     - _config_dev.yml

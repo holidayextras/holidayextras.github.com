@@ -7,7 +7,7 @@ category: blog
 <article class="post" itemscope itemType="http://schema.org/BlogPosting">
   <header class="post-header">
     {% if author.gravatar_md5 %}
-      <img src="http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=400" alt="A photo of {{ member.name }}" />
+      <img src="http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=300" alt="A photo of {{ member.name }}" />
     {% else %}
       <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
     {% endif %}

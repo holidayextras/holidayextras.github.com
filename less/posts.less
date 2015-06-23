@@ -1,0 +1,135 @@
+ul.posts {
+  list-style:none;
+  margin-top:1.5em;
+
+  li {
+
+    a {
+      text-decoration:none;
+      color:inherit;
+
+      section {
+        padding:1em 0;
+        border-bottom:dotted 1px @link-text;
+
+        h2 {
+          color:@link-text;
+          text-decoration:none;
+          margin-bottom: .5em;
+          display:inline-block;
+
+          &:hover {
+            text-decoration: underline;
+          }
+
+        }
+
+        i, small {
+          padding:.5em 0;
+          display:block;
+        }
+
+      }
+
+    }
+
+    &:last-of-type a section {
+      border:none;
+    }
+
+  }
+
+  .author {
+    text-align:right;
+    font-size:.75em;
+    margin:1em 0 0;
+    overflow:hidden;
+
+    img {
+      width:100px;
+      border-radius:50%;
+      padding:4px;
+      border:solid 1px @img-border;
+      background:@img-bg;
+      float:right;
+      margin-left:1em;
+    }
+
+    .author-details {
+      margin-top:2em;
+    }
+
+  }
+
+}
+
+.tags {
+  font-size:.6em;
+  margin-top:-1em;
+}
+
+.post {
+  margin-bottom:1em;
+
+  img {
+    max-width: 100%;
+    display:block;
+    margin:0px auto;
+  }
+
+  ul, ol {
+    padding:0 0 .5em 1.5em;
+  }
+
+}
+
+.post-content {
+  margin-top:1.5em;
+
+  blockquote {
+    border-left: 4px solid #dddddd;
+    padding: 0 15px;
+    color: #777777;
+
+    > :first-child {
+      margin-top: 0;
+    }
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+
+  }
+
+}
+
+pre {
+  border-radius: .25em;
+  border: solid 1px rgb(238,238,238);
+  margin:.5em;
+  overflow-x:scroll;
+
+  a {
+    color:rgba(0,0,0,0.2);
+    padding:0 .5em 0 0;
+    margin-right:.5em;
+    text-decoration: none;
+    border-right:solid 1px;
+    display:inline-block;
+  }
+
+}
+
+p > code {
+  background: rgb(250,250,250);
+  padding: .25em;
+  border-radius: .25em;
+  border: solid 1px rgb(238,238,238);
+}
+
+@media all and (min-width: 780px) {
+  .tags {
+    float:right;
+    margin-top:1.5em
+  }
+}

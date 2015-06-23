@@ -1,0 +1,22 @@
+{
+  "name": "hungrygeek",
+  "version": "1.0.0",
+  "homepage": "http://hungrygeek.holidayextras.co.uk",
+  "devDependencies": {
+    "less": "2.5.1",
+    "less-plugin-clean-css": "1.5.0",
+    "uglify-js": "2.4.23",
+    "watchy": "0.6.2"
+  },
+  "scripts": {
+    "start": "npm run build-dev && npm run watch & jekyll serve --config ./_config.yml,./_config_dev.yml",
+    "watch": "watchy -w less/*.less,js/preloadCSS.js -- npm run build-dev",
+    "build-dev": "npm run uglify & npm run less",
+    "uglify": "uglifyjs js/preloadCSS.js --compress --mangle --output _includes/js/preloadCSS.min.js",
+    "less": "lessc less/critical.less _includes/css/critical.min.css --clean-css && lessc less/hungrygeek.less css/styles.min.css --clean-css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holidayextras/holidayextras.github.com.git"
+  }
+}
