@@ -76,6 +76,11 @@ luke_frake:
   role: Front End Developer
   gravatar_md5: e4f58c959b0336f2645574b774164667
   twitter: LukeFrake
+luke_hansell:
+  name: Luke Hansell
+  role: Software Engineer
+  gravatar_md5: fba68102695d4713a00dfcefe1d2687e
+  twitter: luke_hansell
 mark_fermor:
   name: Mark Fermor
   role: Senior Systems Admin
