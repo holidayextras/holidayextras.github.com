@@ -37,7 +37,7 @@ running `node app.js` will give us `bar` in the console.
 
 But what about if we want to make two versions of `app.js`? One which outputs "bar" and one which outputs "baz"?
 
-To do this normally using we'd have to write two versions of `foo.js` and two versions of `bar.js` and bundle them separately. In this example this isn't too much of a problem. But consider instead that we have an e-commerce website and we want to be able to sell under different brand names. Our templates might be React components and we might require a header in these that we want to change depending on the brand that is requested. Suddenly the problem is not so trivial.
+To do this normally using Browserify we'd have to write two versions of `foo.js` and two versions of `bar.js` and bundle them separately. In this example this isn't too much of a problem. But consider instead that we have an e-commerce website and we want to be able to sell under different brand names. Our templates might be React components containing a header which we change depending on which brand is requested. Suddenly the problem is not so trivial.
 
 You could write an `if` statement which decides which brand you're on and loads the correct header, but that means sending every whitelabel and every iteration of your site to the client. This will massively bloat your bundled js with code your customers aren't even using.
 
@@ -45,7 +45,7 @@ Instead let's consider an alternative: redirecting the require statement.
 
 *This might sound dangerous to begin with, but stay with me.*
 
-Using [*Redirectify*](https://www.npmjs.com/package/redirectify), a Browserify transform, we can specify files which override those which are required in the normal dependency tree.
+Using [*Redirectify*](https://www.npmjs.com/package/redirectify), a Browserify transform, we can specify files which override those required in the normal dependency tree.
 
 Let's see an example:
 
