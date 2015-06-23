@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title: Speaking Geek
+title: Speaking
 ---
 At Holiday Extras we love attending meetups and conferences to chat tech with you like minded folk. A few of us even dabble at giving talks of our own!
 
