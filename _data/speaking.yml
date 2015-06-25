@@ -30,3 +30,14 @@
   speakers:
     - name: 'Simon Wood'
       talk: 'APIs From The Trenches'
+      
+- name: 'London Node User Group'
+  location: 'London, UK'
+  link: 'http://lnug.org/'
+  pretty_date: '24th June, 2015'
+  date_for_ordering: '2015-06-24'
+  month: '06'
+  year: '2015'
+  speakers:
+    - name: 'Oliver Rumbelow'
+      talk: 'Blowing Out The LAMP'
