@@ -6,13 +6,13 @@ date: 2015-06-25 12:00:00
 
 We are Holiday Extras Shortbreaks (part of the Holiday Extras Group, established for over 30 years); we work with the UK’s biggest theme parks, attractions and West-End shows helping  over half a million customers a year to make their free time count. As an innovative and entrepreneurial travel-tech business, we are proud to run like a start-up (even after 10 years of success) and are rated the 5th best company in the UK to work for in the Sunday Times Top 100.
 
-The Web Team
+## The Web Team
 
 We are a team of 19 that’s made up of Front End Developers, Back End Developers, QA’s, Project Managers as well as a Head of Technology, Head of Programme Delivery and a Technology Director.
 
 We are an innovative team with lots of ideas and we are not afraid to try some of them out! Every other Friday is a full day of ‘Project Lounge’ where our Shortbreaks and Holiday Extras Web Teams get together to work on ideas within a ‘Freedom to Learn’ R&D session that they believe would be of benefit to their individual learning and/or benefit the group with fresh ideas.
 
-The Role
+## The Role
 
 We are looking for an innovative Front End Developer to help shape our team’s development in the ever growing technology field. You will be a confident mentor to a small team of developers and must be proficient in test driven development, including Unit, Functional and End-to-End tests.
 
