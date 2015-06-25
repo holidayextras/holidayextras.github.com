@@ -20,4 +20,4 @@ You will have significant, proven capability in development experience with an i
 
 We are keen to hear from people with a high level of experience in developing client side applications and you must be comfortable within MVC and MVVM patterns. You will also need to have excellent knowledge of CSS Preprocessors including PostCSS, LESS, SASS.JS, multiple client side frameworks including React, Angular and Backbone plus some server side javascript in Node.js. You would be expected to keep up with ever changing technology and where possible be ahead of the game.
 
-Strong communication skills and a flexible approach is a must in our fast paced and agile environment. You will be pragmatic about when to spend time building the perfect solution and when to just get stuff done. Our ideal candidate would be somebody who could really move our business forward.
+Strong communication skills and a flexible approach is a must in our fast paced and agile environment. You will be pragmatic about when to spend time building the perfect solution and when to just get stuff done. Our ideal candidate would be somebody who could really move our business forward
