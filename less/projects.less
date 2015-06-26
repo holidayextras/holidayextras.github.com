@@ -1,4 +1,4 @@
-.projects {
+.exhibition {
   overflow:hidden;
   list-style:none;
   margin:1.5em 0;
@@ -7,16 +7,20 @@
     color:inherit;
     text-decoration:none;
     display:block;
-    float:left;
-    width:48%;
-    margin:1%;
     padding:1em;
+    margin:5% 0;
     text-align:center;
-    height:10em;
     border:solid 1px rgb(221,221,221);
     border-radius:.5em;
     transition: all .2s ease-in-out;
     position:relative;
+
+    @media all and (min-width: 780px) {
+      float:left;
+      width:48%;
+      margin:1%;
+      height:10em;
+    }
 
     &:hover {
       transform: scale(1.05);
