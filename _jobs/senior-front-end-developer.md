@@ -8,7 +8,7 @@ We are Holiday Extras Shortbreaks (part of the Holiday Extras Group, established
 
 ## The Web Team
 
-We are a team of 19 that’s made up of Front End Developers, Back End Developers, QA’s, Project Managers as well as a Head of Technology, Head of Programme Delivery and a Technology Director.
+We are a team of 19 that’s made up of Front End Developers, Back End Developers, QAs, Project Managers as well as a Head of Technology, Head of Programme Delivery and a Technology Director.
 
 We are an innovative team with lots of ideas and we are not afraid to try some of them out! Every other Friday is a full day of ‘Project Lounge’ where our Shortbreaks and Holiday Extras Web Teams get together to work on ideas within a ‘Freedom to Learn’ R&D session that they believe would be of benefit to their individual learning and/or benefit the group with fresh ideas.
 
