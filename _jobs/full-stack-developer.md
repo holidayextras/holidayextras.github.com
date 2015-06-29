@@ -1,5 +1,5 @@
 ---
-title: Full Stack Developer
+title: Full Stack Developer/Software Engineer
 tagline: Package - Up to &pound;50,000 per annum d.o.e + profit share + benefits
 date: 2014-12-31 12:00:00
 ---
@@ -30,6 +30,6 @@ PHP, Java, Javascript, NodeJS, Ruby, Coffeescript, Python, Cordova/Phonegap, Bac
 
 Come and help us build products that get people excited about their trips and that they depend on for hassle-free travel (please be prepared to show us how great you are with examples of previous work and delivery)
 
-If this fantastic role sounds like you and you would like to work with a Sunday Times 100 Best Companies to Work For then please submit your CV and cover letter to [join@holidayextras.com](mailto:join@holidayextras.com).
+If this fantastic role sounds like you and you would like to work with a Sunday Times 100 Best Companies to Work For then please submit your CV and cover letter to [recruitment@holidayextras.com](mailto:recruitment@holidayextras.com).
 
 We look forward to hearing from you!
