@@ -1,5 +1,5 @@
 ---
-title: Full Stack Developer/Software Engineer
+title: Full Stack Developer / Software Engineer
 tagline: Package - Up to &pound;50,000 per annum d.o.e + profit share + benefits
 date: 2014-12-31 12:00:00
 ---
