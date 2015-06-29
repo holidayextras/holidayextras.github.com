@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Careers @ Holiday Extras
+tagline: We speak your language. Do you speak ours?
 category: careers
 ---
 
