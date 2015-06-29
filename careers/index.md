@@ -19,7 +19,7 @@ Here are a selection of the vancancies we are currently looking to fill.
 
 ## Are we missing your role?
 
-We'd love to hear what your passionate about and what you think you could do for us, so send us an email and let's get talking [join@holidayextras.com](mailto:join@holidayextras.com)!
+We'd love to hear what your passionate about and what you think you could do for us, so why not get talking to us on twitter [@TheHungryGeek](https://twitter.com/thehungrygeek)!
 
 ## Still Not Convinced!
 
