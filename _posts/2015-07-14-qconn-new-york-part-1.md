@@ -7,8 +7,14 @@ tags: conference qconn new york 2015
 comments: true
 ---
 
+Introduction
+
+This is the first part of my notes and key take aways from Qonn New York 2015, a three day conference with main features (for me) on microservices, containers and culture.
+
 ### Automating operational decisions in real-time @ Netflix
 #### Chris Sanden
+
+Kev: Really interesting talk to see how "the big boys" keep track of things (services/services/customers) at scale.  Feels like we're a long way from this, we have visibility over what we're doing but would take a fair amount of work, understanding, patience and maintenance to put something that is useful in to production.
 
 Netflix deal with big numbers when it comes to metrics, not just throughput but also what "keeping things up" looks like.  In terms of humans this simply doesn't scale.  Decisions need to be repetable and incremental, not "squishy".  
 
@@ -18,6 +24,8 @@ Example, when an EC2 instance boots it may simply be faulty, this needs to be de
 
 ### Netflix’s Viewing Data Microservices: How We Know Where You Are in House of Cards
 #### Matt Zimmer
+
+Kev: Great talk and speaker, really interesting guy. I definitley feel this is something we should be thinking about a lot more in our business, even if we don't implement it fully or in a stripped down/different way, we should be thinking about the systems we control in a different way.  Systems shouldn't represent/dictate implementation, microservices shouldn't work like that.
 
 Existing architecture - stateful tier hosting their monolith viewing service.  Quote, "This is great", it all works fine.
 
@@ -36,7 +44,7 @@ Principles for more to new system
 How?
 - Small iterations
 - Externalise state
-Technology has moved on (Cassandra is now 2.0, AWS is mature), GEN4 is in a lot better position
+- Technology has moved on (Cassandra is now 2.0, AWS is mature), GEN4 is in a lot better position
 - Queues handle anything that needs processing and can be deferred.
 - Shadow testing as a way of migration, duplication into new architecture until they reached parity on the numbers.
 
@@ -47,6 +55,8 @@ GEN5 hunch, ever smaller systems with on iteration on the collect, process, prov
 
 ### Microservices and the art of taming the Dependency Hell Monsters
 #### Michael Bryzek
+
+Kev: We're doing a lot of this stuff in parts of the business, we need to be sure this continues to proliferate and permeate all facets of the web team.  It's "general practice" in open source for  reason.
 
 Works for Gilt, "American ASOS" with a big dev culture similar to Etsy.
 
@@ -72,8 +82,10 @@ Went on to talk about general practice
 - consistent naming (REST)
 - smaller/flatter services so less dependencies
 
-## Managing Complexity - Functionality
-### Ryan Trinkle
+### Managing Complexity - Functionality
+#### Ryan Trinkle
+
+Kev: Best speaker of the conference, sold his idea well and will be looking in to functional programming more to see if we can adapt and patterns to what we're doing with JS.
 
 Move fast and break things is fine for some but in practice, we want to move fast  without breaking.  And software is complex so this is inherently difficult in two major ways:
 
@@ -93,7 +105,10 @@ You don't give callbacks but instead get given an event stream.  Event propagati
 Essentially you place a pointer to a variable "x" and say, this variable gets updated to the result of "y".  "y" will emit an event when it's finished executing and the program will continue to function without the need for a callback style approach.
 
 In this example, getChar returns a character (note this could be an IO operation) and assigns it to "c" and then putChar prints it out.
+
 ```
+// Haskell snippet
+
 main                    :: IO ()
 main                    =  do c <- getChar
 putChar c
