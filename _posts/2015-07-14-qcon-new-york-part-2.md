@@ -9,7 +9,7 @@ comments: true
 
 #### Introduction
 
-This is the second part of my notes and key take aways from Qonn New York 2015, a three day conference with main features (for me) on microservices, containers and culture.
+This is the second part of my notes and key take aways from Qcon New York 2015, a three day conference with main features (for me) on microservices, containers and culture.
 
 
 ### Developing cultural intelligence
