@@ -14,16 +14,17 @@ I'd estimate that I spend ~98-99% of my Terminal time in various subfolders of m
 
 ```bash
 # go git! cd straight to the git directory
+# pwd to print the directory we've changed to, giving some visual feedback
 gg() {
   cd ~/path/to/git; pwd;
 }
 ```
 
-Changes to the `~/.bash_profile` usually only take effect when you log in again, we can force this to happen in the same window with `bash --login`. Alternatively, we can source the file with `source ~/.bash_profile` which, like any command, we can add an alias for to save some keystrokes in the future.
+Changes to the `~/.bash_profile` usually only take effect when you log in again. We can however source the file with `source ~/.bash_profile` which, like any command, we can add an alias for to save some keystrokes in the future.
 
 ```bash
 # bash reload
-alias br='. ~/.bash_profile'
+alias br='source ~/.bash_profile'
 ```
 
 When I reload my bash profile with `. ~/.bash_profile` (`br` once it's reloaded!), I can type `gg` to quickly change to this directory.
@@ -44,7 +45,7 @@ gg() {
 }
 ```
 
-Reload with `br` and voilà, it changes directory to `repo-name` inside the `git` directory.
+Reload with `br` and _voilà_, it changes directory to `repo-name` inside the `git` directory.
 
 ```bash
 jack.crawford in Documents$ gg repo-name
@@ -117,4 +118,4 @@ _gg() {
 complete -F _gg gg
 ```
 
-If you didn't already, you now know that bash aliases can be really useful for saving small amounts of time. Please share any of your own interesting bash functions and aliases in the comments!
+If you didn't already, you now know that bash aliases can be really useful for streamlining your workflow. Please share any of your own interesting bash aliases and functions in the comments!
