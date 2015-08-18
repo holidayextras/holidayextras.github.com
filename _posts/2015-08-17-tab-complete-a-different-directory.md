@@ -27,7 +27,7 @@ Changes to the `~/.bash_profile` usually only take effect when you log in again.
 alias br='source ~/.bash_profile'
 ```
 
-When I reload my bash profile with `. ~/.bash_profile` (`br` once it's reloaded!), I can type `gg` to quickly change to this directory.
+When I reload my bash profile with `source ~/.bash_profile` (`br` once it's reloaded!), I can type `gg` to quickly change to this directory.
 
 ```bash
 jack.crawford in Documents$ gg
