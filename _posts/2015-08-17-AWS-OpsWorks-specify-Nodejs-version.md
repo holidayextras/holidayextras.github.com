@@ -11,7 +11,7 @@ We have some small parts of our systems still living on [AWS OpsWorks](https://a
 
 After debugging we found that somehow the OpsWorks [Node.js](https://nodejs.org/) layer had started installing node version 0.12*x*. Even though it's not documented anywhere or even an option in AWS console.
 
-Our build pipeline was targeting the maximum version available and building all of the assets with version 0.10.*x*, some of which failled when trying to run under version 0.12.*x*.
+Our build pipeline was targeting what we thought was the maximum version available and building all of the assets with version 0.10.*x*, some of which failled when trying to run under version 0.12.*x*.
 
 The answer, which was too hard by far to find, lies in the [documentation for the **CreateLayer** API](http://docs.aws.amazon.com/opsworks/latest/APIReference/API_CreateLayer.html#opsworks-CreateLayer-request-Type), but below is the snippet required inside of the CloudFormation template to make this work;
 
