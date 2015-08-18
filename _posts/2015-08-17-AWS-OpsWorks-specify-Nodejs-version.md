@@ -22,7 +22,7 @@ The answer, which was too hard by far to find, lies in the [documentation for th
 	"Attributes": {
 		"NodejsVersion": "0.10.38"
 	},
-...
+
 ```
 To ensure you are using a supported version, you can take it from the management console GUI.
 
