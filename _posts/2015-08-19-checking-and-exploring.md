@@ -24,7 +24,7 @@ In <cite>[Testing and Checking Refined](http://www.satisfice.com/blog/archives/8
 
 Algorithmic decision rules? It's true that checking is boring and so it often makes sense to have computers do it instead of people. The temptation therefore is to automate everything and be done with it. If a little is good, more must be better, right? The thing is, checks on their own—whether performed by a computer or a person—can't reveal all of the bugs, let alone all of the risks and opportunities that exist in complex software.
 
-Checking uses validation and verification to answer the question, "does this application do everything that it’s supposed to do?". To be reliable, checks have to be logical and repeatable, but that level of formality doesn't leave any room for curiosity, experminentation or empathy. Neither does it allow for the random variations in human behaviour (e.g. clicking buttons at slighly different speeds, providing slightly different inputs or taking slightly different routes) that so often lead to the discovery of bugs.
+Checking uses validation and verification to answer the question, "does this application do everything that it’s supposed to do?". To be reliable, checks have to be logical and repeatable, but that level of formality doesn't leave any room for curiosity, experimentation or empathy. Neither does it allow for the random variations in human behaviour (e.g. clicking buttons at slighly different speeds, providing slightly different inputs or taking slightly different routes) that so often lead to the discovery of bugs.
 
 ## Exploring
 
