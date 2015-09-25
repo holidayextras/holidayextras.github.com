@@ -9,7 +9,7 @@
       {% assign url = event.speaker | replace:' ','' %}
       <li>
         <div class="event-logo">
-          <img src="{{ site.url }}/assets/img/events/{{ event.logo }}" alt="{{ event.name }}" />
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/img/events/{{ event.logo }}" alt="{{ event.name }}" />
         </div>
         <div>
           <h3>{{ event.talk }}</h3>
