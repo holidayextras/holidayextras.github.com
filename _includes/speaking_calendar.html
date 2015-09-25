@@ -1,51 +1,112 @@
 {% assign this_year = 'now' | date: "%Y" %}
 {% assign filter_by_year = site.data.speaking | sort: "year" | group_by: "year" %}
+{% assign todayFormatted = site.time | date: '%Y%m%d' %}
+
 <hr />
-<section class="speaking-calendar">
-  {% if filter_by_year.size == 0 %}
-  <p>No talks to display.</p>
-  {% else %}
-  {% for year in filter_by_year %}
-    {% if year.name < this_year %}{% continue %}{% endif %}
-  <h2>{{ year.name }} Calendar</h2>
-  <ul class="month-list">
-    {% assign filter_by_month = year.items | sort: "month" | group_by: "month" %}
-    {% for month in filter_by_month %}
-    <li class="month">
-      <div class="month-name">{{ site.data.month_names[month.name] }}</div>
-      <ul class="events">
-        {% assign events = month.items | sort: "date_for_ordering" %}
-        {% for event in events %}
-        <li class="event">
-          <div class="event-name">{{ event.name }}</div>
+<section>
+  <ul>
+    {% for event in site.data.speaking %}
+      {% assign url = event.speaker | replace:' ','' %}
+      <li>
+        <div class="event-logo">
+          <img src="{{ site.url }}/assets/img/events/{{ event.logo }}" alt="{{ event.name }}" />
+        </div>
+        <div>
+          <h3>{{ event.talk }}</h3>
+          <h4>
+            {% if url.size > 0 %}
+              by <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
+            {% else %}
+              by {{ event.speaker }}
+            {% endif %}
+          </h4>
           <div class="event-meta">
-            <span class="date"><i class="fa fa-calendar"></i> {{ event.pretty_date }}</span>
-            <span class="location"><i class="fa fa-location-arrow"></i> {{ event.location }}</span>
-            {% if event.link %}<span class="website"><i class="fa fa-globe"></i> <a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">Website</a></span>{% endif %}
+            <div class="date"><i class="fa fa-fw fa-calendar"></i> {{ event.pretty_date }}</div>
+            <div class="location"><i class="fa fa-fw fa-location-arrow"></i> {{ event.location }}</div>
+            {% if event.link %}<div class="website"><i class="fa fa-fw fa-globe"></i> <a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">Website</a></div>{% endif %}
           </div>
-          {% if event.description %}<blockquote>{{ event.description }}</blockquote>{% endif %}
-          {% if event.speakers.size %}
-          <h5>Speakers</h5>
-          <ul class="event-speakers">
-            {% for speaker in event.speakers %}
-            {% assign url = speakers | where:"title",speaker.name | map: "url" %}
-            <li class="event-speaker">
-              {% if url.size > 0 %}
-              <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ speaker.name }}'s Profile'">{{ speaker.name }}</a>
-              {% else %}
-              {{ speaker.name }}
-              {% endif %}
-              {% if speaker.talk %} - {{ speaker.talk }}{% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-        </li>
-        {% endfor %}
-      </ul>
-    </li>
+        </div>
+      </li>
     {% endfor %}
   </ul>
-  {% endfor %}
-  {% endif %}
+<!--
+
+
+  {% if filter_by_year.size == 0 %}
+    <p>No talks to display.</p>
+  {% else %}
+    {% for year in filter_by_year %}
+      {% if year.name < this_year %}{% continue %}{% endif %}
+    <h2>{{ year.name }} Calendar</h2>
+    <ul class="month-list">
+      {% assign filter_by_month = year.items | sort: "month" | group_by: "month" %}
+      {% for month in filter_by_month %}
+      <li class="month">
+        <div class="month-name">{{ site.data.month_names[month.name] }}</div>
+        <ul class="events">
+          {% assign events = month.items | sort: "date_for_ordering" %}
+          {% for event in events %}
+            {% assign eventFormatted = event.date_for_ordering | date: '%Y%m%d' %}
+            {% if todayFormatted > eventFormatted %}
+              <h1>UPCOMING EVENTS</h1>
+              <li class="event">
+                <div class="event-name">{{ event.name }}</div>
+                <div class="event-meta">
+                  <span class="date"><i class="fa fa-calendar"></i> {{ event.pretty_date }}</span>
+                  <span class="location"><i class="fa fa-location-arrow"></i> {{ event.location }}</span>
+                  {% if event.link %}<span class="website"><i class="fa fa-globe"></i> <a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">Website</a></span>{% endif %}
+                </div>
+                {% if event.description %}<blockquote>{{ event.description }}</blockquote>{% endif %}
+                {% if event.speakers.size %}
+                <h5>Speakers</h5>
+                <ul class="event-speakers">
+                  {% for speaker in event.speakers %}
+                  {% assign url = speakers | where:"title",speaker.name | map: "url" %}
+                  <li class="event-speaker">
+                    {% if url.size > 0 %}
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ speaker.name }}'s Profile'">{{ speaker.name }}</a>
+                    {% else %}
+                    {{ speaker.name }}
+                    {% endif %}
+                    {% if speaker.talk %} - {{ speaker.talk }}{% endif %}
+                  </li>
+                  {% endfor %}
+                </ul>
+                {% endif %}
+              </li>
+            {% else %}
+              <h1>PAST EVENTS</h1>
+              <li class="event">
+                <div class="event-name">{{ event.name }}</div>
+                <div class="event-meta">
+                  <span class="date"><i class="fa fa-calendar"></i> {{ event.pretty_date }}</span>
+                  <span class="location"><i class="fa fa-location-arrow"></i> {{ event.location }}</span>
+                  {% if event.link %}<span class="website"><i class="fa fa-globe"></i> <a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">Website</a></span>{% endif %}
+                </div>
+                {% if event.description %}<blockquote>{{ event.description }}</blockquote>{% endif %}
+                {% if event.speakers.size %}
+                <h5>Speakers</h5>
+                <ul class="event-speakers">
+                  {% for speaker in event.speakers %}
+                  {% assign url = speakers | where:"title",speaker.name | map: "url" %}
+                  <li class="event-speaker">
+                    {% if url.size > 0 %}
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ speaker.name }}'s Profile'">{{ speaker.name }}</a>
+                    {% else %}
+                    {{ speaker.name }}
+                    {% endif %}
+                    {% if speaker.talk %} - {{ speaker.talk }}{% endif %}
+                  </li>
+                  {% endfor %}
+                </ul>
+                {% endif %}
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  {% endif %} -->
 </section>

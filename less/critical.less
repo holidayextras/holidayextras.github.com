@@ -17,10 +17,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: @title-font;
   font-weight:400;
   line-height:1.1em;
   margin:.5em 0;
+}
+h1, h2, h3 {
+  font-family: @title-font;
 }
 
 h1 {
@@ -32,6 +34,10 @@ p {
 }
 a {
   color:@link-text;
+  text-decoration:none;
+  &:hover {
+    tet-decoration:underline;
+  }
 }
 
 /* -- NAV -- */
@@ -57,6 +63,7 @@ nav {
         padding:.25em;
         display:block;
         text-decoration:none;
+        color:rgb(255,255,255);
       }
 
     }

@@ -36,11 +36,13 @@ harley_rowland:
   role: Web Developer
   gravatar_md5: 4f0f550c7bf51690dc8841853bd4b258
   twitter: HarleyRowland
+  currently_employed: false
 george_storer:
   name: George Storer
   role: Web Developer
   gravatar_md5: 8b9afbd287dff06b2258db1561cda20f
   twitter: hxstorer
+  currently_employed: false
 jack_crawford:
   name: Jack Crawford
   role: Software Engineer
@@ -70,7 +72,8 @@ louis_pryer:
   name: Louis Pryer
   role: Web Developer
   gravatar_md5: 66fa6c32d739e0b90417cda633308444
-  twitter: LouisPryer  
+  twitter: LouisPryer
+  currently_employed: false
 luke_frake:
   name: Luke Frake
   role: Front End Developer
@@ -96,6 +99,7 @@ matthew_tyas:
   role: Web Developer
   gravatar_md5: ba814ae5bf495589d2dce37d95816a11
   twitter: MatthewJTyas
+  currently_employed: false
 mike_carter:
   name: Mike Carter
   role: Software Architect
