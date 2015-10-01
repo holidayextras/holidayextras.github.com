@@ -7,6 +7,15 @@
   speaker: 'Dan Cork'
   talk: "Give CSS3 some love, because CSS4 is on it's way!"
 
+- name: 'The London Web'
+  logo: 'londonweb.png'
+  location: 'London, UK'
+  link: 'http://www.meetup.com/londonweb/'
+  pretty_date: '15th October, 2015'
+  date_for_ordering: '2015-10-15'
+  speakers: 'Liz Pope'
+  talk: 'Where Can Software Testing Take Me?'
+
 - name: 'FullStack 2015'
   logo: 'fullstack.png'
   location: 'London, UK'

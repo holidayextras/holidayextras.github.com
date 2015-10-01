@@ -3,6 +3,8 @@ layout: competition
 title: Full Stack Competition
 ---
 
+<h1>COMPETITION NOW CLOSED!</h1>
+
 ![London]({{ site.url }}{{ site.baseurl }}/assets/img/london.png)
 
 To celebrate Holiday Extras sponsoring Full Stack Conference 2015, The Hungry Geek is pleased to offer you the chance to win a ticket to the conference with accommodation for 3 nights in the St Giles hotel in the heart of London.
