@@ -13,7 +13,7 @@
   link: 'http://www.meetup.com/londonweb/'
   pretty_date: '15th October, 2015'
   date_for_ordering: '2015-10-15'
-  speakers: 'Liz Pope'
+  speaker: 'Liz Pope'
   talk: 'Where Can Software Testing Take Me?'
 
 - name: 'FullStack 2015'
