@@ -15,7 +15,7 @@
           <h3>{{ event.talk }}</h3>
           <h4>
             {% if url.size > 0 %}
-              by <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
+              by <a href="{{ site.url }}{{ site.baseurl }}/{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
             {% else %}
               by {{ event.speaker }}
             {% endif %}
