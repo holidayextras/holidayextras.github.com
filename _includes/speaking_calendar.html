@@ -6,7 +6,7 @@
 <section>
   <ul>
     {% for event in site.data.speaking %}
-      {% assign url = event.speaker | replace:' ','-' % | downcase}
+      {% assign url = event.speaker | replace:' ','-' | downcase%}
       <li>
         <div class="event-logo">
           <img src="{{ site.url }}{{ site.baseurl }}/assets/img/events/{{ event.logo }}" alt="{{ event.name }}" />
