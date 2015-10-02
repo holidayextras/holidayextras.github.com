@@ -5,10 +5,35 @@
   }
 
   h2 {
-    text-align: center;
     font-size: 2.2em;
   }
+  ul {
+    list-style:none;
+    padding:0;
+    margin:0;
+    li {
+      border-bottom:solid 1px @pagination-border;
+      padding:1em 0;
+      overflow:hidden;
+      h4 {
+        padding:0;
+        margin:0;
+      }
+    }
+  }
+}
 
+.event-logo {
+  float:left;
+  width:28%;
+  padding-right:2%;
+  img {
+    width:100%;
+  }
+  + div {
+    width:70%;
+    float:right;
+  }
 }
 
 .speaking-calendar {
