@@ -52,3 +52,5 @@
   speakers:
     - name: 'Liz Pope'
       talk: 'Where Can Software Testing Take Me?'
+    - name: 'Matt Obee'
+      talk: 'Checking & Exploring in Agile Teams'
