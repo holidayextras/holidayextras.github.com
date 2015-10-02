@@ -16,6 +16,15 @@
   speaker: 'Liz Pope'
   talk: 'Where Can Software Testing Take Me?'
 
+- name: 'The London Web'
+  logo: 'londonweb.png'
+  location: 'London, UK'
+  link: 'http://www.meetup.com/londonweb/'
+  pretty_date: '15th October, 2015'
+  date_for_ordering: '2015-10-15'
+  speaker: 'Matt Obee'
+  talk: 'Checking & Exploring in Agile Teams'
+
 - name: 'FullStack 2015'
   logo: 'fullstack.png'
   location: 'London, UK'
@@ -51,3 +60,4 @@
 #   date_for_ordering: '2015-06-24'
 #   speaker: 'Oliver Rumbelow'
 #   talk: 'Blowing Out The LAMP'
+
