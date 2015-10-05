@@ -30,7 +30,7 @@ While it's a myth that only testers can test, it's equally untrue to say that ev
 
 ## 6. Certification is important
 
-Certification (like that offered by <abbr title="International Software Testing Qualifications Board">ISTQB</abbr>) is a controversial subject in the testing community with one camp arguing for it as essential for making the discipline credible and the other camp dismissing it as unnecessary and out-of-touch. The truth is, many employers don't place much emphasis on the need for certification and the best recognise that there are far better ways for a tester to demonstrate their passion and capabilities.
+Certification (like that offered by <a href="http://www.istqb.org/"><abbr title="International Software Testing Qualifications Board">ISTQB</abbr></a>) is a controversial subject in the testing community with one camp arguing for it as essential for making the discipline credible and the other camp dismissing it as unnecessary and out-of-touch. The truth is, many employers don't place much emphasis on the need for certification and the best recognise that there are far better ways for a tester to demonstrate their passion and capabilities.
 
 ## 7. Computers can do all the testing
 
