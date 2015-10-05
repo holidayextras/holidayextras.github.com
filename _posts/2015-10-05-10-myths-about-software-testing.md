@@ -47,3 +47,7 @@ There is, of course, a role for testers in Agile projects, but it looks very dif
 ## 10. Testing is boring
 
 When people think of testing they often focus on the rudimentary and repetitive checks. There's no denying it, checking is boring, but that's why smart testers make computers do the checking so that they can spend more time exploring. Testers are fortunate to work at the intersection of planning, design and development which gives them a unique opportunity to work with a wide range of disciplines and stakeholders to influence how a product evolves. It's actually very exciting.
+
+## Summary
+
+So, testing isn't easy, but that's part of what makes it interesting. Professional testers -- certified or not -- play an important role, but the whole project team is responsible for quality. That's particularly true in Agile teams where exploration takes the place of planning. Also, computers can do some of the boring checks so that we don't have to, but they'll never take the place of human curiosity and empathy.
