@@ -18,7 +18,7 @@ This is true for <em>some</em> projects, but certainly not all. In highly-regula
 
 ## 3. Exploratory testing is bad testing
 
-This myth comes from the assumption that <em>exploratory</em> means the same thing as <em>random</em>. In fact, exploration is a logical and systematic approach to testing. All testing that involves a person interacting, thinking and responding to what happens is inherently exploratory, but the amount of freedom they have might be limited by things like overly prescriptive test cases. Exploratory testing often reveals problems and opportunities that more formalised testing and checking cannot.
+This myth comes from the assumption that <em>exploratory</em> means the same thing as <em>random</em>. In fact, exploration is a logical and systematic approach to testing. All testing that involves a person interacting with, thinking about and responding to what happens is inherently exploratory, but the amount of freedom they have might be limited by things like overly prescriptive test cases. Exploratory testing often reveals problems and opportunities that more formalised testing and checking cannot.
 
 ## 4. Only testers can test
 
