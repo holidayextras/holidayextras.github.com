@@ -21,68 +21,68 @@ Our "state" is held in backbone models, what do we do about managing the state h
 Consider the following:
 
 We have a variable called `clickCount`.
-```
-var clickCount = 0
-```
+
+    var clickCount = 0
+
 
 
 We have a React component which renders `clickCount`.
-```
-var Component = React.createClass({
-  render: function() {
-    return <button>{this.props.clickCount}</button>
-  }
-});
-```
+
+    var Component = React.createClass({
+      render: function() {
+        return <button>{this.props.clickCount}</button>
+      }
+    });
+
 
 
 So we pass `clickCount` in to our Component when we render it.
-```
-React.render(<Component clickCount={clickCount} />, document.body)
-```
+
+    React.render(<Component clickCount={clickCount} />, document.body)
+
 
 
 Now we want our clickCount to increase on click. So in our component:
-```
-render: function() {
-  return <button onClick={this.props.onClickHandler}>{this.props.clickCount}</button>
-}
-```
+
+    render: function() {
+      return <button onClick={this.props.onClickHandler}>{this.props.clickCount}</button>
+    }
+
 
 
 And outside our component we add a clickHandler
-```
-clickHandler = function() {
-  clickCount += 1
-}
-```
+
+    clickHandler = function() {
+      clickCount += 1
+    }
+
 
 
 And we pass this clickHandler to our component
-```
-React.render(<Component clickCount={clickCount} onClickHandler={clickHandler} />, document.body)
-```
+
+    React.render(<Component clickCount={clickCount} onClickHandler={clickHandler} />, document.body)
+
 
 
 But wait! Our component doesn't re-render when we click and our UI is out of date with our state! :astonished:
 
 
 To rectify this situation we'll put our rendering inside a function.
-```
-update = function() {
-  React.render(<Component clickCount={clickCount} onClickHandler={clickHandler} />, document.body)
-}
-update()
-```
+
+    update = function() {
+      React.render(<Component clickCount={clickCount} onClickHandler={clickHandler} />, document.body)
+    }
+    update()
+
 
 
 We call `update()` straight away as we want it to render on start up, we then also add a call to `update` in our click handler.
-```
-clickHandler = function() {
-  clickCount += 1
-  update()
-}
-```
+
+    clickHandler = function() {
+      clickCount += 1
+      update()
+    }
+
 
 
 There we go! Now our UI updates with our state and our state is held outside of our component. If, as was mentioned at the start, we are listening to a backbone application we can tie the `update()` method (the React rendering) to the `listenTo` callbacks for our models/UI etc.
