@@ -32,7 +32,7 @@ We have a React component which renders `clickCount`.
       render: function() {
         return <button>{this.props.clickCount}</button>
       }
-    });
+    })
 
 
 
