@@ -1,5 +1,5 @@
 ---
-title: UI Engineer
+title: UI Developer
 tagline: Package - Up to &pound;40,000 per annum d.o.e + profit share + benefits
 date: 2015-10-14 12:00:00
 ---
