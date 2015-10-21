@@ -30,15 +30,21 @@ Have at least two years of significant and proven experience of:
 
 In addition, you must have strong communication skills and a flexible, pragmatic approach. Along with a passion for keeping up with ever changing technology to keep ahead of the game.
 
+![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/UIToolkit.png) // UI TOOLKIT
+![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/JS.png) // JS
+![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/HTML5.png) // HTML5
+![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/Bootstrap.png) // Bootstrap
+![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/Cordova.png) // Cordova
+
 **It would be great if you’re also in the know about&hellip;**
 
-- Multiple client side frameworks including React, Angular and Backbone, plus some server side javascript in Node.js
+- Multiple client side frameworks including React and Backbone, plus some server side javascript in Node.js
 - Experience developing iOS and Android apps using Cordova or natively
 - Current design trends in the digital space
 - Creating concise and clear documentation, where appropriate
 - Web analytics
 
-We are looking for the best to join our team. We pride ourselves on being able to offer exciting challenges in the world of UX, whilst providing a fantastic environment in which to work. Along with pension, medical insurance, enhanced maternity, cycle-to-work schemes, etc we also have birthday days off, ‘Anytime +’ (our flexible working philosophy that says if you are contactable and connected it doesn’t matter where or when you work), and Project Lounge – our fortnightly ‘freedom to learn’ RnD sessions…
+We are looking for the best to join our team. We pride ourselves on being able to offer exciting challenges in the world of UX, whilst providing a fantastic environment in which to work. Along with pension, medical insurance, enhanced maternity, cycle-to-work schemes, etc we also have birthday days off, ‘Anytime +’ (our flexible working philosophy that says if you are contactable and connected it doesn’t matter where or when you work), and Project Lounge – our fortnightly ‘freedom to learn’ RnD sessions&hellip;
 
 **If that sounds like you, we’d like to see&hellip;**
 
