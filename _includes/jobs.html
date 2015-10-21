@@ -1,5 +1,5 @@
 <ul class="exhibition exhibition-jobs">
-{% for job in site.jobs %}
+{% for job in site.jobs reversed %}
   <li>
     <a href="{{ job.url | prepend: site.baseurl | replace: '//', '/' }}">
       <section>
