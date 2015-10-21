@@ -30,12 +30,6 @@ Have at least two years of significant and proven experience of:
 
 In addition, you must have strong communication skills and a flexible, pragmatic approach. Along with a passion for keeping up with ever changing technology to keep ahead of the game.
 
-![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/UIToolkit.png) // UI TOOLKIT
-![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/JS.png) // JS
-![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/HTML5.png) // HTML5
-![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/Bootstrap.png) // Bootstrap
-![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/Cordova.png) // Cordova
-
 **It would be great if you’re also in the know about&hellip;**
 
 - Multiple client side frameworks including React and Backbone, plus some server side javascript in Node.js

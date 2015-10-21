@@ -23,12 +23,6 @@ You’ll have a strong portfolio including mobile design and you’ll confidentl
 - Have a passion for typography
 - Have at least two years of relevant experience in this space.
 
-![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/UIToolkit.png) // UI TOOLKIT
-![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/JS.png) // JS
-![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/HTML5.png) // HTML5
-![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/Bootstrap.png) // Bootstrap
-![UI Toolkit]({{ site.url }}{{ site.baseurl }}/assets/img/Sketch.png) // Sketch
-
 **It would be great if you’re also in the know about&hellip;**
 
 - Working knowledge of React.js
