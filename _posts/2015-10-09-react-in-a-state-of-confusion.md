@@ -8,7 +8,7 @@ comments: true
 excerpt: "Components should be stateless. Stateless where possible. Push state higher up the dependency tree. But what happens when you get to the top of the tree?"
 ---
 
-We follow design principles with React to make them as composable and encapsulated as possible. To enable this we have a few guidelines which Facebook themselves promote:
+We follow design principles with React to make them as composable and encapsulated as possible. To enable this we have a few guidelines which [React themselves promote](http://facebook.github.io/react/docs/thinking-in-react.html#step-4-identify-where-your-state-should-live):
 - Components should be stateless
 - Stateless where possible
 - Push state higher up the dependency tree
