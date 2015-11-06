@@ -36,8 +36,8 @@ Sure, there are things that remain the firm domain of either role. As a Product 
 
 Having this partnership with the team's SM has meant that we've developed a strong foundation to challenge, feedback, support and trust each other. 
 
-This dynamic seems to work really well in the our team, but every team is different and that's the point - find out what works best in your team.
+This dynamic seems to work really well for us, but every team is different and that's the point - find out what works best in your team.
 
-We don't have to stick to text-book and **that** is being agile. 
+We don't have to stick to the textbook and **that** is being agile. 
 
 
