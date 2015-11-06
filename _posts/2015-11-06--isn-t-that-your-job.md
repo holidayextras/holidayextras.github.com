@@ -11,7 +11,7 @@ excerpt: "How following a textbook approach to role divisions is the opposite of
 
 ## Product Owners and Scrum Masters - Text book vs. Agile
 
-When you read the theory, there should be a clear division between the roles and responsibilities of PO's and SM's. 
+When you read the theory, there should be a clear division between the roles and responsibilities of POs and SMs. 
 
 Product Owners own the product; the vision and strategy, and focus on prioritising the work each Sprint to drive the team forward in delivering that vision.
 
