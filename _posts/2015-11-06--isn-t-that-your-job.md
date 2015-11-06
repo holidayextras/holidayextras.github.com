@@ -1,11 +1,12 @@
 ---
-comments: "true"
+comments: true
 layout: post
-author: ""
+author: alix_george
 categories: ""
-tags: ""
+tags: scrum agile roles
 published: false
-title: "'Isn't that YOUR job?'"
+title: 'Isn't that YOUR job?'
+excerpt: "How following a textbook approach to role divisions is the opposite of agile"
 ---
 
 ## Product Owners and Scrum Masters - Text book vs. Agile
