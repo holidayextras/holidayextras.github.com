@@ -10,6 +10,11 @@ alanna_mooney:
   role: Scrum Master
   gravatar_md5: 827526410b82eece1cec6bb60241b8c3
   twitter: alannamooney
+alix_george:
+  name: Alix George
+  role: Product Owner
+  gravatar_md5: c7116d079255c2a8d6e48eb44ba9af65
+  twitter: sarcasmwarning
 andy_castle:
   name: Andy Castle
   role: Software Engineer
