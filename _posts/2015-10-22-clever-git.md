@@ -27,7 +27,7 @@ This would then go to peer review before being merged to master. However, when m
 
 The obvious way that most people use to get around this problem is with a `git merge`. This updates your featureBranch with the latest master branch. However, every time you merge master, you will add a new commit to your branch history. Doing this once may not seem like it could be a problem but when you are working on a branch for a prolonged period of time, this can occur multiple times, leaving your commit history in a mess! This in turn makes it difficult for other developers to understand the history of your branch.
 
-Instead of doing a `git merge master into your branch, you can instead do `git rebase master`. This has the same affect as 'merging master' but instead of adding a new commit to your featureBranch, it re-writes the project history by re-writing your commits. This leaves you with a cleaner project history.
+Instead of doing a `git merge master` into your branch, you can instead do `git rebase master`. This has the same affect as 'merging master' but instead of adding a new commit to your featureBranch, it re-writes the project history by re-writing your commits. This leaves you with a cleaner project history.
 
 To improve your commit history even more, you can clean the commits on your featureBranch by doing `git rebase -i master`. This gives you many options for every commit you have made on your featureBranch. It lets you squash commits together and reword your commit messages. This can be used to group specific changes into individual commits and squash small commits into other commits, keeping your branch history concise.
 
