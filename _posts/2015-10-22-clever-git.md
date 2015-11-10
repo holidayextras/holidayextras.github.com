@@ -29,7 +29,7 @@ The obvious way that most people use to get around this problem is with a `git m
 
 Instead of doing a `git merge master` into your branch, you can instead do `git rebase master`. This has the same affect as 'merging master' but instead of adding a new commit to your featureBranch, it re-writes the project history by re-writing your commits. This leaves you with a cleaner project history.
 
-** The only caveat of rebasing a branch is that you should only do so on a private branch. If you rebase a public branch, all other collaborators will still be working on the original master branch, therefor Git will think your master branch's history has diverged.**
+**The only caveat of rebasing a branch is that you should only do so on a private branch. If you rebase a public branch, all other collaborators will still be working on the original master branch, therefor Git will think your master branch's history has diverged.**
 
 To improve your commit history even more, you can clean the commits on your featureBranch by using the interactive rebase command: `git rebase -i master`. This gives you many options for every commit you have made on your featureBranch. It lets you squash commits together and reword your commit messages. This can be used to group specific changes into individual commits and squash small commits into other commits, keeping your branch history concise.
 
