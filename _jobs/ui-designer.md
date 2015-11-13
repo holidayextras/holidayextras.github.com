@@ -1,9 +1,9 @@
 ---
 title: UI Designer
 tagline: Package - Up to &pound;40,000 per annum d.o.e + profit share + benefits
-date: 2015-10-14 12:00:00
+date: 2015-11-13 12:00:00
 redirect_from:
-  - ux-designer
+  - /careers/ux-designer/
 ---
 We’re looking for UI designers to join us on the Holiday Extras campus and to become part of our expert team. The workload is fast-paced, but the atmosphere is fun
 
