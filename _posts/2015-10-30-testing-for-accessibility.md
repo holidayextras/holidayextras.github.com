@@ -66,8 +66,16 @@ Tools are essential for testing some aspects of accessibility. For example, <abb
 
 Whenever possible, aim to involve real users in accessibility testing. This is no different from testing usability more generally. While a tester or developer can check an application against guidelines and best practices, they will always be biased by their insider knowledge. Also, while they might be technical experts, testers and developers are not experts at using assistive technology in the same way that real users are.
 
-There are however lots of things that a developer or expert tester can and should be checking for, even before users are involved.
+There are however lots of things that a developer or expert tester can and should be checking for, even before users are involved. The following quick and easy checks can be performed on any website or application, perhaps before a more in-depth audit takes place:
+
+* Does each page have a unique and descriptive `title`? As well as appearing in search results, in bookmarks and when shared on social networks, the `title` is one of the first things announced by assistive technology when a page is loaded.
+* Does every `img` element have an `alt` attribute? Is the text appropriate? Is is necessary or should the `alt` be empty so that it can be ignored by assistive technology?
+* Are sections of the page separated by headings? As well as being visually obvious, are those headings identified as such using HTML heading elements at the correct level (`h1`, `h2`, `h3` etc.)? As well as describing the structure of the page, keyboard users can easily jump between these headings.
+* Can you navigate the page using the keyboard tab key? Is the keyboard focus clearly visible at all times? Check for keyboard traps where you can tab onto an element but not tab away from it (often happens when JavaScript is incorrectly catching all key presses).
+* Does every form field have a label? These should be paired explicitly using `for` and `id` attributes. The quickest way to test this without looking at the code is by clicking on the label and checking that keyboard focus is moved to the field.
+* Is there sufficient contrast between foreground and background? Check it with a tool like [WebAIM's Color Contrast Checker](http://webaim.org/resources/contrastchecker/).
+* Is information provided through colour without any other visual clue? If you were to remove the colour, could you still understand the meaning of the content?
 
 ## Treat accessibility as a component of user experience
 
-Because accessibility is necessarily more closely tied to code than is general usability, there's a tendency for it to be treated as a simple matter of standards conformance. I began this post by saying "accessibility is part of design", and I'm going to end with it too.
+Because accessibility is necessarily more closely tied to code than is general usability, there's a tendency for it to be treated as a simple matter of standards conformance. I began this post by saying "accessibility is part of design", and I'm going to end with it too. Regardless of who is doing the testing, it needs to be done as early as possible.
