@@ -17,7 +17,7 @@ Of 109 applicants there were only **three women**
 
 If you consider that of those 109 applicants we’ve hired just six* people then the chances of one of those six being a woman is... (please wait while I do maths)... 0.16%. That’s crazy low!
 
-**If those hire statistics seem strange then I should point out that they are slightly skewed by agencies sending lots of unsuitable candidates who didn’t make the first CV sift. I don’t have post first sift data to hand - so these numbers will have to do for now! (I’ll put together a blog post on our hiring process another time!)*
+**If those hire statistics seem strange then I should point out that they are slightly skewed by agencies sending lots of unsuitable candidates who didn’t make the first CV sift. I don’t have post first sift data to hand - so these numbers will have to do for now! I’ll put together a blog post on our hiring process another time!*
 
 Regardless of how you read those statistics, three female applicants in 109 is low. Far too low. But it does answer the question of why I haven’t hired a female engineer this year - they just aren’t applying. I can't give a job to someone who doesn't apply. But that raises a more important question - **Why aren’t women applying?**
 
