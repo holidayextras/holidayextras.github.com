@@ -36,6 +36,12 @@ dan_jenkins:
   gravatar_md5: db32ea38124c4a4939fb271528f4c55b
   twitter: dan_jenkins
   currently_employed: false
+duncan_fenning:
+  name: Duncan Fenning
+  role: Web Developer
+  gravatar_md5: 41a9f9f2f62bc01279a518d2b826de53
+  twitter: DuncanFenning
+  currently_employed: true
 harley_rowland:
   name: Harley Rowland
   role: Web Developer
