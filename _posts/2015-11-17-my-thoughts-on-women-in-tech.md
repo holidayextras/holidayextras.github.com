@@ -17,7 +17,7 @@ Of 109 applicants there were only **three women**
 
 If you consider that of those 109 applicants we’ve hired just six* people then the chances of one of those six being a woman is... (please wait while I do maths)... 0.16%. That’s crazy low!
 
-**If those hire statistics seem strange then I should point out that they are slightly skewed by agencies sending lots of unsuitable candidates who didn’t make the first CV sift, however I don’t have post first sift data to hand - so these numbers will have to do for now! (I’ll put together a blog post on our hiring process another time!)*
+**If those hire statistics seem strange then I should point out that they are slightly skewed by agencies sending lots of unsuitable candidates who didn’t make the first CV sift. I don’t have post first sift data to hand - so these numbers will have to do for now! (I’ll put together a blog post on our hiring process another time!)*
 
 Regardless of how you read those statistics, three female applicants in 109 is low. Far too low. But it does answer the question of why I haven’t hired a female engineer this year - they just aren’t applying. I can't give a job to someone who doesn't apply. But that raises a more important question - **Why aren’t women applying?**
 
@@ -25,4 +25,4 @@ That question is an entire blog post in its own right but my gut feeling says it
 
 However, I don't want to assume that there is nothing I can do to encourage more women into tech and just sit waiting 10 years until the school girls of today are entering work! So I'd love to hear ideas as to how I can encourage more women to apply to Holiday Extras and why they don’t already. Maybe our job adverts don’t seem inclusive, or as a team we don’t come across as female friendly, I hope that’s not true - but I’d rather know so it could be fixed!. So please get in touch if you have an opinion on this. Or if you’re a woman looking for a job then consider applying to us!
 
-***I'd love to in six months be able to write a blog post publishing further recruitment figures showing an increase in female applicants and to have at least one new female recruit! Help me achieve it!***
+***In six months I'd love to write a blog post publishing further recruitment figures showing an increase in female applicants and to have at least one new female recruit! Help me achieve it!***
