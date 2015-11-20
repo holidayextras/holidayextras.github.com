@@ -5,7 +5,7 @@ categories: Testing
 author: matt_obee
 tags: testing accessibility
 comments: true
-excerpt: "How to test for accessibility"
+excerpt: "How can testers and other members of the team learn about accessibility? How can we design inclusive experiences and test for accessibility barriers?"
 ---
 
 When I gave a talk on <cite>Checking & Exploring</cite> at [The London Web meetup in October](http://www.meetup.com/londonweb/events/214733702/), a number of people asked questions or spoke to me in the bar afterwards about accessibility (for older people and those with disabilities). I only had time to touch on it very briefly in my presentation, but that doesn't mean it isn't important. Quite the opposite, it deserves to be covered in detail in its own right. Some people asked me how testers should be trained in accessibility and others asked what sort of testing we need to perform in order to find accessibility issues.
@@ -16,7 +16,7 @@ Firstly, an important disclaimer: Accessibility should be addressed as part of t
 
 ## Understand both the law and the spirit of the guidelines
 
-In many countries, access to digital services is protected by legislation just like access to shops and restaurants. In the UK, the <cite>Equality Act (2010)</cite> says that a service provider must make "reasonable adjustments" so that disabled users can have access to the same services as everyone else. In the physical world, that might mean installing a ramp to allow wheelchair access or providing a menu in braille as well as print. In the digital world, it could mean including subtitles on videos or making sure that a user can navigate with a keyboard instad of a mouse.
+In many countries, access to digital services is protected by legislation just like access to shops and restaurants. In the UK, the <cite>Equality Act (2010)</cite> says that a service provider must make "reasonable adjustments" so that disabled customers can have access to the same services as everyone else. In the physical world, that might mean installing a ramp to allow wheelchair access or providing a menu in braille as well as print. In the digital world, it could mean including subtitles on videos or making sure that a user can navigate with a keyboard instad of a mouse.
 
 The main international standard for the accessibility of Web content is [<cite><abbr title="Web Content Accessibility Guidelines">WCAG</abbr></cite> 2.0](http://www.w3.org/TR/WCAG20/), also known as <cite>ISO/IEC 40500:2012</cite>, published by <abbr title="World Wide Web Consortium">W3C</abbr>. While aimed primarily at Web content, [<cite><abbr title="Web Content Accessibility Guidelines">WCAG</abbr></cite> can also be applied to native mobile applications](http://www.w3.org/TR/mobile-accessibility-mapping/). It's against these guidelines that most developers and service providers evaluate their products.
 
@@ -28,15 +28,13 @@ Beyond the legal and commercial arguments, making digital products and services 
 
 ## Recognise the diversity
 
-When you think about accessibility, you probably imagine a blind person using a screen reader (a piece of software that speaks everything that appears on screen). That's understandable because visual impairment affects lots of people in one way or another and screen readers are one of the most ubiquitous form of assistive technology. The big picture however is far more complex and diverse. Just a few examples include:
+When you think about accessibility, you probably imagine a blind person using a screen reader (a piece of software that speaks everything that appears on screen). That's understandable because visual impairment affects lots of people in one way or another and screen readers are one of the most ubiquitous forms of assistive technology. The big picture however is far more complex and diverse. Just a few examples include:
 
-* impaired vision
-* colourblindness
-* blindness
-* deafness
-* deafblindness
-* epilepsy
-* dyslexia
+* Someone with colourblindness who has difficulty distinguishing between colours such as red and green;
+* A deaf person who relies on captions or transcripts for audio content;
+* Someone who has reduced dexterity and is unable to use a mouse;
+* Someone with photosensitive epilepsy who experiences seizures when exposed to certain flashing patterns;
+* A person with a learning disabilitiy like dyslexia who has trouble reading;
 
 There are lots more examples in [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31) and another great resource is the <abbr title="Web Accessibility Initiative">WAI</abbr>’s [How People with Disablities Use the Web](http://www.w3.org/WAI/intro/people-use-web/Overview.html) which provides more information about the problems that these people experience.
 
@@ -66,11 +64,11 @@ Tools are essential for testing some aspects of accessibility. For example, <abb
 
 Whenever possible, aim to involve real users in accessibility testing. This is no different from testing usability more generally. While a tester or developer can check an application against guidelines and best practices, they will always be biased by their insider knowledge. Also, while they might be technical experts, testers and developers are not experts at using assistive technology in the same way that real users are.
 
-There are however lots of things that a developer or expert tester can and should be checking for, even before users are involved. The following quick and easy checks can be performed on any website or application, perhaps before a more in-depth audit takes place:
+There are however lots of things that a developer or expert tester can and should be checking for, even before users are involved. For example, the following quick and easy checks can be performed on any website, perhaps before a more in-depth audit takes place:
 
 * Does each page have a unique and descriptive `title`? As well as appearing in search results, in bookmarks and when shared on social networks, the `title` is one of the first things announced by assistive technology when a page is loaded.
 * Does every `img` element have an `alt` attribute? Is the text appropriate? Is is necessary or should the `alt` be empty so that it can be ignored by assistive technology?
-* Are sections of the page separated by headings? As well as being visually obvious, are those headings identified as such using HTML heading elements at the correct level (`h1`, `h2`, `h3` etc.)? As well as describing the structure of the page, keyboard users can easily jump between these headings.
+* Are sections of the page separated by headings? As well as being visually obvious, are those headings identified as such using HTML heading elements at the correct level (`h1`, `h2`, `h3` etc.)? In addition to describing the structure of the page, keyboard users can easily jump between these headings.
 * Can you navigate the page using the keyboard tab key? Is the keyboard focus clearly visible at all times? Check for keyboard traps where you can tab onto an element but not tab away from it (often happens when JavaScript is incorrectly catching all key presses).
 * Does every form field have a label? These should be paired explicitly using `for` and `id` attributes. The quickest way to test this without looking at the code is by clicking on the label and checking that keyboard focus is moved to the field.
 * Is there sufficient contrast between foreground and background? Check it with a tool like [WebAIM's Color Contrast Checker](http://webaim.org/resources/contrastchecker/).
@@ -78,4 +76,4 @@ There are however lots of things that a developer or expert tester can and shoul
 
 ## Treat accessibility as a component of user experience
 
-Because accessibility is necessarily more closely tied to code than is general usability, there's a tendency for it to be treated as a simple matter of standards conformance. I began this post by saying "accessibility is part of design", and I'm going to end with it too. Regardless of who is doing the testing, it needs to be done as early as possible.
+Because accessibility is necessarily more closely tied to code than is general usability, there's a tendency for it to be treated as a simple matter of standards conformance. I began this post by saying "accessibility is part of design", and I'm going to end with it too. Regardless of who is doing the testing, it needs to be done as early as possible and continuously throughout development. Follow the guidelines but don't lose sight of the problems that you are trying to solve for the people who will use your product. Use tools to identify problems as early as possible but involve expert human testers and real users wherever possible.
