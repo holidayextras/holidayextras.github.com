@@ -12,11 +12,11 @@ When I gave a talk on <cite>Checking & Exploring</cite> at [The London Web meetu
 
 ## Accessibility is part of design
 
-Firstly, an important disclaimer: Accessibility should be addressed as part of the design process; it's not just something that can be checked and bolted on at the end of the project. This means that responsibility for accessibility doesn't just lie with testers but with designers and developers too. Designers have to think about things like navigation methods, colour contrast and layout, while developers have to write code that exposes the right information to assistive technology (e.g. screen readers) in the right way. As [Michael Larsen](https://twitter.com/mkltesthead) said in his [presentation at Agile Testing Days 2015](http://www.agiletestingdays.com/session/making-a-web-for-everyone/), inclusive design is about making things accessible from the start with the minimum amount of retrospective change.
+Firstly, an important disclaimer: Accessibility should be included as part of the design process; it's not just something that can be checked and bolted on at the end of the project. This means that responsibility for accessibility doesn't just lie with testers but with designers and developers too. Designers have to think about things like navigation methods, colour contrast and layout, while developers have to write code that exposes the right information to assistive technology (e.g. screen readers) in the right way. As [Michael Larsen](https://twitter.com/mkltesthead) said in his [presentation at Agile Testing Days 2015](http://www.agiletestingdays.com/session/making-a-web-for-everyone/), inclusive design is about making things accessible from the start with the minimum amount of retrospective change.
 
 ## Understand both the law and the spirit of the guidelines
 
-In many countries, access to digital services is protected by legislation just like access to shops and restaurants. In the UK, the <cite>Equality Act (2010)</cite> says that a service provider must make "reasonable adjustments" so that disabled customers can have access to the same services as everyone else. In the physical world, that might mean installing a ramp to allow wheelchair access or providing a menu in braille as well as print. In the digital world, it could mean including subtitles on videos or making sure that a user can navigate with a keyboard instad of a mouse.
+In many countries, access to digital services is protected by legislation just like access to shops and restaurants. In the UK, the <cite>Equality Act (2010)</cite> says that a service provider must make "reasonable adjustments" so that disabled customers can have access to the same services as everyone else. In the physical world, that might mean installing a ramp to allow wheelchair access or providing a menu in braille as well as print. In the digital world, it could mean including subtitles on videos or making sure that a user can navigate with a keyboard instead of a mouse.
 
 The main international standard for the accessibility of Web content is [<cite><abbr title="Web Content Accessibility Guidelines">WCAG</abbr></cite> 2.0](http://www.w3.org/TR/WCAG20/), also known as <cite>ISO/IEC 40500:2012</cite>, published by <abbr title="World Wide Web Consortium">W3C</abbr>. While aimed primarily at Web content, [<cite><abbr title="Web Content Accessibility Guidelines">WCAG</abbr></cite> can also be applied to native mobile applications](http://www.w3.org/TR/mobile-accessibility-mapping/). It's against these guidelines that most developers and service providers evaluate their products.
 
@@ -24,11 +24,11 @@ Accessibility is however much more than a box ticking exercise.
 
 According to [AbilityNet](https://www.abilitynet.org.uk/advice-information/enation/travel-and-tourism-summer-july-2014) (2014) there are 12 million disabled people and 10 million people over 65 in the UK, with an estimated spending power of over £100<abbr title="billion">bn</abbr>. If you ignore accessibility, you ignore a huge group of customers and a lucrative market.
 
-Beyond the legal and commercial arguments, making digital products and services accessibile to everyone is simply _the right thing to do_.
+Beyond the legal and commercial arguments, making digital products and services accessibile to everyone is simply _the right thing to do_. Everyone deserves to be included.
 
 ## Recognise the diversity
 
-When you think about accessibility, you probably imagine a blind person using a screen reader (a piece of software that speaks everything that appears on screen). That's understandable because visual impairment affects lots of people in one way or another and screen readers are one of the most ubiquitous forms of assistive technology. The big picture however is far more complex and diverse. Just a few examples include:
+When you think about accessibility, you probably imagine a blind person using a screen reader (a piece of software that speaks everything that appears on screen). That's understandable because visual impairment affects lots of people in one way or another and screen readers are one of the most ubiquitous forms of assistive technology, so it's easy for us to empathise. The big picture however is far more complex and diverse. Just a few examples include:
 
 * Someone with colourblindness who has difficulty distinguishing between colours such as red and green;
 * A deaf person who relies on captions or transcripts for audio content;
