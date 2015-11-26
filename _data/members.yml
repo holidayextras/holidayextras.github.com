@@ -25,6 +25,11 @@ caroline_woodhams:
   role: Product Owner
   gravatar_md5: 768de83673b1d12535c914b59b1ec664
   twitter: Caroline_Ruiz82
+connor_meredith:
+  name: Connor Meredith
+  role: Web Developer
+  gravatar_md5: 309586e01a55811b43d44249364964bc
+  twitter: connorjmeredith
 damien_turner:
   name: Damien Turner
   role: Head of IT and Infrastructure
