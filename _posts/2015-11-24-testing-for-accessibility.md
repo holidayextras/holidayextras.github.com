@@ -74,6 +74,8 @@ There are however lots of things that a developer or expert tester can and shoul
 * Is there sufficient contrast between foreground and background? Check it with a tool like [WebAIM's Color Contrast Checker](http://webaim.org/resources/contrastchecker/).
 * Is information provided through colour without any other visual clue? If you were to remove the colour, could you still understand the meaning of the content?
 
+For developers, one particularly good primer on the principles of web accessibility is [Facebook's HIKE tutorial](http://accessibility.parseapp.com/), which demonstrates some of the most important techniques with practical exercises.
+
 ## Treat accessibility as a component of user experience
 
 Because accessibility is necessarily more closely tied to code than is general usability, there's a tendency for it to be treated as a simple matter of standards conformance. I began this post by saying "accessibility is part of design", and I'm going to end with it too. Regardless of who is doing the testing, it needs to be done as early as possible and continuously throughout development. Follow the guidelines but don't lose sight of the problems that you are trying to solve for the people who will use your product. Use tools to identify problems as early as possible but involve expert human testers and real users wherever possible.
