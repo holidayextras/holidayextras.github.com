@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Config Driven Development
-categories:
+categories: Development
 author: connor_meredith
-tags:
+tags: config driven development metaprogramming
 comments: true
 excerpt: "The situation is always the same; you jump into your nice clean code to litter it with business logic that is likely to change in the future, running the risk of introducing new bugs and possibly breaking existing functionality. Surely there's a better solution?"
 ---
