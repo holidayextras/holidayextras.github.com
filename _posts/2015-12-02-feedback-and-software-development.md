@@ -4,8 +4,8 @@ layout: post
 author: christina_mattinson
 categories: feedback
 tags: scrum feedback software
-title: Feedback and software development
-excerpt: ‘The opportunities and benefits of feedback in software development’
+title: Feedback and Software Development
+excerpt: The opportunities and benefits of feedback in software development
 ---
 
 There are a number of opportunities to collect feedback when developing a product, and some are more obvious than others. Some development teams are more familiar, confident and self aware of how and when they can ask for feedback. I recently went to a talk on feedback loops whilst attending the Global Scrum Gathering in Prague, [Luca Mezzalira](https://twitter.com/lucamezzalira) presented and he was very effective in summarising the different opportunities for feedback and the benefits.
