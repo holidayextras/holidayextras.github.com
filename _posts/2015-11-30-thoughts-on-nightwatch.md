@@ -12,7 +12,7 @@ comments: true
 
 ![Night-watch]({{ site.url }}{{ site.baseurl }}/assets/img/NWPIC.jpg)
 
-With Nightwatch seemingly being the preferred choice to pursue with our automated tests in the business it made sense for myself to take an interest and look into what pro’s and con’s Nightwatch has from a Testers perspective.
+With Nightwatch seemingly being the preferred choice to pursue with our automated tests in the business it made sense for myself to take an interest and look into what pros and cons Nightwatch has from a Testers perspective.
 
 Here's what I've come up with...
 
