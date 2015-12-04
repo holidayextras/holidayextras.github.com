@@ -34,7 +34,7 @@ _**Cloud service support**_
 Nightwatch works with testing providers such as SauceLabs & BrowserStack which is great for flexibility.
 
 _**Continuous Integration Support**_
-As we do with Selenium tests currently, we can integrate our Nightwatch tests into our build process with Team City or other systems in the future. This gives us the ability to proceed in confidence building on a solid foundation.
+As we do with our Selenium tests currently, we can integrate our Nightwatch tests into our build process with Team City or other systems in the future. This gives us the ability to proceed in confidence building on a solid foundation.
 
 _**Built-in command-line test runner**_
 A Built-in command-line test runner enables us to run tests either singularly, by group or altogether.
@@ -52,10 +52,10 @@ Nightwatch allows you to extend Nightwatch commands to suit your own application
 
 _**Assertions!**_
 Assertions show a clear step by step path in your terminal that is being checked in your test. As long as these are described well enough it will be easy to find where issues in your test lay. <br/> 
-This assertion library greatly improves the flexibility as well as readability of the assertions. Using the expect interface provides a much more flexible and fluid language for defining assertions, significantly improved over the existing assert interface we currently use in Selenium. <br/> Example:![Terminal assertion](/assets/img/assertion.jpg)
+This assertion library greatly improves the flexibility as well as readability of the assertions. Using the 'expect' interface provides a much more flexible and fluid language for defining assertions, significantly improved over the existing 'assert' interface we currently use in Selenium. <br/> Example:![Terminal assertion](/assets/img/assertion.jpg)
 
 _**Take screenshots**_
-Selenium can generate screenshots when a test is complete, when command errors occur and for failing or erroring tests. These are saved on the disk. 
+Selenium can generate screenshots when a test is complete, when command errors occur and for failing or erroring tests.
 This can also be disabled should you decide this is not wanted.
 
 **Con’s:**
