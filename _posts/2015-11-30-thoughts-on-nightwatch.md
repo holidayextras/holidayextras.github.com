@@ -7,7 +7,7 @@ tags: nightwatch testing automation
 comments: true
 ---
 
-## A Testers Point of View On Nightwatch
+## A Tester's Point of View On Nightwatch
 -----------
 
 ![Night-watch]({{ site.url }}{{ site.baseurl }}/assets/img/NWPIC.jpg)
@@ -16,10 +16,10 @@ With Nightwatch seemingly being the preferred choice to pursue with our automate
 
 Here's what I've come up with...
 
-**Pro’s:**
+**Pros:**
 
 _**Great documentation!**_
-Nightwatch has excellent documentation from installation to an API reference. I've found this to be of great use when I've needed to check anything from syntax to what arguements a command uses. <br/> 
+Nightwatch has excellent documentation from installation to an API reference. I've found this to be of great use when I've needed to check anything from syntax to what arguments a command uses. <br/> 
 Found here: [Nightwatch guide](http://nightwatchjs.org/guide) - [Nightwatch Api](http://nightwatchjs.org/api)
 
 _**Clean syntax**_
@@ -58,7 +58,7 @@ _**Take screenshots**_
 Selenium can generate screenshots when a test is complete, when command errors occur and for failing or erroring tests.
 This can also be disabled should you decide this is not wanted.
 
-**Con’s:**
+**Cons:**
 I have not found any qualms using Nightwatch as a Tester. There has been nothing that jumps out to me as an issue when it comes to using Nightwatch as our preferred choice within our business for automated tests. <br/>
 Having looked into any other views from forums online, any drawbacks in using Nightwatch appear to come from a Developer’s point of view which does not affect the way I use Nightwatch and appear irrelevant to me as a tester.
 
