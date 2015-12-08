@@ -20,25 +20,25 @@ In many countries, access to digital services is protected by legislation just l
 
 The main international standard for the accessibility of Web content is [<cite><abbr title="Web Content Accessibility Guidelines">WCAG</abbr></cite> 2.0](http://www.w3.org/TR/WCAG20/), also known as <cite>ISO/IEC 40500:2012</cite>, published by <abbr title="World Wide Web Consortium">W3C</abbr>. While aimed primarily at Web content, [<cite><abbr title="Web Content Accessibility Guidelines">WCAG</abbr></cite> can also be applied to native mobile applications](http://www.w3.org/TR/mobile-accessibility-mapping/). It's against these guidelines that most developers and service providers evaluate their products.
 
-Accessibility is however much more than a box ticking exercise.
+Accessibility is, however, much more than a box ticking exercise.
 
 According to [AbilityNet](https://www.abilitynet.org.uk/advice-information/enation/travel-and-tourism-summer-july-2014) (2014) there are 12 million disabled people and 10 million people over 65 in the UK, with an estimated spending power of over £100<abbr title="billion">bn</abbr>. If you ignore accessibility, you ignore a huge group of customers and a lucrative market.
 
-Beyond the legal and commercial arguments, making digital products and services accessibile to everyone is simply _the right thing to do_. Everyone deserves to be included.
+Beyond the legal and commercial arguments, making digital products and services accessible to everyone is simply _the right thing to do_. Everyone deserves to be included.
 
 ## Recognise the diversity
 
-When you think about accessibility, you probably imagine a blind person using a screen reader (a piece of software that speaks everything that appears on screen). That's understandable because visual impairment affects lots of people in one way or another and screen readers are one of the most ubiquitous forms of assistive technology, so it's easy for us to empathise. The big picture however is far more complex and diverse. Just a few examples include:
+When you think about accessibility, you probably imagine a blind person using a screen reader (a piece of software that speaks everything that appears on screen). That's understandable because visual impairment affects lots of people in one way or another and screen readers are one of the most ubiquitous forms of assistive technology, so it's easy for us to empathise. The big picture, however, is far more complex and diverse. Just a few examples include:
 
 * Someone with colourblindness who has difficulty distinguishing between colours such as red and green;
 * A deaf person who relies on captions or transcripts for audio content;
 * Someone who has reduced dexterity and is unable to use a mouse;
 * Someone with photosensitive epilepsy who experiences seizures when exposed to certain flashing patterns;
-* A person with a learning disabilitiy like dyslexia who has trouble reading;
+* A person with a learning disability like dyslexia who has trouble reading;
 
 There are lots more examples in [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31) and another great resource is the <abbr title="Web Accessibility Initiative">WAI</abbr>’s [How People with Disablities Use the Web](http://www.w3.org/WAI/intro/people-use-web/Overview.html) which provides more information about the problems that these people experience.
 
-If you have the opportunity, the best way to learn about accessibility is of course to spend time with the people in these groups and see for yourself the problems that they face.
+If you have the opportunity, the best way to learn about accessibility is, of course, to spend time with the people in these groups and see for yourself the problems that they face.
 
 ## Use tools but don't rely exclusively on automation
 
@@ -46,7 +46,7 @@ There are a number of services and applications that aim to test websites for ac
 
 The problem with these automated systems is that they can only check for the most rudimentary accessibility problems. Like any other automated checking tool, they don't understand context. For example, tools can find an `img` element in an HTML document and check whether or not it has a text alternative in an `alt` attribute, but they can't decide whether or not that text alternative is appropriate or well written.
 
-One such tool is [Tennon](http://www.tenon.io/documentation/what-tenon-tests.php) and its developers make a point of acknowledging its limitations:
+One such tool is [Tenon](http://www.tenon.io/documentation/what-tenon-tests.php) and its developers make a point of acknowledging its limitations:
 
 > Some accessibility best practices are either too subjective or too complex to be accurately tested with automated means. Doing so increases the risk of so-called "false positives", which can reduce the usefulness of a testing tool.
 
@@ -64,7 +64,7 @@ Tools are essential for testing some aspects of accessibility. For example, <abb
 
 Whenever possible, aim to involve real users in accessibility testing. This is no different from testing usability more generally. While a tester or developer can check an application against guidelines and best practices, they will always be biased by their insider knowledge. Also, while they might be technical experts, testers and developers are not experts at using assistive technology in the same way that real users are.
 
-There are however lots of things that a developer or expert tester can and should be checking for, even before users are involved. For example, the following quick and easy checks can be performed on any website, perhaps before a more in-depth audit takes place:
+There are, however, lots of things that a developer or expert tester can and should be checking for, even before users are involved. For example, the following quick and easy checks can be performed on any website, perhaps before a more in-depth audit takes place:
 
 * Does each page have a unique and descriptive `title`? As well as appearing in search results, in bookmarks and when shared on social networks, the `title` is one of the first things announced by assistive technology when a page is loaded.
 * Does every `img` element have an `alt` attribute? Is the text appropriate? Is is necessary or should the `alt` be empty so that it can be ignored by assistive technology?
