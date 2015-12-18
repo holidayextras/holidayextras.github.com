@@ -11,7 +11,7 @@ Moving to a micro-services architecture is the dream right?  We’ve been breaki
 
 Config.
 
-On the monolith it was pretty straightforward.  It’s all in one place and "on box".  Now we’ve got many boxes all doing different things that are in different parts of the world, keeping configuration consistent and available across them all is a bit of a headache, especially as you want to keep a single source of truth (https://en.wikipedia.org/wiki/Single_Source_of_Truth).
+On the monolith it was pretty straightforward.  It’s all in one place and "on box".  Now we’ve got many boxes all doing different things that are in different parts of the world, keeping configuration consistent and available across them all is a bit of a headache, especially as you want to keep a [single source of truth](https://en.wikipedia.org/wiki/Single_Source_of_Truth).
 
 There were a few architectural points we had to guarantee when looking for a config solution.
 
@@ -19,8 +19,8 @@ There were a few architectural points we had to guarantee when looking for a con
 2. We have to have a single source of truth.
 3. It needs to be editable and changes made available in real time (no deploying of services to see the updates).
 
-The solution we came up with simple and quite elegant.  Hosted CouchDB as the central store and PouchDB (http://pouchdb.com/) running on every service.
+The solution we came up with simple and quite elegant.  Hosted CouchDB as the central store and [PouchDB](http://pouchdb.com/) running on every service.
 
-We took https://cloudant.com/ off the shelf and gave them some money, we don’t want to be writing anything that other people can do faster and better.  All our config is json and no where near “relational” so a document store suits this model well. It also has a tidy interface to allow people to make changes to config easily.  We then use PouchDB as an npm module on the server.  Each service when it boots up fires up our configuration module which is a simple Pouch wrapper.  Pouch takes care of the sync'ing which ensures that if changes are made in Cloudant, they are immediately pulled down to maintain a complete config set.  A byproduct of this is, if for some reason Cloudant becomes unavailable, a copy of the configuration is in memory to ensure services can continue to operate.
+We took [Cloudant](https://cloudant.com) off the shelf and gave them some money, we don’t want to be writing anything that other people can do faster and better.  All our config is json and no where near “relational” so a document store suits this model well. It also has a tidy interface to allow people to make changes to config easily.  We then use PouchDB as an npm module on the server.  Each service when it boots up fires up our configuration module which is a simple Pouch wrapper.  Pouch takes care of the sync'ing which ensures that if changes are made in Cloudant, they are immediately pulled down to maintain a complete config set.  A byproduct of this is, if for some reason Cloudant becomes unavailable, a copy of the configuration is in memory to ensure services can continue to operate.
 
 We’ve been running in production with this for over a year now and starting to scale up and have had zero problems with availability.  The main task is keeping json configs organised well.  We don’t have the luxury of nested directories to group configuration as our document store provides a simple flat structure so ensuring that remains tidy and visible is something we’re working hard on with documentation and peer reviews.
