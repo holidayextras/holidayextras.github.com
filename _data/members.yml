@@ -68,6 +68,11 @@ jack_crawford:
   role: Software Engineer
   gravatar_md5: 03d1655ebfab8299cf2848a294620ab1
   twitter: jackdcrawford
+jack_morison:
+  name: Jack Morison
+  role: Software Tester
+  gravatar_md5: 8ae93c432a13eb5e094e85bd1f3cd627
+  twitter: jack_morison
 jamie_matthews:
   name: Jamie Matthews
   role: Software Tester
