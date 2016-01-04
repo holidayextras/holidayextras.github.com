@@ -5,6 +5,7 @@ categories: testing
 author: jack_morison
 tags: nightwatch testing automation
 comments: true
+excerpt: Nightwatchjs is the preferred choice of automated testing framework in the business and it made sense for me to take an interest and look into what the pros and cons Nightwatch has from a tester's perspective.
 ---
 
 ![Night-watch]({{ site.url }}{{ site.baseurl }}/assets/img/NWPIC.jpg)
