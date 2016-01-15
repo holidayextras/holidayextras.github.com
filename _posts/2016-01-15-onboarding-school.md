@@ -24,7 +24,7 @@ The Holiday Extras web team is split into a number of different pods, with each 
 Simply by rotating pods I gained exposure to each web application and system. Some pods work primarily on one system, while others work on a range. So by the end I had some experience with each system, knew who to direct questions to,  and was ready to start work!
 
 ## Pod placement and sprint work
-I was very eager to begin work and participate in full 2 week sprints after being on pod rotation for 5 weeks. you get to work on tasks yourself and take ownership of the changes that you make. Once your task is ready to go to production (at least you think it’s ready!) then we create Pull Requests through Github, to allow two other developers to review our work, before it is ready to go to the testers.
+I was very eager to begin work and participate in full 2 week sprints after being on pod rotation for 5 weeks. You get to work on tasks yourself and take ownership of the changes that you make. Once your task is ready to go to production (at least you think it’s ready!) then we create Pull Requests through Github, to allow two other developers to review our work, before it is ready to go to the testers.
 
 By being a reviewer on other people’s work you get to help out other pods and see what they are working on. So if a different pod is working on something that you find interesting, you can input and learn from what they have done through code review.
 
