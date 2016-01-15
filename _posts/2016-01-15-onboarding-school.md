@@ -9,11 +9,11 @@ excerpt: "The Onboarding process at Holiday Extras is a 12-week initiation for a
 ---
 
 ## Before Holiday Extras
-After working in a small agency environment for three years I decided that I wanted more from my career in terms of developing my technical ability. I enjoyed the mad rush of the day-to-day business demands such as client meetings, phone calls and drawing up technical specifications all the while trying to meet already optimistic client deadlines! However this meant that I was stuck in the process of working with PHP, using Content Management Systems such as Wordpress and WooCommerce wherever possible to speed up build times, and PHP frameworks such as CodeIgniter for more bespoke requests.
+After working in a small agency environment for three years I decided that I wanted more from my career in terms of developing my technical ability. I enjoyed the mad rush of the day-to-day business demands such as client meetings, phone calls and drawing up technical specifications all the while trying to meet already optimistic client deadlines! However this meant that I was stuck in the process of working with PHP, using Content Management Systems such as Wordpress and OpenCart wherever possible to speed up build times, and PHP frameworks such as CodeIgniter for more bespoke requests.
 
-As a result I felt was not progressing my technical ability as a developer, mainly because there was just no time to do so.
+As a result I felt I was not progressing my technical ability as a developer, mainly because there was just no time to do so.
 
-This is where Holiday Extras came in. I knew, having spoken with friends already working there, that it was a company that always aimed to work with the forefront of technology. Technologies such as Node.js based web applications, Object-Oriented Javascript and React.js were non-existent in my previous role and these were key areas of interest that made me want to leave PHP behind and make the career move.
+This is where Holiday Extras came in. I knew, having spoken with friends already working there, that it was a company that always aimed to work at the forefront of technology. Technologies such as [Node.js](https://nodejs.org/en/) based web applications and [React.js](https://facebook.github.io/react/) were non-existent in my previous role and these were key areas of interest that made me want to leave PHP behind and make the career move.
 
 ## The Onboarding process
 So having made the leap onto a different career path I was put onto the 12 week onboarding process that each new starter is initiated with. This involved 5 weeks of pod rotation, weekly 121s with my line manager and being placed into my pod and beginning to work off my own initiative. I was also given a ‘Buddy’ who was (and still is!) always on-hand to assist where necessary and to make you feel welcome and a member of the team from day one.
@@ -31,9 +31,9 @@ By being a reviewer on other people’s work you get to help out other pods and 
 ## Technical learnings
 
 Since joining less than 12 weeks ago I have:
-- Worked with Node.js based web application
-- Worked on backbone.js based web applications and written a basic backbone.js to do list app
-- Been given first class on-site training in React.js along with every other member of the web team
+- Worked with Node.js based web applications
+- Worked on backbone.js based web applications and written a basic backbone.js app
+- Been given first class on-site training in React.js alongside the rest of the web team
 - Written Selenium tests
 - Written Unit tests and gained experience with mocha, sinon, and chai
 
@@ -41,6 +41,6 @@ This shows that working here has instantly been a huge step in the right directi
 
 ## Has Holiday Extras lived up to expectation?
 
-Absolutely. Holiday Extras has, and will continue to, improve my technical ability on a day to day basis. “Everyday's a school day” is pretty much my slogan for working here. Not only that, it is fun - So far I’ve already enjoyed playing pool when in need of a screen break, a fireworks display with free beer and burgers, an excellent Christmas party and a number of social Web Team events.
+Absolutely. Holiday Extras has, and will continue to, improve my technical ability on a day-to-day basis. “Everyday's a school day” is pretty much my slogan for working here. Not only that, it is fun - So far I’ve already enjoyed playing pool when in need of a screen break, a fireworks display with free beer and burgers, an excellent Christmas party and a number of after work Web Team events.
 
 If you are looking for a place to develop your skills and have a lot of fun while doing it, then jump aboard a ship where “everyday's a school day”.
