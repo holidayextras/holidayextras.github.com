@@ -3,11 +3,15 @@ description: Holiday Extras Geek Blog
 markdown: kramdown
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
 permalink: pretty
 url: http://hungrygeek.holidayextras.co.uk
 baseurl:
 paginate: 10
-exclude: ["less","js","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["node_modules","package.json","README.md", "Gemfile"]
 collections:
   jobs:
     output: true
@@ -20,6 +24,7 @@ defaults:
       layout: page
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
 prose:
   rooturl: ''
   siteurl: 'http://hungrygeek.holidayextras.co.uk'

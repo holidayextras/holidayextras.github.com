@@ -23,10 +23,10 @@ article.profile {
     display:block;
 
     &.twitter {
-      color: @twitter;
+      color: $twitter;
     }
     &.github {
-      color: @github;
+      color: $github;
     }
 
   }

@@ -12,7 +12,7 @@
     padding:0;
     margin:0;
     li {
-      border-bottom:solid 1px @pagination-border;
+      border-bottom:solid 1px $pagination-border;
       padding:1em 0;
       overflow:hidden;
       h4 {
@@ -145,8 +145,8 @@
       margin-right: 0.8em;
       border-radius:50%;
       padding:4px;
-      border:solid 1px @img-border;
-      background:@img-bg;
+      border:solid 1px $img-border;
+      background:$img-bg;
     }
 
     h3 {
