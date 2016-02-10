@@ -1,15 +1,18 @@
-{% assign this_year = 'now' | date: "%Y" %}
-{% assign filter_by_year = site.data.speaking | sort: "year" | group_by: "year" %}
-{% assign todayFormatted = site.time | date: '%Y%m%d' %}
+{% assign events = site.data.speaking | sort: "date" %}
+{% assign todayFormatted = site.time | date: '%Y-%m-%d' %}
 
 <hr />
 <section>
+  <h2>Upcoming Talks</h2>
   <ul>
-    {% for event in site.data.speaking %}
+    {% for event in events %}
+      {% if event.date <= todayFormatted %}{% continue %}{% endif %}
       {% assign url = event.speaker | replace:' ','-' | downcase%}
       <li>
         <div class="event-logo">
+          {% if event.logo != '' %}
           <img src="{{ site.url }}{{ site.baseurl }}/assets/img/events/{{ event.logo }}" alt="{{ event.name }}" />
+          {% endif %}
         </div>
         <div>
           <h3>{{ event.talk }}</h3>
@@ -26,6 +29,36 @@
             {% if event.link %}<div class="website"><i class="fa fa-fw fa-globe"></i> <a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">Website</a></div>{% endif %}
           </div>
         </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Past Talks</h2>
+  <ul>
+    {% assign reversed_events = events | reverse %}
+    {% for event in reversed_events %}
+      {% if event.date > todayFormatted %}{% continue %}{% endif %}
+      {% assign url = event.speaker | replace:' ','-' | downcase%}
+      <li>
+        <h3>
+          {{ event.talk }} -
+          {% if url.size > 0 %}
+            <a href="{{ site.url }}{{ site.baseurl }}/profiles/{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
+          {% else %}
+            {{ event.speaker }}
+          {% endif %}
+        </h3>
+        <p style="font-size:0.83em;">
+          <strong>
+          {% if event.link %}<a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">{% endif %}
+          {{ event.name }}
+          {% if event.link %}</a>{% endif %}
+          </strong>
+          <br />
+          <em>{{ event.pretty_date }} - {{ event.location }}</em>
+        </p>
       </li>
     {% endfor %}
   </ul>
