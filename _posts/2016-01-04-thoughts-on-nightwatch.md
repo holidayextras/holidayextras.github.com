@@ -21,12 +21,13 @@ Nightwatch has excellent documentation from installation to an API reference. I'
 Found here: [Nightwatch guide](http://nightwatchjs.org/guide) - [Nightwatch Api](http://nightwatchjs.org/api)
 
 ### Clean syntax
-Nightwatch has clear syntax meaning it’s easier for people to understand a written test (or another person’s). This is simple but powerful as tests are neatly laid out and make for a clean test. <br/> Example: 
-<pre><code>
+Nightwatch has clear syntax meaning it’s easier for people to understand a written test (or another person’s). This is simple but powerful as tests are neatly laid out and make for a clean test. <br/> Example:
+
+``` javascript
 'check for search button': function(client){
-    client.expect.element('.submit').to.be.present.before(10000);
+  client.expect.element('.submit').to.be.present.before(10000);
 }, 
-</code></pre>
+```
 
 ### Cloud service support
 Nightwatch works with testing providers such as SauceLabs & BrowserStack which is great for flexibility.

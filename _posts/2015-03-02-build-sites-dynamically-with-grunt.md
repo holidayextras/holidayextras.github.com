@@ -19,7 +19,8 @@ Anybody who’s used Grunt before will tell you that when starting with your cle
 
 Very quickly you start getting repetitive commands like this.
 
-<div data-height="352" data-theme-id="12057" data-slug-hash="VYdJRb" data-default-tab="js" data-user="lukefrake" class='codepen'><pre><code>var configObject = {
+``` javascript
+var configObject = {
   sass: {
     options: {
       sourcemap: &#x27;none&#x27;
@@ -32,9 +33,8 @@ Very quickly you start getting repetitive commands like this.
       }
     }
   }
-};</code></pre>
-<p>See the Pen <a href='http://codepen.io/lukefrake/pen/VYdJRb/'>VYdJRb</a> by Luke Frake (<a href='http://codepen.io/lukefrake'>@lukefrake</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-</div><script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+};
+```
 
 I was watching my beautiful code become more and more disgusting by the minute, with every brand or new task I added taking me about half an hour or more, and explaining the process to other people was becoming increasingly convoluted.
 
@@ -44,36 +44,37 @@ I had forgotten the main point about Grunt, A Gruntfile is just Javascript! So o
 
 So now it’s easy to think, that all you’re doing with Grunt is passing an object into a function, like so.
 
-<div data-height="85" data-theme-id="12057" data-slug-hash="gbKVBq" data-default-tab="js" data-user="lukefrake" class='codepen'><pre><code>grunt.initConfig( {} );</code></pre>
-<p>See the Pen <a href='http://codepen.io/lukefrake/pen/gbKVBq/'>gbKVBq</a> by Luke Frake (<a href='http://codepen.io/lukefrake'>@lukefrake</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-</div><script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+``` javascript
+grunt.initConfig( {} );
+```
 
 This means we can dynamically build the object, so thats what I did. I’ve changed my Gruntfile now, so at the top I create a brand array, and I also create a few empty objects.
 
-<div data-height="150" data-theme-id="12057" data-slug-hash="pvKMQg" data-default-tab="js" data-user="lukefrake" class='codepen'><pre><code>// Going to loop these later
+``` javascript
+// Going to loop these later
 var brands = [&#x27;brandFoo&#x27;, &#x27;brandBar&#x27;, &#x27;brandBaz&#x27;];
 // Going to fill these later
-var sass = {};</code></pre>
-<p>See the Pen <a href='http://codepen.io/lukefrake/pen/pvKMQg/'>pvKMQg</a> by Luke Frake (<a href='http://codepen.io/lukefrake'>@lukefrake</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-</div><script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+var sass = {};
+```
 
 I then loop over the brands array, using Lo-Dash, to create my brand information.
 
-<div data-height="130" data-theme-id="12057" data-slug-hash="raKXQy" data-default-tab="js" data-user="lukefrake" class='codepen'><pre><code>_.forEach( brands, function( brand ) {
+``` javascript
+_.forEach( brands, function( brand ) {
   // Do some brand stuff
-} );</code></pre>
-<p>See the Pen <a href='http://codepen.io/lukefrake/pen/raKXQy/'>raKXQy</a> by Luke Frake (<a href='http://codepen.io/lukefrake'>@lukefrake</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-</div><script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+} );
+```
 
 Inside the loop, I can start pushing what I would normally write directly into my initConfig object.
 
-<div data-height="110" data-theme-id="12057" data-slug-hash="LErwXd" data-default-tab="js" data-user="lukefrake" class='codepen'><pre><code>sass[&#x27;dist/&#x27; + brand + &#x27;/css/main.min.css&#x27;] = &#x27;src/styles/&#x27; + brand + &#x27;/default.scss&#x27;;</code></pre>
-<p>See the Pen <a href='http://codepen.io/lukefrake/pen/LErwXd/'>LErwXd</a> by Luke Frake (<a href='http://codepen.io/lukefrake'>@lukefrake</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-</div><script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+``` javascript
+sass[&#x27;dist/&#x27; + brand + &#x27;/css/main.min.css&#x27;] = &#x27;src/styles/&#x27; + brand + &#x27;/default.scss&#x27;;
+```
 
 This means that when I come to create my configObject, I can just do something like this.
 
-<div data-height="265" data-theme-id="12057" data-slug-hash="OPEKrY" data-default-tab="js" data-user="lukefrake" class='codepen'><pre><code>var configObject = {
+``` javascript
+var configObject = {
   sass: {
     options: {
       sourcemap: &#x27;none&#x27;
@@ -82,15 +83,15 @@ This means that when I come to create my configObject, I can just do something l
       files: sass
     }
   }
-};</code></pre>
-<p>See the Pen <a href='http://codepen.io/lukefrake/pen/OPEKrY/'>OPEKrY</a> by Luke Frake (<a href='http://codepen.io/lukefrake'>@lukefrake</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-</div><script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+};
+```
 
 *Note that anything non brand specific goes into the configObject. e.g. you only want 1 lot of options.*
 
 If you log your configObject out, it would look more like this.
 
-<div data-height="350" data-theme-id="12057" data-slug-hash="RNJXEq" data-default-tab="js" data-user="lukefrake" class='codepen'><pre><code>var configObject = {
+``` javascript
+var configObject = {
   sass: {
     options: {
       sourcemap: &#x27;none&#x27;
@@ -103,9 +104,8 @@ If you log your configObject out, it would look more like this.
       }
     }
   }
-};</code></pre>
-<p>See the Pen <a href='http://codepen.io/lukefrake/pen/RNJXEq/'>RNJXEq</a> by Luke Frake (<a href='http://codepen.io/lukefrake'>@lukefrake</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-</div><script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+};
+```
 
 The eagle-eyed amongst you will notice that’s exactly what we had above. This means, that when I go to add a new brand, I only need to add it to the brands array, Grunt will do all the hard work for me.
 

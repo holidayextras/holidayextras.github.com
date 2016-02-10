@@ -1,4 +1,5 @@
 @import "variables";
+@import "critical"; /* this needs to be refactored a little */
 @import "structure";
 @import "header";
 @import "footer";
@@ -12,3 +13,4 @@
 @import "pagination";
 @import "videos";
 @import "competition";
+@import "syntax";

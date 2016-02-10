@@ -81,27 +81,14 @@ It uses HTML files for structure and Markdown files for content.
 
 #### To Install
 
-```ruby
-bundle install
 ```
-
-(If you don't already have ```bundle``` installed, run ```gem install bundle``` first)
-
-#### Building The Assets
-
-```
-npm run uglify    # minifies the js
-npm run less      # compiles and minifies the less files
-npm run build-dev # runs uglify and less
-
-npm run watch     # watches for changes to less/js
-
+npm i             # Installs all node modules and ruby gems
 ```
 
 #### To Run
 
 ```
-npm start         # this will compile, minify, watch and start jekyll
+npm start         # this will compile, start jekyll and watch for changes
 ```
 
 The Holiday Extras blog should now be running on your machine at http://localhost:4000/
