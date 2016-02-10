@@ -88,7 +88,7 @@ npm i             # Installs all node modules and ruby gems
 #### To Run
 
 ```
-npm start         # this will compiles, start jekyll and watch for changes
+npm start         # this will compile, start jekyll and watch for changes
 ```
 
 The Holiday Extras blog should now be running on your machine at http://localhost:4000/
