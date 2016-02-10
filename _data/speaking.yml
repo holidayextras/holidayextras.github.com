@@ -1,5 +1,5 @@
 - name: 'UX Sofia'
-  logo: ''
+  logo: 'UXSofia.png'
   location: 'Sofia, Bulgaria'
   link: 'http://www.uxsofia.com/'
   pretty_date: '8th - 10th June, 2016'
@@ -8,7 +8,7 @@
   talk: 'Paradox of Choice: A Case Study'
 
 - name: 'Agile Manchester'
-  logo: ''
+  logo: 'agileman.jpg'
   location: 'Manchester, UK'
   link: 'http://agilemanchester.net/2016/'
   pretty_date: '11th - 13th May, 2016'
@@ -17,7 +17,7 @@
   talk: 'TBC'
 
 - name: 'Mobile+Web DevCon'
-  logo: ''
+  logo: 'devcon.png'
   location: 'San Francisco, USA'
   link: 'http://mobilewebdevconference.com/'
   pretty_date: '26th - 28th April, 2016'
