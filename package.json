@@ -7,7 +7,7 @@
     "uglify-js": "2.4.23"
   },
   "scripts": {
-    "postinstall": "npm run loadcss",
+    "postinstall": "gem install bundle && bundle && npm run loadcss",
     "start": "bundle exec jekyll serve --config ./_config.yml,./_config_dev.yml",
     "loadcss": "uglifyjs node_modules/fg-loadcss/src/loadCSS.js --compress --mangle --output _includes/js/loadCSS.min.js"
   },

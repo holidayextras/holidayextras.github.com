@@ -82,11 +82,8 @@ It uses HTML files for structure and Markdown files for content.
 #### To Install
 
 ```
-npm i
-bundle
+npm i             # Installs all node modules and ruby gems
 ```
-
-(If you don't already have ```bundle``` installed, run ```gem install bundle``` first)
 
 #### To Run
 
