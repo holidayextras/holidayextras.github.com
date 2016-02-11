@@ -17,7 +17,7 @@
           <h3>{{ event.talk }}</h3>
           <h4>
             {% if url.size > 0 %}
-              <a href="{{ site.url }}{{ site.baseurl }}/profiles/{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
+              <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
             {% else %}
               {{ event.speaker }}
             {% endif %}
@@ -33,7 +33,7 @@
   </ul>
 </section>
 
-<section>
+<section class="past-talks">
   <h2>Past Talks</h2>
   <ul>
     {% for event in events reversed %}
@@ -43,12 +43,12 @@
         <h3>
           {{ event.talk }} -
           {% if url.size > 0 %}
-            <a href="{{ site.url }}{{ site.baseurl }}/profiles/{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
           {% else %}
             {{ event.speaker }}
           {% endif %}
         </h3>
-        <p style="font-size:0.83em;">
+        <p>
           <strong>
           {% if event.link %}<a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">{% endif %}
           {{ event.name }}
