@@ -13,7 +13,7 @@ This is a senior role — requiring understanding the business as well as workin
 &#10004; Significant software engineering experience  
 &#10004; Deep knowledge of one mainstream programming language (C#, Python, Java, Ruby, R)  
 &#10004; Deep familiarity with Javascript and at least one JS framework (Angular, Ember, Om, React)  
-&#10004; Experience with and structured, standardised use of JSON API  
+&#10004; Experience with JSON API including structure and standards  
 &#10004; Interest in or experience with functional programming (Clojure, Scala, Haskell, OCaml)  
 &#10004; Operational experience with a Big Data platform (Hadoop/HBase, Cassandra, Spark, various Data Warehouses)  
 &#10004; Familiarity with SQL  
