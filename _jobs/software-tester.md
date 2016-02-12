@@ -12,21 +12,21 @@ To use excellent communication and analytical skills to test our sites’ and sy
 
 Required Qualities:
 
-&#10004; An inquisitive, probing and innovative nature
-&#10004; The ability to quickly change focus, prioritise and organise own workload
-&#10004; Excellent communication skills (written and verbal)
-&#10004; The ability to take responsibility for your own development
-&#10004; A level head in pressure situations
-&#10004; A keenness to learn
-&#10004; An open and positive approach to teamwork
-&#10004; An interest in technology or a technical background
-&#10004; A good sense of humour!
+&#10004; An inquisitive, probing and innovative nature  
+&#10004; The ability to quickly change focus, prioritise and organise own workload  
+&#10004; Excellent communication skills (written and verbal)  
+&#10004; The ability to take responsibility for your own development  
+&#10004; A level head in pressure situations  
+&#10004; A keenness to learn  
+&#10004; An open and positive approach to teamwork  
+&#10004; An interest in technology or a technical background  
+&#10004; A good sense of humour!  
 
 Desirable Qualities:
 
-&#10004; Experience of automated testing (e.g. Selenium, Cucumber, QTP, LoadRunner)
-&#10004; Experience of working in an agile team
-&#10004; Awareness of cross browser and device issues
+&#10004; Experience of automated testing (e.g. Selenium, Cucumber, QTP, LoadRunner)  
+&#10004; Experience of working in an agile team  
+&#10004; Awareness of cross browser and device issues  
 
 
 If this fantastic role sounds like you and you would like to work with a Sunday Times 100 Best Companies to Work For then please submit your CV and cover letter to [recruitment@holidayextras.com](mailto:recruitment@holidayextras.com).
