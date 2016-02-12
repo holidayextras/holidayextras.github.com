@@ -21,6 +21,9 @@
       }
     }
   }
+  .past-talks ul p {
+    font-size:0.83em;
+  }
 }
 
 .event-logo {
@@ -34,90 +37,6 @@
     width:70%;
     float:right;
   }
-}
-
-.speaking-calendar {
-
-  .month-list {
-    list-style: none;
-  }
-
-  .month-name {
-    font-size:1.4em;
-    margin: .2em 0;
-    text-align: right;
-  }
-
-  .events {
-    list-style: none;
-  }
-
-  .event {
-    padding: 0.6em 1.5em;
-    border: solid 1px rgb(221,221,221);
-    border-radius: .5em;
-    margin: 0 0 1em 0;
-    transition: all .2s ease-in-out;
-    position:relative;
-
-    &:hover {
-      transform: scale(1.02);
-      background:rgb(222,75,149);
-      color:rgba(255,255,255,0.9);
-
-      a {
-        color: rgb(255,255,255);
-      }
-
-    }
-
-    a {
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    h5 {
-      margin-top: 1.5em;
-    }
-
-  }
-
-  .event-talk {
-    font-size: 1.2em;
-    margin: .2em 0;
-  }
-
-  .event-name {
-    font-size: 1em;
-    margin: .4em 0;
-    font-weight: bold;
-  }
-
-  .event-meta {
-    font-size: 0.8em;
-    margin: .2em 0 .4em;
-
-    i {
-      margin-right: .4em;
-    }
-
-    span {
-      padding-right: 1.3em;
-      display: block;
-    }
-
-  }
-
-  .event-speakers {
-    list-style: none;
-  }
-
-  .event-speaker {
-    font-size: 0.8em;
-    margin: .2em 0;
-  }
-
-
 }
 
 .speaker-profiles {
