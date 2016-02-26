@@ -9,7 +9,7 @@ excerpt: Challenges faced when creating a Definition of Done
 ---
 
 When we first started to follow Scrum as a framework, we tried to understand; what we needed to implement, what were the key events, what were the popular tools used to help deliver high quality iterations. 
-One of the tools we tried to introduce here at Holiday Extras was a Definition of Done (Please read this [blog](https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod) for a good explanation). However I don't think we implemented it well, we currently have inconsistent ideas and documentations in a number of different locations.
+One of the tools we tried to introduce here at Holiday Extras was a Definition of Done (Please read this [blog](https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)) for a good explanation). However I don't think we implemented it well, we currently have inconsistent ideas and documentations in a number of different locations.
 
 What we failed to do was to take some time to learn **why** we should use a Definition of Done and **how** to effectively use it within our ever growing Web team. One of the main challenges we had was we thought we could create a ‘one size fits all’ approach, which in application does not work. To date we have a Web team of  88 broken down into 13 focused Scrum teams, each with there own strategic objectives, delivering different products to different internal and external customers. It is extremely difficult to get such a large web team to buy in and focus on a working towards a generic Definition of Done, when every Scrum team has it’s own individual challenges.
 
