@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: Matt Obee
-tagline: Software Tester
+tagline: Senior Software Tester
 gravatar_md5: fc825df69daaf0c8d2bc5f7ac865237a
 github: mattobee
 twitter: mattobee

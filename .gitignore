@@ -1,3 +1,6 @@
 _site
 node_modules/
 .DS_Store
+Gemfile.lock
+.sass-cache
+npm-debug.log

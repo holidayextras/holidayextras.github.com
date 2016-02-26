@@ -12,6 +12,7 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="apple-mobile-web-app-title" content="The Hungry Geek">
+    <meta name="google-site-verification" content="qatq879vR3epzSGDP6s2n8_XGD0l3_QhjA_6gckjmz8" />
 
     <!-- Fav Icons -->
     <link rel="apple-touch-icon" sizes="57x57" href="/assets/icons/apple-touch-icon-57x57.png">
@@ -37,6 +38,24 @@
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}All the latest tech news and updates from the Hungry Geek.{% endif %}" />
 
-    <style>{% include css/critical.min.css %}</style>
+    <script>
+      {% include js/analytics.js %}
+    </script>
+    <script>
+      {% include js/loadCSS.min.js %}
+      loadCSS( '//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,400' );
+      loadCSS( '//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' );
+    </script>
+    <noscript>
+      <link href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,400" rel="stylesheet" type="text/css">
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    </noscript>
+
+    <style type="text/css">
+      {% capture include_to_scssify %}
+        {% include styles.scss %}
+      {% endcapture %}
+      {{ include_to_scssify | scssify }}
+    </style>
   </head>
   <body>

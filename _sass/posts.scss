@@ -10,10 +10,10 @@ ul.posts {
 
       section {
         padding:1em 0;
-        border-bottom:dotted 1px @link-text;
+        border-bottom:dotted 1px $link-text;
 
         h2 {
-          color:@link-text;
+          color:$link-text;
           text-decoration:none;
           margin-bottom: .5em;
           display:inline-block;
@@ -49,8 +49,8 @@ ul.posts {
       width:100px;
       border-radius:50%;
       padding:4px;
-      border:solid 1px @img-border;
-      background:@img-bg;
+      border:solid 1px $img-border;
+      background:$img-bg;
       float:right;
       margin-left:1em;
     }
@@ -120,7 +120,7 @@ pre {
 
 }
 
-p > code {
+li > code, p > code {
   background: rgb(250,250,250);
   padding: .25em;
   border-radius: .25em;
