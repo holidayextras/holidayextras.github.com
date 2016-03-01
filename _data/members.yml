@@ -10,6 +10,11 @@ alanna_mooney:
   role: Scrum Master
   gravatar_md5: 827526410b82eece1cec6bb60241b8c3
   twitter: alannamooney
+alix_george:
+  name: Alix George
+  role: Product Owner
+  gravatar_md5: c7116d079255c2a8d6e48eb44ba9af65
+  twitter: sarcasmwarning
 andy_castle:
   name: Andy Castle
   role: Software Engineer
@@ -20,6 +25,16 @@ caroline_woodhams:
   role: Product Owner
   gravatar_md5: 768de83673b1d12535c914b59b1ec664
   twitter: Caroline_Ruiz82
+christina_mattinson:
+  name: Christina Mattinson
+  role: Scrum Master
+  gravatar_md5: aadce53854a62de5573dad3320d2edc5
+  twitter: Christina_Mats
+connor_meredith:
+  name: Connor Meredith
+  role: Web Developer
+  gravatar_md5: 309586e01a55811b43d44249364964bc
+  twitter: connorjmeredith
 damien_turner:
   name: Damien Turner
   role: Head of IT and Infrastructure
@@ -31,6 +46,11 @@ dan_jenkins:
   gravatar_md5: db32ea38124c4a4939fb271528f4c55b
   twitter: dan_jenkins
   currently_employed: false
+duncan_fenning:
+  name: Duncan Fenning
+  role: Web Developer
+  gravatar_md5: 41a9f9f2f62bc01279a518d2b826de53
+  twitter: DuncanFenning
 harley_rowland:
   name: Harley Rowland
   role: Web Developer
@@ -48,6 +68,11 @@ jack_crawford:
   role: Software Engineer
   gravatar_md5: 03d1655ebfab8299cf2848a294620ab1
   twitter: jackdcrawford
+jack_morison:
+  name: Jack Morison
+  role: Software Tester
+  gravatar_md5: 8ae93c432a13eb5e094e85bd1f3cd627
+  twitter: jack_morison
 jamie_matthews:
   name: Jamie Matthews
   role: Software Tester
@@ -70,7 +95,7 @@ kevin_hodges:
   twitter: kevin_hodges
 liz_pope:
   name: Liz Pope
-  role: Web Team Manager
+  role: Web Team Lead
   gravatar_md5: 8c3d1419f32e67a4b853bf76ff563867
   twitter: lizzie_pope
 louis_pryer:
@@ -125,3 +150,8 @@ rob_johnson:
   role: Developer
   gravatar_md5: 4550a440411b13515e47f9ec14eddd21
   twitter: notABluesSinger
+damian_casey:
+  name: Damian Casey
+  role: Web Developer
+  gravatar_md5: 22a00e5cb399fcb77dabc84f9c43794b
+  twitter: damian_casey

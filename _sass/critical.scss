@@ -1,7 +1,3 @@
-@import "//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,400";
-
-@import "variables";
-
 * {
   margin:0;
   padding:0;
@@ -10,9 +6,9 @@
 }
 
 body {
-   font-family: @body-font;
+   font-family: $body-font;
    font-weight: 300;
-   color:@body-text;
+   color:$body-text;
    font-size:1.2em;
 }
 
@@ -22,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
   margin:.5em 0;
 }
 h1, h2, h3 {
-  font-family: @title-font;
+  font-family: $title-font;
 }
 
 h1 {
@@ -33,10 +29,10 @@ p {
   padding:.5em 0;
 }
 a {
-  color:@link-text;
+  color:$link-text;
   text-decoration:none;
   &:hover {
-    tet-decoration:underline;
+    text-decoration:underline;
   }
 }
 
@@ -45,7 +41,7 @@ nav {
   position:absolute;
   z-index:1;
   width:100%;
-  font-family: @title-font;
+  font-family: $title-font;
   font-size:1.1em;
 
   ul {
@@ -56,7 +52,7 @@ nav {
       display:inline-block;
 
       &.active {
-        background:@nav-link-bg;
+        background:$nav-link-bg;
       }
 
       a {
@@ -75,9 +71,9 @@ nav {
 /* -- HEADER -- */
 header {
   padding:6em 0 4em 0;
-  color: @header-text;
+  color: $header-text;
   position:relative;
-  background: @header-bg;
+  background: $header-bg;
   text-align:center;
 
   &:after {
@@ -89,7 +85,7 @@ header {
     right: 50%;
     bottom: 0;
     margin-left: -28px;
-    border-bottom: 28px solid @header-text;
+    border-bottom: 28px solid $header-text;
     border-left: 28px solid transparent;
     border-right: 28px solid transparent;
   }
@@ -104,8 +100,8 @@ header {
     height:150px;
     border-radius:50%;
     padding:4px;
-    border:solid 1px @img-border;
-    background: @img-bg;
+    border:solid 1px $img-border;
+    background: $img-bg;
   }
 
 }

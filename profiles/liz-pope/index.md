@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: Liz Pope
-tagline: Web Team Manager
+tagline: Web Team Lead
 gravatar_md5: 8c3d1419f32e67a4b853bf76ff563867
 github: lizpope
 twitter: lizzie_pope
