@@ -1,3 +1,12 @@
+- name: 'MobCon Europe'
+  logo: 'MOBCON_EU_LOGO_alt.png'
+  location: 'Sofia, Bulgaria'
+  link: 'http://mobcon.com/mobcon-europe/'
+  pretty_date: '9th - 10th April, 2016'
+  date: '2016-04-09'
+  speaker: 'Jack Crawford & Dan Cork'
+  talk: 'Workshop: Building A Unified UI With React'
+
 - name: 'UX Sofia'
   logo: 'UXSofia.png'
   location: 'Sofia, Bulgaria'
@@ -5,7 +14,7 @@
   pretty_date: '8th - 10th June, 2016'
   date: '2016-06-08'
   speaker: 'Alix George & Dan Cork'
-  talk: 'Paradox of Choice: A Case Study'
+  talk: 'Workshop: Isolating The Choices That Matter<br>Paradox of Choice: A Case Study'
 
 - name: 'Agile Manchester'
   logo: 'agileman.jpg'
