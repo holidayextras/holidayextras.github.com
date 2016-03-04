@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Myths about Software Testing
-categories: Testing
+categories: testing
 author: matt_obee
 tags: testing
 comments: true

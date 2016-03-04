@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checking & Exploring in Software Testing
-categories: Testing
+categories: testing
 author: matt_obee
 tags: testing checking exploring
 comments: true
