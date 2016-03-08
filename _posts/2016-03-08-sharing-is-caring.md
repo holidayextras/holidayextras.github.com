@@ -30,7 +30,7 @@ Essentially, a conference is what you make it.
 ## Co-creating and running the workshop
 So, we have pages and pages of notes, and we have a bunch of awesome ideas for activities. All we need to do is implement all of this into an awe-inspiring, well-structured workshop, and we’ll be set.
 
-When it came to actually creating the workshop, we found that we both approach something like this very differently. Trying to balance this project between two individuals, one overly-meticulous, and the other hell-bent on the finish line, was a learning curve.
+When it came to actually creating the workshop, we found that we both approach something like this very differently. Trying to balance this project between two individuals, one overly-meticulous and the other hell-bent on the finish line, was a learning curve.
 
 There was a lot of engagement and participation in the conference and we knew that this needed to be a huge part of our own workshop for it to be successful.
 As such, we decided to poach as many of the activities as possible and adapt them to better fit our own team. From our attendees shouting out random answers at the start of our ‘20 Questions’ challenge, to embracing a ‘strong-style’ bug hunt on everyone’s favourite pizza website, we had an amazing amount of team effort.
