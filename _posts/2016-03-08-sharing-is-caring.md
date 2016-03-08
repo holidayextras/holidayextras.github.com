@@ -1,46 +1,50 @@
 ---
 layout: post
-title: Onboarding School
-categories: Development
-author: damian_casey
-tags: Onboarding School
+title: Sharing is caring
+categories: testing
+author: georgia_andy
+tags: testing, sharing, workshop, conference
 comments: true
-excerpt: "The Onboarding process at Holiday Extras is a 12-week initiation for all new employees. Now in my twelfth week, how have I found it? What has it involved? And has Holiday Extras lived up to my expectations?"
+excerpt: The journey from conference to ‘makeshift’ workshop
 ---
 
-## Before Holiday Extras
-After working in a small agency environment for three years I decided that I wanted more from my career in terms of developing my technical ability. I enjoyed the mad rush of the day-to-day business demands such as client meetings, phone calls and drawing up technical specifications all the while trying to meet already optimistic client deadlines! However this meant that I was stuck in the process of working with PHP, using Content Management Systems such as Wordpress and OpenCart wherever possible to speed up build times, and PHP frameworks such as CodeIgniter for more bespoke requests.
 
-As a result I felt I was not progressing my technical ability as a developer, mainly because there was just no time to do so.
 
-This is where Holiday Extras came in. I knew, having spoken with friends already working there, that it was a company that always aimed to work at the forefront of technology. Technologies such as [Node.js](https://nodejs.org/en/) based web applications and [React.js](https://facebook.github.io/react/) were non-existent in my previous role and these were key areas of interest that made me want to leave PHP behind and make the career move.
+## Introduction
+Ok, so public speaking is scary (at least, for most of us), and having to present something to your peers and superiors, with the implied suggestion that they’ll be richer from the experience, is no exception.
 
-## The Onboarding process
-So having made the leap onto a different career path I was put onto the 12 week onboarding process that each new starter is initiated with. This involved 5 weeks of pod rotation, weekly 121s with my line manager and being placed into my pod and beginning to work off my own initiative. I was also given a ‘Buddy’ who was (and still is!) always on-hand to assist where necessary and to make you feel welcome and a member of the team from day one.
+Incidentally, this post was initially intended to cover our learnings on some Exploratory Testing techniques following a conference, but after sitting down and discussing our thoughts on the experience, it became apparent that what occurred outside of the conference had the bigger impact on both of us. The process of knowledge sharing.
 
-## Pod rotation
-The Holiday Extras web team is split into a number of different pods, with each pod’s focus being driven by a particular business requirement. Spending time with each pod is essential for any new developer, as it is a great way to meet the rest of the team. I got to learn what each pod’s short and long term missions are, how the pods are structured, and who to go to for certain tech related questions.
+## The conference
+Leading up to the event, we found ourselves asking each other ‘What if we don’t take away anything worth sharing?’. We had some pressure to not only absorb all the relevant information, but also to relay that information to a room full of our colleagues. What if it simply wouldn’t be enough?
 
-Simply by rotating pods I gained exposure to each web application and system. Some pods work primarily on one system, while others work on a range. So by the end I had some experience with each system, knew who to direct questions to,  and was ready to start work!
+The lesson we learnt: don’t expect to come back with your mind blown.
 
-## Pod placement and sprint work
-I was very eager to begin work and participate in full 2 week sprints after being on pod rotation for 5 weeks. You get to work on tasks yourself and take ownership of the changes that you make. Once your task is ready to go to production (at least you think it’s ready!) then we create Pull Requests through Github, to allow two other developers to review our work, before it is ready to go to the testers.
+40%. This is the figure we agreed on when we were driving back home. From a whole day of relatively intense learning, we concluded that, with a bit of tweaking and a lot of consideration, around 40% of what we’d taken away could be adapted and applied to our own workplace. Not to say the rest of what we’d learnt wasn’t interesting, it was a huge eye-opener, just not what we could call “relevant” to what we do, and as it turned out, 40%, was quite substantial.
 
-By being a reviewer on other people’s work you get to help out other pods and see what they are working on. So if a different pod is working on something that you find interesting, you can input and learn from what they have done through code review.
+Simply showing up to this conference felt worthwhile.
+Even with zero participation, we would have still walked away with the reassurance that we are approaching our day to day work in well-practiced and proven ways. However, because we got stuck in, we also gained insight into new testing techniques and behaviours, as well as having the opportunity to chat with other Testers about what they do.
 
-## Technical learnings
+Essentially, a conference is what you make it.
 
-Since joining less than 12 weeks ago I have:
-- Worked with Node.js based web applications
-- Worked on backbone.js based web applications and written a basic backbone.js app
-- Been given first class on-site training in React.js alongside the rest of the web team
-- Written Selenium tests
-- Written Unit tests and gained experience with mocha, sinon, and chai
+## Co-creating and running the workshop
+So, we have pages and pages of notes, and we have a bunch of awesome ideas for activities. All we need to do is implement all of this into an awe-inspiring, well-structured workshop, and we’ll be set.
 
-This shows that working here has instantly been a huge step in the right direction for me. Writing test code and having regular meetings with my manager were purely non-existent in my agency days!
+When it came to actually creating the workshop, we found that we both approach something like this very differently. Trying to balance this project between two individuals, one overly-meticulous, and the other hell-bent on the finish line, was a learning curve.
 
-## Has Holiday Extras lived up to expectation?
+There was a lot of engagement and participation in the conference and we knew that this needed to be a huge part of our own workshop for it to be successful.
+As such, we decided to poach as many of the activities as possible and adapt them to better fit our own team. From our attendees shouting out random answers at the start of our ‘20 Questions’ challenge, to embracing a ‘strong-style’ bug hunt on everyone’s favourite pizza website, we had an amazing amount of team effort.
 
-Absolutely. Holiday Extras has, and will continue to, improve my technical ability on a day-to-day basis. “Everyday's a school day” is pretty much my slogan for working here. Not only that, it is fun - So far I’ve already enjoyed playing pool when in need of a screen break, a fireworks display with free beer and burgers, an excellent Christmas party and a number of after work Web Team events.
+By the end, we had both found that our different approaches to completing the presentation had complimented each other, and resulted in a well-rounded and varied workshop that we were both very happy with.
 
-If you are looking for a place to develop your skills and have a lot of fun while doing it, then jump aboard a ship where “everyday's a school day”.
+## Summary
+So, the workshop is over, the room has just emptied, and all that is left to do is close our macs, reflect for a bit, and finally... breathe.
+
+It was done.
+
+So, why have we posted about our experience? 
+The truth is, we were nervous. 
+Neither of us had been to a conference before, and quite honestly, for us, the idea of participating in new exercises with a room full of strangers, not to mention sharing all of this “invaluable” knowledge with our teammates, was kind of unsettling. 
+But, by the time the room emptied, by the time we could finally say it was finished, we both agreed that it had been a challenging but awesome experience, and why not share it?
+
+Georgia Drew &amp; Andrew Hart
