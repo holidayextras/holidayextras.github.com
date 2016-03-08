@@ -3,7 +3,7 @@ layout: post
 title: Sharing is caring
 categories: testing
 author: georgia_andy
-tags: testing, sharing, workshop, conference
+tags: testing sharing workshop conference
 comments: true
 excerpt: The journey from conference to ‘makeshift’ workshop
 ---
