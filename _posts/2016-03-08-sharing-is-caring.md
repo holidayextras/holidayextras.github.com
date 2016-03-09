@@ -11,7 +11,7 @@ excerpt: The journey from conference to ‘makeshift’ workshop
 
 
 ## Introduction
-Ok, so public speaking is scary (at least, for most of us), and having to present something to your peers and superiors, with the implied suggestion that they’ll be richer from the experience, is no exception.
+Ok, so public speaking is scary (at least, for most of us), and having to present something to your team members, with the implied suggestion that they’ll be richer from the experience, is no exception.
 
 Incidentally, this post was initially intended to cover our learnings on some Exploratory Testing techniques following a conference, but after sitting down and discussing our thoughts on the experience, it became apparent that what occurred outside of the conference had the bigger impact on both of us. The process of knowledge sharing.
 
