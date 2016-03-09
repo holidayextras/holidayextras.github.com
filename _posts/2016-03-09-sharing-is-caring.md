@@ -16,14 +16,14 @@ Ok, so public speaking is scary (at least, for most of us), and having to presen
 Incidentally, this post was initially intended to cover our learnings on some Exploratory Testing techniques following a conference, but after sitting down and discussing our thoughts on the experience, it became apparent that what occurred outside of the conference had the bigger impact on both of us. The process of knowledge sharing.
 
 ## The conference
-Leading up to the event, we found ourselves asking each other ‘What if we don’t take away anything worth sharing?’. We had some pressure to not only absorb all the relevant information, but also to relay that information to a room full of our colleagues. What if it simply wouldn’t be enough?
+Leading up to the event, we found ourselves asking each other "What if we don’t take away anything worth sharing?". We had some pressure to not only absorb all the relevant information, but also to relay that information to a room full of our colleagues. What if it simply wouldn’t be enough?
 
-The lesson we learnt: don’t expect to come back with your mind blown.
+The lesson we learnt: Don’t expect to come back with your mind blown.
 
 40%. This is the figure we agreed on when we were driving back home. From a whole day of relatively intense learning, we concluded that, with a bit of tweaking and a lot of consideration, around 40% of what we’d taken away could be adapted and applied to our own workplace. Not to say the rest of what we’d learnt wasn’t interesting, it was a huge eye-opener, just not what we could call “relevant” to what we do, and as it turned out, 40%, was quite substantial.
 
 Simply showing up to this conference felt worthwhile.
-Even with zero participation, we would have still walked away with the reassurance that we are approaching our day to day work in well-practiced and proven ways. However, because we got stuck in, we also gained insight into new testing techniques and behaviours, as well as having the opportunity to chat with other Testers about what they do.
+Even with zero participation, we would have still walked away with the reassurance that we are approaching our day to day work in well-practiced and proven ways. However, because we got stuck in, we also gained insight into new testing techniques and behaviours, as well as having the opportunity to chat with other testers about what they do.
 
 Essentially, a conference is what you make it.
 
