@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up a device lab
+title: Close enough - Setting up a sufficient device lab
 categories: Testing
 author: jamie_matthews
 tags: Testing, device, lab
@@ -8,7 +8,6 @@ comments: true
 excerpt: "As a Software Tester, you will often find yourself thinking "How can I ensure this mimics a real life scenario for a customer? How can I ensure that what I see is also what our customer would see?"
 ---
 
-## Close enough
 Ultimately, you cannot replicate the exact interaction a customer makes with our website or app, but you can build a device lab of real mobile phones and tablets, with real apps and with real connection spikes. These connection spikes are when a device's connection to a network encounters issues, the signal dips which results in a delay with the response or no response at all. With this in mind, the website or application can function in a strange way or of course, not function at all.
 
 When I first joined Holiday Extras as a Tester, we already had a variety of mobile phones and tablets, some of which were fairly dated. This did not matter due to the amount of traffic still hitting our website and app using these particular devices; if they use it, we will develop for it, within reason of course.
