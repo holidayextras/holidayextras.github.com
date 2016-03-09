@@ -5,7 +5,7 @@ categories: Testing
 author: jamie_matthews
 tags: Testing, device, lab
 comments: true
-excerpt: "As a Software Tester, you will often find yourself facing the thought of ‘How can I ensure this mimics a real life scenario for a customer?’, ‘How can I ensure that what I see is also what our customer would see?’"
+excerpt: "As a Software Tester, you will often find yourself thinking "How can I ensure this mimics a real life scenario for a customer? How can I ensure that what I see is also what our customer would see?"
 ---
 
 ## Close enough
