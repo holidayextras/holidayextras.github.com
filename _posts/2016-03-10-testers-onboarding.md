@@ -5,7 +5,7 @@ categories: Testing
 author: jamie_matthews
 tags: Testing, Onboarding
 comments: true
-excerpt: "As a Software Tester, you will often find yourself thinking "How can I ensure this mimics a real life scenario for a customer? How can I ensure that what I see is also what our customer would see?"
+excerpt: "How do we go about onboarding a new tester?"
 ---
 
 This is a tricky one because everyone is different and absorbs information in different ways. If they have prior experience within a testing role, do you onboard them differently?
