@@ -8,7 +8,7 @@ comments: true
 excerpt: "How do we go about onboarding a new tester?"
 ---
 
-This is a tricky one because everyone is different and absorbs information in different ways. If they have prior experience within a testing role, do you onboard them differently?
+This is a tricky one because everyone is unique and absorbs information in different ways. If they have prior experience within a testing role, do you onboard them differently?
 Actually, these two are very similar in reality, you should be showing the same content to both people.
 
 Why? you ask... Well, when you first start in a new job, it’s critical to understand the business itself and how it operates. This is vital for any new starter, not just a tester. The main points to be covered for any new starter within a testing role though, are about communication: how we would write descriptive bug reports without providing too much information; explaining the importance of an issue, allowing them to understand priority; ensuring they utilise the knowledge around them to help understand the cause of an issue. These are just some I thought I’d highlight. As I mentioned above, regardless of experience, these are all pretty crucial when first starting out.
