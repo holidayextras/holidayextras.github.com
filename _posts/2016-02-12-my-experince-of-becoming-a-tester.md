@@ -30,9 +30,9 @@ I got up, said thank you in an excitable voice for the millionth time and walked
  
 My next challenge was to learn, learn and learn. By the end of my first 2 weeks my brain was frazzled. I don’t think I had ever absorbed so much information. 
 
-I spent two weeks shadowing other testers before being told I would be joining my own pod which was exciting but also gave me a sense of anxiousness. Everything was brand new and I had moments where I thought and asked myself, ‘Am I ever going to understand this?”. 
+I spent two weeks shadowing other testers before being told I would be joining my own pod which was exciting but also gave me a sense of anxiousness. Everything was brand new and I had moments where I thought and asked myself, "Am I ever going to understand this?”. 
 
-I begun to start testing independently but was coming across all kinds of technical terminology. Such as, Tripapp, Render, HXML.I used to think gas mask was an item used in the war, but no, not at holiday extras, we use it as a host file manager. 
+I begun to start testing independently but was coming across all kinds of technical terminology. Such as, Tripapp, Render and HXML.I used to think gas mask was an item used in the war, but no, not at holiday extras, we use it as a host file manager. 
 Who comes up with these names?
 
 
