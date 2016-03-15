@@ -5,7 +5,7 @@ categories: Testing
 author: jamie_matthews
 tags: Testing, device, lab
 comments: true
-excerpt: "As a Software Tester, you will often find yourself thinking "How can I ensure this mimics a real life scenario for a customer? How can I ensure that what I see is also what our customer would see?"
+excerpt: "As a Software Tester, you will often find yourself thinking 'How can I ensure this mimics a real life scenario for a customer? How can I ensure that what I see is also what our customer would see?'"
 ---
 
 Ultimately, you cannot replicate the exact interaction a customer makes with our website or app, but you can build a device lab of real mobile phones and tablets, with real apps and with real connection spikes. These connection spikes are when a device's connection to a network encounters issues, the signal dips which results in a delay with the response or no response at all. With this in mind, the website or application can function in a strange way or, of course, not function at all.
