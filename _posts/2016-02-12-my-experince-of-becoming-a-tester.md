@@ -11,9 +11,9 @@ excerpt: "My experience of becoming a software tester"
 
 ## Introduction
 
-Before starting Holiday Extras in 2013 as an Insurance Call Centre Agent, I had never even heard of Software testing before. 
+Before starting Holiday Extras in 2013 as an Insurance Call Centre Agent, I had never heard of Software testing before. 
 
-Starting Holiday Extras was a bit of a whirlwind, juggling between learning the phone system, getting used to the HX culture and as for working on apple macs, well, it was a brand new learning curve. 
+Starting Holiday Extras was a bit of a whirlwind, juggling between learning the phone system, getting used to the HX culture and as for working on Apple Macs, well, it was a brand new learning curve. 
 
 ‘Georgia, can you go upstairs please’? 
 
@@ -23,16 +23,18 @@ After two years of being in the Call Centre, I needed a new challenge. It was ti
 
 When the software tester position became available, I had mixed emotions. I wanted a challenge and I liked the sound of the role, but would I be able to do it? This question played over and over again in my head. After spending some time in the web team shadowing a tester I managed to overcome my fears and send over my application.
 
+Interviews are scary. At least for most of us. You always wonder if you have prepared enough for what you are going to be asked and how you will react. When you enter the interview room, you get a confidence that you never thought you had. Sweaty palms and being left red faced are only a fraction of symptoms you encounter during the interview and all you can keep thinking is 'focus'. I wondered if I had done enough after the process, but I guess this is a natural feeling we all have, all I could do now was wait. 
+
 
 ## Learning the role
 
-I got up, said thank you in an excitable voice for the millionth time and walked back to my desk. I’d done it. My start date was confirmed. I had got the job.
+I got pulled into a booth by my interviewer which I guessed was to discuss the outcome of my interview, but I didn't know for sure. After a quick discussion, I got up, said thank you in an excitable voice for the millionth time and walked back to my desk. I’d done it. My start date was confirmed. I had got the job.
  
-My next challenge was to learn, learn and learn. By the end of my first 2 weeks my brain was frazzled. I don’t think I had ever absorbed so much information. 
+My next challenge was to learn, learn and learn. By the end of my first 2 weeks my brain was frazzled. I have never absorbed so much information. 
 
 I spent two weeks shadowing other testers before being told I would be joining my own pod which was exciting but also gave me a sense of anxiousness. Everything was brand new and I had moments where I thought and asked myself, "Am I ever going to understand this?”. 
 
-I begun to start testing independently but was coming across all kinds of technical terminology. Such as, Tripapp, Render and HXML.I used to think gas mask was an item used in the war, but no, not at holiday extras, we use it as a host file manager. 
+I began to test independently and encountered all kinds of technical terminology and new processes. Our platforms such as Tripapp, Render and HXML were just some of these. Gas mask was something else I faced learning. I used to think gas mask was an item used in the war, but no, not at Holiday Extras, we use it as a host file manager. 
 Who comes up with these names?
 
 
