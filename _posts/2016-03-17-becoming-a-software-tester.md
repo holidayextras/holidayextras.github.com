@@ -3,7 +3,7 @@ layout: post
 title: Becoming A Software Tester
 categories: Testing
 author: mattsaunby
-tags: Testing, career
+tags: testing career web testers qa software hx holidayextras
 comments: true
 excerpt: "About a year ago I was driving 3.5T sprinter vans, delivering groceries for a well known supermarket, considering what I was going to do with my career and wondering when I was next going to be able to use a toilet. Now I’m a Software Tester at Holiday Extras."
 ---
