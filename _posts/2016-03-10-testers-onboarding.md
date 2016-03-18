@@ -8,6 +8,7 @@ comments: true
 excerpt: "How do we go about onboarding a new tester?"
 ---
 
+<<<<<<< HEAD
 This is a tricky one because everyone is unique and absorbs information in different ways. If they have prior experience within a testing role, do you onboard them differently?
 Actually, these two are very similar in reality, you should be showing the same content to both people.
 
@@ -23,6 +24,6 @@ So that is just the basic expectations for most new starters. What else do we ha
 
 First of all we get the new starters to shadow the current testers within the team, sitting with them for maybe a few days or a week. Usually though, they do their rounds and sit with testers, developers and sometimes a scrum master to give them a broad experience of different roles and responsibilities.
 
-We have a process in which we call Mob Checking at Holiday Extras. This means the tester would explore a particular site and occasionally a specific area of that site. This is something we have always been keen on getting new starters to do. It allows them to become familiar with our website and with our app, ensuring they feel confident when carrying out their role.
+We have a process in which we call Mob Checking at Holiday Extras. This is where all the testers sit together and check across numerous websites. We used to have a process called Housekeeping in which each tester would take it in turns to check a specific set of sites, however we are currently trialling Mob Checking. Regardless of whether the tester Mob Checks or participates in Housekeeping, they will still get the same knowledge around the website structure. 
 
 After the first initial month, they go off to their pod where they’ll start testing in support of the pod’s strategic mission. Software testers never stop learning; we’re constantly building our technical expertise, always obtaining new business knowledge and assisting with improving processes.
