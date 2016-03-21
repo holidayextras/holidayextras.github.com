@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Experience of becoming a tester
+title: My Experience of becoming a Software Tester
 categories: Tester
 author: georgia_drew
 tags: Experience, tester
