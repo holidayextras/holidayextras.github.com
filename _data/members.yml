@@ -119,6 +119,11 @@ mark_fermor:
   role: Senior Systems Admin
   gravatar_md5: a769b1736d17133974a74176bc497161
   twitter: markfermor1
+mattsaunby:
+  name: Matt Saunby
+  role: Software Tester
+  gravatar_md5: 4309466d3e3b62cab48fed42d47f16ea
+  twitter: MattSaunby
 matt_obee:
   name: Matt Obee
   role: Senior Software Tester
