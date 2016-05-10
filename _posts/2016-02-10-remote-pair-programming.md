@@ -5,10 +5,12 @@ categories: Programming, Pair Programming, Remote Working
 author: duncan_fenning
 tags: Remote, Programming
 comments: true
-excerpt: Pair programming like never before.
+excerpt: Pair programming like never before and why being remote can increase productivity.
 ---
 
-Pair Programming is a buzz word in our industry that is interpreted in various ways. It has many advantages but only when implemented in the correct way. I don't know anyone that has ever been trained on the 'best pair programming methods' or educated on how to make the most of pair programming. Most of us have tried it but usually we succumb to the common pitfalls of pair programing. Hopefully this post will encourage you to try pair programming and benefit as much as I do from implementing it in the best way possible.
+Pair Programming is a buzz word in our industry that is interpreted in various ways. Some developers see pair programming in a negative light. They might think that pairing is a sign that they can't understand a particular problem or need supervision doing the work. Some developers just prefer to work on their own. Others might not work well together, but are awesome on their own. Therefore, pair programming only works when both parties want to pair program. However, when implemented correctly, it has many advantages.
+
+I don't know anyone that has ever been trained on the 'best pair programming methods' or educated on how to make the most of pair programming. Most of us have tried it but usually we succumb to the common pitfalls of pair programming. Hopefully this post will encourage you to try pair programming and benefit as much as I do from implementing it in the best way possible.
 
 ### My Pair Programming Struggle
 
