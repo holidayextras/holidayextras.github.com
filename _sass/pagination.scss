@@ -1,0 +1,20 @@
+.pagination {
+  text-align:center;
+  float:none;
+  display:block;
+  padding:1em;
+  border-top:solid 1px $pagination-border;
+  border-bottom:solid 1px $pagination-border;
+
+  * {
+    padding:12px;
+    text-align:center;
+  }
+
+}
+
+@media all and (min-width: 780px) {
+  .pagination * {
+    padding:0;
+  }
+}

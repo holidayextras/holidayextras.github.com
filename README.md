@@ -17,7 +17,7 @@ The Holiday Extras Blog should be simple to use for everyone, it requires no kno
 * Commmit you branch
 
 ### Send a blog post for review
-Blog posts have to be reviewed in the same way code on our website does, ideally we would like 2 people to review the post. The template for the pull request can be found [here](https://github.com/holidayextras/hx-culture/blob/master/pr-template-blogpost.mkd)
+Blog posts have to be reviewed in the same way code on our website does, ideally we would like 2 people to review the post. The template for the pull request can be found [here](https://raw.githubusercontent.com/holidayextras/culture/master/pr-template-blogpost.md)
 
 1. From a technical aspect (if required)
 2. From an editorial aspect (check for typos)
@@ -45,6 +45,7 @@ If this is the case, we may restrict your github access to ONLY the HX Blog repo
 
 * Authorize Prose on github - <https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=repo>
 * Visit <http://prose.io/#holidayextras/holidayextras.github.com> (you should be logged in automatically)
+* Click on folder `_posts`
 * Now you should see a list of all exisitng blog posts on Hungry Geek
 * Click on 'view drafts'
 * Click 'new file'
@@ -80,22 +81,17 @@ It uses HTML files for structure and Markdown files for content.
 
 #### To Install
 
-```ruby
-bundle install
 ```
-
-(If you don't already have ```bundle``` installed, run ```gem install bundle``` first)
+npm i             # Installs all node modules and ruby gems
+```
 
 #### To Run
+
 ```
-jekyll serve --config _config.yml,_config_dev.yml
+npm start         # this will compile, start jekyll and watch for changes
 ```
-The Holiday Extras blog should now be running on your machine at http://127.0.0.1:4000/
+
+The Holiday Extras blog should now be running on your machine at http://localhost:4000/
 
 ##### Running this on another IP address?
-Need to view this on an alternative IP address?  Serving up this blog from a VM, say?
-Pass in the alternate address:
-```
-jekyll serve --host 1.2.3.4
-```
-
+Need to view this on an alternative IP address? Serving up this blog from a VM, say? Update `_config_dev.yml`

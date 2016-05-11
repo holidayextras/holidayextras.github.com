@@ -1,0 +1,70 @@
+.team {
+
+  ul {
+    list-style:none;
+    padding:1em;
+  }
+
+  li {
+    float:left;
+    width:50%;
+    overflow:hidden;
+    position:relative;
+
+    img {
+      margin:0px auto;
+      display:block;
+      width:100%;
+    }
+
+    p {
+      padding:0;
+    }
+
+    .overlay {
+      transform:translateY(100%);
+      background:rgba(255,255,255,0.9);
+      transition:all 0.2s ease-in-out;
+      position:absolute;
+      bottom:0;
+      padding:1em;
+      width:100%;
+    }
+
+    &:hover, &:focus {
+
+      div {
+        transform:translateY(0%);
+      }
+
+    }
+
+  }
+
+  .social {
+    a {
+      min-height:44px;
+      line-height:44px;
+    }
+  }
+
+}
+
+@media all and (min-width: 480px) {
+  .team li {
+    width:25%;
+  }
+}
+
+
+@media all and (min-width: 780px) {
+  .team li {
+    width:20%;
+  }
+}
+
+@media all and (min-width: 1000px) {
+  .team li {
+    width:16.66666667%;
+  }
+}

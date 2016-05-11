@@ -3,25 +3,54 @@ description: Holiday Extras Geek Blog
 markdown: kramdown
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
 permalink: pretty
 url: http://hungrygeek.holidayextras.co.uk
 baseurl:
 paginate: 10
+exclude: ["node_modules","package.json","README.md", "Gemfile"]
+collections:
+  jobs:
+    output: true
+    permalink: /careers/:path/
+defaults:
+  - scope:
+      path: ""
+      collections: jobs
+    values:
+      layout: page
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://holidayextras.github.io/'
+  rooturl: ''
+  siteurl: 'http://hungrygeek.holidayextras.co.uk'
   ignore:
-    - index.html
-    - feed.xml
-    - holidayextras.sublime-project
-    - .gitignore
-    - _config.yml
+    - _data
+    - _includes
     - /_layouts
     - /_includes
     - /_site
-    - /projects
+    - assets
+    - css
+    - js
+    - less
+    - .gitignore
+    - _config.yml
+    - _config_dev.yml
+    - browserconfig.xml
+    - CNAME
+    - favicon.ico
+    - feed.xml
+    - Gemfile
+    - Gemfile.lock
+    - holidayextras.sublime-project
+    - index.html
+    - package.json
+  media: 'assets/img'
   metadata:
     _posts:
       - name: "title"
@@ -41,11 +70,6 @@ prose:
           element: "text"
           type: "text"
           label: "Your full name"
-      - name: "title"
-        field:
-          element: "text"
-          type: "text"
-          label: "Blog title"
       - name: "categories"
         field:
           element: "text"

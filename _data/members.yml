@@ -10,9 +10,14 @@ alanna_mooney:
   role: Scrum Master
   gravatar_md5: 827526410b82eece1cec6bb60241b8c3
   twitter: alannamooney
+alix_george:
+  name: Alix George
+  role: Product Owner
+  gravatar_md5: c7116d079255c2a8d6e48eb44ba9af65
+  twitter: sarcasmwarning
 andy_castle:
   name: Andy Castle
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: 6316fed1cc6f011a4280e7d50bde82d3
   twitter: andycastleuk
 caroline_woodhams:
@@ -20,6 +25,16 @@ caroline_woodhams:
   role: Product Owner
   gravatar_md5: 768de83673b1d12535c914b59b1ec664
   twitter: Caroline_Ruiz82
+christina_mattinson:
+  name: Christina Mattinson
+  role: Scrum Master
+  gravatar_md5: aadce53854a62de5573dad3320d2edc5
+  twitter: Christina_Mats
+connor_meredith:
+  name: Connor Meredith
+  role: Web Developer
+  gravatar_md5: 309586e01a55811b43d44249364964bc
+  twitter: connorjmeredith
 damien_turner:
   name: Damien Turner
   role: Head of IT and Infrastructure
@@ -31,21 +46,33 @@ dan_jenkins:
   gravatar_md5: db32ea38124c4a4939fb271528f4c55b
   twitter: dan_jenkins
   currently_employed: false
+duncan_fenning:
+  name: Duncan Fenning
+  role: Web Developer
+  gravatar_md5: 41a9f9f2f62bc01279a518d2b826de53
+  twitter: DuncanFenning
 harley_rowland:
   name: Harley Rowland
   role: Web Developer
   gravatar_md5: 4f0f550c7bf51690dc8841853bd4b258
   twitter: HarleyRowland
+  currently_employed: false
 george_storer:
   name: George Storer
   role: Web Developer
   gravatar_md5: 8b9afbd287dff06b2258db1561cda20f
   twitter: hxstorer
+  currently_employed: false
 jack_crawford:
   name: Jack Crawford
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: 03d1655ebfab8299cf2848a294620ab1
   twitter: jackdcrawford
+jack_morison:
+  name: Jack Morison
+  role: Software Tester
+  gravatar_md5: 8ae93c432a13eb5e094e85bd1f3cd627
+  twitter: jack_morison
 jamie_matthews:
   name: Jamie Matthews
   role: Software Tester
@@ -66,26 +93,48 @@ kevin_hodges:
   role: Head of Technology Shortbreaks
   gravatar_md5: 882959cb2cd12fd22ceb6fd2a545f009
   twitter: kevin_hodges
+liz_pope:
+  name: Liz Pope
+  role: Web Team Lead
+  gravatar_md5: 8c3d1419f32e67a4b853bf76ff563867
+  twitter: lizzie_pope
 louis_pryer:
   name: Louis Pryer
   role: Web Developer
   gravatar_md5: 66fa6c32d739e0b90417cda633308444
-  twitter: LouisPryer  
+  twitter: LouisPryer
+  currently_employed: false
 luke_frake:
   name: Luke Frake
   role: Front End Developer
   gravatar_md5: e4f58c959b0336f2645574b774164667
   twitter: LukeFrake
+luke_hansell:
+  name: Luke Hansell
+  role: Software Engineer
+  gravatar_md5: fba68102695d4713a00dfcefe1d2687e
+  twitter: luke_hansell
 mark_fermor:
   name: Mark Fermor
   role: Senior Systems Admin
   gravatar_md5: a769b1736d17133974a74176bc497161
   twitter: markfermor1
+mattsaunby:
+  name: Matt Saunby
+  role: Software Tester
+  gravatar_md5: 4309466d3e3b62cab48fed42d47f16ea
+  twitter: MattSaunby
+matt_obee:
+  name: Matt Obee
+  role: Senior Software Tester
+  gravatar_md5: fc825df69daaf0c8d2bc5f7ac865237a
+  twitter: mattobee
 matthew_tyas:
   name: Matthew Tyas
   role: Web Developer
   gravatar_md5: ba814ae5bf495589d2dce37d95816a11
   twitter: MatthewJTyas
+  currently_employed: false
 mike_carter:
   name: Mike Carter
   role: Software Architect
@@ -106,3 +155,23 @@ rob_johnson:
   role: Developer
   gravatar_md5: 4550a440411b13515e47f9ec14eddd21
   twitter: notABluesSinger
+damian_casey:
+  name: Damian Casey
+  role: Web Developer
+  gravatar_md5: 22a00e5cb399fcb77dabc84f9c43794b
+  twitter: damian_casey
+georgia_drew:
+  name: Georgia Drew 
+  role: Software Tester
+  gravatar_md5: a132d73a1a90581c1d45cb10dd3f289f
+  twitter: GeorgiaDrew5
+georgia_andy:
+  name: Georgia &amp; Andy
+  role: Testers
+  gravatar_md5: 40330429bf620ce7ef6ffadcfa252a42
+  twitter: GeorgiaDrew5
+andrew_hart:
+  name: Andrew Hart
+  role: Software Tester
+  gravatar_md5: f63d933db5c9a78c08c6de5702813f80
+  twitter: AndyBear86

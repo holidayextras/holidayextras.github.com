@@ -1,0 +1,14 @@
+<ul class="exhibition exhibition-jobs">
+{% for job in site.jobs reversed %}
+  <li>
+    <a href="{{ job.url | prepend: site.baseurl | replace: '//', '/' }}">
+      <section>
+        <h2>{{ job.title }}</h2>
+        <div class="project-summary">
+          <blockquote>{{ job.tagline }}</blockquote>
+        </div>
+      </section>
+    </a>
+  </li>
+{% endfor %}
+</ul>
