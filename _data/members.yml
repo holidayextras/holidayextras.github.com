@@ -155,6 +155,11 @@ rob_johnson:
   role: Developer
   gravatar_md5: 4550a440411b13515e47f9ec14eddd21
   twitter: notABluesSinger
+steve_cs:
+  name: Steve Coppin-Smith
+  role: Developer Lead
+  gravatar_md5: cd1acdfe8e04f0e7d1ad65e6ab3a2e0a
+  twitter: steve_coppin
 damian_casey:
   name: Damian Casey
   role: Web Developer
