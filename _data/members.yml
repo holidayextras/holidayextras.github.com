@@ -24,7 +24,7 @@ caroline_woodhams:
   name: Caroline Woodhams
   role: Product Owner
   gravatar_md5: 768de83673b1d12535c914b59b1ec664
-  twitter: Caroline_Ruiz82
+  twitter: cwoodhams82
 christina_mattinson:
   name: Christina Mattinson
   role: Scrum Master
@@ -155,6 +155,11 @@ rob_johnson:
   role: Developer
   gravatar_md5: 4550a440411b13515e47f9ec14eddd21
   twitter: notABluesSinger
+steve_cs:
+  name: Steve Coppin-Smith
+  role: Developer Lead
+  gravatar_md5: cb8f0fa4b705e5aed18e5ccf861455b6
+  twitter: steve_coppin
 damian_casey:
   name: Damian Casey
   role: Web Developer
