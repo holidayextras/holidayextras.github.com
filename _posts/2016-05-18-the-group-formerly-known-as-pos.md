@@ -3,9 +3,8 @@ comments: "true"
 layout: post
 published: false
 title: The group formerly known as POs
-author: ""
-categories: ""
-tags: ""
+author: Alix George
+categories: "Managing people, Product Owner, Scrum, Roles"
 ---
 ## Changing role titles and profiles
 
