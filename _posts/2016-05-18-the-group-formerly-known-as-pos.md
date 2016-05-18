@@ -24,7 +24,7 @@ I became a Product Owner in January 2015 and then Lead Product Owner in October 
 
 The first thing that I experienced was that some of the Product Owners' had different responsibilities. Some could focus all of their time and attention on the product they were leading on, whereas others' time was split in different directions because of their specialisms or business experience.
 
-That would be fine except that it put a lot of pressure on those who had a myriad of other responsibilities outside the realms of the PO role. There was a perception from some that they weren't delivering against the PO role properly because their time was being demanded elsewhere. These were high-performing people who were getting stressed because, as it was emerging, the business expected one thing but their role profile expected another.
+That would be fine except that it put a lot of pressure on those who had a myriad of other responsibilities outside the realms of the PO role. There was a perception from some that they weren't delivering against the PO role properly because their time was being demanded elsewhere. These were high-performing people who were getting concerned because, as it was emerging, the business expected one thing but their role profile expected another.
 
 The second thing was that, in some cases, the role title of Product Owner was inaccurate. The role literally means that you own a product - the vision, the prioritisation, the roadmap, the delivery. 
 
