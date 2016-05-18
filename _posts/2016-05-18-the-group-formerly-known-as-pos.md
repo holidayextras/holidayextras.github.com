@@ -4,13 +4,15 @@ layout: post
 published: false
 title: The group formerly known as POs
 author: Alix George
-categories: "Managing people, Product Owner, Scrum, Roles"
+categories: "Product Owner, Pod Lead"
+tags: "Managing people, scrum, roles"
+
 ---
 ## Changing role titles and profiles
 
-I was asked recently why we've made some recent changes to some of the role titles and profiles for some of the group formerly known as the Product Owners. To best answer, I decided to write a blog post about it.
+I was asked recently why we've made some changes to some of the role titles and profiles for some of the group formerly known as the Product Owners. To best answer, I decided to write a blog post about it.
 
-The main reason behind the changes was to set them up for success. That can sound a bit cliche but it's something I say often in my role - management is about setting people up for success. If someone is in the right role with the right expectations, it's great for them, their development and growth, and great for the business.
+The main reason behind the changes was to set them up for success. That can sound a bit cliche but it's something I say often in my role - management is about setting people up for success. If someone is in the right role with the right expectations, it's great for them, their development and growth, and great for the business. 
 
 So were the former role titles _wrong_? 
 
@@ -20,7 +22,7 @@ When the Web team started fully following scrum practices, the leads of each tea
 
 We had a shared role profile that outlined what 'great' looks like for a PO, which listed qualities we need, responsibilities in the role and the approach required to deliver against those responsibilities successfully. 
 
-I became a Product Owner in January 2015 and then Lead Product Owner in October the same year - when I began managing the other PO's, it was clear that what was great for one PO wasn't the same as for another.
+I became a Product Owner in January 2015 and then Lead Product Owner in October the same year - when I began managing the other PO's, it was clear that what was great for one PO wasn't the same for another.
 
 The first thing that I experienced was that some of the Product Owners' had different responsibilities. Some could focus all of their time and attention on the product they were leading on, whereas others' time was split in different directions because of their specialisms or business experience.
 
@@ -44,4 +46,4 @@ We now have a UK Delivery Manager, an EU Delivery Manager and a Technical Produc
 
 I'm still working on my own role title - Lead Pod Lead, Pod Lead Lead, and PodLeady McLeadFace have been the suggestions (and rejections... not a poll, guys...) so far.
 
-This is one of the things I love about Holiday Extras - you try something, you evolve it, try something different until you find what works best (and even then, you keep trying!).
+This is one of the things I love about Holiday Extras - you try something, you evolve it, try something different until you find what works better (and even then, you keep trying!).
