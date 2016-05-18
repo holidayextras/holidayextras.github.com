@@ -12,7 +12,7 @@ tags: "Managing people, scrum, roles"
 
 I was asked recently why we've made some changes to some of the role titles and profiles for some of the group formerly known as the Product Owners. To best answer, I decided to write a blog post about it.
 
-The main reason behind the changes was to set them up for success. That can sound a bit cliche but it's something I say often in my role - management is about setting people up for success. If someone is in the right role with the right expectations, it's great for them, their development and growth, and great for the business. 
+The main reason behind the changes was to set them up for success. That can sound a bit clichéd but it's something I say often in my role - management is about setting people up for success. If someone is in the right role with the right expectations, it's great for them, their development and growth, and great for the business. 
 
 So were the former role titles _wrong_? 
 
