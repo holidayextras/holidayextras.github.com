@@ -1,7 +1,6 @@
 ---
 comments: "true"
 layout: post
-published: false
 title: The group formerly known as POs
 author: Alix George
 categories: "Product Owner, Pod Lead"
