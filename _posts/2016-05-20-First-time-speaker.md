@@ -29,7 +29,7 @@ On the morning of the talk I arrived at the conference venue, and after getting 
 
 
 ### The Talk
-Speaking for 40 or so minutes sounds like a long time, but it seemed to fly by. I tried to concentrate on speaking slowly, taking regular pauses, having a drink of water and looking at the audience, not just staring at my notes. During the talk I actually felt quite comfortable, and think I only stumbled or forgot what I was saying once. I can remember little else, other than a few nodding heads and people taking photos of some of my slides - which you can view here [LINK] if you’re interested.
+Speaking for 40 or so minutes sounds like a long time, but it seemed to fly by. I tried to concentrate on speaking slowly, taking regular pauses, having a drink of water and looking at the audience, not just staring at my notes. During the talk I actually felt quite comfortable, and think I only stumbled or forgot what I was saying once. I can remember little else, other than a few nodding heads and people taking photos of some of my slides - which you can view [here](https://speakerdeck.com/popey89/are-your-testers-valuable) if you’re interested.
 
 
 ### Relief
