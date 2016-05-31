@@ -1,5 +1,9 @@
 # Keep it alphabetcial please
-
+andrew_hart:
+  name: Andrew Hart
+  role: Software Tester
+  gravatar_md5: f63d933db5c9a78c08c6de5702813f80
+  twitter: AndyBear86
 anna_divers:
   name: Anna Divers
   role: Associate Director
@@ -22,7 +26,7 @@ andy_castle:
   twitter: andycastleuk
 caroline_woodhams:
   name: Caroline Woodhams
-  role: Product Lead
+  role: Product Owner
   gravatar_md5: 768de83673b1d12535c914b59b1ec664
   twitter: cwoodhams82
 christina_mattinson:
@@ -35,6 +39,11 @@ connor_meredith:
   role: Web Developer
   gravatar_md5: 309586e01a55811b43d44249364964bc
   twitter: connorjmeredith
+damian_casey:
+  name: Damian Casey
+  role: Web Developer
+  gravatar_md5: 22a00e5cb399fcb77dabc84f9c43794b
+  twitter: damian_casey
 damien_turner:
   name: Damien Turner
   role: Head of IT and Infrastructure
@@ -63,6 +72,17 @@ george_storer:
   gravatar_md5: 8b9afbd287dff06b2258db1561cda20f
   twitter: hxstorer
   currently_employed: false
+georgia_andy:
+  name: Georgia &amp; Andy
+  role: Testers
+  gravatar_md5: 40330429bf620ce7ef6ffadcfa252a42
+  twitter: GeorgiaDrew5
+  currently_employed: false #not true but this will remove them from group page.
+georgia_drew:
+  name: Georgia Drew
+  role: Software Tester
+  gravatar_md5: a132d73a1a90581c1d45cb10dd3f289f
+  twitter: GeorgiaDrew5
 jack_crawford:
   name: Jack Crawford
   role: Software Engineer
@@ -161,24 +181,3 @@ steve_cs:
   role: Developer Lead
   gravatar_md5: cb8f0fa4b705e5aed18e5ccf861455b6
   twitter: steve_coppin
-damian_casey:
-  name: Damian Casey
-  role: Web Developer
-  gravatar_md5: 22a00e5cb399fcb77dabc84f9c43794b
-  twitter: damian_casey
-georgia_drew:
-  name: Georgia Drew
-  role: Software Tester
-  gravatar_md5: a132d73a1a90581c1d45cb10dd3f289f
-  twitter: GeorgiaDrew5
-georgia_andy:
-  name: Georgia &amp; Andy
-  role: Testers
-  gravatar_md5: 40330429bf620ce7ef6ffadcfa252a42
-  twitter: GeorgiaDrew5
-  currently_employed: false #not true but this will remove them from group page.
-andrew_hart:
-  name: Andrew Hart
-  role: Software Tester
-  gravatar_md5: f63d933db5c9a78c08c6de5702813f80
-  twitter: AndyBear86
