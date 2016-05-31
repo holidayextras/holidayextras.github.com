@@ -12,7 +12,7 @@ alanna_mooney:
   twitter: alannamooney
 alix_george:
   name: Alix George
-  role: Product Owner
+  role: Product Lead
   gravatar_md5: c7116d079255c2a8d6e48eb44ba9af65
   twitter: sarcasmwarning
 andy_castle:
@@ -22,7 +22,7 @@ andy_castle:
   twitter: andycastleuk
 caroline_woodhams:
   name: Caroline Woodhams
-  role: Product Owner
+  role: Product Lead
   gravatar_md5: 768de83673b1d12535c914b59b1ec664
   twitter: cwoodhams82
 christina_mattinson:
@@ -109,6 +109,7 @@ luke_frake:
   role: Front End Developer
   gravatar_md5: e4f58c959b0336f2645574b774164667
   twitter: LukeFrake
+  currently_employed: false
 luke_hansell:
   name: Luke Hansell
   role: Software Engineer
@@ -166,7 +167,7 @@ damian_casey:
   gravatar_md5: 22a00e5cb399fcb77dabc84f9c43794b
   twitter: damian_casey
 georgia_drew:
-  name: Georgia Drew 
+  name: Georgia Drew
   role: Software Tester
   gravatar_md5: a132d73a1a90581c1d45cb10dd3f289f
   twitter: GeorgiaDrew5
@@ -175,6 +176,7 @@ georgia_andy:
   role: Testers
   gravatar_md5: 40330429bf620ce7ef6ffadcfa252a42
   twitter: GeorgiaDrew5
+  currently_employed: false #not true but this will remove them from group page.
 andrew_hart:
   name: Andrew Hart
   role: Software Tester
