@@ -2,7 +2,7 @@
 comments: "true"
 layout: post
 title: The group formerly known as POs
-author: Alix George
+author: alix_george
 categories: "Product Owner, Pod Lead"
 tags: "Managing people, scrum, roles"
 
