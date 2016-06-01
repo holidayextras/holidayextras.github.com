@@ -74,7 +74,7 @@ george_storer:
   currently_employed: false
 georgia_andy:
   name: Georgia &amp; Andy
-  role: Testers
+  role: Software Testers
   gravatar_md5: 40330429bf620ce7ef6ffadcfa252a42
   twitter: GeorgiaDrew5
   currently_employed: false #not true but this will remove them from group page.
