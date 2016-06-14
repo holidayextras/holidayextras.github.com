@@ -7,32 +7,32 @@ tags: remote working
 comments: true
 excerpt: Remote working is not that scary, lots of useful tips and guidance on how we do it at HX!
 
-So our Web team has expanded to Sofia in Bulgaria, with developers joining our already established agile teams. With this change to our team dynamics we have learnt how to work remotely really well and of course we still have more areas for improvements. Last week we delivered our ambitious keynote on remote working at #HXConf which definately highlighted some of the challenges . . .this was intentional ;) 
+So our Web team has expanded to Sofia in Bulgaria, with developers joining our already established agile teams. With this change to our team dynamics, we have learnt how to work remotely really well and of course we still have more areas for improvements. Last week we delivered our ambitious keynote on remote working at #HXConf which definately highlighted some of the challenges . . .this was intentional ;) 
 
 **This blog is a follow up from that to highlight the key points made during the session and some more.**
 
-Organising a call can be extremely simple as long as everyone is on the same page, as a business we use google calendar which organises our calls for us. 
+Organising a call can be extremely simple as long as everyone is on the same page. As a business we use google calendar which organises our calls for us. 
 ### The benefits
 - Add your invites to check availability, they get a notification in advance. 
 - Google hangouts create a shared accessible link to host the call.
-- The green bars in the right hand corner do a sound check for you, thanks Google!
+- The green bars in the right hand corner do a sound check for you: thanks Google!
 
 ### Setting up your equipment
 - Use good equipment, desk speakers and microphones if in a group.
 - Individuals calling in, use good headsets that restrict background noise (our IT department issue some really good quality headsets).
-- If you do not have the equipment you need get it ordered! (James Penning is our go to guy for this!).
+- If you do not have the equipment you need get it ordered!
 - Think about your environment, you don’t want to have a remote call in a loud office where you will distract others and the background noise will distract the call.
 - Make sure your equipment is set up properly, two places to check your google call settings and the default setup of your machine - change both if you are not sure.
 - The quality of the call will depend on the quality of the internet connection - use ethernet or strong WIFI connections - if one connection on the call has a bad connection it will impact everyones call.
-- Sometimes if the microphone and speaker are two close you can get an extremely distracting echo of your own voice, and we all hate the sound of our own voice!
+- Sometimes if the microphone and speaker are too close you can get an extremely distracting echo of your own voice, and we all hate the sound of our own voice!
 - Be organised with the set up otherwise it can cut into your meeting time.
 
 ### How to put you remote team member first
 - Actively ask questions and encourage engagement. 
 - If you are the remote worker speak up, let the team know if you are finding the call challenging for whatever reason.
-- Think about time zones, try to organise meetings at times that are suitable for everyone and try to spread out meetings. 
-- You tend to use up more energy following conversations remote so don’t organise to many closely together!
-- Engagement is really important so try to make the remote workers feel like they are not at a disadvantage, use multiple cameras to show what is happening in the room, it is much easier to follow a conversation if you can see body language. 
+- Think about time zones. Try to organise meetings at times that are suitable for everyone and try to spread out meetings. 
+- You tend too use up more energy following conversations remote so don’t organise to many closely together!
+- Engagement is really important so try to make the remote workers feel like they are not at a disadvantage, use multiple cameras to show what is happening in the room. It is much easier to follow a conversation if you can see body language. 
 - Think about creative ways to collaborate - we have had some great tools and electronic boards introduced to share ideas on.
 - Oh and don’t forget screen share on Google Hangouts.
 - Think about how best to use the equipment, desk microphones have a limited range so think about the how you are projecting your voice so you can be heard clearly. 
