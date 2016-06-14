@@ -7,7 +7,7 @@ tags: remote working
 comments: true
 excerpt: Remote working is not that scary, lots of useful tips and guidance on how we do it at HX!
 
-So our Web team has expanded to Sofia in Bulgaria, with developers joining our already established Scrum teams. With this change to our team dynamics we have learnt how to work remotely really well and of course we still have more areas for improvements. Last week we delivered our ambitious keynote on remote working at #HXConf which definately highlighted some of the challenges . . .this was intentional ;) 
+So our Web team has expanded to Sofia in Bulgaria, with developers joining our already established agile teams. With this change to our team dynamics we have learnt how to work remotely really well and of course we still have more areas for improvements. Last week we delivered our ambitious keynote on remote working at #HXConf which definately highlighted some of the challenges . . .this was intentional ;) 
 
 **This blog is a follow up from that to highlight the key points made during the session and some more.**
 
@@ -38,6 +38,6 @@ Organising a call can be extremely simple as long as everyone is on the same pag
 - Think about how best to use the equipment, desk microphones have a limited range so think about the how you are projecting your voice so you can be heard clearly. 
 - Additionally have you ever been in a meeting where there are two conversations happening . . . it is so hard to follow. This is multiplied when listening in one a remote call.
 
-**Oh and one final point, our web team now we have two different types of remote meetings:**
+**Oh and one final point, our web team now have two different types of remote meetings:**
 - An already established team starting to work remotely.
-- A new member of the team working remotely with new people, this introduces new challenges because the team familiarity is not yet established, making that individual feel part of the team sooner will create a more effective team!
+- A new member of the team working remotely with new people, this introduces new challenges because the team familiarity is not yet established. Making that individual feel part of the team sooner will create a more effective team!
