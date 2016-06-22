@@ -1,6 +1,6 @@
 <div align="center"><img src="http://jekyllrb.com/img/octojekyll.png" width="40%" /></div>
 
-The Hungry Geek Blog - by Holiday Extras
+The Tech Team @ Holiday Extras Blog
 ========================
 
 This is a new blog created using Jekyll and GitHub pages.
@@ -46,7 +46,7 @@ If this is the case, we may restrict your github access to ONLY the HX Blog repo
 * Authorize Prose on github - <https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=repo>
 * Visit <http://prose.io/#holidayextras/holidayextras.github.com> (you should be logged in automatically)
 * Click on folder `_posts`
-* Now you should see a list of all exisitng blog posts on Hungry Geek
+* Now you should see a list of all exisitng blog posts
 * Click on 'view drafts'
 * Click 'new file'
 * Write your blog post using [markdown](http://daringfireball.net/projects/markdown/syntax)

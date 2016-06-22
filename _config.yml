@@ -1,5 +1,5 @@
-name: Holiday Extras - Hungry Geek
-description: Holiday Extras Geek Blog
+name: Holiday Extras Tech
+description: Holiday Extras Tech Team Blog
 markdown: kramdown
 kramdown:
   input: GFM
@@ -8,7 +8,7 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: pretty
-url: http://hungrygeek.holidayextras.co.uk
+url: http://tech.holidayextras.co.uk
 baseurl:
 paginate: 10
 exclude: ["node_modules","package.json","README.md", "Gemfile"]
@@ -27,7 +27,7 @@ gems:
   - jekyll-paginate
 prose:
   rooturl: ''
-  siteurl: 'http://hungrygeek.holidayextras.co.uk'
+  siteurl: 'http://tech.holidayextras.co.uk'
   ignore:
     - _data
     - _includes
