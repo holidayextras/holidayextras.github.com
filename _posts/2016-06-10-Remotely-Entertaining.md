@@ -7,14 +7,14 @@ tags: remote working
 comments: true
 excerpt: Remote working is not that scary, lots of useful tips and guidance on how we do it at HX!
 
-So our Web team has expanded to Sofia in Bulgaria, with developers joining our already established agile teams. With this change to our team dynamics, we have learnt how to work remotely really well, while we still identify new areas for improvements as our team grows and the remote tech around us improves. Last week we delivered our ambitious keynote on remote working at #HXConf which definitely highlighted some of the challenges . . . this was intentional ;) 
+So our Web team has expanded to Sofia in Bulgaria, with developers joining our already established agile teams. With this change to our team dynamics, we have learnt how to work remotely really well, while we are still identifying new areas for improvements as our team grows and the remote tech around us improves. Last week we delivered our ambitious keynote on remote working at [#HXConf](https://twitter.com/hashtag/hxconf) which definitely highlighted some of the challenges . . . this was intentional ;)
 
 This blog is a follow up from that to highlight the key points made during the session from starting a call, to facilitating an effective remote session and some more.
 
 Organising a call can be extremely simple as long as everyone is on the same page. As a business we use google calendar to organise the time and attendees on the call. Google hangouts is the tool we use to host the calls as the functionality is already there (and it is free).
 ### The benefits
-- Add your invites to check availability, they get a notification in advance. 
-- Google hangouts create a shared accessible link to host the call, accessible to anyone with a gmail account.
+- Add your invites to check availability, they get a notification in advance.
+- Google hangouts creates a shared accessible link to host the call, accessible to anyone with a gmail account.
 - The green bars in the right hand corner do a sound check for you: thanks Google!
 
 Over the last few weeks we have been exposed to remote planning meetings, stand ups,  catch ups and retrospectives. Each different type of meetings introduced new challenges and we tested out various sessions in different environments with different equipment. Now looking back we have learnt some really useful tips.
@@ -30,17 +30,17 @@ Over the last few weeks we have been exposed to remote planning meetings, stand 
 
 Another really important point when facilitating a remote meeting is to put your remote worker first as their contribution is really important and sometimes they need some encouragement to speak up.
 ### How to put you remote team member first
-- Actively ask questions and encourage engagement. 
+- Actively ask questions and encourage engagement.
 - If you are the remote worker speak up, let the team know if you are finding the call challenging for whatever reason.
-- Think about time zones. Try to organise meetings at times that are suitable for everyone and try to spread out meetings. 
-- You tend too use up more energy following conversations remotely so don’t organise to many closely together!
-- Engagement is really important so try to make the remote workers feel like they are not at a disadvantage, use multiple cameras to show what is happening in the room. It is much easier to follow a conversation if you can see body language. 
+- Think about time zones. Try to organise meetings at times that are suitable for everyone and try to spread out meetings.
+- You tend to use up more energy following conversations remotely so don’t organise to many closely together!
+- Engagement is really important so try to make the remote workers feel like they are not at a disadvantage, use multiple cameras to show what is happening in the room. It is much easier to follow a conversation if you can see body language.
 - Think about creative ways to collaborate - we have had some great tools and electronic boards introduced to share ideas on.
 - Oh and don’t forget screen share on Google Hangouts.
-- Think about how best to use the equipment, desk microphones have a limited range so think about the how you are projecting your voice so you can be heard clearly. 
+- Think about how best to use the equipment, desk microphones have a limited range so think about the how you are projecting your voice so you can be heard clearly.
 - Additionally have you ever been in a meeting where there are two conversations happening . . . it is so hard to follow. This is multiplied when listening in on a remote call.
 
 Oh and one final point, our web team now have two different types of remote meetings.
-An already established agile team starting to work remotely and a new member of the team working remotely with new people. The second scenario introduces new challenges because the team familiarity is not yet established. Making that individual feel part of the team sooner will create a more effective team, better collaboration and more open and honest relationships! 
+An already established agile team starting to work remotely and a new member of the team working remotely with new people. The second scenario introduces new challenges because the team familiarity is not yet established. Making that individual feel part of the team sooner will create a more effective team, better collaboration and more open and honest relationships!
 
-Remote working is not more difficult, it is just different. Team habits need to change slightly but once adopted you will see the benefits and contributions from your remote team member, no matter where they are based. One useful tool my team recently adopted was running a remote themed retrospective after a few weeks of practice. This allowed us to highlight what we were doing really well so we could refer back to our points if our habits slip back. It also enabled the team to highlight even further advances we could make which I will share. We realised that we had challenges with our equipment and testing mobile bugs remotely was difficult due to access to mobile devices.
+Remote working is not more difficult, it is just different. Team habits need to change slightly but once adopted you will see the benefits and contributions from your remote team member, no matter where they are based. One useful tool my team recently adopted was running a remote themed retrospective after a few weeks of practice. This allowed us to highlight what we were doing really well so we could refer back to our points if our habits slip back.
