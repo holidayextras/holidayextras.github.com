@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'Remote'ly Entertaining
+title: Remote-ly Entertaining
 categories: Remote Working
 author: christina_mattinson
 tags: remote working
 comments: true
 excerpt: Remote working is not that scary, lots of useful tips and guidance on how we do it at HX!
+---
 
 So our Web team has expanded to Sofia in Bulgaria, with developers joining our already established agile teams. With this change to our team dynamics, we have learnt how to work remotely really well, while we are still identifying new areas for improvements as our team grows and the remote tech around us improves. Last week we delivered our ambitious keynote on remote working at [#HXConf](https://twitter.com/hashtag/hxconf) which definitely highlighted some of the challenges . . . this was intentional 😉
 
