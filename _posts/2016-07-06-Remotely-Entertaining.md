@@ -13,12 +13,14 @@ So our Web team has expanded to Sofia in Bulgaria, with developers joining our a
 This blog is a follow up from that to highlight the key points made during the session from starting a call, to facilitating an effective remote session and some more.
 
 Organising a call can be extremely simple as long as everyone is on the same page. As a business we use Google calendar to organise the time and attendees on the call. Google hangouts is the tool we use to host the calls as the functionality is already there (and it is free).
+
 ### The benefits
 - Add your invites to check availability, they get a notification in advance.
 - Google hangouts creates a shared accessible link to host the call, accessible to anyone with a gmail account.
 - The green bars in the right hand corner do a sound check for you: thanks Google!
 
 Over the last few weeks we have been exposed to remote planning meetings, stand-ups, catch-ups and retrospectives. Each different type of meetings introduced new challenges and we tested out various sessions in different environments with different equipment. Now looking back we have learnt some really useful tips.
+
 ### Setting up your equipment
 - Use good equipment, desk speakers and microphones if in a group.
 - Individuals calling in: use good headsets that restrict background noise.
@@ -30,6 +32,7 @@ Over the last few weeks we have been exposed to remote planning meetings, stand-
 - Be organised with the set up otherwise it can cut into your meeting time.
 
 Another really important point when facilitating a remote meeting is to put your remote worker first as their contribution is really important and sometimes they need some encouragement to speak up.
+
 ### How to put you remote team member first
 - Actively ask questions and encourage engagement.
 - If you are the remote worker speak up, let the team know if you are finding the call challenging for whatever reason.
