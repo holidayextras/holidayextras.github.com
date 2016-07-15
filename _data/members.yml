@@ -1,5 +1,9 @@
 # Keep it alphabetcial please
-
+andrew_hart:
+  name: Andrew Hart
+  role: Software Tester
+  gravatar_md5: f63d933db5c9a78c08c6de5702813f80
+  twitter: AndyBear86
 anna_divers:
   name: Anna Divers
   role: Associate Director
@@ -12,7 +16,7 @@ alanna_mooney:
   twitter: alannamooney
 alix_george:
   name: Alix George
-  role: Product Owner
+  role: Product Lead
   gravatar_md5: c7116d079255c2a8d6e48eb44ba9af65
   twitter: sarcasmwarning
 andy_castle:
@@ -24,7 +28,7 @@ caroline_woodhams:
   name: Caroline Woodhams
   role: Product Owner
   gravatar_md5: 768de83673b1d12535c914b59b1ec664
-  twitter: Caroline_Ruiz82
+  twitter: cwoodhams82
 christina_mattinson:
   name: Christina Mattinson
   role: Scrum Master
@@ -35,6 +39,11 @@ connor_meredith:
   role: Web Developer
   gravatar_md5: 309586e01a55811b43d44249364964bc
   twitter: connorjmeredith
+damian_casey:
+  name: Damian Casey
+  role: Web Developer
+  gravatar_md5: 22a00e5cb399fcb77dabc84f9c43794b
+  twitter: damian_casey
 damien_turner:
   name: Damien Turner
   role: Head of IT and Infrastructure
@@ -63,6 +72,17 @@ george_storer:
   gravatar_md5: 8b9afbd287dff06b2258db1561cda20f
   twitter: hxstorer
   currently_employed: false
+georgia_andy:
+  name: Georgia &amp; Andy
+  role: Software Testers
+  gravatar_md5: 40330429bf620ce7ef6ffadcfa252a42
+  twitter: GeorgiaDrew5
+  currently_employed: false #not true but this will remove them from group page.
+georgia_drew:
+  name: Georgia Drew
+  role: Software Tester
+  gravatar_md5: a132d73a1a90581c1d45cb10dd3f289f
+  twitter: GeorgiaDrew5
 jack_crawford:
   name: Jack Crawford
   role: Software Engineer
@@ -109,6 +129,7 @@ luke_frake:
   role: Front End Developer
   gravatar_md5: e4f58c959b0336f2645574b774164667
   twitter: LukeFrake
+  currently_employed: false
 luke_hansell:
   name: Luke Hansell
   role: Software Engineer
@@ -155,23 +176,8 @@ rob_johnson:
   role: Developer
   gravatar_md5: 4550a440411b13515e47f9ec14eddd21
   twitter: notABluesSinger
-damian_casey:
-  name: Damian Casey
-  role: Web Developer
-  gravatar_md5: 22a00e5cb399fcb77dabc84f9c43794b
-  twitter: damian_casey
-georgia_drew:
-  name: Georgia Drew 
-  role: Software Tester
-  gravatar_md5: a132d73a1a90581c1d45cb10dd3f289f
-  twitter: GeorgiaDrew5
-georgia_andy:
-  name: Georgia &amp; Andy
-  role: Testers
-  gravatar_md5: 40330429bf620ce7ef6ffadcfa252a42
-  twitter: GeorgiaDrew5
-andrew_hart:
-  name: Andrew Hart
-  role: Software Tester
-  gravatar_md5: f63d933db5c9a78c08c6de5702813f80
-  twitter: AndyBear86
+steve_cs:
+  name: Steve Coppin-Smith
+  role: Developer Lead
+  gravatar_md5: cb8f0fa4b705e5aed18e5ccf861455b6
+  twitter: steve_coppin
