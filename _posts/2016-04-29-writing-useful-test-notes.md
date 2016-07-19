@@ -17,10 +17,10 @@ Each of the testers at Holiday Extras, despite working closely together, has a s
 Firstly, let's clarify the difference between the notes that we make for ourselves during our testing sessions and the reports of those testing sessions that we share with other people. Our private notes are a place to record our observations, ideas and questions during the testing session; they're rough, incomplete and probably difficult for other people to follow. The reports that we share with other people are based on these notes but reformatted and rewritten with the aim of communicating those results.
 
 # Write for your audience
-Like any other piece of writing, it's important to have a clear picture of who you're writing for.
+Like any other piece of writing, it's important to have a clear picture of who you're writing for. What do they need to know? How much detail do they expect? What is their level of technical knowledge? In my experience, product owners like comprehensive reports so that they understand how the piece of work was tested, what was obvserved and what risks or opportunities might remain. On the other hand, scrum masters prefer a quick summary of the results so that they know whether or not the sprint is still on track. The easiest way to satisfy both of these audiences is to include a tl;dr summary so that readers don't have to wade through the details if they're only interested in the conclusion.
 
 # How was this tested?
-For a number of reasons, one of the most important questions that testers have to be able to answer is "how was this tested?". 
+For a number of reasons, one of the most important questions that testers have to be able to answer is "how was this tested?". Another tester . Perhaps a defect has been found in production and we want to understand how it sneaked past us so that we can catch it next time.
 
 # What has and has not been tested?
 
