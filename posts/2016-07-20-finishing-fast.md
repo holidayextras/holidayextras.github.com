@@ -13,7 +13,7 @@ I’m not much of a runner, but I’ve been bringing my time down consistently o
 
 ##Speed, speed, speed
 
-Feeling strong, I opened up my stride and went for it. The first report back from my run tracker was in after the first kilometre. 4:08, a good 25 seconds than my first kilometre time on my best outing on this route. All signs pointed to this being a quick time.
+Feeling strong, I opened up my stride and went for it. The first report back from my run tracker was in after the first kilometre. 4:08, a good 25 seconds quicker than my first kilometre time on my best outing on this route. All signs pointed to this being a quick time.
 
 Next marker, 4:53. Quite a drop off and I’m starting to feel why. I’d started to pick up some debt from a speedy start. Legs were tired, breathing wasn’t regulated yet and the stitch developing in my side was the veritable bug in my system. 
 
