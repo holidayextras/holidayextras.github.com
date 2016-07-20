@@ -11,7 +11,7 @@ We’ve been discussing speed a lot internally both in relation to our systems a
 
 I’m not much of a runner, but I’ve been bringing my time down consistently over the last month. Imagine my delight when the sun was out, the air was clear and I was feeling fit. Conditions were perfect for a new personal best.
 
-##Speed, speed, speed
+## Speed, speed, speed
 
 Feeling strong, I opened up my stride and went for it. The first report back from my run tracker was in after the first kilometre. 4:08, a good 25 seconds quicker than my first kilometre time on my best outing on this route. All signs pointed to this being a quick time.
 
@@ -23,7 +23,7 @@ Wrong. The digging deep only added more debt and bugs and the 5:21 it was follow
 
 The final kilometre hurt, in body and soul. 5:10 was enough to bring it home before my revised deadline, but at what cost. I certainly didn’t feel like running the next day, or that week. If I could have summoned the energy and will to go again the next day it may well have been slower, if not a prompt to stop running altogether.
 
-##The costs of speed
+## The costs of speed
 
 References to scope, bugs and debt allude to the fact this isn’t wholly a post about running. We’ve all had our fair share of projects that follow this pattern. It’s easy to assume that to get somewhere fast you need to move with speed. To an extent this is true, but there are other variables and costs.
 
@@ -31,7 +31,7 @@ A tech project that focuses solely on speed is destined to fail, one way or anot
 
 Now, don’t get me wrong, speed is an important part of pace, but with the added consideration that there is a cost to speed. These considerations need to be mitigated by measuring the costs and adjusting speed to counter debt and find the right pace. 
 
-##Finish fast by managing your pace
+## Finish fast by managing your pace
 
 Agile working methodologies, particularly Scrum, are great at measuring pace. Learn from previous projects to set your starting pace and regularly monitor your velocity and levels of technical debt. From that point, you can test increasing your speed without incurring an equivalent cost. 
 
