@@ -35,6 +35,8 @@ Now, don’t get me wrong, speed is an important part of pace, but with the adde
 
 Agile working methodologies, particularly Scrum, are great at measuring pace. Learn from previous projects to set your starting pace and regularly monitor your velocity and levels of technical debt. From that point, you can test increasing your speed without incurring an equivalent cost. 
 
+Note also that more people don't equate to speed. It's akin to adding another pair of legs to a runner and asking them to figure out how to use them halfway through a race.
+
 If you got this far, let me reward you with one more analogy and consider the speed of your competitors, which is of course a main driver in business:
 
 In distance races you can have a field full of elite record holders with super fast times, yet they come in minutes after the world record and even their own personal bests. Why? They are capable of running faster, no? Their focus is on finishing faster than their competitors, not the fastest possible. 
