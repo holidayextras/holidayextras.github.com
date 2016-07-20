@@ -2,7 +2,7 @@
 comments: true
 layout: post
 title: Becoming a Scrum Master at Holiday Extras
-author: HanCork89
+author: han_cork
 categories: Scrum Master
 tags: scrum master agile
 excerpt: The story of how I transitioned to become a Scrum Master at a company with an incredibly agile mindset.
