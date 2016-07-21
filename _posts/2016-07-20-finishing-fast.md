@@ -44,13 +44,3 @@ In distance races you can have a field full of elite record holders with super f
 Sure, there are times when you want to head the pack to stretch your competitors a little and inform someone else’s strategy, like a company first to market. However doing this represents a risk to your own race, so it needs to be done with care and only if you’re in a position to manage it. 
 
 Next time you’re setting your speed, think of the runner in the pack, and consider what pace is going to get you to the finish line first.
-
-
-
-
-
- 
-
-
-
-
