@@ -5,9 +5,9 @@ categories: Delivery
 author: steve_cs
 tags: Speed Pace Fast Finishing Projects 
 comments: true
-excerpt: A recent example, albeit nothing to do with business or technology, to remind us that speed is not the only element in finishing fast. 
+excerpt: A recent example, albeit nothing to do with business or technology, to reminded me that speed is not the only element in finishing fast. 
 ---
-We’ve been discussing speed a lot internally both in relation to our systems and our delivery. We want to waste no time in delivering new features and improvements to our customers to maintain our competitive advantage. I was grateful for a recent example, albeit nothing to do with business or technology, to remind us that speed is not the only element in finishing fast. 
+We’ve been discussing speed a lot internally both in relation to our systems and our delivery. We want to waste no time in delivering new features and improvements to our customers to maintain our competitive advantage. A recent example, albeit nothing to do with business or technology, reminded me that speed is not the only element in finishing fast.
 
 I’m not much of a runner, but I’ve been bringing my time down consistently over the last month. Imagine my delight when the sun was out, the air was clear and I was feeling fit. Conditions were perfect for a new personal best.
 
@@ -35,7 +35,7 @@ Now, don’t get me wrong, speed is an important part of pace, but with the adde
 
 Agile working methodologies, particularly Scrum, are great at measuring pace. Learn from previous projects to set your starting pace and regularly monitor your velocity and levels of technical debt. From that point, you can test increasing your speed without incurring an equivalent cost. 
 
-Note also that more people doesn't equate to speed. It's akin to adding another pair of legs to a runner and asking them to figure out how to use them halfway through a race.
+(Note also that more people doesn't equate to speed. It's akin to adding another pair of legs to a runner and asking them to figure out how to use them halfway through a race.)
 
 If you got this far, let me reward you with one more analogy and consider the speed of your competitors, which is of course a main driver in business:
 
@@ -43,4 +43,4 @@ In distance races you can have a field full of elite record holders with super f
 
 Sure, there are times when you want to head the pack to stretch your competitors a little and inform someone else’s strategy, like a company first to market. However doing this represents a risk to your own race, so it needs to be done with care and only if you’re in a position to manage it. 
 
-Next time you’re setting your speed, think of the runner in the pack, and consider what pace is going to get you to the finish line first.
+Next time you’re setting your speed, think of the runner in the pack, and consider what pace is going to get you to the finish line fast, fit and ready to go again.
