@@ -7,7 +7,7 @@ tags: html5 canvas javascript
 comments: true
 ---
 
-The Canvas API has been available in Chrome for a long time now, version 4 in fact. It dawned on me one evening late last year that i'd never actually played around with it. Enter my super duper creative imagination.
+The [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) has been available in Chrome for a long time now, version 4 in fact. It dawned on me one evening late last year that I'd never actually played around with it. Enter my super duper creative imagination.
 
 This beautiful piece of art emerged.
 ![Colours]({{ site.baseurl }}/assets/img/colours.gif)
@@ -24,4 +24,4 @@ Next I looped through the available space on the canvas and picked a random colo
 
 The code isn't pretty, it's certainly not the most efficient way of doing it either. I had fun though and felt strangely proud of my colourful squares. It felt like the first time i'd successfully printed out `$_GET` in PHP, exciting, I was discovering a whole new realm of development.
 
-The point i'm trying to make is that you should play around with a technology you havn't used before, you might end up with your own colourful squares.
+The point I'm trying to make is that you should play around with a technology you haven't used before, you might end up with your own colourful squares.
