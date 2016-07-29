@@ -7,7 +7,7 @@ tags: Planning Efficiently
 comments: true
 excerpt: Sometimes we need to substantially rewrite our code to get it through code review, but why do we only know that it needs to be rewritten once we think we have finished? Why can't we know that better approach before we start to write our code?
 ---
-## introduction
+## Introduction
 There have been a number of times when I have experienced either my work, or a colleagues work that I am reviewing, needing to have quite a substantial rewrite done to it, in order to get through code review. I'm sure we have all been there; you read through your task, outline how you are going to do it, and crack on and make your changes, maybe asking a few questions along the way. You then need to update existing test code or write new test code to cover your changes, before submitting a PR and finding reviewers for it.
 
 Then when you think it is almost done, you get that dreaded PR comment from another developer with a better solution which will require a substantial (and in some cases full) rewrite of your code. Even though the new solution would leave your work in a better position once addressed, I still feel that this scenario can be easily avoided by focusing a bit more time in the planning stage. Why can’t we have that better solution before we start our work, rather than once we think we’ve finished?
