@@ -10,7 +10,7 @@ excerpt: We have supportive individuals. We have a well communicated and adopted
 Beating Bystanding
 Our engineering team has doubled in size over the last two years. During that time we’ve recruited people who value helping others and embedded them into our supportive culture. So, why is it more difficult to find help? 
 
-We use pull requests (PRs) as a strategy to get work reviewed. All code changes are approved by peers before being put into production. The PR process also provides a good measure of our supportive culture. 
+We use pull requests (PR) as a strategy to get work reviewed. All code changes are approved by peers before being put into production. The PR process also provides a good measure of our supportive culture. 
 
 We have supportive individuals. We have a well communicated and adopted company culture of supporting others. We have an understanding within our teams that support of others is a necessary part of our delivery. Check to all those. In that respect we have maintained the culture we had two years ago before we doubled in size. Perhaps it is growth itself, particularly our new size, that has created this issue.
 
@@ -20,7 +20,7 @@ John Darley and Bibb Latané demonstrated bystander effect in a series of experi
 
 The variables of bystander theory could explain why we are not stepping forward in our growing Holiday Extras tech team.
 
-**Diffusion of responsibility** could be the biggest contributor to our issue. It is tempting to believe that others are more available or capable to intervene. In relation to the PR example, it would be easy for an individual to assume that another member of the team would be more capable. Our own availability, or shortness of, is also visible to ourselves. It would be human of us to want to wait a while for that highly capable, highly available person to step forward. As the team grows, the probability of this person increases and so people are more inclined to wait. When all are waiting, including that person, we have a problem. 
+**Diffusion of responsibility** could be the biggest contributor to our issue. It is tempting to believe that others are more available or capable to intervene. In relation to the PR example, it would be easy for an individual to assume that another member of the team would be more capable. It would be human of us to want to wait a while for that highly capable, highly available person to step forward. As the team grows, the probability of this person increases and so people are more inclined to wait. When all are waiting, including that person, we have a problem. 
 
 A feeling of responsibility is part of the **emergency vs non-emergency** variable. It focuses more on how the situation is presented. Bystanders naturally go through the following process when assessing: notice the situation; interpret the level of emergency; feel a level of responsibility; think how they could help; implement. Given that process, the raiser of a PR would need to make sure they provide the right information. We use Slack to communicate when we need a PR reviewed, where it’s difficult to get noticed. It would be easy to write “Got a PR, a little help?” and get frustrated that no one understands the urgency or feels responsible. Include that it needs to be merged today, to solve this business goal and here’s the expertise we need to assess. That would help bystanders to go through their process and put themselves forward to help.
 
