@@ -10,11 +10,11 @@ excerpt: We have supportive individuals. We have a well communicated and adopted
 Beating Bystanding
 Our engineering team has doubled in size over the last two years. During that time we’ve recruited people who value helping others and embedded them into our supportive culture. So, why is it more difficult to find help? 
 
-We use pull requests (PR) as a strategy to get work reviewed. All code changes are approved by peers before being put into production. The PR process also provides a good measure of our supportive culture. 
+We use [pull requests](https://help.github.com/articles/using-pull-requests/) (PR) as a strategy to get work reviewed. All code changes are approved by peers before being put into production. The PR process also provides a good measure of our supportive culture. 
 
 We have supportive individuals. We have a well communicated and adopted company culture of supporting others. We have an understanding within our teams that support of others is a necessary part of our delivery. Check to all those. In that respect we have maintained the culture we had two years ago before we doubled in size. Perhaps it is growth itself, particularly our new size, that has created this issue.
 
-There is an interesting social psychological phenomenon called the bystander effect. This effect is linked to some horrific crimes, so be careful with any further reading. The underlying psychology study shows the impact of the size of a group on intervention. Intervention in our case is the process of stepping forward and answering a request for help.
+There is an interesting social psychological phenomenon called the [bystander effect](https://en.wikipedia.org/wiki/Bystander_effect). This effect is linked to some horrific crimes, so be careful with any further reading. The underlying psychology study shows the impact of the size of a group on intervention. Intervention in our case is the process of stepping forward and answering a request for help.
 
 John Darley and Bibb Latané demonstrated bystander effect in a series of experiments in 1968. Their experiments show that in the presence of others an individual is less likely to intervene. The likelihood of stepping forward decreases further the larger the group. The experiments used danger and confrontation to perform their study. There is still much to learn in our less threatening workplaces. It’s at our most vulnerable that we see human impulse the most.
 
@@ -38,4 +38,4 @@ We hope that if we can put in place these five things, we can overcome the natur
 
 ---
 
-_A little side note to this article. In my career so far I’ve found myself wondering why things are wrong and seen the stick, not the carrot, wielded to fix it. It’s fantastic to be able to have the time and remit to investigate the causes of the issues we face and finding real, long term solutions. If you’re in a reactive, crack-papering environment and looking for the alternative, get in touch._
+_A little side note to this article. In my career so far I’ve found myself wondering why things are wrong and seen the stick, not the carrot, wielded to fix it. It’s fantastic to be able to have the time and remit to investigate the causes of the issues we face and finding real, long term solutions. If you’re in a reactive, crack-papering environment and looking for the alternative, [get in touch](http://join.holidayextras.co.uk/)._
