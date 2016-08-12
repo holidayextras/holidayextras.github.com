@@ -10,7 +10,7 @@ excerpt: We have supportive individuals. We have a well communicated and adopted
 Beating Bystanding
 Our engineering team has doubled in size over the last two years. During that time we’ve recruited people who value helping others and embedded them into our supportive culture. So, why is it more difficult to find help? 
 
-Last year we introduced pull requests (PRs) as a strategy to get work reviewed. All code changes are approved by peers before being put into production. The PR process also provides a good measure of our supportive culture. 
+We use pull requests (PRs) as a strategy to get work reviewed. All code changes are approved by peers before being put into production. The PR process also provides a good measure of our supportive culture. 
 
 We have supportive individuals. We have a well communicated and adopted company culture of supporting others. We have an understanding within our teams that support of others is a necessary part of our delivery. Check to all those. In that respect we have maintained the culture we had two years ago before we doubled in size. Perhaps it is growth itself, particularly our new size, that has created this issue.
 
