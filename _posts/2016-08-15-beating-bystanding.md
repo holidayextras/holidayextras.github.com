@@ -36,4 +36,6 @@ These are just three of seven variables identified, but definitely provide us wi
 
 We hope that if we can put in place these five things, we can overcome the natural difficulties of larger groups finding help so we can keep growing. 
 
+---
+
 _A little side note to this article. In my career so far I’ve found myself wondering why things are wrong and seen the stick, not the carrot, wielded to fix it. It’s fantastic to be able to have the time and remit to investigate the causes of the issues we face and finding real, long term solutions. If you’re in a reactive, crack-papering environment and looking for the alternative, get in touch._
