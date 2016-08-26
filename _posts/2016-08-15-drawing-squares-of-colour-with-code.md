@@ -13,7 +13,7 @@ This beautiful piece of art emerged.
 ![Colours]({{ site.baseurl }}/assets/img/colours.gif)
 
 
-I started with a colour palette that I found on [Colourlovers](http;//www.colourlovers.com) and built that into an array.
+I started with a colour palette that I found on [Colourlovers](http://www.colourlovers.com) and built that into an array.
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.4/gist-embed.min.js"></script>
