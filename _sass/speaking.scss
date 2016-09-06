@@ -24,6 +24,9 @@
   .past-talks ul p {
     font-size:0.83em;
   }
+  .current-talks ul:empty:after {
+    content:"No upcoming events :(";
+  }
 }
 
 .event-logo {
