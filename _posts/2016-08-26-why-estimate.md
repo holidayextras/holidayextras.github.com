@@ -23,7 +23,7 @@ If the discussion of the ticket is what’s important for the team, then the arg
 
 Velocity is usually the main bonus of using a technique like the Fibonacci Sequence. An established team should agree on the effort of a piece of work and therefore amount of work they can pull into their sprint. Over time, this establishes a consistent velocity which helps the Product Owner create longer term roadmaps for work and the team ensure they don’t overcommit to work even when under pressure to do so.
 
-Thinking outside the Scrum Team themselves, estimations helps manage stakeholder expectations. It gives a tool to the Product Owner to help them assess when a project or piece of work could be done and whether or not it’s viable.
+Thinking outside the Scrum Team themselves, estimations help manage stakeholder expectations. It gives a tool to the Product Owner to help them assess when a project or piece of work could be done and whether or not it’s viable.
 
 Estimation has many other pros:
 * helps show if a ticket is too large and needs to be broken down into smaller, more manageable parts;
