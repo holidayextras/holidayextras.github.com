@@ -65,6 +65,12 @@ han_cork:
   role: Scrum Master
   gravatar_md5: 254ea9e95547f5d0cc983ce7b0ace1a3
   twitter: HanCork89
+nick_han:
+  name: Nick and Han
+  role: Scrum Masters
+  gravatar_md5: 6837bfce14d502d3078c447db6f52ecd
+  twitter: HanCork89
+  currently_employed: false
 harley_rowland:
   name: Harley Rowland
   role: Web Developer
