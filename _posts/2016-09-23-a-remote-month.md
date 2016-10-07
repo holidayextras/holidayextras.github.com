@@ -1,14 +1,14 @@
 ---
 layout: post
-title: A Remote Month
+title: Remote: An Autumn Migration
 categories: Remote Working
 author: duncan_fenning
-tags: Remote Home Office
+tags: Remote Migration Home Office
 comments: true
 excerpt: My initial thoughts about moving to remote home working.
 ---
 
-A lot has changed for me in the last 2 months. The biggest change was moving away. Away from Kent, where I've lived my whole live; away from friends and family and away from the office. I knew this was coming but had no idea what to expect. A wise man once said, 'If you don't know what to expect, don't expect anything'. So that's exactly what I did, expected nothing.
+A lot has changed for me in the last 2 months. The biggest change was moving away. Away from Kent, where I've lived my whole life; away from friends and family and away from the office. I knew this was coming but had no idea what to expect. A wise man once said, 'If you don't know what to expect, don't expect anything'. So that's exactly what I did, expected nothing.
 
 I've been working remotely for the last month and it has made me consider everything I assumed to be normal when working in an office. Setting that 6:30am alarm, rushing around to get breakfast before the hour long commute for a 9am start. Followed by a busy office and a full days work, before ending driving home in time for dinner at 6:30pm.
 
@@ -22,7 +22,7 @@ When commuting to the shared office, I would wake up at 6:30am to start work at 
 
 ### No commute, mo' money?
 
-I took my commute for granted. I never considered what my commute was doing to me. It was a necessity that came with the job. Retrospectively, I was spending 2 hours a day and £40 a week getting to work. Have you ever considered spending £40 a month on something and decided it wasn't worth the money? How about £120 a month? That's how my commute felt to me. A waste of money. Now my commute is from my bed to my laptop. It's a hell of a lot cheaper and the only congestion I get stuck in is making the morning cup of coffee.
+I took my commute for granted. I never considered what my commute was doing to me. It was a necessity that came with the job. Retrospectively, I was spending 2 hours a day and £40 a week getting to work. Have you ever spent £40 a month on something and decided it wasn't worth the money? How about £160 a month? That's how my commute felt to me. A waste of money. Now my commute is from my bed to my laptop. It's a hell of a lot cheaper and the only congestion I get stuck in is making the morning cup of coffee.
 
 ### Not feeling guilty
 
