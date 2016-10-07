@@ -5,7 +5,7 @@ categories: agile
 author: nick_ls
 tags: agile
 comments: true
-excerpt: Is estimating ultimately a waste of time?
+excerpt: How flexible does a Scrum Master need to be?
 ---
 
 ## How Flexible Are You?
