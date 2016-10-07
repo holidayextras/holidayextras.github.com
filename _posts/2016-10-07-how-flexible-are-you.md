@@ -39,5 +39,5 @@ Our Scrum Masters are also excellent change agents. We adapt quickly and support
 
 Our Scrum Masters also have flexibility in which approach we take to deliver work. Sometimes Scrum is not the best option, it could be Kanban is a better fit. But agile is always at the heart of what we do.
 
-So flexibility is a very necessary skill to have in order to succeed as a Scrum Master. If you're thinking about become a Scrum Master, I'd certainly ask you to consider **"How Flexible Are You?**
+So flexibility is a very necessary skill to have in order to succeed as a Scrum Master. If you're thinking about becoming a Scrum Master, I'd certainly ask you to consider **"How Flexible Are You?**
 
