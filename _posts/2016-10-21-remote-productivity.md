@@ -8,15 +8,6 @@ comments: true
 excerpt: My experience on how working remotely can boost productivity
 ---
 
-
-Remote: Productivity
-	Less distractions - take breaks when you need them, not when they are offered
-	Find an environment that suits your work, home, cafe, library etc
-	Not as tired, no commute (no early starts), means more mentally focused
-	Need to - be vigilant, set rules for yourself (no TV, dedicate a room for work, breaks! are important too)
-	Need to - ensure people around you understand when it is acceptable to interrupt (lay ground rules early, so expectations are clear)
-
-
 I've been working remotely for about 2 months now. I've noticed a lot of changes in the way I work now, compared to how I worked when I was in an open plan office. Working remotely requires adjustment. Your willingness to try new things and change how you work, dictates how effective a remote worker you can be. Trading in the 9-5 office based job, and becoming a productive remote worker, working in environments controlled by yourself, is something I've had to learn to do. Here's my thoughts so far.
 
 ### You control your environment
