@@ -14,7 +14,7 @@ I've been working remotely for about 2 months now. I've noticed a lot of changes
 
 Working in a shared office, we come to accept a lot of things. Toilets aren't always going to be free when you want them, the kitchen isn't always going to be empty when you need a drink and the office isn't always going to be quiet when you need to get your head down. We tend to work around them, which means waiting for the toilet or kitchen to free up or chucking headphones on to drown out background noise. This is not the case when working remotely.
 
-When working remotely, it doesn't matter where you work. Be it in the home office, on the sofa or in a cafe. You get to chose how and where you work best. No more compromises on when you can concentrate with no distractions. No more waiting around, not being able to focus as you are desperate to use the toilet. No more getting caught up in the coffee rush after a morning meeting.
+When working remotely, it doesn't matter where you work. Be it in the home office, on the sofa or in a cafe. You get to choose how and where you work best. No more compromises on when you can concentrate with no distractions. No more waiting around, not being able to focus as you are desperate to use the toilet. No more getting caught up in the coffee rush after a morning meeting.
 
 What this means is, when you need to focus on work you can. When you can focus on work, you are more productive. Since I've been working remotely, I've surprised myself at how quickly I can get things done. Best of all, it has been easier for me to do the work, therefore I've felt more relaxed doing it.
 
@@ -22,15 +22,15 @@ You grab a drink when you need one, not when you are tempted by someone else get
 
 ### The need for self control
 
-When you choose you own office space you have to be aware of the possible distractions. The temptation to watch TV or get some chores done is bigger than ever, and with no one watching your every move - who's to stop you. The answer is you. You need to be vigilant in ensuring work time is spent doing work. The easiest way I've found is asking myself - 'If I were at the office, would I be do this?'. When the answer is no, you don't do it.
+When you choose your own office space you have to be aware of the possible distractions. The temptation to watch TV or get some chores done is bigger than ever, and with no one watching your every move - who's to stop you. The answer is you. You need to be vigilant in ensuring work time is spent doing work. The easiest way I've found is asking myself - 'If I were at the office, would I be doing this?'. When the answer is no, you don't do it.
 
-From the very start of my remote working adventure, I set myself ground rules that I stick to. After 2 months I don't even think about them as the are incorporated into my daily routine.
+From the very start of my remote working adventure, I set myself ground rules that I stick to. After 2 months I don't even think about them as they are incorporated into my daily routine.
 
 I dedicated a space for work. For me, this was my spare bedroom, where I have an office desk and chair. I only associate sitting at that desk with work, therefore when I go there, that is all I'm thinking about.
 
 The TV never gets turned on whilst I'm working. I know if I were to put the TV on in the background, I would end up not focusing on my work. So straight from the offset, I ensured this never happens.
 
-The main thing is to ensure you don't get stuck in a bad routine. As soon as you start slipping, it will become a habit will negatively impact your productivity.
+The main thing is to ensure you don't get stuck in a bad routine. As soon as you start slipping, it will become a habit that will negatively impact your productivity.
 
 ### Take time to plan
 
@@ -52,4 +52,4 @@ Working remotely can make collaboration seem more difficult. Getting answers to 
 
 ### Remote working improves productivity
 
-To sum all this up, I've found in the last 2 months, that working remotely has improved my productivity. I've had to adapt my work style in order to find a routine that works well for me. I've ensured my workspace doesn't hinder my work rate and have made use of tools to help overcome the barrier of being a remote worker. I've never felt more relaxed about my work, my work-life balance has never been better and yet I've still managed to be more productive. Maybe more of us should give it a go? Till next time!
+To sum all this up, I've found in the last 2 months that working remotely has improved my productivity. I've had to adapt my work style in order to find a routine that works well for me. I've ensured my workspace doesn't hinder my work rate and have made use of tools to help overcome the barrier of being a remote worker. I've never felt more relaxed about my work, my work-life balance has never been better and yet I've still managed to be more productive. Maybe more of us should give it a go? Till next time!
