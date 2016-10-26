@@ -119,6 +119,7 @@ joe_warren:
   role: Web Developer
   gravatar_md5: 604ac7902855109cc651823282d66ca4
   twitter: joezo
+  currently_employed: false
 kevin_hodges:
   name: Kevin Hodges
   role: Head of Technology Shortbreaks
@@ -134,7 +135,6 @@ louis_pryer:
   role: Web Developer
   gravatar_md5: 66fa6c32d739e0b90417cda633308444
   twitter: LouisPryer
-  currently_employed: false
 luke_frake:
   name: Luke Frake
   role: Front End Developer
