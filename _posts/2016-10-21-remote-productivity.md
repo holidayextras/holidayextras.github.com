@@ -8,17 +8,16 @@ comments: true
 excerpt: My experience on how working remotely can boost productivity
 ---
 
-I've been working remotely for about 2 months now. I've noticed a lot of changes in the way I work now, compared to how I worked when I was in an open plan office. Working remotely requires adjustment. Your willingness to try new things and change how you work, dictates how effective a remote worker you can be. Trading in the 9-5 office based job, and becoming a productive remote worker, working in environments controlled by yourself, is something I've had to learn to do. Here's my thoughts so far.
+I've been working remotely for about 2 months now. I've noticed a lot of changes in the way I work, compared to how I worked when I was in an open plan office. Working remotely requires adjustment. Your willingness to try new things and change how you work, dictates how effective a remote worker you can be. For example, experimenting with your working hours, environment and lifestyle will enable you to discover how you work best.
+I have traded in the traditional 9-5 office job and have learnt how to become a productive remote worker. Here's my experience so far.
 
 ### You control your environment
 
-Working in a shared office, we come to accept a lot of things. Toilets aren't always going to be free when you want them, the kitchen isn't always going to be empty when you need a drink and the office isn't always going to be quiet when you need to get your head down. We tend to work around them, which means waiting for the toilet or kitchen to free up or chucking headphones on to drown out background noise. This is not the case when working remotely.
+Working in a shared office, we come to accept a lot of things. Toilets aren't always going to be free when you want them, the kitchen isn't always going to be empty when you need a drink and the office isn't always going to be quiet when you need to get your head down. We have to work around these compromises. However, this is not the case when working remotely. You're in control.
 
-When working remotely, it doesn't matter where you work. Be it in the home office, on the sofa or in a cafe. You get to choose how and where you work best. No more compromises on when you can concentrate with no distractions. No more waiting around, not being able to focus as you are desperate to use the toilet. No more getting caught up in the coffee rush after a morning meeting.
+So much so that when working remotely, it doesn't even matter where you work. Be it in the home office, on the sofa or in a cafe. You get to choose how and where you work best. No more compromises on when you can concentrate without distraction. No more getting caught up in the coffee rush after a morning meeting. No more waiting around, not being able to focus as you are desperate to use the toilet.
 
 What this means is, when you need to focus on work you can. When you can focus on work, you are more productive. Since I've been working remotely, I've surprised myself at how quickly I can get things done. Best of all, it has been easier for me to do the work, therefore I've felt more relaxed doing it.
-
-You grab a drink when you need one, not when you are tempted by someone else getting one. You take screen breaks when you need one, not when you are enticed by a peer for quick game of pool. You can chat to people when you want to, not when your work mates want to hear about your weekend. All these things make you more efficient. Being more efficient, increases productivity. All this whilst feeling more relaxed, surely it's too good to be true?
 
 ### The need for self control
 
@@ -50,6 +49,6 @@ For me, I work best in the mornings. I have no commute, meaning I can stay in be
 
 Working remotely can make collaboration seem more difficult. Getting answers to questions, when you can't physically go and talk to someone, can slow productivity down. However with the tools we have available today, remote collaboration is easier than ever. Slack, Hangouts, Screenhero are all great tools to help communication and collaboration. Being able to communicate with someone, and work with them has never been easier. If you haven't already, have a read of [how remote pair programming can increase productivity](http://tech.holidayextras.co.uk/programming,/pair/remote/working/2016/05/10/remote-pair-programming/).
 
-### Remote working improves productivity
+### Remote working can improve productivity
 
 To sum all this up, I've found in the last 2 months that working remotely has improved my productivity. I've had to adapt my work style in order to find a routine that works well for me. I've ensured my workspace doesn't hinder my work rate and have made use of tools to help overcome the barrier of being a remote worker. I've never felt more relaxed about my work, my work-life balance has never been better and yet I've still managed to be more productive. Maybe more of us should give it a go? Till next time!
