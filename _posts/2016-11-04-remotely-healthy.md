@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remote: The Healthy Lifestyle"
+title: "Remote: The Healthy Choice"
 categories: Remote Working
 author: duncan_fenning
 tags: Remote Health
