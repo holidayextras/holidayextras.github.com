@@ -5,7 +5,7 @@ categories: Misc
 author: damian_casey
 tags: Quick Draw  
 comments: true
-excerpt: We have been having fun with Google Quick, Draw! today, what do you think of our efforts?
+excerpt: We have been having fun with Google Quick, Draw! today, an interesting A.I experiment. What do you think of our efforts?
 ---
 ## Introduction
 We have been having fun in the office today with [Quick, Draw!](https://quickdraw.withgoogle.com/) A new [A.I experiment](https://aiexperiments.withgoogle.com/) released by Google. It is a fascinating neural network that is able to guess what you are drawing on the screen.
@@ -29,7 +29,7 @@ This is how it's done:
 ![Quick, Draw! Attempt 4]({{ site.baseurl }}/assets/img/quick-draw-attempt-3.png)
 
 And finally, we thought that 'Draw animal migration' in twenty seconds was a tall order and deserved a special mention! Here was our best attempt which, sadly, did not get recognised:
-![Quick, Draw! Attempt 4]({{ site.baseurl }}/assets/img/quick-draw-animal-migration.png)
+![Quick, Draw! Attempt 5]({{ site.baseurl }}/assets/img/quick-draw-animal-migration.png)
 
 ## Summary
 So overall, we have very much enjoyed experimenting with this web app today. It is great to see a creative and fun way to employ pattern matching techniques and neural networks in technology, and it is certainly exciting to see how things progress in the machine learning area of technology moving forward.
