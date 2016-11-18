@@ -14,7 +14,7 @@ It's been 3 months now, out in the wild world of remote working and I've never f
 
 Sleep, as you all know, is important in any healthy lifestyle. Lack of sleep can have a negative impact on everyday life. You don't need me to list the impact of sleep deprivation as there are countless articles explaining the effects. What I do know is, that since cutting out my commute, I've been able to sleep longer.
 
-From this, I've felt less tired and less stressed. Both of these have helped my concentration when working and given me more motivation to learn something new. These aren't the only benefits of being well rested, there are endless lists on how being well slept can improve your day to day life.
+From this, I've felt less tired and less stressed. Both of these have helped my concentration when working and given me more motivation to learn something new. Feeling more rested doesn't just improve work ethic, but also encourages you to be more active, which I will dig into a bit later.
 
 ### Eat
 
@@ -28,9 +28,9 @@ Therefore since I've moved to remote working, I am eating less and eating health
 
 ### Exercise
 
-Exercise is something we should all do, but often find the excuse of not having the time to do it. In a lot of cases, we do have the time, but are too exhausted from our working day to be bothered.
+Exercise is something we should all do, but we often find the excuse of not having the time to do it. In a lot of cases, we do have the time, but are too exhausted from our working day to be bothered.
 
-Remote working for me has allowed me to take back my time. What I mean by this, is rather than spending 2-3 hours a day commuting, I get to utilise that time in other ways. For example, I can finish work and go to the gym before I would have even left work when I used to commute.
+Remote working has allowed me to take back my time. What I mean by this, is rather than spending 2-3 hours a day commuting, I get to utilise that time in other ways. For example, I can finish work and go to the gym before I would have even left work when I used to commute.
 
 Exercise is proven to be beneficial for your health, your mood and your productivity. When you can take lost time back, you can fit in a lunchtime walk or an after work cycle and you will feel all the better for it.
 
@@ -42,4 +42,4 @@ With no commute and feeling more rested, I have the energy to get these jobs don
 
 ### Remote encourages a healthy lifestyle
 
-All in all, my remote experience has enabled me to live a healthier lifestyle. This is only because I ensure that I take advantage of the opportunities working remotely gives me. My lifestyle has improved, I am feeling healthier, spending more time doing the things I want to do, all whilst being more productive at work. For me, I feel there is a lot to gain from remote working and I think it would be hard to me to go back to commuting.
+All in all, my remote experience has enabled me to live a healthier lifestyle. This is only because I ensure that I take advantage of the opportunities working remotely gives me. My lifestyle has improved, I am feeling healthier, spending more time doing the things I want to do, all whilst being more productive at work. There is a lot to gain from remote working and I think it would be hard to me to go back to commuting.
