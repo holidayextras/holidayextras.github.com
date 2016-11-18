@@ -42,4 +42,4 @@ With no commute and feeling more rested, I have the energy to get these jobs don
 
 ### Remote encourages a healthy lifestyle
 
-All in all, my remote experience has enabled me to live a healthier lifestyle. This is only because I ensure that I take advantage of the opportunities working remotely gives me. My lifestyle has improved, I am feeling healthier, spending more time doing the things I want to do, all whilst being more productive at work. There is a lot to gain from remote working and I think it would be hard to me to go back to commuting.
+All in all, my remote experience has enabled me to live a healthier lifestyle. This is only because I ensure that I take advantage of the opportunities working remotely gives me. My lifestyle has improved, I am feeling healthier, spending more time doing the things I want to do, all whilst being more productive at work. There is a lot to gain from remote working and I think it would be hard for me to go back to commuting.
