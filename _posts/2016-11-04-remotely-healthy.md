@@ -12,7 +12,7 @@ It's been 3 months now, out in the wild world of remote working and I've never f
 
 ### Sleep
 
-Sleep, as you all know, is important in any healthy lifestyle. Lack of sleep can have a negative impact on everyday life. You don't need me to list the impact of sleep deprivation as there are countless articles explaining the effects. What I do know is, that since cutting out my commute, I've been able to sleep longer.
+Sleep, as you all know, is important in any healthy lifestyle. Lack of sleep can have a negative impact on everyday life. You don't need me to list the affects of sleep deprivation as there are countless articles explaining them. What I do know is, that since cutting out my commute, I've been able to sleep longer.
 
 From this, I've felt less tired and less stressed. Both of these have helped my concentration when working and given me more motivation to learn something new. Feeling more rested doesn't just improve work ethic, but also encourages you to be more active, which I will dig into a bit later.
 
