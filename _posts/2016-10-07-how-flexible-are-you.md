@@ -27,7 +27,7 @@ With creative licence to run our Sprints how we want to, no Sprint Planning, Ret
 
 In recent months we have started to work with some Pod members remotely. This is in part due to our expansion into a tech hub in Sofia, Bulgaria, however, it’s also in recognition of the flexible way we approach work. Be it from the comfort of our own homes, in shared workspaces, collaborative working spaces at employees’ homes or now hubs in other countries, remote working is increasingly a part of the way we work. This is a great challenge for our Scrum Masters as we facilitate meetings and events so that all participants contribute equally, whether working in the office or remotely.
 
-Flexitime is a luxury the whole Web Team is entitled to and certainly embraces. Although our working days accomodate our personal lives, our productivity remains strong. This is in part due to the great and mature attitude of the team, but also credit to Scrum Masters who seamlessly adapt to support colleagues whose hours are not your average 9-5.
+Flexitime is a luxury the whole Web Team is entitled to and certainly embraces. Although our working days accommodate our personal lives, our productivity remains strong. This is in part due to the great and mature attitude of the team, but also credit to Scrum Masters who seamlessly adapt to support colleagues whose hours are not your average 9-5.
 
 We embrace changes to the people in our teams, as individuals move to support business goals and development opportunities. It definitely keeps everyone on their toes and Scrum Masters take these opportunities to adjust, teach, coach and support, to make these transitions smooth and continue seamless delivery.
 
