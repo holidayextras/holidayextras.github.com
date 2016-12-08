@@ -16,7 +16,7 @@ Collaborating with others when you are remote is always more difficult than if y
 
 Getting the basics right makes remote collaboration a lot easier and more bearable for remote workers. Using the appropriate tools and ensuring the meeting is hosted in an appropriate environment solves most problems. Trying to listen in on a meeting that is being drowned out by background noise is a remote worker's nightmare and ensuring this doesn't happen is fairly straightforward.
 
-However, you can't always plan for the impromptu meetings, in which finding a adequately equipped meeting room is not the top priority. For those physically in the meeting, this isn't a problem. For the remote workers, it can be tiring and lonely, not being able to communicate as effectively.
+However, you can't always plan for the impromptu meetings, in which finding an adequately equipped meeting room is not the top priority. For those physically in the meeting, this isn't a problem. For the remote workers, it can be tiring and lonely, not being able to communicate as effectively.
 
 There are, however, lots of great tools at our disposal, all of which can improve remote collaboration and improve productivity. I've managed to categorise the best practices into the following.
 
@@ -26,7 +26,7 @@ Choosing the right equipment very much depends on the type of collaboration you 
 
 For group meetings, a high quality microphone is a necessity. Being able to hear everyone in the meeting clearly is a must when there is only one remote member. Often using a low quality mic, you can pick up the people nearest the microphone, but those further away get lost in the background noise filter. This makes it very hard for remote workers to concentrate and understand everything that is being said.
 
-For completely remote meetings, I always recommend purpose built headset. These are cheap and readily available in most office environments and the difference in quality between a purpose built headset and a pair of phone earphones is unbelievable. They drown out background noise and pick up all the conversation. Again, using a non purpose built set of headphones or earphones picks up a lot of background noise.
+For completely remote meetings, I always recommend purpose built headsets. These are cheap and readily available in most office environments and the difference in quality between a purpose built headset and a pair of phone earphones is unbelievable. They drown out background noise and pick up all the conversation. Again, using a non purpose built set of headphones or earphones picks up a lot of background noise.
 
 #### Environment
 
