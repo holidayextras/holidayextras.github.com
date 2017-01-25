@@ -70,7 +70,8 @@ Absolutely. As a result, DoD became a Pod specific thing. The wider Web DoD got 
 
 ### **Done** got confusing
 
-We, therefore, concentrated on our own **done**. But this got complicated: 
+We, therefore, concentrated on our own **done**. But this got complicated:
+
 1. Who was responsible for making sure these ‘boxes were ticked’? 
 2. Who was managing this process? and
 3. How were we holding each other to account that tickets are actually **done**?
