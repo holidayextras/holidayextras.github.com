@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First time speaker
-categories: Speaking
+categories: Conferences
 author: liz_pope
 tags: Speaking Conference Testing
 comments: true

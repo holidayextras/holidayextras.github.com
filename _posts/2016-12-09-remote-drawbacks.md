@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remote: The drawbacks and how to overcome them"
-categories: Remote Working
+categories: Remote
 author: duncan_fenning
 tags: Remote Drawbacks
 comments: true

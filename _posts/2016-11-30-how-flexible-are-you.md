@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Flexible Are You?
-categories: agile
+categories: Productivity
 author: nick_ls
 tags: agile
 comments: true
@@ -14,7 +14,7 @@ This is the definition of agile from [Oxford Dictionaries](http://www.oxforddict
 
 >“Able to move quickly and easily” and “Relating to or denoting a method of project management, used especially for software development, that is characterized by the division of tasks into short phases of work and **frequent reassessment and adaptation of plans**”
 
-Given that Scrum is an Agile framework, it shouldn't be surprising if I said a Scrum Master had to be agile, or flexible. In fact it's at the core of a Scrum Master’s role. But flexibility is multifaceted when it comes to being a Scrum Master. Since [Holiday Extras](http://www.holidayextras.co.uk/) divided our Web Team into Pods (our small, cross-functional, Agile teams), Scrum Masters have played an integral part in developing and running our Agile processes. They have also delivered a series of workshops to educate the rest of the business in how the Web Team now works (Lego is a great educator!). 
+Given that Scrum is an Agile framework, it shouldn't be surprising if I said a Scrum Master had to be agile, or flexible. In fact it's at the core of a Scrum Master’s role. But flexibility is multifaceted when it comes to being a Scrum Master. Since [Holiday Extras](http://www.holidayextras.co.uk/) divided our Web Team into Pods (our small, cross-functional, Agile teams), Scrum Masters have played an integral part in developing and running our Agile processes. They have also delivered a series of workshops to educate the rest of the business in how the Web Team now works (Lego is a great educator!).
 
 There are many areas to a Scrum Master role and the ability to switch between them is fundamental to a Scrum Master’s success, and that of their Pod. We aim to create a barrier to our development teams to avoid distractions, act as facilitators, mediators, coaches and multi-task with many competing priorities.
 
@@ -41,4 +41,3 @@ Our Scrum Masters are also excellent change agents. We support and promote neces
 Our Scrum Masters also have to consider which approach we take to deliver work. Sometimes Scrum is not the best option, it could be Kanban is a better fit. But agile is always at the heart of what we do.
 
 So flexibility is a very necessary skill to have in order to succeed as a Scrum Master. If you're thinking about becoming a Scrum Master, I'd certainly ask you to consider **"How Flexible Are You?**
-

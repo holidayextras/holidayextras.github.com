@@ -4,17 +4,17 @@ layout: post
 published: true
 title: "Do you speak stakeholder?"
 author: caroline_woodhams
-categories: ""
+categories: Misc
 tags: communication stakeholders
 ---
 
 As Product Owner (PO) of New Products, whenever I’m starting work on a project I carry out an exercise - at least mentally - identifying who is or should be involved beyond my team. Leaving aside end-users or customers (who deserve a post of their own!) I see that **stakeholders typically fall into one of two categories** - strategic and operational - and they have very different information requirements:
 
-The **strategic** guys are going to be thinking long-term: they’ll want to develop the product vision and strategy in line with the business’ goals, they’ll be keen to see that the project is delivered as expected, and help with any big decisions - such as which project to develop in which order. 
+The **strategic** guys are going to be thinking long-term: they’ll want to develop the product vision and strategy in line with the business’ goals, they’ll be keen to see that the project is delivered as expected, and help with any big decisions - such as which project to develop in which order.
 
 On the other hand, the **operational** guys are concerned with the here and now, nitty-gritty stuff - they’ll want to develop clear and robust systems, processes and documents, and feedback on how that can all be improved.
 
-So part of the PO’s role is to act as a pivot between strategic and operational communications. It’s not easy - thinking big one minute, then down in the weeds the next; talking tech to your developers, then commercials with your sales team. **The key to successful context-switching is mindfulness**: being in the moment and empathetic with your stakeholders. We often talk about putting on different hats as a metaphorical explanation of the paradigms and language we change and employ for given contexts. It’s easy to see why - you can only wear one hat at a time! 
+So part of the PO’s role is to act as a pivot between strategic and operational communications. It’s not easy - thinking big one minute, then down in the weeds the next; talking tech to your developers, then commercials with your sales team. **The key to successful context-switching is mindfulness**: being in the moment and empathetic with your stakeholders. We often talk about putting on different hats as a metaphorical explanation of the paradigms and language we change and employ for given contexts. It’s easy to see why - you can only wear one hat at a time!
 
 At this point I want to share a really good mnemonic I learned from a _Train the Trainer_ course I attended a few years back. There are two “radio stations” that people tune into naturally when you are broadcasting your communications: MMFI-AM and WII-FM:
 

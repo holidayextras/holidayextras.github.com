@@ -2,7 +2,7 @@
 comments: true
 layout: post
 author: alix_george
-categories: agile
+categories: Agile
 tags: scrum agile roles
 title: Isn't that YOUR job?
 excerpt: 'How following a textbook approach to role divisions is the opposite of agile'

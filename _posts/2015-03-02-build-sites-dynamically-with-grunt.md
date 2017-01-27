@@ -4,7 +4,7 @@ layout: post
 published: true
 title: "Building sites dynamically with Grunt"
 author: luke_frake
-categories: ""
+categories: NodeJS
 tags: grunt gruntjs javascript
 ---
 
@@ -29,7 +29,7 @@ var configObject = {
       files: {
 &#x27;dist/brandFoo/css/main.min.css&#x27; : &#x27;src/styles/brandFoo/default.scss&#x27;,
 &#x27;dist/brandBar/css/main.min.css&#x27; : &#x27;src/styles/brandBar/default.scss&#x27;,
-&#x27;dist/brandBaz/css/main.min.css&#x27; : &#x27;src/styles/brandBaz/default.scss&#x27; 
+&#x27;dist/brandBaz/css/main.min.css&#x27; : &#x27;src/styles/brandBaz/default.scss&#x27;
       }
     }
   }
@@ -100,7 +100,7 @@ var configObject = {
       files: {
 &#x27;dist/brandFoo/css/main.min.css&#x27; : &#x27;src/styles/brandFoo/default.scss&#x27;,
 &#x27;dist/brandBar/css/main.min.css&#x27; : &#x27;src/styles/brandBar/default.scss&#x27;,
-&#x27;dist/brandBaz/css/main.min.css&#x27; : &#x27;src/styles/brandBaz/default.scss&#x27; 
+&#x27;dist/brandBaz/css/main.min.css&#x27; : &#x27;src/styles/brandBaz/default.scss&#x27;
       }
     }
   }

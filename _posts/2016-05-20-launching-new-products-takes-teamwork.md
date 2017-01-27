@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Launching New Products Takes Teamwork
-categories: Product Management
+categories: Misc
 author: caroline_woodhams
 tags: product productmanagement teamwork productlaunch collaboration
 comments: true

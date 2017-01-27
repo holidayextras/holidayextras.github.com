@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Tester's Nightwatch
-categories: testing
+categories: Testing
 author: jack_morison
 tags: nightwatch testing automation
 comments: true
@@ -17,7 +17,7 @@ Here's what I've come up with...
 ## Pros
 
 ### Great documentation!
-Nightwatch has excellent documentation from installation to an API reference. I've found this to be of great use when I've needed to check anything from syntax to what arguments a command uses. <br/> 
+Nightwatch has excellent documentation from installation to an API reference. I've found this to be of great use when I've needed to check anything from syntax to what arguments a command uses. <br/>
 Found here: [Nightwatch guide](http://nightwatchjs.org/guide) - [Nightwatch Api](http://nightwatchjs.org/api)
 
 ### Clean syntax
@@ -26,7 +26,7 @@ Nightwatch has clear syntax meaning it’s easier for people to understand a wri
 ``` javascript
 'check for search button': function(client){
   client.expect.element('.submit').to.be.present.before(10000);
-}, 
+},
 ```
 
 ### Cloud service support
@@ -50,7 +50,7 @@ Page objects are a great example of encapsulation which allows you to hide detai
 Nightwatch allows you to extend Nightwatch commands to suit your own application needs. You simply create a separate folder and define your commands in that folder, each command inside its own file. <br/> You then specify the path to that folder inside the nightwatch.json file, as the “custom_commands_path” property.
 
 ### Assertions!
-Assertions show a clear step by step path in your terminal that is being checked in your test. As long as these are described well enough it will be easy to find where issues in your test lay. <br/> 
+Assertions show a clear step by step path in your terminal that is being checked in your test. As long as these are described well enough it will be easy to find where issues in your test lay. <br/>
 This assertion library greatly improves the flexibility as well as readability of the assertions. Using the 'expect' interface provides a much more flexible and fluid language for defining assertions, significantly improved over the existing 'assert' interface we currently use in Selenium. <br/> Example:![Terminal assertion](/assets/img/assertion.jpg)
 
 ### Take screenshots

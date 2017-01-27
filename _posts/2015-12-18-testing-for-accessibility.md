@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Introduction to Testing for Accessibility
-categories: testing
+categories: Testing
 author: matt_obee
 tags: testing accessibility
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Due Time
-categories: Time Management
+categories: Productivity
 author: louis_pryer
 tags: toggl pomodoro management
 comments: true
@@ -22,7 +22,7 @@ Another popular technique used by some developers in the office is the [pomodoro
 
 These are only two tricks that have worked well for me, but if the above aren't suited for you, here are a few final thoughts and links that might help:
 
-+ If possible, schedule out time for interruptions and distractions. 
++ If possible, schedule out time for interruptions and distractions.
 + Remove as many distractions as possible while working on important or urgent tasks. Disable things like email notifications until the task is completed or near completion.
 + Expect the unexpected as your plan for the day may change on a whim. Don't let this affect important tasks that need doing. Remove unimportant tasks from your todo list to compensate for change.
 + For more To-do list tricks and tips, our own [@JackCrawford](https://twitter.com/jackdcrawford) and [@RobHuzzey](https://twitter.com/theHuzz) have shared their own processes of organising tasks. Why not give [Making Stuff Happen](http://hungrygeek.holidayextras.co.uk/workflow/2015/02/24/making-stuff-happen/) and [To-dos that stick](http://hungrygeek.holidayextras.co.uk/workflow/2015/02/20/todos-that-stick/) a quick read.

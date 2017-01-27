@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remote: An Autumn Migration"
-categories: Remote Working
+categories: Remote
 author: duncan_fenning
 tags: Remote Migration Home Office
 comments: true

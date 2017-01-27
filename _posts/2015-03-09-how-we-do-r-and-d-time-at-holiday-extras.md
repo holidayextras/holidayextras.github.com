@@ -4,7 +4,7 @@ layout: post
 published: true
 title: "How we do R&D time at Holiday Extras"
 author: luke_frake
-categories: ""
+categories: Misc
 tags: R&D culture
 redirect_from:
   - /2015/03/09/how-we-do-r&d-time-at-holiday-extras/

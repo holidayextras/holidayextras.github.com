@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Drawing squares of colour with code
-categories: canvas
+categories: Misc
 author: joe_warren
 tags: html5 canvas javascript
 comments: true

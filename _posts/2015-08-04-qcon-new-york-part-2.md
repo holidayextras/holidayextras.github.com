@@ -1,7 +1,7 @@
 ---
 layout: post
 title: QCon New York 2015 key takeaways - Part 2
-categories: conference
+categories: Conferences
 author: kevin_hodges
 tags: conference qcon new york 2015
 comments: true

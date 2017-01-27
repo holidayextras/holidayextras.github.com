@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developing the right culture
-categories: culture
+categories: Culture
 author: rob_johnson
 tags: culture
 comments: true
@@ -74,4 +74,3 @@ Do research and find examples and share them with your team and your seniors. Sh
 The funny thing is that, good people will create a good culture, which will attract good people, which will create an even better culture. It’s almost like a self learning, self improving system. As long as you keep it clean, don’t let the bad stuff build up and don’t be afraid to have a bit of a clean out to stop any bad "juju" spreading.
 
 We all have to work, but the really good people enjoy their jobs and they pick jobs that they will be able to enjoy or be able to make a difference and make more enjoyable. If those good people work for you, *well done*. That is because you cared enough to make their job enjoyable.
-

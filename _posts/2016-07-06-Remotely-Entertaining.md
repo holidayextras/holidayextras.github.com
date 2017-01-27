@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remote-ly Entertaining
-categories: Remote Working
+categories: Remote
 author: christina_mattinson
 tags: remote working
 comments: true

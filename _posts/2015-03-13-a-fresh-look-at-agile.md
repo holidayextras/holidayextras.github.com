@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A fresh look at Agile
-categories: Agile
+categories: Culture
 author: george_storer
 tags: Agile Scrum
 comments: true

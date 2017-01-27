@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remote: Productivity"
-categories: Remote Working
+categories: Remote
 author: duncan_fenning
 tags: Remote Productivity Efficiency
 comments: true

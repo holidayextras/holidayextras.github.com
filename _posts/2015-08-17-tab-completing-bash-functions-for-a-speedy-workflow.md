@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tab completing bash functions for a speedy workflow
-categories: bash
+categories: Productivity
 author: jack_crawford
 tags: bash terminal shell
 comments: true

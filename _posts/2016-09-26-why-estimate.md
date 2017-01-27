@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Why estimate
-categories: estimate
+categories: Misc
 author: nick_han
 tags: estimates
 comments: true
 excerpt: Is estimating ultimately a waste of time?
 ---
-
 
 ## What we did
 For some reason, we thought it would be a good idea to open up a debate in our Web Team around “What’s the point in estimating?”. It’s usually a hot topic in agile circles (#NoEstimates). We expected some strong points of view and a lively exchange of opinions. What we actually got was a good natured, rather polite room full of Engineers, Architects, Testers, Scrum Masters and Pod Leads, all making well constructed arguments for and against estimating.

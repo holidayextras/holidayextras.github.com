@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Config Driven Development
-categories: Development
+categories: Productivity
 author: connor_meredith
 tags: config driven development metaprogramming
 comments: true

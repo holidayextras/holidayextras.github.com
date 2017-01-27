@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checking & Exploring in Software Testing
-categories: testing
+categories: Testing
 author: matt_obee
 tags: testing checking exploring
 comments: true
@@ -42,4 +42,3 @@ This is summed up particularly well by Elisabeth Hendrickson in her book <cite>E
 
 > Tested = Checked + Explored
 > You’re not done testing until you’ve checked that the software meets expectations and you’ve explored whether there are additional risks. A comprehensive test strategy incorporates both approaches.
-

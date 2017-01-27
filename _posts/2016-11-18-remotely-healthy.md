@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remote: The Healthy Choice"
-categories: Remote Working
+categories: Remote
 author: duncan_fenning
 tags: Remote Health
 comments: true

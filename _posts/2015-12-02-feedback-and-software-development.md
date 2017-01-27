@@ -2,7 +2,7 @@
 comments: true
 layout: post
 author: christina_mattinson
-categories: feedback
+categories: Misc
 tags: scrum feedback software
 title: Feedback and Software Development
 excerpt: The opportunities and benefits of feedback in software development
@@ -32,6 +32,6 @@ Feedback adds so much value to anyone's work, and to actively seek it will only 
 - Better code quality and more maintainable platforms
 - Improved performance
 
-From my own experience the biggest challenge to creating an effective feedback loop is culture. Seeking feedback is not something that comes easily for some, there is a fear that by asking someone for feedback you are creating something else to add on their To Do list, or you are burdening them, or you will come across as incompetent. 
+From my own experience the biggest challenge to creating an effective feedback loop is culture. Seeking feedback is not something that comes easily for some, there is a fear that by asking someone for feedback you are creating something else to add on their To Do list, or you are burdening them, or you will come across as incompetent.
 
 Feedback has many benefits, and I find it is a natural instinct for people to want to help each other, so ask. You may even feel more inclined to give your feedback in return, **everyone has value to add.**

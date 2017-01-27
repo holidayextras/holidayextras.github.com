@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Whitelabelling with Browserify
-categories: programming
+categories: NodeJS
 author: luke_hansell
 tags: development whitelabel browserify
 comments: true

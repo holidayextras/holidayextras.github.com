@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sharing is caring
-categories: testing
+categories: Testing
 author: georgia_andy
 tags: testing sharing workshop conference
 comments: true
@@ -42,9 +42,9 @@ So, the workshop is over, the room has just emptied, and all that is left to do 
 
 It was done.
 
-So, why have we posted about our experience? 
-The truth is, we were nervous. 
-Neither of us had been to a conference before, and quite honestly, for us, the idea of participating in new exercises with a room full of strangers, not to mention sharing all of this “invaluable” knowledge with our teammates, was kind of unsettling. 
+So, why have we posted about our experience?
+The truth is, we were nervous.
+Neither of us had been to a conference before, and quite honestly, for us, the idea of participating in new exercises with a room full of strangers, not to mention sharing all of this “invaluable” knowledge with our teammates, was kind of unsettling.
 But, by the time the room emptied, by the time we could finally say it was finished, we both agreed that it had been a challenging but awesome experience, and why not share it?
 
 Georgia Drew &amp; Andrew Hart

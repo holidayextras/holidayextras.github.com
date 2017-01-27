@@ -1,7 +1,7 @@
 ---
 layout: post
 title: React, in a state of confusion
-categories: programming
+categories: NodeJS
 author: luke_hansell
 tags: react programming state backbone
 comments: true
@@ -15,7 +15,7 @@ We follow design principles with React to make them as composable and encapsulat
 
 All great points, but what happens when you get to the top of the tree? Where do you push state to then?
 
-We saw this problem with our backbone app and it caused some confusion. 
+We saw this problem with our backbone app and it caused some confusion.
 Our "state" is held in backbone models, what do we do about managing the state here and passing it in to our React components? Well, luckily for us React is smart about this.
 
 Consider the following:

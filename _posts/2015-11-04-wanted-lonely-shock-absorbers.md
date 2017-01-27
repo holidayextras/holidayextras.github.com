@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wanted Lonely shock absorbers.  Apply within.
-categories: product_management
+categories: Misc
 author: anna_divers
 tags: Product-Owner Product-Management
 comments: true

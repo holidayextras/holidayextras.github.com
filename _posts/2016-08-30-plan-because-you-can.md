@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plan Because You Can
-categories: Delivery
+categories: Productivity
 author: damian_casey
 tags: Planning Efficiently  
 comments: true
@@ -19,6 +19,6 @@ Unless I am very familiar with the changes that need to be made to complete my t
 
 Another approach, which is used by another team as part of their sprints, is to have a day for “Backlog Review”. This is essentially a day where all of the tasks that could potentially be pulled into the next sprint are discussed by the developers and testers in the team, who may then in turn ask questions of the wider team. The aim of this is to add a “Dev How” and “Testing How” to each task so that estimation during sprint planning is much easier. This process then benefits the developer starting the task as the work that needs to be done is already clearly outlined on the task, often with mentions to specific files and a suggestion of how to write the code.
 
-There is also the solution of setting your PR to "for review" at a very early stage. This solution can either involve no code, by writing comments of what you intend to do, or as functions with no logic to them. These functions will outline how your solution will be technically structured and will be accompanied by tests that call these functions. Once you put this in for an early PR review, you can ask another developer to review and approve it at a higher level. Then if any feedback changes the shape of of the solution or the architecture it is not too late as little code has been written. 
+There is also the solution of setting your PR to "for review" at a very early stage. This solution can either involve no code, by writing comments of what you intend to do, or as functions with no logic to them. These functions will outline how your solution will be technically structured and will be accompanied by tests that call these functions. Once you put this in for an early PR review, you can ask another developer to review and approve it at a higher level. Then if any feedback changes the shape of of the solution or the architecture it is not too late as little code has been written.
 
 So there are a number of ways that we can avoid needing to rewrite our code. The best way to achieve this, in my opinion, is to put that time aside to plan how you are going to write your code, and getting another developer to validate your approach or assist with the planning before starting your work. This planning will result in the code being easier, and therefore quicker, to write and you can be pretty confident that not many changes will then arise when you submit your work for code review.

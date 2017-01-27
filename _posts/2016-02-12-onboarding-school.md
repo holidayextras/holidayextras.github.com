@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Onboarding School
-categories: Development
+categories: Misc
 author: damian_casey
 tags: Onboarding School
 comments: true

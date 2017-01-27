@@ -2,7 +2,7 @@
 comments: true
 layout: post
 author: liz_pope
-categories: recruitment
+categories: Misc
 tags: women developers engineers recruitment jobs
 title: My thoughts on Women in Tech
 excerpt: 'This year I’ve done a lot of recruitment and all of the engineers I’ve recruited have been male. Why?'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How do you organise your tabs?
-categories: workflow
+categories: Productivity
 author: jamie_matthews
 tags: organisation extension plugin
 comments: true
@@ -37,11 +37,11 @@ Triage consists of different links for my team sprint board and a few other spri
 If I click any of the links inside the tab, it opens it in a new tab as you'd expect.
 If I then close that link, it still remains in my tab, so it's always there.
 
-Now you are probably wondering why I don't just save these as 'favourites' or 'bookmarks'.. Well thats because I have far too many bookmarks and favourites to even do this, it would require time to go through and find the specific ones. 
-I know exactly where my link is and in which category it would come under. 
+Now you are probably wondering why I don't just save these as 'favourites' or 'bookmarks'.. Well thats because I have far too many bookmarks and favourites to even do this, it would require time to go through and find the specific ones.
+I know exactly where my link is and in which category it would come under.
 
 **Why have both divider tabs and bookmarks/favourites?**
-Ideally I would love to be able to get rid of bookmarks/favourites and just use Divider Tabs, but this isn't possible. If I were to do this, unlocking and locking each tab would open all the links inside of this category for me to edit or remove at my own will, the problem with this is that it would overload Chrome and probably crash it at the same time. 
+Ideally I would love to be able to get rid of bookmarks/favourites and just use Divider Tabs, but this isn't possible. If I were to do this, unlocking and locking each tab would open all the links inside of this category for me to edit or remove at my own will, the problem with this is that it would overload Chrome and probably crash it at the same time.
 I have found my 'happy place' with this plugin, everyone will be different though!
 
 I still walk around this office today and when I see an excessive amount of tabs open on someones screen, I just feel the urge to organise it for that person, but as I said before, it might not be everyones cup of tea.

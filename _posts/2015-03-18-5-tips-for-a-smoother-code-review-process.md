@@ -4,7 +4,7 @@ layout: post
 published: true
 title: "5 tips for a smoother code review process"
 author: mike_carter
-categories: ""
+categories: Productivity
 tags: code quality culture
 ---
 

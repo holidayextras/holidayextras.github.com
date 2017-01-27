@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My smashing experience
-categories: conference
+categories: Conferences
 author: jack_crawford
 tags: conference smashing ux
 comments: true

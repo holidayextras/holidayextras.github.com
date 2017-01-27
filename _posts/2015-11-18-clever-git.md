@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clever Git
-categories: Git, Version Control
+categories: Misc
 author: duncan_fenning
 tags: testing
 comments: true

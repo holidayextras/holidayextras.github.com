@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speeding up your Grunt tasks with Parallelize
-categories: grunt
+categories: NodeJS
 author: joe_warren
 tags: grunt task parallelize parallel
 comments: true

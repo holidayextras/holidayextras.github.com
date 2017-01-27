@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing Useful Test Notes &amp; Reports
-categories: testing
+categories: Testing
 author: matt_obee
 tags: testing
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 signs you're a good coder
-categories: programming
+categories: Productivity
 author: kevin_hodges
 tags: software engineer coding programmer
 comments: true
@@ -21,7 +21,7 @@ You can write all the crap code you like but if it's organised, decoupled and pr
 
 ## 4. You've learnt to detect code smell and more importantly, you act on it.
 
-There are a few simple simple rules to code smell: 
+There are a few simple simple rules to code smell:
 a) [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).  If your code isn't DRY, first, go make a coffee, then go back and make your code DRY.
 b) Take a step back or make your font smaller or something.  If it looks bad, chances are it is bad.
 c) Long functions, heavy nesting, many parameters/variables, alarm bells should be ringing.

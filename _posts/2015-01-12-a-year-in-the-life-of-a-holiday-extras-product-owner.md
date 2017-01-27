@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Year in the Life of a Holiday Extras Product Owner
-categories: productowner
+categories: Misc
 author: anna_divers
 tags: Product-Owner Lean Agile Product-Development
 comments: true

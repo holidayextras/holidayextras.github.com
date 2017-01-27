@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Pairing is Caring
-categories: Programming, Pair Programming, Remote Working
+categories: Remote
 author: duncan_fenning
-tags: Remote, Programming
+tags: Remote, Programming, Pair Programming
 comments: true
 excerpt: Pair programming like never before and why being remote can increase productivity.
 ---
