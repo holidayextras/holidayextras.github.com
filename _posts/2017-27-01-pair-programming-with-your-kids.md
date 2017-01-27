@@ -5,10 +5,10 @@ categories: Learning to code, Education
 author: louis_pryer
 tags: Education
 comments: true
-excerpt: "Computing and coding is a growing key skill in this day and age to get ahead in the world, however as jobs are hard to get by, when you find them experience and knowledge of the topic are key!"
+excerpt: "Computing and coding are a growing key skill in this day and age to get ahead in the world. However as jobs are hard to get by, when you find them experience and knowledge of the topic are key!"
 ---
 
-Computing and coding is a growing key skill in this day and age to get ahead in the world, however as jobs are hard to get by, when you find them experience and knowledge of the topic are key!
+Computing and coding are a growing key skill in this day and age to get ahead in the world. However as jobs are hard to get by, when you find them experience and knowledge of the topic are key!
 Although most schools are moving towards computing classes at earlier ages, some students are falling behind due to struggling to understand the material of the course, or that the school has limited time to teach the material of the course.
 However, there are some great tools to help your children out and inspire them to get ahead of the game.
 Here are just a few suggestions.
@@ -30,7 +30,7 @@ Although the subscription from Amazon is only available in the USA, they are ava
 
 Gamification is the concept of engaging students via games and the method of play.
 This has proven to be very successful, even more so with the growing trend of gaming in recent years.
-There are wide variety of different games and systems to help teach coding to children, here are just a few suggestions some of our engineers in the Holiday Extras web team use to encourage their kids with learning to code.
+There are a wide variety of different games and systems to help teach coding to children, here are just a few suggestions some of our engineers in the Holiday Extras web team use to encourage their kids with learning to code.
 
 Although aimed for a slightly older audience, [Code Combat](https://codecombat.com/) introduces some of the more complicated principles of computing in a fantasy game setting.
 Unfortunately this isn't a completely free resource, it is a good tool for teaching popular programming languages like Python and Javascript, with extra courses in web development which will help prepare kids for further computing courses at school.
