@@ -6,6 +6,7 @@
         <option><a>{{ category | first }}</a></option>
       {% endfor %}
     </select>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/filtered">Remote</a></li>
     <li {% if page.category == 'project' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/projects">Projects</a></li>
     <li {% if page.category == 'speaking' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/speaking">Speaking</a></li>
     <li {% if page.category == 'team' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/team">The Team</a></li>
