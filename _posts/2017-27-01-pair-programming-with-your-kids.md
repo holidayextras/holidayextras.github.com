@@ -5,7 +5,9 @@ categories: Learning to code, Education
 author: louis_pryer
 tags: Education
 comments: true
-excerpt: "Computing and coding are a growing key skill in this day and age to get ahead in the world. However as jobs are hard to get by, when you find them experience and knowledge of the topic are key!"
+excerpt: "Computing and coding are a growing key skill in this day and age to get ahead in the world.
+With the constant advancement in technology, more and more jobs in the tech sector are being created.
+However, as the number of jobs in the tech industry rises, experience and knowledge of the topic are key!"
 ---
 
 Computing and coding are a growing key skill in this day and age to get ahead in the world.
