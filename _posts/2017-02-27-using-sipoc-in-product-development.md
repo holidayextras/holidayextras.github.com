@@ -1,12 +1,9 @@
 ---
 comments: 'true'
 layout: post
-published: false
 title: Using SIPOC in product development
-author: Caroline Woodhams
-tags: >-
-  lean, product management, sipoc, process mapping, customer, empathy, customer
-  problems, learning
+author: caroline_woodhams
+tags: lean, product management, sipoc, process mapping, customer, empathy, customer problems, learning
 categories: product management
 excerpt: SIPOC is a Lean tool that can be useful during multiple stages of the product development lifecycle. Here I outline how I used it in the early days of developing a new product to develop empathy with our customers' problems.
 
