@@ -1,9 +1,12 @@
 ---
 comments: 'true'
 layout: post
+published: false
 title: Using SIPOC in product development
-author: caroline_woodhams
-tags: lean, product management, sipoc, process mapping, customer, empathy, customer problems, learning
+author: Caroline Woodhams
+tags: >-
+  lean, product management, sipoc, process mapping, customer, empathy, customer
+  problems, learning
 categories: product management
 excerpt: SIPOC is a Lean tool that can be useful during multiple stages of the product development lifecycle. Here I outline how I used it in the early days of developing a new product to develop empathy with our customers' problems.
 
@@ -36,9 +39,9 @@ It can work at multiple levels of abstraction: in the early stages of product de
 
 In this use case, we were developing connectivity with third parties to automate a manual process of uploading hotel rates and availability - so it was key to understand how that worked for the Commercial team currently in order to:
 
-- Identify where the process started and finished (the end to end): to be clear when scoping out the integration requirements and also mitigate any ‘loose ends’ in handing over from automated to manual processes (and vice versa);
-- Surface any additional information that may help or hinder us: in our example we learnt that an ‘Extranet’ existed that could help us with uploading files to our reservation system (saving us some development time!);
-- Identify the pain points to ensure that the solution was really aimed at solving these (and wouldn’t make things worse, or create problems elsewhere).
+Identify where the process started and finished (the end to end) - to be clear when scoping out the integration requirements and also mitigate any ‘loose ends’ in handing over from automated to manual processes (and vice versa);
+Surface any additional information that may help or hinder us - in our example we learnt that an ‘Extranet’ existed that could help us with uploading files to our reservation system (saving us some development time!);
+Identify the pain points to ensure that the solution was really aimed at solving these (and wouldn’t make things worse, or create problems elsewhere).
 
 ###Timing is everything
 
