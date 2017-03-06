@@ -5,28 +5,35 @@ The Hungry Geek Blog - by Holiday Extras
 
 This is a new blog created using Jekyll and GitHub pages.
 The Holiday Extras Blog should be simple to use for everyone, it requires no knowledge of anything technical in order to write a blog post.
+The first part of this README breaks down the steps required in order to write and post a blog using git and your terminal. The second part explains how to use Prose.io to help you write and post your blog.
 
 ### Requirements
 * You must have a github account
+* You will need an SSH key in order to upload to github from your Mac (a dev can help set this up and is a one time setup thing)
 
 ### Creating a post
-* Pull down the master branch of holidayextras.github.com `git pull master`
+* You first need to clone the blog repo to your machine. Open up the terminal and enter `git clone git@github.com:holidayextras/holidayextras.github.com.git`
+* Once the process has completed, navigate to that folder `cd holidayextras.github.com`
+* Pull down the master branch of holidayextras.github.com `git checkout master` and `git pull`
 * Create a branch with a name of your choice `git checkout -b blogPost`
-* Navigate to the `/_posts` folder
-* Create a new markdown file and write your blog post
-* Commmit you branch
+* Navigate to the `/_posts` folder in the Finder on your mac
+* Create a new markdown file in this folder and write your blog post, see other files in that folder for examples of how the file should be structured.
+* When you are ready to post your blog, first ensure that the post date is correct (it may have been a few days or weeks since you first created the post)
+* Head back to your terminal and commit your work `git commit -m "your commit message here"`
+* Push your blog to github using the branch name you created earlier `git push blogPost`
+* Go [here](https://github.com/holidayextras/holidayextras.github.com/branches) and you should see a branch with your name on it and an option to create pull request, click that and save it, adding a brief description of your post if you want to.
 
 ### Send a blog post for review
-Blog posts have to be reviewed in the same way code on our website does, ideally we would like 2 people to review the post. The template for the pull request can be found [here](https://raw.githubusercontent.com/holidayextras/culture/master/pr-template-blogpost.md)
-
+You can now send people the link for your pull request and ask for a review. Your post should be reviewed with the following in mind:
 1. From a technical aspect (if required)
 2. From an editorial aspect (check for typos)
 
-To get your work reviewed, please put in a Pull Request in the normal way
-
 ### Reviewing a blog post
 Blog posts reviews will run the same as our day to day work (blog posts should be part of our work anyway).
-You can review a PR, comment on the content or editorial parts of the blog post and publish when we have 2 x :+1:'s
+You can review a PR, comment on the content or editorial parts of the blog post and publish once it has a :+1:
+
+### Posting your blog post
+Now that your blog has been reviewed and you have actioned any comments, you can click the green merge button at the bottom of your pull request. Once you've done this your blog should be live within a few minutes. Don't forget to make sure that the date on your post is up to date when you actually merge!
 
 **TO DO** Create new check box list for blog post reviewing.
 
