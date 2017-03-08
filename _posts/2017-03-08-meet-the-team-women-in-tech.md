@@ -107,7 +107,7 @@ Cameron Diaz, I love her!
 
 ## Ilarna Nche
 
-![@ilarnaNche]({{ site.url }}{{ site.baseurl }}/assets/img/profiles/ilarna_nche.jpg)
+![@ilarna_preach]({{ site.url }}{{ site.baseurl }}/assets/img/profiles/ilarna_nche.jpg)
 
 **Role:**
 Software Engineer
