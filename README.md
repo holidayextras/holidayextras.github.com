@@ -4,7 +4,7 @@ The Hungry Geek Blog - by Holiday Extras
 ========================
 
 This is a new blog created using Jekyll and GitHub pages.
-The Holiday Extras Blog should be simple to use for everyone, it requires no knowledge of anything technical in order to write a blog post.
+The Holiday Extras Blog should be simple to use for everyone, it only requires a small amount of technical knowledge.
 The first part of this README breaks down the steps required in order to write and post a blog using git and your terminal. The second part explains how to use Prose.io to help you write and post your blog.
 
 ### Requirements
@@ -19,7 +19,8 @@ The first part of this README breaks down the steps required in order to write a
 * Navigate to the `/_posts` folder in the Finder on your mac
 * Create a new markdown file in this folder and write your blog post, see other files in that folder for examples of how the file should be structured.
 * When you are ready to post your blog, first ensure that the post date is correct (it may have been a few days or weeks since you first created the post)
-* Head back to your terminal and commit your work `git commit -m "your commit message here"`
+* Head back to your terminal and add your changes `git add -p` - you'll need to accept the changes by hitting 'y' assuming the changes you see are what you expect.
+* Then commit your work `git commit -m "your commit message here"`
 * Push your blog to github using the branch name you created earlier `git push blogPost`
 * Go [here](https://github.com/holidayextras/holidayextras.github.com/branches) and you should see a branch with your name on it and an option to create pull request, click that and save it, adding a brief description of your post if you want to.
 
@@ -27,6 +28,7 @@ The first part of this README breaks down the steps required in order to write a
 You can now send people the link for your pull request and ask for a review. Your post should be reviewed with the following in mind:
 1. From a technical aspect (if required)
 2. From an editorial aspect (check for typos)
+Let's not be too critical when reviewing someone's blog post though. Highlight any glaring grammatical errors, but don't worry too much about restructuring sentences. As long as it flows well and reads well, we should be happy with it
 
 ### Reviewing a blog post
 Blog posts reviews will run the same as our day to day work (blog posts should be part of our work anyway).
