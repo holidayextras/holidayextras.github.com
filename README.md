@@ -28,7 +28,7 @@ The first part of this README breaks down the steps required in order to write a
 You can now send people the link for your pull request and ask for a review. Your post should be reviewed with the following in mind:
 1. From a technical aspect (if required)
 2. From an editorial aspect (check for typos)
-Let's not be too critical when reviewing someone's blog post though. Highlight any glaring grammatical errors, but don't worry too much about restructuring sentences. As long as it flows well and reads well, we should be happy with it
+Let's not be too critical when reviewing someone's blog post though. Highlight any glaring grammatical errors, but don't worry too much about restructuring sentences. As long as it flows well and reads well, we should be happy with it.
 
 ### Reviewing a blog post
 Blog posts reviews will run the same as our day to day work (blog posts should be part of our work anyway).
