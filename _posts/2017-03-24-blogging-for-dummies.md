@@ -13,3 +13,6 @@ excerpt: Follow my journey on how to blog easier for HX
 
 
 This is where I work [Holiday Extras](www.holidayextras.com)
+
+
+I'm adding some extra words here
