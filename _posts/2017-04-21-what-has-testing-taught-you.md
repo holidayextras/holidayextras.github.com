@@ -18,7 +18,7 @@ Software Testers are analytical thinkers and are driven to get to the bottom of 
 When I asked some of the Software Testers I work with “What has testing taught them?" I got some interesting answers. Some have said that becoming a Software Tester hasn’t only influenced the way they work, but also the way
 they live. It’s in our nature already to be analytical but you find yourself looking into every little detail even outside of work.
 
-I notice so much more than I did before working in this role. The crooked picture frame on the wall, that person that opens their packet of crisps upside down, my microwave saying it’s 10:11 and my oven saying it’s 10:09, all
+I notice so much more than I did before working in this role. The crooked picture frame on the wall, that person who opens their packet of crisps upside down, my microwave saying it’s 10:11 and my oven saying it’s 10:09, all
 these examples are things that I just can’t let go of, some might think this is sad, but it’s a habit you get used to. 
 
 One of our Testers, Andy said, “I can’t switch it off. I find that I dissect almost every site I visit and every object I use”.
@@ -28,7 +28,7 @@ Others explained how testing has made them realise more than ever that you shoul
 There’s another aspect of Testing that puts us in the shoes of our customers. You feel the frustration that our customers can feel when booking on sites. The smallest thing can put you off booking a product. If something
 doesn’t look right, or behave the way in which you thought it was going to, this can be really annoying!
 
-The Software Tester role is forever evolving with changes being made every week. Some of these being how we use different tools and the relationship between us and the rest of the development team. Some Tester’s might say that testing is actually only one small factor of our role. Tester’s have so many other responsibilities within the Development team. We provide feedback to improve the Company's processes, our websites, our communication. We
+The Software Tester role is forever evolving with changes being made every week. Some of these being how we use different tools and the relationship between us and the rest of the development team. Some testers might say that testing is actually only one small factor of our role. Tester’s have so many other responsibilities within the Development team. We provide feedback to improve the Company's processes, our websites, our communication. We
 push back on other members in our development team and question everything. 
 
 There is so much to learn in tech and so many different areas. I’m sure by this time next year the Software Tester role would have evolved even more.
