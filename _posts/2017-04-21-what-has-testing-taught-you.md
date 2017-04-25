@@ -28,7 +28,7 @@ Others explained how testing has made them realise more than ever that you shoul
 There’s another aspect of Testing that puts us in the shoes of our customers. You feel the frustration that our customers can feel when booking on sites. The smallest thing can put you off booking a product. If something
 doesn’t look right, or behave the way in which you thought it was going to, this can be really annoying!
 
-The Software Tester role is forever evolving with changes being made every week. Some of these being how we use different tools and the relationship between us and the rest of the development team. Some testers might say that testing is actually only one small factor of our role. Tester’s have so many other responsibilities within the Development team. We provide feedback to improve the Company's processes, our websites, our communication. We
+The Software Tester role is forever evolving with changes being made every week. Some of these being how we use different tools and the relationship between us and the rest of the development team. Some testers might say that testing is actually only one small factor of our role. Testers have so many other responsibilities within the Development team. We provide feedback to improve the Company's processes, our websites, our communication. We
 push back on other members in our development team and question everything. 
 
 There is so much to learn in tech and so many different areas. I’m sure by this time next year the Software Tester role would have evolved even more.
