@@ -5,7 +5,7 @@ categories: Misc
 author: han_cork
 tags: none
 comments: true
-exerpt: Can Scrumban really be used for anything other than software development?
+excerpt: Can Scrumban really be used for anything other than software development?
 ---
 
 As a Scrum Master, my favourite methodology is of course Scrum, but I’ve been known to dabble in Kanban occasionally. Kanban is great for organisations just making the switch to Agile or for newly formed teams as there are fewer “rules” (no roles or events, don’t have to estimate etc) and it gets people into thinking about work in smaller chunks and about the flow of tickets to prevent blockages.
