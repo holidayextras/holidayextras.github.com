@@ -1,14 +1,14 @@
 Getting Set Up With Github Desktop
 ========================
 
-** Github Desktop Initial Setup
+## Github Desktop Initial Setup
 
 1. Go to [Github Desktop](https://desktop.github.com/)
 
 2. Download Github Desktop, then install it - the process will vary from browser to browser and your own personal settings. This is an example from Firefox, click on arrow and file as shown:
 ![downloading]({{ site.baseurl }}/assets/img/github_desktop/downloading.png)
 
-3. You'll probalby come across the following step like you do with any application you download. For this application, if required, agree to *open* it and *Move to Applications Folder* (this means your download folder is tidied up for you):
+3. You'll probably come across the following step like you do with any application you download. For this application, if required, agree to *open* it and *Move to Applications Folder* (this means your download folder is tidied up for you):
 ![open]({{ site.baseurl }}/assets/img/github_desktop/open.png)
 ![move]({{ site.baseurl }}/assets/img/github_desktop/move.png)
 
@@ -43,14 +43,14 @@ Getting Set Up With Github Desktop
 12. You now have the Blog files ready to use and your screen will look something like this:
 ![cloned]({{ site.baseurl }}/assets/img/github_desktop/cloned.png)
 
-** Creating A Branch To Work From
+## Creating A Branch To Work From
 
-1. Click on the Repo you want to create a branh from. For the blog this will be holidayextras.github.com. Click on the following icon and name the branch, using dashes to seperate words - for example *my-next-blog*
+1. Click on the Repo you want to create a branch from. For the blog this will be holidayextras.github.com. Click on the following icon and name the branch, using dashes to separate words - for example *my-next-blog*
 ![branch]({{ site.baseurl }}/assets/img/github_desktop/branch.png)
 
-   Now your branch has been created, you can start to change exisiting files or create new ones.
+   Now your branch has been created, you can start to change existing files or create new ones.
 
-** Adding Yourself To The List Of Users
+## Adding Yourself To The List Of Users
 
 The first time you blog, you'll need to add yourself to the list of users. To do this, you'll need to edit the *members* file. Before you do this, you'll need to set up a profile picture in Gravatar.
 
@@ -67,9 +67,9 @@ Click ‘sign-up’:
 4. Right click on the top image of yourself and select ‘inspect’. As highlighted in the example, you should see a long alphanumeric sequence. Copy this unique number and make a note of it:
 ![inspect_element]({{ site.baseurl }}/assets/img/github_desktop/inspect_element.png)
 
-Next, you'll need to use a text editor to make changes to files and to write new blogs. There's loads out there, but a comple of popular ones are [sublime text](https://www.sublimetext.com/3) or [Atom](https://atom.io/).
+Next, you'll need to use a text editor to make changes to files and to write new blogs. There's loads out there, but a couple of popular ones are [sublime text](https://www.sublimetext.com/3) or [Atom](https://atom.io/).
 
-5. Download you text editor and navigate to *open*. Find your *Home Folder* (this shold be your name):
+5. Download your chosen text editor and navigate to *open*. Find your *Home Folder* (this should be your name):
 ![open_file_text_editor]({{ site.baseurl }}/assets/img/github_desktop/open_file_text_editor.png)
 
 6. Open *git*, navigating to data>members and open this file. Add yourself in the right place alphabetically, as per the following example - using your Gravatar unique alphanumeric code you made a note of earlier:
@@ -77,10 +77,10 @@ Next, you'll need to use a text editor to make changes to files and to write new
 
    Save this. (The only reason you would need to touch this file again would be if any of your information changes). This should be added on Github Desktop to the list of files to be added to your Pull Request for review.
 
-   If you go back to your Github Desktop, you should now see that you have new uncommited changes to commit on your branch (it should automatically update):
+   If you go back to your Github Desktop, you should now see that you have new uncommitted changes to commit on your branch (it should automatically update):
 ![new_uncommited_changes]({{ site.baseurl }}/assets/img/github_desktop/new_uncommited_changes.png)
 
-** Creating A New Blog Post
+## Creating A New Blog Post
 
 1. In your text editor, navigate to holidayextras.github.com>posts and create a *New File* (by either right clicking on *posts* or going to the Toolbar and selecting *New File*)
 
@@ -111,7 +111,7 @@ This is how it looks in my text editor:
 This is how it displays in Dillinger
 ![dillinger]({{ site.baseurl }}/assets/img/github_desktop/dillinger.png)
 
-** Uploading A Pull Request
+## Uploading A Pull Request
 
 1. Make sure you are in the *Uncommitted Changes* section on Github Desktop, not the *History* tab.
 
@@ -132,9 +132,9 @@ This is how it displays in Dillinger
 
 6. Copy the URL and share on slack and get some reviewers! See the [README](https://github.com/holidayextras/holidayextras.github.com) for more information.
 
-** Creating Another Post
+## Creating Another Post
 
 The next time you want to create a new blog post, it's as simple as repeating the instructions from 
-> ** Creating A New Blog Post
+> ## Creating A New Blog Post
 
 

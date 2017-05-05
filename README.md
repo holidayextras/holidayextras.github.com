@@ -12,6 +12,7 @@ The first part of this README breaks down the steps required in order to write a
 * You will need an SSH key in order to upload to github from your Mac (a dev can help set this up and is a one time setup thing)
 
 ### Creating a post
+(If you're not comfortable using your terminal, go down to the *Using GitHub Desktop* section)
 * You first need to clone the blog repo to your machine. Open up the terminal and enter `git clone git@github.com:holidayextras/holidayextras.github.com.git`
 * Once the process has completed, navigate to that folder `cd holidayextras.github.com`
 * Pull down the master branch of holidayextras.github.com `git checkout master` and `git pull`
