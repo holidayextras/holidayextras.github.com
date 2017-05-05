@@ -1,7 +1,7 @@
 Getting Set Up With Github Desktop
 ========================
 
-## Github Desktop Initial Setup
+### Github Desktop Initial Setup
 
 1. Go to [Github Desktop](https://desktop.github.com/)
 
@@ -43,14 +43,14 @@ Getting Set Up With Github Desktop
 12. You now have the Blog files ready to use and your screen will look something like this:
 ![cloned]({{ site.baseurl }}/assets/img/github_desktop/cloned.png)
 
-## Creating A Branch To Work From
+### Creating A Branch To Work From
 
 1. Click on the Repo you want to create a branch from. For the blog this will be holidayextras.github.com. Click on the following icon and name the branch, using dashes to separate words - for example *my-next-blog*
 ![branch]({{ site.baseurl }}/assets/img/github_desktop/branch.png)
 
    Now your branch has been created, you can start to change existing files or create new ones.
 
-## Adding Yourself To The List Of Users
+### Adding Yourself To The List Of Users
 
 The first time you blog, you'll need to add yourself to the list of users. To do this, you'll need to edit the *members* file. Before you do this, you'll need to set up a profile picture in Gravatar.
 
@@ -80,20 +80,20 @@ Next, you'll need to use a text editor to make changes to files and to write new
    If you go back to your Github Desktop, you should now see that you have new uncommitted changes to commit on your branch (it should automatically update):
 ![new_uncommited_changes]({{ site.baseurl }}/assets/img/github_desktop/new_uncommited_changes.png)
 
-## Creating A New Blog Post
+### Creating A New Blog Post
 
 1. In your text editor, navigate to holidayextras.github.com>posts and create a *New File* (by either right clicking on *posts* or going to the Toolbar and selecting *New File*)
 
 2. Create your new post using the following information first:
 
-> layout: post
-> title: _Your Blog Post Title_
-> categories: _your blog post category - e.g. *agile*, *tech_debt*_
-> author: _your author name - as you listed it earlier on the members doc, e.g. victoria_feaver_
-> tags: _any user tags, e.g. *agile*, *scrum* *tech_debt*
-> comments: true
-> excerpt: _a 1 line summary to sell your blog, e.g. *This excellent blog looks at the excellent work I've done on excelling*_
-> ---
+	> **layout:** post
+	> **title:** _Your Blog Post Title_
+	> **categories:** _your blog post category - e.g. *agile*, *tech_debt*_
+	> **author:** _your author name - as you listed it earlier on the members doc, e.g. victoria_feaver_
+	> **tags:** _any user tags, e.g. *agile*, *scrum* *tech_debt*
+	> **comments:** true
+	> **excerpt:** _a 1 line summary to sell your blog, e.g. *This excellent blog looks at the excellent work I've done on excelling*_
+	> ---
 
 3. Write your new blog post!
 
