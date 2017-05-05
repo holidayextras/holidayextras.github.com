@@ -86,13 +86,13 @@ Next, you'll need to use a text editor to make changes to files and to write new
 
 2. Create your new post using the following information first:
 
-	**layout:** post
-	**title:** _Your Blog Post Title_
-	**categories:** _your blog post category - e.g. *agile*, *tech_debt*_
-	**author:** _your author name - as you listed it earlier on the members doc, e.g. victoria_feaver_
-	**tags:** _any user tags, e.g. *agile*, *scrum* *tech_debt*
-	**comments:** true
-	**excerpt:** _a 1 line summary to sell your blog, e.g. *This excellent blog looks at the excellent work I've done on excelling*_
+	layout: post
+	title: _Your Blog Post Title_
+	categories: _your blog post category - e.g. *agile*, *tech_debt*_
+	author: _your author name - as you listed it earlier on the members doc, e.g. victoria_feaver_
+	tags: _any user tags, e.g. *agile*, *scrum* *tech_debt*
+	comments: true
+	excerpt: _a one line summary to sell your blog, e.g. *This excellent blog looks at the excellent work I've done on excelling*_
 	---
 
 3. Write your new blog post!
