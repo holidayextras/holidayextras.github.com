@@ -84,7 +84,7 @@ Next, you'll need to use a text editor to make changes to files and to write new
 
 1. In your text editor, navigate to holidayextras.github.com>posts and create a *New File* (by either right clicking on *posts* or going to the Toolbar and selecting *New File*)
 
-2. Create your new post using the following information first: layout (for a Blog post, this will be **post**, title, (_Your Blog Post Title_), categories (your blog post category - e.g. *agile*, *tech_debt*), author (your author name - as you listed it earlier on the members doc, e.g. victoria_feaver_), tags (any useful tags, e.g. *agile*, *scrum* *tech_debt*), comments (this needs to say **true**), excerpt (a one line summary to sell your blog, e.g. *This excellent blog looks at the excellent work I've done on excelling*) this is topped and tailed by 3 lines (---)
+2. Create your new post using the following information first: **_layout_** (for a Blog post this will be **post**), **_title_** (Your Blog Post Title), **_categories_** (your blog post category - e.g. **agile**, **tech_debt**), **_author_** (your author name - as you listed it earlier on the members doc, e.g. _victoria_feaver_), **_tags_** (any useful tags, e.g. **agile**, **scrum** **tech_debt**), **_comments_** (this needs to say **true**), **_excerpt_** (a one line summary to sell your blog, e.g. **This excellent blog looks at the excellent work I've done on excelling**) this is topped and tailed by 3 lines (---)
 
    It, therefore, looks something like this:
 ![new_blog_header.png]({{ site.baseurl }}/assets/img/github_desktop/new_blog_header.png)
