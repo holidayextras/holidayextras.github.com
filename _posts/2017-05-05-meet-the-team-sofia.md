@@ -25,7 +25,7 @@ Games, particularly Warcraft 3: TFT
 I would constantly travel. The world is a book and those who do not travel read only one page.
 
 ### What advice do you have for people thinking of getting into tech?
-Don’t do it if you don’t love it.
+Don't do it if you don't love it.
 
 ## Vasil Bachev
 
@@ -70,16 +70,16 @@ The biggest challenge and the best part of working in tech is the change and thi
 10 months
 
 ### How did you get into tech?
-I wasn’t tech savvy initially, I had a PC but didn’t do much on it other than browsing the web, reading stuff and playing online games. When I was nineteen, I accidentally got to a HTML tutorial and printed out “Hello world” in a browser. That was the first time I opened the source code of a web page and thought to myself “this is interesting…” and I’ve stayed on this ever-learning journey ever since.
+I wasn't tech savvy initially, I had a PC but didn't do much on it other than browsing the web, reading stuff and playing online games. When I was nineteen, I accidentally got to a HTML tutorial and printed out "Hello world" in a browser. That was the first time I opened the source code of a web page and thought to myself "this is interesting…" and I've stayed on this ever-learning journey ever since.
 
 ### What has being a Developer taught you?:
 It has taught me that everything is possible if you put effort into it and that the details matter, also that every activity is a craft and an art if you really put your heart into it.
 
 ### What advice would you give to remote workers?
-The best advice I could give is to be open in your communication as much as you can. Give regular feedback throughout the day on what you’re doing and what is your plan for the next thing you’re jumping on. Being remote brings challenges but communicating what blocks you will help your team to be aware and they will help you.
+The best advice I could give is to be open in your communication as much as you can. Give regular feedback throughout the day on what you're doing and what is your plan for the next thing you're jumping on. Being remote brings challenges but communicating what blocks you will help your team to be aware and they will help you.
 
 ### What attracted you to a career in tech?:
-I initially started with very simple stuff like writing HTML, then a bit of CSS, then some JavaScript and so on. This was just a hobby for me so at some point it was pretty natural to just make it into a way of living. I’m living the dream.
+I initially started with very simple stuff like writing HTML, then a bit of CSS, then some JavaScript and so on. This was just a hobby for me so at some point it was pretty natural to just make it into a way of living. I'm living the dream.
 
 ### What would you do if you didn't have to work for a living?
 I would still be writing code for sure as I love doing that but I would probably focus on software in the public interest.
@@ -90,16 +90,16 @@ I would still be writing code for sure as I love doing that but I would probably
 10 months
 
 ### How did you get into tech?
-I’ve always been good at maths and I used to be a semi-pro in StarCraft: BroodWar (like going to tournaments such as World Cyber Games, etc.) but before that when I was 10-11y.o. I was creating maps with complex logic in that game. The way of creating maps is incredibly similar to writing code or algorithms.
+I've always been good at maths and I used to be a semi-pro in StarCraft: BroodWar (like going to tournaments such as World Cyber Games, etc.) but before that when I was 10-11y.o. I was creating maps with complex logic in that game. The way of creating maps is incredibly similar to writing code or algorithms.
 
 ### What has being a Developer taught you?:
 To ask people if they tried turning it off and on again.
 
 ### What do you like about working at HX?
-@damian.casey@damian.casey@damian.casey@damian.casey@damian.casey. People in HX look like they really like and have fun in what they are doing. There’s a really friendly vibe in the office that can even be felt remotely.
+People in HX look like they really like and have fun in what they are doing. There's a really friendly vibe in the office that can even be felt remotely.
 
 ### What would you do if you didn't have to work for a living?
-I would go in the forest and pretend to be a tree or as people say `Living the dream!`
+I would go in the forest and pretend to be a tree or as people say 'Living the dream!'
 
 ### Share a link to a Bulgarian song of your band
 [STereoRush - Звезда над София HQ (Stereo Reality)](https://www.youtube.com/watch?v=lVia2CJwz_Q)
@@ -124,7 +124,7 @@ Building tools that make people's lives easier and more fun.
 13 months
 
 ### How did you get into tech?
-I’ve been always curious since childhood about how things work, what are the links between different components and systems and how they react and interact with each other. I want to know how the Universe work :)
+I've been always curious since childhood about how things work, what are the links between different components and systems and how they react and interact with each other. I want to know how the Universe work :)
 
 ### What most excites you around the future of technology?
 Discovering and exploring the secrets of the Universe - unified theory of everything which would help us understand the quantum mechanics and the cosmos which would help us achieve things like cold fusion, space travel, etc. It really excites me finding a way to travel to other planets/stars/galaxies (ftl drives, warp drives, going through wormholes?).
@@ -134,4 +134,4 @@ Really scared of AIs taking over and the prospect of no privacy at all.
 Elon Musk, Stephen Hawking; IronMan and Batman :) (see the pattern?)
 
 ### What would you do if you didn't have to work for a living?
-Travel around the world. Assuming “don’t have to work for a living” means I got enough funds I’d like to focus on making the world a better place and the future better for the next generations.
+Travel around the world. Assuming "don't have to work for a living" means I got enough funds I'd like to focus on making the world a better place and the future better for the next generations.
