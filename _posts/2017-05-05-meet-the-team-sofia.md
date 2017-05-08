@@ -8,7 +8,9 @@ comments: true
 excerpt: "Welcome to the second edition of our Meet the Team mini series! In celebration of Europe Day, we have delved into the minds of the awesome engineers in our Sofian office. So sit back, enjoy, and see what the guys have to say..."
 ---
 
-Welcome to the second edition of our Meet the Team mini series! In celebration of Europe Day, we have delved into the minds of the awesome engineers in our Sofian office. So sit back, enjoy, and see what the guys have to say…..
+Welcome to the second edition of our Meet the Team mini series! In celebration of Europe Day, we have delved into the minds of the awesome engineers in our Sofian office. So sit back, enjoy, and see what the guys have to say…
+
+![Adrian Kateliev](/assets/img/profiles/adrian_kateliev.jpg)
 
 ## Adrian Kateliev
 
@@ -26,6 +28,10 @@ I would constantly travel. The world is a book and those who do not travel read 
 
 ### What advice do you have for people thinking of getting into tech?
 Don't do it if you don't love it.
+
+<hr>
+
+![Vasil Bachev](/assets/img/profiles/vasil_bachev.jpg)
 
 ## Vasil Bachev
 
@@ -50,6 +56,10 @@ The huge potential that is being released as we include more people in engineeri
 ### Share a link to your favourite Bulgarian song
 [Malka Moma - Neli Andreeva & Georgi Genov](https://www.youtube.com/watch?v=xfULiqNoEGQ)
 
+<hr>
+
+![Nedzhati Mehmed](/assets/img/profiles/nedzhati_mehmed.jpg)
+
 ## Nedzhati Mehmed
 
 ### Time at HX
@@ -63,6 +73,8 @@ Working in tech is like playing with lego and solving riddles, so if you like so
 
 ### What is the biggest challenge working in tech? What is the best part of working in tech?
 The biggest challenge and the best part of working in tech is the change and this is the only constant in the tech world.
+
+<hr>
 
 ## Slavcho Slavchev
 
@@ -84,6 +96,10 @@ I initially started with very simple stuff like writing HTML, then a bit of CSS,
 ### What would you do if you didn't have to work for a living?
 I would still be writing code for sure as I love doing that but I would probably focus on software in the public interest.
 
+<hr>
+
+![Nikola Filchev](/assets/img/profiles/nikola_filchev.png)
+
 ## Nikola Filchev
 
 ### Time at HX
@@ -104,6 +120,10 @@ I would go in the forest and pretend to be a tree or as people say 'Living the d
 ### Share a link to a Bulgarian song of your band
 [STereoRush - Звезда над София HQ (Stereo Reality)](https://www.youtube.com/watch?v=lVia2CJwz_Q)
 
+<hr>
+
+![Emil Manolov](/assets/img/profiles/emil_manolov.png)
+
 ## Emil Manolov
 
 ### Time at HX
@@ -117,6 +137,10 @@ Things aren't easy and I have to put some effort and time if I want to get somet
 
 ### What is it you like about working in tech?
 Building tools that make people's lives easier and more fun.
+
+<hr>
+
+![Kiril Panchev](/assets/img/profiles/kiril_panchev.jpg)
 
 ## Kiril Panchev
 
