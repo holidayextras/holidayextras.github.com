@@ -51,7 +51,7 @@ Focus on building relationships and connections. The modern style of communicati
 Strive to include remote workers in any sort of communication (not just official meetings). The innocent small-talk before a meeting starts, for example, may seem like a waste of time but is important for bonding - don't mute your microphones before the meeting starts ;)
 
 ### What most excites you around the future of technology?
-The huge potential that is being released as we include more people in engineering. Imagine the unleashed creativity and solutions to real-world problems that marginalized groups of people can build once they become empowered by technology!
+The huge potential that is being realised as we include more people in engineering. Imagine the unleashed creativity and solutions to real-world problems that marginalised groups of people can build once they become empowered by technology!
 
 ### Share a link to your favourite Bulgarian song
 [Malka Moma - Neli Andreeva & Georgi Genov](https://www.youtube.com/watch?v=xfULiqNoEGQ)
@@ -76,7 +76,7 @@ The biggest challenge and the best part of working in tech is the change and thi
 
 <hr>
 
-![Slavcho Slavchev](/assets/img/profiles/slavcho_slavchev.jpg)
+![Slavcho Slavchev](/assets/img/profiles/slavcho_slavchev.png)
 
 ## Slavcho Slavchev
 
@@ -84,7 +84,7 @@ The biggest challenge and the best part of working in tech is the change and thi
 10 months
 
 ### How did you get into tech?
-I wasn't tech savvy initially, I had a PC but didn't do much on it other than browsing the web, reading stuff and playing online games. When I was nineteen, I accidentally got to a HTML tutorial and printed out "Hello world" in a browser. That was the first time I opened the source code of a web page and thought to myself "this is interesting…" and I've stayed on this ever-learning journey ever since.
+I wasn't tech savvy initially, I had a PC but didn't do much on it other than browsing the web, reading stuff and playing online games. When I was nineteen, I accidentally got to a HTML tutorial and printed out "Hello world" in a browser. That was the first time I opened the source code of a web page and thought to myself "this is interesting…" and I've stayed on this ever-learning journey since.
 
 ### What has being a Developer taught you?:
 It has taught me that everything is possible if you put effort into it and that the details matter, also that every activity is a craft and an art if you really put your heart into it.
@@ -132,10 +132,10 @@ I would go in the forest and pretend to be a tree or as people say 'Living the d
 10 months
 
 ### How did you get into tech?
-I've always liked to build and repair all sorts of gadgets since my childhood. Tech is like a never ending adventure - no matter if in the end you've build something successfully or not, you always learn from the experience. Tech is an inevitable part of our modern lifestyle so I've always felt it's kind of natural fit for me.
+I've always liked to build and repair all sorts of gadgets since my childhood. Tech is like a never ending adventure - no matter if in the end you've built something successfully or not, you always learn from the experience. Tech is an inevitable part of our modern lifestyle so I've always felt it's kind of natural fit for me.
 
 ### What has being a Developer taught you?
-Things aren't easy and I have to put some effort and time if I want to get something done. I have to be persistent and not give up on the first couple of times something doesn't work. Also that I have to prioritise, because otherwise I could never do everything I want to do or learn in a single lifetime.
+Things aren't easy and I have to put some effort and time in if I want to get something done. I have to be persistent and not give up on the first couple of times when something doesn't work. Also that I have to prioritise, because otherwise I could never do everything I want to do or learn in a single lifetime.
 
 ### What is it you like about working in tech?
 Building tools that make people's lives easier and more fun.
@@ -150,7 +150,7 @@ Building tools that make people's lives easier and more fun.
 13 months
 
 ### How did you get into tech?
-I've been always curious since childhood about how things work, what are the links between different components and systems and how they react and interact with each other. I want to know how the Universe work :)
+I've always been curious since childhood about how things work, what are the links between different components and systems and how they react and interact with each other. I want to know how the Universe work :)
 
 ### What most excites you around the future of technology?
 Discovering and exploring the secrets of the Universe - unified theory of everything which would help us understand the quantum mechanics and the cosmos which would help us achieve things like cold fusion, space travel, etc. It really excites me finding a way to travel to other planets/stars/galaxies (ftl drives, warp drives, going through wormholes?).
