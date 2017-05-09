@@ -76,6 +76,8 @@ The biggest challenge and the best part of working in tech is the change and thi
 
 <hr>
 
+![Slavcho Slavchev](/assets/img/profiles/slavcho_slavchev.jpg)
+
 ## Slavcho Slavchev
 
 ### Time at HX
