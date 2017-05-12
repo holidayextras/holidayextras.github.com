@@ -86,9 +86,9 @@ Click **sign-up**:
 
 4. Make sure your blog is in Markdown. [What is Markdown?](https://en.wikipedia.org/wiki/Markdown). This really useful [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#blockquotes) will help make sure the right sections have:
 
-`** Headers - as shown below`
+`### Headers - as shown below`
 
-** Headers
+### Headers
 
 `**Bold Text** - as shown below`
 
@@ -135,7 +135,7 @@ Then click the **Commit to "branch name"** button
 
 ### Creating Another Post
 
-The next time you want to create a new blog post, it's as simple as repeating the instructions from 
+The next time you want to create a new blog post, it's as simple as repeating the instructions above for:
 > ### Creating A New Blog Post
 
 
