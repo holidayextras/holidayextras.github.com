@@ -87,10 +87,15 @@ Click **sign-up**:
 4. Make sure your blog is in Markdown. [What is Markdown?](https://en.wikipedia.org/wiki/Markdown). This really useful [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#blockquotes) will help make sure the right sections have:
 
 `** Headers - as shown below`
+
 ** Headers
+
 `**Bold Text** - as shown below`
+
 **Bold Text**
+
 `> Sections _called out_ out like this one! - as shown below`
+
 > Sections _called out_ out like this one!
 
 5. If you want to check what your finished blog will look like in markdown, you can use [dillinger.io](http://dillinger.io/). Delete all the text on the left-hand side, copy yours in your text editor, paste it in and then it’ll show you on the right-hand side what it will look like.
@@ -107,9 +112,9 @@ This is how it displays in dillinger.io
 
 2. Firstly, you need to commit your changes to your branch. To do this, complete both the
 
-	_Summary "XXX-blog"_
+	**Summary** "XXX-blog"_
 	&
-	_Description "Uploading first draft of XXX blog"_
+	**Description** "Uploading first draft of XXX blog"_
 
 Then click the **Commit to "branch name"** button
 ![commit.png]({{ site.baseurl }}/assets/img/github_desktop/commit.png)
@@ -131,6 +136,6 @@ Then click the **Commit to "branch name"** button
 ### Creating Another Post
 
 The next time you want to create a new blog post, it's as simple as repeating the instructions from 
-> ## Creating A New Blog Post
+> ### Creating A New Blog Post
 
 
