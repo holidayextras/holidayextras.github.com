@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sherlock Holmes Day"
-categories: team
+categories: testers
 author: mattsaunby
 tags: testers qa investigation sherlock holmes
 comments: true
