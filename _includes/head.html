@@ -37,6 +37,9 @@
     <meta name="twitter:site" content="@TheHungryGeek" />
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}All the latest tech news and updates from The Tech Team @ Holiday Extras.{% endif %}" />
+    <meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% elseif author.gravatar_md5 %}http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=144{% endif %}" />
+    <meta name="twitter:image:alt" content="{% if page.image_alt %}{{ page.image_alt}}{{% else %}}{{page.title}} by {{autor.name}}{% endif %}" />
+
 
     <script>
       {% include js/analytics.js %}

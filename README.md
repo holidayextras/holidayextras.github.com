@@ -24,6 +24,23 @@ The first part of this README breaks down the steps required in order to write a
 * Push your blog to github using the branch name you created earlier `git push blogPost`
 * Go [here](https://github.com/holidayextras/holidayextras.github.com/branches) and you should see a branch with your name on it and an option to create pull request, click that and save it, adding a brief description of your post if you want to.
 
+### Blog Post Settings
+
+In our blog posts, we utilise post variables known as [Front Matter](http://jekyllrb.com/docs/frontmatter/) in Jekyll.
+These control the layout of the page, pulls in the gravatar of the author and other customised options.
+Below is a list of supported variables, what they do and how you can use them to improve your blog post.
+
+| Variable  | Description                                                                                                                                                                                                                                                                                                  | Required |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| layout    | This controls the layout of the blog post. Currently we support the following post layouts: <li>`post`: Standard layout for out blog posts</li><li> `competition`: Similar layout to post but contains all the legal competition terms at the end of the post.</li><li> `profile`: This is used for the speaker profile pages</li> | Yes      |
+| title     | Title of your blog post                                                                                                                                                                                                                                                                                      | Yes      |
+| author    | Author of the blog post. For this to pick up your twitter handle and gravatar, this will need to match your entry in `_data/members`. For example: `forname_surname`                                                                                                                                         | Yes      |
+| tags      | One or multiple tags can be applied to the post. Although currently this only highlights topics the post covers, we are looking to create links between tags                                                                                                                                                 | No       |
+| comments  | By default, comments are automatically enabled on all posts. Setting comments to `false` will override this setting and the comments section at the end of the post will not appear                                                                                                                          | No       |
+| excerpt   | This should contain a brief excerpt of the blog post. This will be used in twitter links and on the blog post list on the index page of the blog site                                                                                                                                                        | Yes      |
+| image     | By setting an image link, that image will appear in the twitter summary cards when the blog post is tweeted out. Images used need to match what twitter expects (see https://dev.twitter.com/cards/types/summary for details). If no image is set, the author gravatar image will be used instead.           | No       |
+| image_alt | This is used for the alt text of the twitter image, used for accessibility purposes or if the image fails to load for the client. This needs to be a maximum of 420 characters. If this is not set, the post title and author will be used instead.                                                          | No       |
+
 ### Send a blog post for review
 You can now send people the link for your pull request and ask for a review. Your post should be reviewed with the following in mind:
 1. From a technical aspect (if required)
