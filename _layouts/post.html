@@ -1,6 +1,7 @@
 ---
 layout: default
 category: blog
+nav: blog
 ---
 {% assign author = site.data.members.[page.author] %}
 {% assign readtime = page.content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first %}

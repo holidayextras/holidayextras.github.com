@@ -6,3 +6,32 @@
     height:400px;
   }
 }
+
+.projects {
+  ul {
+    .flex;
+    .flex-wrap(wrap);
+    li {
+      .flex;
+      .flex-direction(column);
+      a {
+        flex:1 0 auto;
+      }
+      a:hover, a:active {
+        text-decoration:none;
+      }
+    }
+  }
+}
+
+.jumbotron {
+  .btn, .btn:hover, .btn:active  {
+    background:none;
+    color:#fff;
+    border-color:#fff;
+  }
+}
+.a-block, .a-block:hover, .a-block:active  {
+  text-decoration:none;
+  color:@text-color;
+}
