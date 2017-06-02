@@ -4,23 +4,34 @@ category: blog
 ---
 {% assign author = site.data.members.[page.author] %}
 {% assign readtime = page.content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first %}
-<article class="post" itemscope itemType="http://schema.org/BlogPosting">
-  <header class="post-header">
-    {% if author.gravatar_md5 %}
-      <img src="http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=300" alt="A photo of {{ member.name }}" />
-    {% else %}
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
-    {% endif %}
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><span itemprop="dateCreated datePublished">{{ page.date | date: "%b %-d, %Y" }}</span> - <span itemprop="author accountablePerson copyrightHolder editor" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></span> - {% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min{% if readtime > '1' %}s{% endif %} reading time</p>
-  </header>
-  <div class="container">
-    <div class="post-content" itemprop="articleBody">
-      {{ content }}
-    </div>
-    <small class="tags"><b>Tags</b> <span itemprop="about keywords">{{page.tags | join: ', '}}</span></small>
-    {% if page.comments %}
-      {% include disqus.html %}
-    {% endif %}
+{% if page.hero %}
+  <div class="jumbotron jumbotron-cover" style="background-image:url('{{ site.url }}{{ site.baseurl }}/assets/img{{page.hero}}');height:400px">
   </div>
-</article>
+{% endif %}
+<div class="container block-sm">
+  <article class="row" itemscope itemType="http://schema.org/BlogPosting">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="media">
+        <div class="media-left media-middle">
+          <a href="#">
+            <img class="media-object img-thumbnail img-circle" src="http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=100" alt="A photo of {{ member.name }}" />
+          </a>
+        </div>
+        <div class="media-body">
+          <div class="h2 media-heading" itemprop="author accountablePerson copyrightHolder editor" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></div>
+          <div itemprop="dateCreated datePublished">{{ page.date | date: "%b %-d, %Y" }}</div>
+          <div>{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min{% if readtime > '1' %}s{% endif %} reading time</div>
+        </div>
+      </div>
+      <hr>
+      <h1 itemprop="name headline">{{ page.title }}</h1>
+      <div itemprop="articleBody">
+        {{ content }}
+        <small><b>Tags</b> <span itemprop="about keywords">{{page.tags | join: ', '}}</span></small>
+        {% if page.comments %}
+          {% include disqus.html %}
+        {% endif %}
+      </div>
+    </div>
+  </article>
+</div>

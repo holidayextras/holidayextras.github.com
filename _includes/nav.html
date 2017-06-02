@@ -1,9 +1,19 @@
-<nav role="navigation">
-  <ul>
-    <li {% if page.category == 'blog' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/">Blog</a></li>
-    <li {% if page.category == 'project' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/projects">Projects</a></li>
-    <li {% if page.category == 'speaking' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/speaking">Speaking</a></li>
-    <li {% if page.category == 'team' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/team">The Team</a></li>
-    <li><a href="http://join.holidayextras.co.uk/">Careers</a></li>
-  </ul>
+<nav class="navbar navbar-default navbar-static-top hidden-print" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
+        Menu
+      </button>
+      <a class="navbar-brand" href="http://www.holidayextras.co.uk">Holiday Extras</a>
+    </div>
+    <div class="collapse navbar-collapse" id="main-menu">
+      <ul class="nav navbar-nav navbar-right">
+        <li {% if page.category == 'blog' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/">Blog</a></li>
+        <li {% if page.category == 'project' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/projects">Projects</a></li>
+        <li {% if page.category == 'speaking' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/speaking">Speaking</a></li>
+        <li {% if page.category == 'team' %}class="active"{% endif %}><a href="{{ site.url }}{{ site.baseurl }}/team">The Team</a></li>
+        <li><a href="http://join.holidayextras.co.uk/">Careers</a></li>
+      </ul>
+    </div>
+  </div>
 </nav>
