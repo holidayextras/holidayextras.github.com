@@ -1,0 +1,30 @@
+---
+layout: default
+category: quote
+---
+<article class="quote">
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+  </header>
+  <div class="container">
+    <blockquote itemType="http://schema.org/CreativeWork">
+      <p itemprop="text">
+        {{ content | remove: '<p>' | remove: '</p>'}}
+      </p>
+      <footer itemprop="author" itemtype="http://schema.org/Person">
+        <span itemprop="name">
+          {% if page.quote_author %}
+            {{ page.quote_author }}
+          {% endif %}
+        </span>
+        <cite>
+          {{ page.citation }}
+        </cite>
+      </footer>
+    </blockquote>
+    <small><b>Tags</b> {{page.tags | join: ', '}}</small>
+    {% if page.comments %}
+      {% include disqus.html %}
+    {% endif %}
+  </div>
+</article>

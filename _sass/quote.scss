@@ -1,0 +1,33 @@
+.quote {
+  blockquote {
+    padding: 12px 0;
+    quotes: "\201C" "\201D" "\2018" "\2019";
+    border: none;
+    margin: 0 0 24px;
+    font-size: 18.75px;
+    text-align: center;
+
+    p:before {
+      content: open-quote;
+      font-size: 1.5em;
+    }
+
+    p:after {
+      content: close-quote;
+      font-size: 1.5em;
+    }
+
+    footer {
+      display: block;
+      font-size: 80%;
+      line-height: 1.6;
+      color: #b1b1b1;
+
+      span:before {
+        content: '\2014 \00A0';
+      }
+
+
+    }
+  }
+}
