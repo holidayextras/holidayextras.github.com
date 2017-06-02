@@ -2,30 +2,31 @@
 {% assign todayFormatted = site.time | date: '%Y-%m-%d' %}
 {% assign speakers = site.pages | where: "category","speaker" %}
 
-<hr />
 <section class="current-talks">
-  <h2>Upcoming Talks</h2>
-  <ul>
+  <ul class="list-unstyled">
     {% for event in events %}
       {% if event.date <= todayFormatted %}{% continue %}{% endif %}
       {% assign url = speakers | where:"title",event.speaker | map: "url" %}
       <li>
-        <div class="event-logo">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/img/events/{{ event.logo }}" alt="{{ event.name }}" />
-        </div>
-        <div>
-          <h3>{{ event.talk }}</h3>
-          <h4>
+        <hr role="presentation">
+        <div class="media">
+          <div class="media-left">
+            <a href="#">
+              <img class="media-object img-thumbnail img-circle img-responsive" src="{{ site.url }}{{ site.baseurl }}/assets/img/events/{{ event.logo }}" alt="{{ event.name }}" width="80px" />
+            </a>
+          </div>
+          <div class="media-body">
+            <h3 class="media-heading">{{ event.talk }}</h3>
             {% if url.size > 0 %}
               <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
             {% else %}
               {{ event.speaker }}
             {% endif %}
-          </h4>
-          <div class="event-meta">
-            <div class="date"><i class="fa fa-fw fa-calendar"></i> {{ event.pretty_date }}</div>
-            <div class="location"><i class="fa fa-fw fa-location-arrow"></i> {{ event.location }}</div>
-            {% if event.link %}<div class="website"><i class="fa fa-fw fa-globe"></i> <a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">Website</a></div>{% endif %}
+            <div class="event-meta">
+              <div class="date"><i class="fa fa-fw fa-calendar"></i> {{ event.pretty_date }}</div>
+              <div class="location"><i class="fa fa-fw fa-location-arrow"></i> {{ event.location }}</div>
+              {% if event.link %}<div class="website"><i class="fa fa-fw fa-globe"></i> <a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">Website</a></div>{% endif %}
+            </div>
           </div>
         </div>
       </li>
@@ -35,28 +36,32 @@
 
 <section class="past-talks">
   <h2>Past Talks</h2>
-  <ul>
+  <ul class="list-unstyled">
     {% for event in events reversed %}
       {% if event.date > todayFormatted %}{% continue %}{% endif %}
       {% assign url = speakers | where:"title",event.speaker | map: "url" %}
       <li>
-        <h3>
-          {{ event.talk }} -
-          {% if url.size > 0 %}
-            <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
-          {% else %}
-            {{ event.speaker }}
-          {% endif %}
-        </h3>
-        <p>
-          <strong>
-          {% if event.link %}<a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">{% endif %}
-          {{ event.name }}
-          {% if event.link %}</a>{% endif %}
-          </strong>
-          <br />
-          <em>{{ event.pretty_date }} - {{ event.location }}</em>
-        </p>
+        <hr role="presentation">
+        <div class="media">
+          <div class="media-left">
+            <a href="#">
+              <img class="media-object img-thumbnail img-responsive" src="{{ site.url }}{{ site.baseurl }}/assets/img/events/{{ event.logo }}" alt="{{ event.name }}" width="80px"/>
+            </a>
+          </div>
+          <div class="media-body">
+            <div class="h3 media-heading">{{ event.talk }}</div>
+            {% if url.size > 0 %}
+              <a href="{{ site.url }}{{ site.baseurl }}{{ url }}" title="View {{ event.speaker }}'s Profile'">{{ event.speaker }}</a>
+            {% else %}
+              {{ event.speaker }}
+            {% endif %}
+            <div class="event-meta">
+              <div class="date"><i class="fa fa-fw fa-calendar"></i> {{ event.pretty_date }}</div>
+              <div class="location"><i class="fa fa-fw fa-location-arrow"></i> {{ event.location }}</div>
+              {% if event.link %}<div class="website"><i class="fa fa-fw fa-globe"></i> <a href="{{ event.link }}" title="Visit the website for {{ event.name }}" target="_blank">Website</a></div>{% endif %}
+            </div>
+          </div>
+        </div>
       </li>
     {% endfor %}
   </ul>
