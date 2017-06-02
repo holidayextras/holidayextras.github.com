@@ -40,6 +40,7 @@ Below is a list of supported variables, what they do and how you can use them to
 | excerpt   | This should contain a brief excerpt of the blog post. This will be used in twitter links and on the blog post list on the index page of the blog site                                                                                                                                                        | Yes      |
 | image     | By setting an image link, that image will appear in the twitter summary cards when the blog post is tweeted out. Images used need to match what twitter expects (see https://dev.twitter.com/cards/types/summary for details). If no image is set, the author gravatar image will be used instead.           | No       |
 | image_alt | This is used for the alt text of the twitter image, used for accessibility purposes or if the image fails to load for the client. This needs to be a maximum of 420 characters. If this is not set, the post title and author will be used instead.                                                          | No       |
+| hero      | Want a beatiful big picture at the top of your post, add an image to assets and add it here, you will also be called out on the homepage                                                                                                                                                                     | No       |
 
 ### Send a blog post for review
 You can now send people the link for your pull request and ask for a review. Your post should be reviewed with the following in mind:

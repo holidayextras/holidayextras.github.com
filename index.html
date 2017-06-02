@@ -13,30 +13,34 @@ category: blog
         <li>
           {% if post.hero %}
             <div class="jumbotron jumbotron-cover jumbotron-overlay jumbotron-flex text-center" style="background-image:url('{{ site.url }}{{ site.baseurl }}/assets/img{{post.hero}}');">
-             <div class="container">
-                <h2 class="h1">{{ post.title }}</h2>
-                <p class="lead">{{ post.excerpt | strip_html | truncatewords: 50}}<br><small>By {{ author.name }}</small></p>
-                <p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">Read more</a></p>
+              <div class="container">
+                <div class="col-sm-8 col-sm-offset-2">
+                  <h2 class="h1">{{ post.title }}</h2>
+                  <p class="lead">{{ post.excerpt | strip_html | truncatewords: 50}}<br><small>By {{ author.name }}</small></p>
+                  <p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">Read more</a></p>
+                </div>
               </div>
             </div>
           {% else %}
             <div class="container">
-              <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="a-block">
-                <div class="media block-sm">
-                  <div class="media-left">
-                    {% if author.gravatar_md5 %}
-                      <img class="media-object img-responsive img-thumbnail img-circle" src="http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=100" alt="A photo of {{ member.name }}" />
-                    {% else %}
-                      <img class="media-object img-responsive img-thumbnail img-circle" src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
-                    {% endif %}
+              <div class="col-sm-8 col-sm-offset-2">
+                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="a-block">
+                  <div class="media block-sm">
+                    <div class="media-left">
+                      {% if author.gravatar_md5 %}
+                        <img class="media-object img-responsive img-thumbnail img-circle" src="http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=100" alt="A photo of {{ member.name }}" />
+                      {% else %}
+                        <img class="media-object img-responsive img-thumbnail img-circle" src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
+                      {% endif %}
+                    </div>
+                    <div class="media-body">
+                      <h2 class="h1 media-heading">{{ post.title }}</h2>
+                      <p class="lead">{{ post.excerpt | strip_html | truncatewords: 50}}<br><small>By {{ author.name }}</small></p>
+                    </div>
                   </div>
-                  <div class="media-body">
-                    <h2 class="h1 media-heading">{{ post.title }}</h2>
-                    <p class="lead">{{ post.excerpt | strip_html | truncatewords: 50}}<br><small>By {{ author.name }}</small></p>
-                  </div>
-                </div>
-              </a>
-              <hr role="presentation">
+                </a>
+                <hr role="presentation">
+              </div>
             </div>
           {% endif %}
         </li>
