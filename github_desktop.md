@@ -129,7 +129,7 @@ Then click the **Commit to "branch name"** button
 5. Complete the blog title and the blog description and click **create PR**: 
 ![open_pr.png]({{ site.baseurl }}/assets/img/github_desktop/open_pr.png)
 
-   Tick the *Author* tick boxes if you're happy you've checked for grammatical errors, spelling errors and all information (technical or otherwise) is correct to your knowledge.
+   Tick the **Author** tick boxes if you're happy you've checked for grammatical errors, spelling errors and all information (technical or otherwise) is correct to your knowledge.
 
    Copy the URL and share on slack and get some reviewers! See the [README](https://github.com/holidayextras/holidayextras.github.com) for more information on how to send a blog post for review and getting it published.
 
