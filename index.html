@@ -11,7 +11,7 @@ category: blog
       {% for post in paginator.posts %}
         {% assign author = site.data.members.[post.author] %}
         <li>
-          {% if post.hero %}
+          {% if post.hero and post.promoted == true %}
             <div class="jumbotron jumbotron-cover jumbotron-overlay jumbotron-flex text-center" style="background-image:url('{{ site.url }}{{ site.baseurl }}/assets/img{{post.hero}}');">
               <div class="container">
                 <div class="col-sm-8 col-sm-offset-2">
