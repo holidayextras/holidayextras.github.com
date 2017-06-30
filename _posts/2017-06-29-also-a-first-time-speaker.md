@@ -33,7 +33,7 @@ To an extent this was true. But knowing your subject is one thing, having that i
 
 ## Practice, Practice, Practice
 
-I started to put the talk together a couple of months before the conference. Start early, be ready early. 
+I started to put the talk together a couple of months before the conference. Start early, be ready early.
 
 As the weeks went on, I managed to progress the presentation. It took a while to be happy with a consistent design, but once I got there I was able to transfer over a lot of the presentation from our Conference Day. I’d topped the presentation with the introductory information needed for Holiday Extras and I knew how I wanted to end it.
 
@@ -58,7 +58,7 @@ OK, everything seems to work fine. I can wander around, my clicker works, the sl
 
 ## Going ‘second’
 
-A requirement of sessions being back-to-back in a room, was that the presenter going second has to attend the first in order that there’s a smoother transition. The presentation before me was excellent. Great! It really kept the audience engaged, wasn’t a boring lecture and got everyone thinking. The secret was marshmellows - a gimmick, but a really effective one to prove a point and create discussion.
+A requirement of sessions being back-to-back in a room, was that the presenter going second has to attend the first in order that there’s a smoother transition. The presentation before me was excellent. Great! It really kept the audience engaged, wasn’t a boring lecture and got everyone thinking. The secret was marshmallows - a gimmick, but a really effective one to prove a point and create discussion.
 
 The session also overran, with people asking questions of the presenter at the end (distracting her from unplugging her laptop and getting out of my way!). Not quite what I needed before I was about to get up in front of a room full of strangers.
 
@@ -82,8 +82,8 @@ I learnt a lot about presenting at conferences from this experience, the biggest
 
 Would I do it again? Absolutely, however, learning from the sessions I attended that I enjoyed the most, I can take away loads regarding how to keep an audience engaged and find value from a session. On the flip side I can also see how to stop people falling asleep and from leaving (thankfully not in my session!). It’s given me a lot of food for thought about how we can continue to get out there and talk about all the great stuff we’re doing here, but also how to make it an engaging and rewarding experience for those attending.
 
-I also should have spent time with those in the business who have spoken at conferences before. I wish I’d learnt more from their experience and taken all the advice I could get. Perhaps I was a little nervous about feeling like an amature - but everyone has to start somewhere. 
+I also should have spent time with those in the business who have spoken at conferences before. I wish I’d learnt more from their experience and taken all the advice I could get. Perhaps I was a little nervous about feeling like an amateur - but everyone has to start somewhere. 
 
-I also think in heindsight that I should have spoken to the organisers before writing the presentation. This was a conference we'd not sent anyone to before, so I had no idea what level to 'pitch' the talk. Was the room likely to be full of experiened practitioners (as it seemed to be), or those looking to get into Agile. They may not have known this information (and it was probably a mixture of both), but it could have provided me with a better understanding.
+I also think in hindsight that I should have spoken to the organisers before writing the presentation. This was a conference we'd not sent anyone to before, so I had no idea what level to 'pitch' the talk. Was the room likely to be full of experienced practitioners (as it seemed to be), or those looking to get into Agile. They may not have known this information (and it was probably a mixture of both), but it could have provided me with a better understanding.
 
 So my advice to others would be have a chat and talk through what you’re looking to do, as early as you can. Chat to those who have spoken at conferences before and those in roles who would have an interest in the talk if they were attending the conference (and those who might not!). Don’t shy away from feedback, it will be so valuable when you actually have to deliver the talk. Prepare early and deliver practice runs early. Knowing content is one thing, knowing the order that content comes in is just as valuable.
