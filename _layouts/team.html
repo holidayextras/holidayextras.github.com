@@ -1,30 +1,30 @@
 ---
 layout: default
 category: team
+nav: team
 ---
 <div class="team">
-  <header>
-    <div class="container">
-      <h1>{{page.title}}</h1>
-    </div>
-  </header>
-  <main>
+  <div class="jumbotron jumbotron-cover jumbotron-overlay jumbotron-flex text-center"" style="background-image:url('{{ site.url }}{{ site.baseurl }}/assets/img/tech-team.jpg');">
+    <h1>{{page.title}}</h1>
+  </div>
+
+  <main class="container block-sm">
     {{content}}
-    <ul>
+    <ul class="row list-unstyled block-sm">
       {% for member_hash in site.data.members %}
         {% assign member = member_hash[1] %}
         {% if member.currently_employed == yes %}
-          <li>
-            {% if member.gravatar_md5 %}
-              <img src="http://www.gravatar.com/avatar/{{ member.gravatar_md5 }}?s=400" alt="A photo of {{ member.name }}" />
-            {% else %}
-              <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" />
-            {% endif %}
-            <div class="overlay">
-              <h2>{{ member.name }}</h2>
-              <p>{{ member.role }}</p>
-              <div class="social">
-                <a href="http://www.twitter.com/{{ member.twitter }}" title="{{ member.name }} twitter" class="twitter"><i class="fa fa-twitter fa-fw"></i>@{{ member.twitter }}</a>
+          <li class="col-xs-6 col-sm-4 col-md-3">
+            <div class="thumbnail">
+              {% if member.gravatar_md5 %}
+                <img src="http://www.gravatar.com/avatar/{{ member.gravatar_md5 }}?s=400" alt="A photo of {{ member.name }}" class="img-responsive" />
+              {% else %}
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/img/avatar-default_360.png" alt="A photo of {{ member.name }}" class="img-responsive" />
+              {% endif %}
+              <div class="caption">
+                <div class="h4">{{ member.name }}</div>
+                <div>{{ member.role }}</div>
+                <div><a href="http://www.twitter.com/{{ member.twitter }}" title="{{ member.name }} twitter" class="twitter"><i class="fa fa-twitter fa-fw"></i>@{{ member.twitter }}</a></div>
               </div>
             </div>
           </li>

@@ -1,18 +1,17 @@
 ---
 layout: default
 category: speaking
+nav: speaking
 ---
 {% assign speakers = site.pages | where: "category","speaker" %}
-<article class="speaking">
-  <header>
-    <div class="container">
-      <h1>{{page.title}}</h1>
-    </div>
-  </header>
-  <div class="container">
-    <section>
-      {{content}}
-    </section>
-    {% include speaking_calendar.html %}
+<div class="speaking">
+  <div class="jumbotron jumbotron-cover jumbotron-overlay jumbotron-flex text-center" style="background-image:url('{{ site.url }}{{ site.baseurl }}/assets/img/speaker.jpg');">
+    <h1>{{page.title}}</h1>
   </div>
-</article>
+  <div class="container block-sm">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="lead">{{content}}</div>
+      {% include speaking_calendar.html %}
+    </div>
+  </div>
+</div>

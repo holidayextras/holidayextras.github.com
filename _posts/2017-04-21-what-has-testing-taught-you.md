@@ -7,7 +7,6 @@ tags: testing
 excerpt: A question that some Software Testers might find difficult to answer. In my case, I could give you a never-ending list of what I've learnt since becoming a Software Tester.
 ---
 
-## What has testing taught you?
 A question that some Software Testers might find difficult to answer. In my case, I could give you a never-ending list of what I've learnt since becoming a Software Tester.
 
 When I first took the leap to become a Software Tester, my initial thought was to “break everything” and even though you wouldn’t see those two words in a Software Tester’s role profile, this isn’t as far from the truth as you might think.

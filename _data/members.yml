@@ -11,7 +11,7 @@ anna_divers:
   twitter: annadivers
 alanna_mooney:
   name: Alanna Mooney
-  role: Scrum Master
+  role: Agile Coach
   gravatar_md5: 827526410b82eece1cec6bb60241b8c3
   twitter: alannamooney
 alix_george:
@@ -26,7 +26,7 @@ andy_castle:
   twitter: andycastleuk
 caroline_woodhams:
   name: Caroline Woodhams
-  role: Product Owner
+  role: Product Manager
   gravatar_md5: 768de83673b1d12535c914b59b1ec664
   twitter: cwoodhams82
 chloe_shepherd:
@@ -36,17 +36,17 @@ chloe_shepherd:
   twitter: ChloeShep27
 christina_mattinson:
   name: Christina Mattinson
-  role: Scrum Master
+  role: Agile Coach
   gravatar_md5: aadce53854a62de5573dad3320d2edc5
   twitter: Christina_Mats
 connor_meredith:
   name: Connor Meredith
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: 309586e01a55811b43d44249364964bc
   twitter: connorjmeredith
 damian_casey:
   name: Damian Casey
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: 22a00e5cb399fcb77dabc84f9c43794b
   twitter: damian_casey
 damien_turner:
@@ -62,34 +62,34 @@ dan_jenkins:
   currently_employed: false
 duncan_fenning:
   name: Duncan Fenning
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: 41a9f9f2f62bc01279a518d2b826de53
   twitter: DuncanFenning
 han_cork:
   name: Han Cork
-  role: Scrum Master
+  role: Agile Coach
   gravatar_md5: 254ea9e95547f5d0cc983ce7b0ace1a3
   twitter: HanCork89
-ilarna_nche:
-  name: Ilarna Nche
-  role: Web Developer
-  gravatar_md5: 06196f4a74f7aa9881d210c16281a7f1
-  twitter: ilarna_preach
+# ilarna_nche:
+#   name: Ilarna Nche
+#   role: Software Engineer
+#   gravatar_md5: 06196f4a74f7aa9881d210c16281a7f1
+#   twitter: ilarna_preach
 nick_han:
   name: Nick and Han
-  role: Scrum Masters
+  role: Agile Coaches
   gravatar_md5: 6837bfce14d502d3078c447db6f52ecd
   twitter: HanCork89
   currently_employed: false
 harley_rowland:
   name: Harley Rowland
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: 4f0f550c7bf51690dc8841853bd4b258
   twitter: HarleyRowland
   currently_employed: false
 george_storer:
   name: George Storer
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: 8b9afbd287dff06b2258db1561cda20f
   twitter: hxstorer
   currently_employed: false
@@ -121,12 +121,12 @@ jamie_matthews:
   twitter: jaymeight
 jodie_doubleday:
   name: Jodie Doubleday
-  role: UXUI Architect
+  role: UI Lead
   gravatar_md5: 2d45a614f60b0a7154c66b81e666c5a9
   twitter: jodiedoubleday
 joe_warren:
   name: Joe Warren
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: 604ac7902855109cc651823282d66ca4
   twitter: joezo
   currently_employed: false
@@ -142,7 +142,7 @@ liz_pope:
   twitter: lizzie_pope
 louis_pryer:
   name: Louis Pryer
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: 66fa6c32d739e0b90417cda633308444
   twitter: LouisPryer
 luke_frake:
@@ -173,18 +173,18 @@ matt_obee:
   twitter: mattobee
 matthew_tyas:
   name: Matthew Tyas
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: ba814ae5bf495589d2dce37d95816a11
   twitter: MatthewJTyas
   currently_employed: false
 mike_carter:
   name: Mike Carter
-  role: Software Architect
+  role: Software Engineer
   gravatar_md5: 4bf27b79f3b5a877ac116e1ef471a882
   twitter: mcarterj
-nick_ls: 
+nick_ls:
   name: Nick Loe-Startup
-  role: Scrum Master
+  role: Agile Coach
   gravatar_md5: d7fe507a0cdba145c19f9857fdc62a8f
   twitter: NALS_LFC
 paul_clarke:
@@ -194,7 +194,7 @@ paul_clarke:
   twitter: pauly
 rob_huzzey:
   name: Rob Huzzey
-  role: Web Developer
+  role: Software Engineer
   gravatar_md5: 804ad167803fc170fbd4651d459ada5b
   twitter: theHuzz
 rob_johnson:

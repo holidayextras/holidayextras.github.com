@@ -6,6 +6,8 @@ author: mattsaunby
 tags: testers qa investigation sherlock holmes
 comments: true
 excerpt: "On the birthday of Sir Arthur Conan Doyle, we pry into the minds of our Software Testers and how they approach investigation tasks."
+hero: "/sherlock.jpg"
+promoted: true
 ---
 
 Unofficially, 22nd May is Sherlock Holmes day and so we asked some of our Software Testers about investigations, something that Testers here at Holiday Extras do all the time.

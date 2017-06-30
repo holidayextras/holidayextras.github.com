@@ -1,96 +1,138 @@
 ---
 layout: default
 category: project
+nav: project
 ---
-<div>
-  <header>
-    <div class="container">
-      <h1>{{page.title}}</h1>
-    </div>
-  </header>
-  <main class="container">
+<div class="projects">
+  <div class="jumbotron jumbotron-cover jumbotron-overlay jumbotron-flex text-center" style="background-image:url('{{ site.url }}{{ site.baseurl }}/assets/img/coder.jpg');">
+    <h1>{{page.title}}</h1>
+  </div>
+  <main class="container block-sm">
     {{content}}
-    <ul class="exhibition exhibition-projects">
-      <li>
-        <a href="https://github.com/holidayextras/culture">
-          <section>
-            <h2>Culture</h2>
-            <div class="project-summary">
-              <blockquote>A collection of documents that outline Holiday Extras' culture and development expectations</blockquote>
-            </div>
-          </section>
-        </a>
-      </li>
-       <li>
-        <a href="https://github.com/holidayextras/WorkerJS/">
-          <section>
-            <h2>Worker.js</h2>
-            <div class="project-summary">
-              <blockquote>Makes it easy to write lightweight, concise, concurrent, clustered Javascript.</blockquote>
-            </div>
-          </section>
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/holidayextras/esq/">
-          <section>
-            <h2>ESQ</h2>
-            <div class="project-summary">
-              <blockquote>An easy way to build elasticsearch queries without having to writing lots and lots of code</blockquote>
-            </div>
-          </section>
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/holidayextras/node-pester/">
-          <section>
-            <h2>Pester</h2>
-            <div class="project-summary">
-              <blockquote>Will pester you, if you're running the wrong version of Node.js for your app.</blockquote>
-            </div>
-          </section>
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/holidayextras/hxTracer/">
-          <section>
-            <h2>HXTracer</h2>
-            <div class="project-summary">
-              <blockquote>A dependency-free Javascript Tracer.</blockquote>
-            </div>
-          </section>
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/holidayextras/flex-less">
-          <section>
-            <h2>Flex-Less</h2>
-            <div class="project-summary">
-              <blockquote>A mixin created to enable you to use all basic functions of CSS flexbox for all supported flexbox browsers.</blockquote>
-            </div>
-          </section>
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/holidayextras/node-asterisk-ami/">
-          <section>
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <ul class="list-unstyled row">
+<!--  LEAVING THESE IN HERE IN CASE WE WANT TO ADD BACK IN
+     <li class="col-xs-6 col-sm-4 col-md-3">
+        <a class="thumbnail" href="https://github.com/holidayextras/node-asterisk-ami/">
+          <div class="caption">
             <h2>Asterisk-ami</h2>
-            <div class="project-summary">
-              <blockquote>An extremely lightweight Asterisk AMI connector.</blockquote>
-            </div>
-          </section>
+            <p>An extremely lightweight Asterisk AMI connector.</p>
+          </div>
         </a>
       </li>
-      <li>
-        <a href="http://tech.holidayextras.co.uk/ui-toolkit/">
-          <section>
+      <li class="col-xs-6 col-sm-4 col-md-3">
+        <a class="thumbnail" href="https://github.com/holidayextras/culture">
+          <div class="caption">
+            <h2>Culture</h2>
+            <p>A collection of documents that outline Holiday Extras' culture and development expectations</p>
+          </div>
+        </a>
+      </li>
+      <li class="col-xs-6 col-sm-4 col-md-3">
+        <a class="thumbnail" href="https://github.com/holidayextras/esq/">
+          <div class="caption">
+            <h2>ESQ</h2>
+            <p>An easy way to build elasticsearch queries without having to writing lots and lots of code</p>
+          </div>
+        </a>
+      </li>
+      <li class="col-xs-6 col-sm-4 col-md-3">
+        <a class="thumbnail" href="https://github.com/holidayextras/flex-less">
+          <div class="caption">
+            <h2>Flex-Less</h2>
+            <p>A mixin created to enable you to use all basic functions of CSS flexbox for all supported flexbox browsers.</p>
+          </div>
+        </a>
+      </li>
+      <li class="col-xs-6 col-sm-4 col-md-3">
+        <a class="thumbnail" href="https://github.com/holidayextras/hxTracer/">
+          <div class="caption">
+            <h2>HXTracer</h2>
+            <p>A dependency-free Javascript Tracer.</p>
+          </div>
+        </a>
+      </li>
+      <li class="col-xs-6 col-sm-4 col-md-3">
+        <a class="thumbnail" href="https://github.com/holidayextras/node-pester/">
+          <div class="caption">
+            <h2>Pester</h2>
+            <p>Will pester you, if you're running the wrong version of Node.js for your app.</p>
+          </div>
+        </a>
+      </li>
+      <li class="col-xs-6 col-sm-4 col-md-3">
+        <a class="thumbnail" href="http://tech.holidayextras.co.uk/ui-toolkit/">
+          <div class="caption">
             <h2>UI-Toolkit</h2>
-            <div class="project-summary">
-              <blockquote>A collection of styled components built with React</blockquote>
-            </div>
-          </section>
+            <p>A collection of styled components built with React</p>
+          </div>
         </a>
       </li>
-    </ul>
+      <li class="col-xs-6 col-sm-4 col-md-3">
+        <a class="thumbnail" href="https://github.com/holidayextras/WorkerJS/">
+          <div class="caption">
+            <h2>Worker.js</h2>
+            <p>Makes it easy to write lightweight, concise, concurrent, clustered Javascript.</p>
+          </div>
+        </a>
+      </li> -->
+          <li class="col-xs-12 col-sm-4">
+            <a class="thumbnail" href="https://github.com/holidayextras/jsonapi-client">
+              <img src="{{ site.url }}{{ site.baseurl }}/assets/img/json-apiclient.png" alt="JSON api client" class="img-responsive">
+              <div class="caption">
+                <h2 class="text-center">Client</h2>
+                <p>A javascript module designed to make it really easy to consume a json:api service.</p>
+              </div>
+            </a>
+          </li>
+          <li class="col-xs-12 col-sm-4">
+            <a class="thumbnail" href="https://github.com/holidayextras/jsonapi-client">
+              <img src="{{ site.url }}{{ site.baseurl }}/assets/img/json-apiserver.png" alt="JSON api server" class="img-responsive">
+              <div class="caption">
+                <h2 class="text-center">Server</h2>
+                <p>A javascript module designed to make it really easy to consume a json:api service.</p>
+              </div>
+            </a>
+          </li>
+          <li class="col-xs-12 col-sm-4">
+            <a class="thumbnail" href="https://five.js.org/">
+              <img src="{{ site.url }}{{ site.baseurl }}/assets/img/fiveJS.png" alt="Five JS Logo" class="img-responsive">
+              <div class="caption">
+                <h2 class="text-center">Five JS</h2>
+                <p>A library to overcomplicate 5</p>
+              </div>
+            </a>
+          </li>
+          <li class="col-xs-12 col-sm-4">
+            <a class="thumbnail" href="https://github.com/holidayextras/jsonapi-store-mongodb">
+              <img src="{{ site.url }}{{ site.baseurl }}/assets/img/json-apistore-mongodb.png" alt="JSON api store-mongodb" class="img-responsive">
+              <div class="caption">
+                <h2 class="text-center">Store MongoDB</h2>
+                <p>A MongoDB backed data store for jsonapi-server.</p>
+              </div>
+            </a>
+          </li>
+          <li class="col-xs-12 col-sm-4">
+            <a class="thumbnail" href="https://github.com/holidayextras/jsonapi-store-relationaldb">
+              <img src="{{ site.url }}{{ site.baseurl }}/assets/img/json-apistore-retionaldb.png" alt="JSON api store-retionaldb" class="img-responsive">
+              <div class="caption">
+                <h2 class="text-center">Store RetionalDB</h2>
+                <p>A relational database backed data store for jsonapi-server.</p>
+              </div>
+            </a>
+          </li>
+          <li class="col-xs-12 col-sm-4">
+            <a class="thumbnail" href="http://tech.holidayextras.co.uk/ui-toolkit/">
+              <img src="{{ site.url }}{{ site.baseurl }}/assets/img/UIToolkit.png" alt="UI Toolkit Logo" class="img-responsive">
+              <div class="caption">
+                <h2>UI-Toolkit</h2>
+                <p>A collection of styled components built with React</p>
+              </div>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
   </main>
 </div>
