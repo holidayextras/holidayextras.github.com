@@ -30,8 +30,7 @@
     <meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% elsif author.gravatar_md5 %}http://www.gravatar.com/avatar/{{ author.gravatar_md5 }}?s=144{% endif %}" />
     <meta name="twitter:image:alt" content="{% if page.image_alt %}{{ page.image_alt}}{{% else %}}{{page.title}} by {{autor.name}}{% endif %}" />
 
-    <link rel="preload" href="{{site.baseurl}}/css/default.min.css" as="style" onload="this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="{{site.baseurl}}/css/default.min.css"></noscript>
+    <link rel="stylesheet" href="{{site.baseurl}}/css/default.min.css">
 
     <script>
       {% include js/analytics.js %}
