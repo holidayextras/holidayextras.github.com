@@ -53,8 +53,7 @@ If at any stage you get stuck, drop a note in slack channel #guild-tech-brand an
 The first time you blog, you'll need to add yourself to the list of users. To do this, you'll need to edit the *members* file. Before you do this, you'll need to set up a profile picture in Gravatar.
 
 1. Go to [Gravatar](https://signup.wordpress.com/signup/?ref=oauth2&oauth2_redirect=98c69c872dcb16768f1105372220b8b1%40https%3A%2F%2Fpublic-api.wordpress.com%2Foauth2%2Fauthorize%2F%3Fclient_id%3D1854%26response_type%3Dcode%26blog_id%3D0%26state%3Df469ccc769c69e0d78b63b1d802da8be3c597377f9e4ed70474ba681aa4c07ae%26redirect_uri%3Dhttps%253A%252F%252Fen.gravatar.com%252Fconnect%252F%253Faction%253Drequest_access_token%26jetpack-code%26jetpack-user-id%3D0%26action%3Doauth2-login&wpcom_connect=1). Input your email address (your user name should pre-populate for you). Select a password.
-Click **sign-up**:
-![signup_gravatar]({{ site.baseurl }}/assets/img/github_desktop/signup_gravatar.png)
+Click **sign-up**
 
 2. Go to your email (you may need to check your SPAM). Activate your account. Then, sign into Gravatar and click on **Add a new image** and upload a new image. Crop as required and rate it appropriately!!!! You should then return to this page with your image now showing:
 ![new_image_gravatar]({{ site.baseurl }}/assets/img/github_desktop/new_image_gravatar.png)
@@ -119,7 +118,7 @@ This is how it displays in dillinger.io
 Then click the **Commit to "branch name"** button
 ![commit.png]({{ site.baseurl }}/assets/img/github_desktop/commit.png)
 
-3. Then, click the **Publish** button (found towards the top right-hand corner). This will push your branch, with your commits up to the holidayextras.github.com repo.
+3. Then, click the **Publish** button (found towards the top right-hand corner). This will push your branch, with your commits up to the holidayextras.github.com repo. (Once you've published you're PR for the first time to Github, the publish button will become a _Sync_ button - you'll need this if you push up further changes to the blog, following feedback, for example.)
 
 4. Now, head over to [https://github.com/holidayextras/holidayextras.github.com](https://github.com/holidayextras/holidayextras.github.com). You may need to refresh the page. Click on **Compare and pull request**:
 ![compare_and_pr.png]({{ site.baseurl }}/assets/img/github_desktop/compare_and_pr.png)
@@ -132,6 +131,8 @@ Then click the **Commit to "branch name"** button
    Tick the **Author** tick boxes if you're happy you've checked for grammatical errors, spelling errors and all information (technical or otherwise) is correct to your knowledge.
 
    Copy the URL and share on slack and get some reviewers! See the [README](https://github.com/holidayextras/holidayextras.github.com) for more information on how to send a blog post for review and getting it published.
+
+6. If you have feedback to address, make sure you are in the right branch on Github Desktop. Open the file again in your chosen text editor and make the changes. Click save and head back over to Github Desktop. You should see new uncommitted changes to push up. Repeat the process for committing to the branch and click **Sync**. Head back over to your PR in Github and refresh and you should see your _commit_ has been pushed up and your _files changed_ updated.
 
 ### Creating Another Post
 
