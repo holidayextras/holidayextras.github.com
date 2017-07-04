@@ -50,7 +50,7 @@ If you're not confident using your terminal, you can use GitHub Desktop. The set
 
 ### Still not confident?
 
-If you're not confident using either your terminal or Github Desktop, drop a note in slack channel #guild-tech-brand and one of the tech brand champions will help you out.
+If you're not confident using either your terminal or Github Desktop, drop a note in slack channel #guild-tech-brand and one of the team with the tech brand stretch will help you out.
 
 --
 

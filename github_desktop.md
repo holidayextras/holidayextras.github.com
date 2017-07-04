@@ -1,7 +1,7 @@
 Getting Set Up With Github Desktop
 ========================
 
-If at any stage you get stuck, drop a note in slack channel #guild-tech-brand and one of the tech brand champions will help you out.
+If at any stage you get stuck, drop a note in slack channel #guild-tech-brand and one of the team with the tech brand stretch will help you out.
 
 ### Github Desktop Initial Setup
 
