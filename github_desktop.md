@@ -14,37 +14,45 @@ If at any stage you get stuck, drop a note in slack channel #guild-tech-brand an
 4. Once that's installed, locate the programme and launch it. The first time you do, there is a tutorial should you wish to have a look around - but we’ll get to the features of the desktop app later.
 
 5. Upon launch you should see this screen:
+
 <img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/welcome.png" width="300">
 
    Hit **Continue** and login with your HX email address and github password:
-   <img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/login.png" width="500">
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/login.png" width="450">
 
    You are likely to have 2 step authentication set up - once you've received it, put in your code! 
 
 6. Confirm it’s you and don’t worry about the other steps here, just hit **continue** & **continue** again:
-<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/continue.png" width="400">
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/continue.png" width="450">
 
 7. Now you need to connect to HX! Click on the large **+** sign and select the **clone** tab:
-<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/cloning.png" width="600">
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/cloning.png" width="450">
 
 8. Type in holidayextras.github.com and clone that repository:
-![hx_github](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/hx_github.png)
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/hx_github.png" width="400">
 
 9. You'll now be asked where on your local machine you want to save the files. If you already have a _git_ folder save it there, otherwise, click **New Folder** (bottom left):
-![new_folder](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/new_folder.png)
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/new_folder.png" width="500">
 
 10. Call it _Git_:
-![git_folder](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/git_folder.png)
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/git_folder.png" width="450">
 
 11. Click **Create**, then **Clone**:
-![clone](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/clone.png)
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/clone.png" width="500">
 
 12. You've now cloned the files from _holidayextras.github.com_ and this should appear in your list of repos on the left-hand side on Github Desktop. You should be on *master* and see a list of recently merged pull requests. You're now ready to move on to the next step.
 
 ### Creating A Branch To Work From
 
 1. Click on the Repo you want to create a branch from. For the blog this will be holidayextras.github.com. Click on the following icon and name the branch, using dashes to separate words - for example *my-next-blog*
-![branch](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/branch.png)
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/branch.png" width="500">
 
    Now your branch has been created, you can start to change existing files or create new ones.
 
@@ -57,21 +65,24 @@ Click **sign-up**
 
 2. Go to your email (you may need to check your SPAM). Activate your account. Then, sign into Gravatar and click on **Add a new image** and upload a new image. Crop as required and rate it appropriately!!!! You should then return to this page with your image now showing:
 
-![new_image_gravatar](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/new_image_gravatar.png)
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/new_image_gravatar.png" width="300">
 
 3. Right click on the top image of yourself and select **inspect**. As highlighted in the example, you should see a long alphanumeric sequence. Copy this unique number and paste it somewhere safe:
-![inspect_element](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/inspect_element.png)
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/inspect_element.png">
 
    Next, you'll need to use a text editor to make changes to files and to write new blogs. There's loads out there, but a couple of popular ones are [sublime text](https://www.sublimetext.com/3) or [Atom](https://atom.io/).
 
 4. Download your chosen text editor and navigate to **open**. Find your _Home Folder_ (this should be your name):
-![open_file_text_editor](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/open_file_text_editor.png)
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/open_file_text_editor.png" width="450">
 
 5. Open **git**, navigating to data>members and open this file. Add yourself in the right place alphabetically, as per the following example - using your Gravatar unique alphanumeric code you made a note of earlier:
-![members](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/members.png)
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/members.png">
 
    Save this. (The only reason you would need to touch this file again would be if any of your information changes). This should be added on Github Desktop to the list of files changed to be added to your Pull Request for review - if you go back to your Github Desktop, you should now see that you have new uncommitted changes to commit on your branch (it should automatically update):
-![new_uncommited_changes](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/new_uncommited_changes.png)
+   <img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/new_uncommited_changes.png">
 
 ### Creating A New Blog Post
 
@@ -80,7 +91,7 @@ Click **sign-up**
 2. Create your new post using the following information first: **_layout_** (for a Blog post this will be **post**), **_title_** (Your Blog Post Title), **_categories_** (your blog post category - e.g. **agile**, **tech_debt**), **_author_** (your author name - as you listed it earlier on the members doc, e.g. _victoria_feaver_), **_tags_** (any useful tags, e.g. **agile**, **scrum**, **tech_debt**), **_comments_** (this needs to say **true**), **_excerpt_** (a one line summary to sell your blog, e.g. _This excellent blog looks at the excellent work I've done on excelling_) this is topped and tailed by 3 lines (---)
 
    It, therefore, looks something like this:
-![new_blog_header.png](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/new_blog_header.png)
+   <img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/new_blog_header.png">
 
 3. Write your new blog post!
 
@@ -101,10 +112,10 @@ Click **sign-up**
 5. If you want to check what your finished blog will look like in markdown, you can use [dillinger.io](http://dillinger.io/). Delete all the text on the left-hand side, copy yours in your text editor, paste it in and then it’ll show you on the right-hand side what it will look like.
 
 This is how it looks in my text editor:
-![markdown_text_editor](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/markdown_text_editor.png)
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/markdown_text_editor.png" width="500">
 
 This is how it displays in dillinger.io
-![dillinger](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/dillinger.png)
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/dillinger.png">
 
 ### Uploading A Pull Request
 
@@ -117,17 +128,19 @@ This is how it displays in dillinger.io
 	**Description** "Uploading first draft of XXX blog"_
 
 Then click the **Commit to "branch name"** button
-![commit.png](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/commit.png)
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/commit.png" width="500">
 
 3. Then, click the **Publish** button (found towards the top right-hand corner). This will push your branch, with your commits up to the holidayextras.github.com repo. (Once you've published you're PR for the first time to Github, the publish button will become a _Sync_ button - you'll need this if you push up further changes to the blog, following feedback, for example.)
 
 4. Now, head over to [https://github.com/holidayextras/holidayextras.github.com](https://github.com/holidayextras/holidayextras.github.com). You may need to refresh the page. Click on **Compare and pull request**:
-![compare_and_pr.png](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/compare_and_pr.png)
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/compare_and_pr.png" width="500">
 
    This will allow you to create a Pull Request.
 
 5. Complete the blog title and the blog description and click **create PR**: 
-![open_pr.png](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/open_pr.png)
+
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/open_pr.png" width="500">
 
    Tick the **Author** tick boxes if you're happy you've checked for grammatical errors, spelling errors and all information (technical or otherwise) is correct to your knowledge.
 
