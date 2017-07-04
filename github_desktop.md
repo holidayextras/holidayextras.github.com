@@ -14,7 +14,7 @@ If at any stage you get stuck, drop a note in slack channel #guild-tech-brand an
 4. Once that's installed, locate the programme and launch it. The first time you do, there is a tutorial should you wish to have a look around - but we’ll get to the features of the desktop app later.
 
 5. Upon launch you should see this screen:
-![welcome](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/welcome.png)
+![welcome](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/welcome.png{width=107px height=119px})
 
    Hit **Continue** and login with your HX email address and github password:
    ![login](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/login.png)
@@ -56,6 +56,7 @@ The first time you blog, you'll need to add yourself to the list of users. To do
 Click **sign-up**
 
 2. Go to your email (you may need to check your SPAM). Activate your account. Then, sign into Gravatar and click on **Add a new image** and upload a new image. Crop as required and rate it appropriately!!!! You should then return to this page with your image now showing:
+
 ![new_image_gravatar](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/new_image_gravatar.png)
 
 3. Right click on the top image of yourself and select **inspect**. As highlighted in the example, you should see a long alphanumeric sequence. Copy this unique number and paste it somewhere safe:
