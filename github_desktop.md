@@ -129,9 +129,7 @@ This is how it displays in dillinger.io
 	&
 	**Description** "Uploading first draft of XXX blog"_
 
-Then click the **Commit to "branch name"** button:
-
-<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/comitting.png" width="500">
+Then click the **Commit to "branch name"** button. 
 
 3. Then, click the **Publish** button (found towards the top right-hand corner). This will push your branch, with your commits up to the holidayextras.github.com repo. (Once you've published you're PR for the first time to Github, the publish button will become a _Sync_ button - you'll need this if you push up further changes to the blog, following feedback, for example.)
 
