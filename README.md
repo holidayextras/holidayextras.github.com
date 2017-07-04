@@ -40,10 +40,6 @@ Now that your blog has been reviewed and you have actioned any comments, you can
 
 **TO DO** Create new check box list for blog post reviewing.
 
-2. Github
-
-Just like any normal dev work, you can review a PR, comment on the content or editorial parts of the blog post and publish when we have 2 x :+1:'s
-
 ### Using GitHub Desktop
 
 If you're not confident using your terminal, you can use GitHub Desktop. The set up process will take a little while, but once you're up and running it's relavitvely straight forward to add new Blogs. Here's the [step-by-step](https://github.com/holidayextras/holidayextras.github.com/blob/master/github_desktop.md) process for getting set up.
