@@ -12,6 +12,7 @@ The first part of this README breaks down the steps required in order to write a
 * You will need an SSH key in order to upload to github from your Mac (a dev can help set this up and is a one time setup thing)
 
 ### Creating a post
+(If you're not comfortable using your terminal, go down to the *Using GitHub Desktop* section)
 * You first need to clone the blog repo to your machine. Open up the terminal and enter `git clone git@github.com:holidayextras/holidayextras.github.com.git`
 * Once the process has completed, navigate to that folder `cd holidayextras.github.com`
 * Pull down the master branch of holidayextras.github.com `git checkout master` and `git pull`
@@ -57,47 +58,13 @@ Now that your blog has been reviewed and you have actioned any comments, you can
 
 **TO DO** Create new check box list for blog post reviewing.
 
-### Prose.io
-Prose.io is a online WYSIWYG editor for creating, editing and comitting blog posts.
-In Holiday Extras we are not using it to simplify markdown, we are using it to allow non technical users to publish blog posts on GitHub without the need to learn how to Pull, Commit and PR a branch.
+### Using GitHub Desktop
 
-**CONTROVERSY**
-To get prose.io to work you need to give it permission to access your github account (in order to publish posts, which is what we need it for). Out of the box this gives prose.io permission to all repos you have access to, meaning it has access to all public __and private__ repos.
-However, we can restrict github access on repos, so those who need to use prose.io wont have access to business critical repos
+If you're not confident using your terminal, you can use GitHub Desktop. The set up process will take a little while, but once you're up and running it's relavitvely straight forward to add new Blogs. Here's the [step-by-step](https://github.com/holidayextras/holidayextras.github.com/blob/master/github_desktop.md) process for getting set up.
 
-prose.io should be used ONLY if you are not technically capable of using github command line.
-If this is the case, we may restrict your github access to ONLY the HX Blog repo for protection.
+### Still not confident?
 
-### Creating a post with prose.io
-
-* Authorize Prose on github - <https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=repo>
-* Visit <http://prose.io/#holidayextras/holidayextras.github.com> (you should be logged in automatically)
-* Click on folder `_posts`
-* Now you should see a list of all exisitng blog posts
-* Click on 'view drafts'
-* Click 'new file'
-* Write your blog post using [markdown](http://daringfireball.net/projects/markdown/syntax)
-* On the right hand side you can preview you post
-* Click on 'meta data' on the right hand side and ensure you fill out all details
-* Click 'save'
-* Write a short decription of your post in the "Describe your Changes" section
-* Click 'commit'
-This will save the blog post in the drafts section of the website ready for reviewing.
-
-#### Send a blog post for review
-* Pester someone to look at your blog post in slack
-* Once you have found a victim - Let them know you have created a blog post in drafts and the name of the file
-
-#### Reviewing a blog post in prose.io
-* In the drafts section of prose.io
-* Read and review the blog post, send any changes back to the author directly (on slack or other medium)
-* Once you are happy and it has been reviewed by two different people you can click 'draft to post'
-* Write a short decription of your post in the "Describe your Changes" section
-* The post will now be live
-
-2. Github
-
-Just like any normal dev work, you can review a PR, comment on the content or editorial parts of the blog post and publish when we have 2 x :+1:'s
+If you're not confident using either your terminal or Github Desktop, drop a note in slack channel #guild-tech-brand and one of the team with the tech brand stretch will help you out.
 
 --
 
