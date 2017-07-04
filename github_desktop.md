@@ -40,7 +40,7 @@ If at any stage you get stuck, drop a note in slack channel #guild-tech-brand an
 
 10. Call it _Git_:
 
-<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/git_folder.png" width="450">
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/git_folder.png" width="500">
 
 11. Click **Create**, then **Clone**:
 
@@ -52,7 +52,7 @@ If at any stage you get stuck, drop a note in slack channel #guild-tech-brand an
 
 1. Click on the Repo you want to create a branch from. For the blog this will be holidayextras.github.com. Click on the following icon and name the branch, using dashes to separate words - for example *my-next-blog*
 
-<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/branch.png" width="500">
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/branch.png" width="600">
 
    Now your branch has been created, you can start to change existing files or create new ones.
 
@@ -75,7 +75,7 @@ Click **sign-up**
 
 4. Download your chosen text editor and navigate to **open**. Find your _Home Folder_ (this should be your name):
 
-<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/open_file_text_editor.png" width="450">
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/open_file_text_editor.png" width="600">
 
 5. Open **git**, navigating to data>members and open this file. Add yourself in the right place alphabetically, as per the following example - using your Gravatar unique alphanumeric code you made a note of earlier:
 
@@ -129,7 +129,8 @@ This is how it displays in dillinger.io
 	&
 	**Description** "Uploading first draft of XXX blog"_
 
-Then click the **Commit to "branch name"** button
+Then click the **Commit to "branch name"** button:
+
 <img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/commit.png" width="500">
 
 3. Then, click the **Publish** button (found towards the top right-hand corner). This will push your branch, with your commits up to the holidayextras.github.com repo. (Once you've published you're PR for the first time to Github, the publish button will become a _Sync_ button - you'll need this if you push up further changes to the blog, following feedback, for example.)
