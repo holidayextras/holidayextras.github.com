@@ -14,8 +14,7 @@ If at any stage you get stuck, drop a note in slack channel #guild-tech-brand an
 4. Once that's installed, locate the programme and launch it. The first time you do, there is a tutorial should you wish to have a look around - but we’ll get to the features of the desktop app later.
 
 5. Upon launch you should see this screen:
-![welcome](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/welcome.png)
-<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/welcome.png" width="107">
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/welcome.png" width="250">
 
    Hit **Continue** and login with your HX email address and github password:
    ![login](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/login.png)
