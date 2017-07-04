@@ -112,9 +112,11 @@ Click **sign-up**
 5. If you want to check what your finished blog will look like in markdown, you can use [dillinger.io](http://dillinger.io/). Delete all the text on the left-hand side, copy yours in your text editor, paste it in and then it’ll show you on the right-hand side what it will look like.
 
 This is how it looks in my text editor:
+
 <img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/markdown_text_editor.png" width="500">
 
 This is how it displays in dillinger.io
+
 <img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/dillinger.png">
 
 ### Uploading A Pull Request
@@ -134,13 +136,13 @@ Then click the **Commit to "branch name"** button
 
 4. Now, head over to [https://github.com/holidayextras/holidayextras.github.com](https://github.com/holidayextras/holidayextras.github.com). You may need to refresh the page. Click on **Compare and pull request**:
 
-<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/compare_and_pr.png" width="500">
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/compare_and_pr.png">
 
    This will allow you to create a Pull Request.
 
 5. Complete the blog title and the blog description and click **create PR**: 
 
-<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/open_pr.png" width="500">
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/open_pr.png">
 
    Tick the **Author** tick boxes if you're happy you've checked for grammatical errors, spelling errors and all information (technical or otherwise) is correct to your knowledge.
 
