@@ -17,7 +17,7 @@ If at any stage you get stuck, drop a note in slack channel #guild-tech-brand an
 <img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/welcome.png" width="250">
 
    Hit **Continue** and login with your HX email address and github password:
-   ![login](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/login.png)
+   ![login]("https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/login.png" width="350")
 
    You are likely to have 2 step authentication set up - once you've received it, put in your code! 
 
