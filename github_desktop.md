@@ -14,18 +14,18 @@ If at any stage you get stuck, drop a note in slack channel #guild-tech-brand an
 4. Once that's installed, locate the programme and launch it. The first time you do, there is a tutorial should you wish to have a look around - but we’ll get to the features of the desktop app later.
 
 5. Upon launch you should see this screen:
-<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/welcome.png" width="250">
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/welcome.png" width="300">
 
    Hit **Continue** and login with your HX email address and github password:
-   ![login]("https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/login.png" width="350")
+   <img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/login.png" width="500">
 
    You are likely to have 2 step authentication set up - once you've received it, put in your code! 
 
 6. Confirm it’s you and don’t worry about the other steps here, just hit **continue** & **continue** again:
-![continue](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/continue.png)
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/continue.png" width="400">
 
 7. Now you need to connect to HX! Click on the large **+** sign and select the **clone** tab:
-![cloning](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/cloning.png)
+<img src="https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/cloning.png" width="600">
 
 8. Type in holidayextras.github.com and clone that repository:
 ![hx_github](https://github.com/holidayextras/holidayextras.github.com/blob/master/assets/img/github_desktop/hx_github.png)
