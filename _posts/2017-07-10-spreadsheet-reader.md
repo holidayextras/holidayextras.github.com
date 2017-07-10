@@ -13,9 +13,9 @@ Our Commercial team are sent hundreds of spreadsheets a day from the hotels we p
 
 We sought to automate this process, with the benefits of:
 
-Reducing the time it takes to load new rates into the system (and therefore present the best price to our customers);
-Reduce the pricing errors through removing handoffs, thus limiting the potential for human error;
-Release the Commercial team’s time so they can re-focus on value-add activities for the business.
+- Reducing the time it takes to load new rates into the system (and therefore present the best price to our customers);
+- Reduce the pricing errors through removing handoffs, thus limiting the potential for human error;
+- Release the Commercial team’s time so they can re-focus on value-add activities for the business.
 
 ## The solution:
 Using a suite of Google technologies we were able to implement a full end to end solution. The steps taken were as follows:
