@@ -22,9 +22,9 @@ Using a suite of Google technologies we were able to implement a full end to end
 
 1) The email sent by the hotel to Commercial’s inbox was automatically forwarded to another single-purpose inbox for our systems to process from. We set this up using filters and auto-forwarding rules, based on sender.
 
-2) The spreadsheet attachments were automatically downloaded from the email and posted to a Google Big Query folder, using functionality available in Google’s Email API.
+2) The spreadsheet attachments were automatically downloaded from the email and posted to a Google cloud storage bucket, using functionality available in Google’s Email API.
 
-3) Using Google Cloud Functions, this spreadsheet was parsed to check for the rate changes. This was indicated through the cell being a different colour.
+3) Using Google Cloud Functions, this spreadsheet was parsed to check for the rate changes. To indicate a change, the hotel would colour the cell differently (say, red). The function looked for any cells that were a different colour - which was defined in the rules set for each hotel - and then extracted the information from this cell.
 
 4) Once the changes were identified, a pricing event was created using this information that was sent to a Google pub/sub queue.
 
@@ -32,7 +32,7 @@ Using a suite of Google technologies we were able to implement a full end to end
 
 6)  The formatted pricing event is then sent onto another pub/sub topic, from which it can be subscribed to by multiple services. Currently, there are three subscriptions at this stage: a historical data store (so we can query past data), an operational data store (which can be accessed by internal services such as Search API) and our Extranet price processor microservice.
 
-7) The Extranet price processor microservice listens for new pricing events, and when one is found that it is interested in, it sends this message onto the Extranet.
+7) The price processor microservice listens for new pricing events, and when one is found that it is interested in, it sends this message onto the Extranet. The Extranet is a portal we have opened to a restricted group of hotel suppliers, which they can use to manage their own rates. We are using the Extranet in this solution as one of the functions it performs is to create a file and send it to a SFTP for upload into our reservation system. 
 
 8) From this message, Extranet creates a pricing file, which can then be automatically imported into our reservation system (where prices are currently held and queried by internal APIs). Once in the reservation system - and subject to web caching - the price will appear on our site when a customer makes a search.
 
@@ -42,27 +42,27 @@ This entire process now that it is automated takes around 20 minutes - reducing 
 
 In shipping this product we came across a few blockers and ‘gotchas’, that we quickly learnt from and rectified. Some of our key learnings were:
 
-**File formats**
+### File formats
 
-In live demo we noticed how brittle we’d originally set the spreadsheet reader up for: we ran through the automated rates import process once, and then our sponsor asked us to change another rate so he could see it in action again. In adding another rate it changed the file type from .xls to .xlsx - which because we had narrowly defined the file types supported meant that it wouldn’t process through our Google Function.
+In live demo we noticed how brittle we’d originally set the spreadsheet reader up for: we ran through the automated rates import process once, and then our sponsor asked us to change another rate so he could see it in action again. In adding another rate it changed the file type from .xls to .xlsx - which because we had whitelisted the file types supported meant that it wouldn’t process through our Google Function. We added support for other file extentions which solved this issue.
 
-**Fuzzy colours**
+### Fuzzy colours
 
 Another area of brittleness was defining the colour used to indicate a rates change in a particular cell. We originally coded to look for specific hex colours, but learnt that we needed to widen this to include other shades - or ‘fuzziness’ - which accounts for colour changes both as a result of using different spreadsheet programs and human choice.
 
-**Feedback loop**
+### Feedback loop
 
 It was important that our Commercial team be kept informed at key stages in the process, such as when the file is received (“do not process this”) and when it has been uploaded (“now let the hotel know it’s done”).
 
-For the first communication, we applied a Google Inbox label to the effect of ‘do not process this’. To close the loop, we set up an alert in SumoLogic that fired an email to Commercial’s inbox that stated which file had been processed - and also if it had failed for any reason.
+For the first communication, we applied a Google Inbox label to the effect of ‘do not process this’. To close the loop, we set up an alert in [SumoLogic](https://www.sumologic.com/) that fired an email to Commercial’s inbox that stated which file had been processed - and also if it had failed for any reason.
 
-**Launch process**
+### Launch process
 
 For our first hotel, it’s fair to say we were a little complacent around the complexity to move rates uploads to an automated process. Because of the risk (prices not appearing on our site) it required close collaboration with Commercial to ensure that the switch was made seamlessly, and we had to ensure we had a roll back plan if anything went wrong.  
 
 On the agreed day we launched out of hours, with a colleague from Commercial on site to help us with testing. We developed a checklist as a guide covering both the technical and operational steps we needed to take for future launches.
 
-**Logging, Alerting and Reporting**
+### Logging, Alerting and Reporting
 
 Here is where SumoLogic has been an extremely valuable tool. We were able to log each part of the process so we could see how each step was performing. This is key when moving to microservices and pub/sub queues - if something goes down you want to narrow which part of the process is affected quickly, not waste minutes tracing it through.
 
