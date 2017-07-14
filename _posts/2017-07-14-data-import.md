@@ -35,15 +35,15 @@ This process, now optimised, takes about 20 minutes to complete - reducing the t
 ## Learnings:
 In shipping this solution we came across a few ‘gotchas’, that we quickly learnt from and rectified. Some of our key learnings were:
 
-**Feedback loop**
+### Feedback loop
 It is important that our Commercial team are kept informed at key stages in the rates updating process, such as when rate changes have been received, and when they have been processed. We have built in feedback loops using [SumoLogic](https://www.sumologic.com/), which sends alerts once key actions have completed.
 
-**Launch process**
+### Launch process
 For our first rates data import, it’s fair to say we were a little complacent around the complexity to switch to this new process from the well established version. Because of the risk (prices not appearing on our site) it required close collaboration with Commercial to ensure that the switch was made seamlessly, and we had to ensure we had a roll back plan if anything went wrong.  
 
 On the agreed day we launched out of hours, with a colleague from Commercial on site to help us with testing. We developed a checklist as a guide covering both the technical and operational steps we needed to take for future launches.
 
-**Logging, Alerting and Reporting**
+### Logging, Alerting and Reporting
 Here is where SumoLogic has been an extremely valuable tool. We were able to log each part of the process so we could see how they were performing. This is key when moving to micro-services and pub/sub topics - if one step fails you want to quickly identify where, not waste minutes tracing it through the stack.
 
 From SumoLogic we could also set up alerts when things failed, and report on the system performance at both micro- and macro-level. We set up performance dashboards that display system health, which are useful as we scale the data the system is handling.
