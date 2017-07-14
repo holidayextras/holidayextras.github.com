@@ -4,24 +4,31 @@ title: Blog by The Holiday Extras Tech Team
 category: blog
 ---
 
+{% assign featured_post = 0 %}
 <div itemscope itemType="http://schema.org/Blog" class="index">
 <!--   <h1 itemprop="name headline">The Tech Team @ Holiday Extras</h1> -->
   <main>
     <ul class="list-unstyled">
-      {% for post in paginator.posts %}
-        {% assign author = site.data.members.[post.author] %}
-        <li>
-          {% if post.hero and post.promoted == true %}
-            <div class="jumbotron jumbotron-cover jumbotron-overlay jumbotron-flex text-center" style="background-image:url('{{ site.url }}{{ site.baseurl }}/assets/img{{post.hero}}');">
-              <div class="container">
-                <div class="col-sm-8 col-sm-offset-2">
-                  <h2 class="h1">{{ post.title }}</h2>
-                  <p class="lead">{{ post.excerpt | strip_html | truncatewords: 50}}<br><small>By {{ author.name }}</small></p>
-                  <p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">Read more</a></p>
-                </div>
+      {% for post in  paginator.posts | where: "promoted", true %}
+        {% if featured_post == 0 and post.hero %}
+          {% assign author = site.data.members.[post.author] %}
+          <div class="jumbotron jumbotron-cover jumbotron-overlay jumbotron-flex text-center" style="background-image:url('{{ site.url }}{{ site.baseurl }}/assets/img{{post.hero}}');">
+            <div class="container">
+              <div class="col-sm-8 col-sm-offset-2">
+                <h2 class="h1">{{ post.title }}</h2>
+                <p class="lead">{{ post.excerpt | strip_html | truncatewords: 50}}<br><small>By {{ author.name }}</small></p>
+                <p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">Read more</a></p>
               </div>
             </div>
-          {% else %}
+          </div>
+          {% assign featured_post = post.title %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      {% for post in paginator.posts %}
+        {% if post.title != featured_post %}
+          {% assign author = site.data.members.[post.author] %}
+          <li>
             <div class="container">
               <div class="col-sm-8 col-sm-offset-2">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="a-block">
@@ -42,8 +49,8 @@ category: blog
                 <hr role="presentation">
               </div>
             </div>
-          {% endif %}
-        </li>
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
 
@@ -70,4 +77,3 @@ category: blog
     {% endif %}
   </main>
 </div>
-
