@@ -18,7 +18,7 @@ We were using a heavily manual method for importing some of our pricing data int
 ## The solution:
 Using a suite of Google technologies and adopting a microservices approach we were able to implement a full end to end data event driven solution. The steps in the new process are as follows:
 
-1) Rates data is posted to a **Google Big Query** folder. This has the advantage of making the data available to multiple teams throughout the business who may wish to query it for a range of purposes, with the caveat that the data stored is in its raw form.
+1) Rates data is posted to a **Google Cloud storage bucket**. This has the advantage of making the data available to multiple teams throughout the business who may wish to query it for a range of purposes, with the caveat that the data stored is in its raw form.
 
 2) A **Google Cloud Function** creates a supplier price event for each rate change, which is sent to a **Google pub/sub queue**. The supplier price event is structured according to a schema we designed to standardise how data passes through our pipeline.
 
