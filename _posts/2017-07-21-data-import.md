@@ -5,6 +5,8 @@ categories: Programming
 author: caroline_woodhams
 tags: problem solving, microservice, Google, data, rates, architecture
 comments: true
+hero: "markus-spiske-37931.jpg"
+promoted: true
 excerpt: A case study examining how we used Google tech and microservices to solve the problem of importing and processing rates data.
 ---
 
