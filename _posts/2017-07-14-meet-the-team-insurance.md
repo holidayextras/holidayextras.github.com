@@ -52,7 +52,7 @@ Being an agile coach means that you need to be really flexible in your approach 
 
 **What do you most enjoy about the travel insurance business?**
 
-Travel insurance is an incredibly complex product and there is SO much to learn. I enjoy being able to work with lots of different teams disciplines and being able to understand the impact of the tech work that we are delivering.
+Travel insurance is an incredibly complex product and there is SO much to learn. I enjoy being able to work with lots of different team disciplines and being able to understand the impact of the tech work that we are delivering.
 
 **What do you most enjoy about working in tech?**
 
@@ -79,7 +79,7 @@ This can make it very difficult to ship solutions quickly and maintain the produ
 
 **What do you most enjoy about the travel insurance business?**
 
-Challenges everyday. There are constantly new things to learn about Insurance as it evolves at a very fast pace. What I enjoy the most, is that it is such a large and complex product, that you will never no everything there is to know, so everyday is filled with something new.
+Challenges everyday. There are constantly new things to learn about Insurance as it evolves at a very fast pace. What I enjoy the most, is that it is such a large and complex product, that you will never know everything there is to know, so everyday is filled with something new.
 
 **What do you most enjoy about working in tech?**
 
@@ -140,7 +140,7 @@ Constant change, 20% of what you know becomes irrelevant every year.
 
 **Give us a random fact about yourself**
 
-I would constantly travel. The world is a book and those who do not travel read only one page.
+I'm from South Africa, but lived in Spain for 10 years.
 
 <hr>
 
@@ -162,7 +162,7 @@ The diversity of the work is what I enjoy most. We get to work with so many diff
 
 **What do you most enjoy about working in tech?**
 
-For me it has to be the people. Being a bit of a geek myself, I feel at home when working alongside others who enjoy tech as much as I do. We have a load of fun but at the same time, share a can do attitude to getting things done. I never feel demotivated!
+For me it has to be the people. Being a bit of a geek myself, I feel at home when working alongside others who enjoy tech as much as I do. We have a load of fun but at the same time, share a can-do attitude to getting things done. I never feel demotivated!
 
 **Give us a random fact about yourself**
 
