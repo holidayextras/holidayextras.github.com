@@ -24,7 +24,9 @@ nav: team
               <div class="caption">
                 <div class="h4">{{ member.name }}</div>
                 <div>{{ member.role }}</div>
-                <div><a href="http://www.twitter.com/{{ member.twitter }}" title="{{ member.name }} twitter" class="twitter"><i class="fa fa-twitter fa-fw"></i>@{{ member.twitter }}</a></div>
+                {% if member.twitter %}
+                  <div><a href="http://www.twitter.com/{{ member.twitter }}" title="{{ member.name }} twitter" class="twitter"><i class="fa fa-twitter fa-fw"></i>@{{ member.twitter }}</a></div>
+               {% endif %}
               </div>
             </div>
           </li>
