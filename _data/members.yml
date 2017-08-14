@@ -34,6 +34,12 @@ chloe_shepherd:
   role: Developer Lead
   gravatar_md5: 22282c95a591dee930f8966502acf9de
   twitter: ChloeShep27
+chrissyg_vic:
+  name: Chrissy and Vicky
+  role: Agiles Coaches
+  gravatar_md5: de2abd1ed9141bb703a3b51d45a65b8d
+  twitter: FeaverVictoria
+  currently_employed: false
 christina_mattinson:
   name: Christina Mattinson
   role: Agile Coach
