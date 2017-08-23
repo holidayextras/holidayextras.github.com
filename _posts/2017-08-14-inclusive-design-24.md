@@ -28,3 +28,6 @@ Australia has a Digital Service Standard based on work done by the UK's [Governm
 
 ## How to make friction fun
 Bryce Johnson from Microsoft's Xbox team spoke about inclusive game design and how to [strike a balance between reducing friction and being challenged](https://www.youtube.com/watch?v=Zw7aou8ldwA). He appealed to developers to consider extending the variables of their game's difficulty to be more flexible so that players can enable the assistive features that they need and still compete fairly with others. For example, instead of 'easy' and 'hard' modes, allow steering and breaking assistance to be switched on and off individually. I think the same principle could be applied to software more generally; allow users to customise aspects of their experience wherever possible.
+
+## Next Time
+Inclusive Design 24 is happening again on 16th November 2017. If you have a great idea for a talk, the [call for speakers](https://docs.google.com/forms/d/e/1FAIpQLSdj4I13oOtGQaWGqQ-wuk4USdQkml6aR2Tc_Dm_z7IIcTwgWQ/viewform) closes on 17th September.
