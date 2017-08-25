@@ -6,6 +6,8 @@ author: matt_obee
 tags: accessibility
 comments: true
 excerpt: "With 24 one-hour webinars from a range of speakers, ID24 is always packed with insights and ideas for beginners and experts alike. The theme this year was about going beyond the basics and beyond compliance, and featured presentations from people at Facebook, Microsoft and the BBC."
+hero: "/microphone-background.jpg"
+promoted: true
 ---
 
 [Inclusive Design 24](http://www.inclusivedesign24.org/) is a free online accessibility conference, organised annually by The Paciello Group. With 24 one-hour webinars from a range of speakers, ID24 is always packed with insights and ideas for beginners and experts alike. The theme this year was about going beyond the basics and beyond compliance, and featured presentations from people at Facebook, Microsoft and the BBC. I've finally found the time to write up my notes, so what did I learn from this year's speakers?
