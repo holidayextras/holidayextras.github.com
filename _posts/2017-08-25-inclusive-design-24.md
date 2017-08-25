@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Highlights from Inclusive Design 24 (2017)
+title: Highlights from Inclusive Design 24 (June 2017)
 categories: accessibility
 author: matt_obee
 tags: accessibility
