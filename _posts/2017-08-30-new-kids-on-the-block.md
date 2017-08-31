@@ -6,7 +6,7 @@ tags: IP, Tech, Profiles
 categories: meetTheTeam
 excerpt: Each year Holiday Extras take on several industrial placement (IP) students as web developers in their web team. Here's a short summary of what each of us want to achieve in our year at HX and how our first few weeks have been so far!
 comments: true 
---
+---
 
 Each year Holiday Extras take on several industrial placement (IP) students as web developers in their web team. Here's a short summary of what each of us want to achieve in our year at HX and how our first few weeks have been so far!
 
@@ -59,7 +59,7 @@ During my first few weeks I have been getting acclimatised to what and how peopl
 
 ## Latifah Parara
 
-![latifahparara.png]({{ site.baseurl }}/assets/img/latifahparara.png)
+![latifahparara.jpg]({{ site.baseurl }}/assets/img/latifahparara.jpg)
 
 **Role:**
 Booking
