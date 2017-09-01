@@ -76,11 +76,6 @@ han_cork:
   role: Agile Coach
   gravatar_md5: 254ea9e95547f5d0cc983ce7b0ace1a3
   twitter: HanCork89
-# ilarna_nche:
-#   name: Ilarna Nche
-#   role: Software Engineer
-#   gravatar_md5: 06196f4a74f7aa9881d210c16281a7f1
-#   twitter: ilarna_preach
 nick_han:
   name: Nick and Han
   role: Agile Coaches
@@ -207,6 +202,11 @@ rob_johnson:
   role: Developer
   gravatar_md5: 4550a440411b13515e47f9ec14eddd21
   twitter: notABluesSinger
+rosie_latifah_john_mitchell:
+    name: Rosie Latifah John and Mitchell
+    role: IP Software Engineers
+    gravatar_md5: 7f5ecb513b26ac8a1661641d3bbbdeb6
+    currently_employed: false
 steve_cs:
   name: Steve Coppin-Smith
   role: Developer Lead
