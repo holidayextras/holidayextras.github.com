@@ -4,11 +4,11 @@ title: "New Kids on the Block"
 author: rosie_latifah_john_mitchell
 tags: IP, Tech, Profiles
 categories: meetTheTeam
-excerpt: Each year Holiday Extras take on several industrial placement (IP) students as web developers in their web team. Here's a short summary of what each of us want to achieve in our year at HX and how our first few weeks have been so far!
+excerpt: ey, we're the new kids on the block at Holiday Extras, or maybe better known as Industrial Placement Students (IPS) that the company take on every year to work in their web team for experience. Here's a short summary of what each of us want to achieve in our year at HX and how our first few weeks have been so far!
 comments: true 
 ---
 
-Each year Holiday Extras take on several industrial placement (IP) students as web developers in their web team. Here's a short summary of what each of us want to achieve in our year at HX and how our first few weeks have been so far!
+Hey, we're the new kids on the block at Holiday Extras, or maybe better known as Industrial Placement Students (IPS) that the company take on every year to work in their web team for experience. Here's a short summary of what each of us want to achieve in our year at HX and how our first few weeks have been so far!
 
 ## Rosie Watson
 
