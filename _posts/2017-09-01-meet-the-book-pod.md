@@ -128,7 +128,7 @@ Software Tester
 
 ### What do you most enjoy about your role?
 
-Problem solving, it’s really rewarding finding a bug in an engineer's' work! 
+Problem solving, it’s really rewarding finding a bug in an engineer's work! 
 
 ### What is the biggest challenge you face in your role?
 
