@@ -4,10 +4,11 @@ title: "New Kids on the Block"
 author: rosie_latifah_john_mitchell
 tags: IP, Tech, Profiles
 categories: meetTheTeam
-excerpt:comments: true Each year Holiday Extras take on several industrial placement (IP) students as web developers; this year they hired 4 to become part of the web team. Here’s a short summary of what each wants to achieve in their year at HX and how their first few weeks have been so far!
---
+excerpt: Hey, we're the new kids on the block at Holiday Extras, or maybe better known as Industrial Placement Students (IPS) that the company take on every year to work in their web team for experience. Here's a short summary of what each of us want to achieve in our year at HX and how our first few weeks have been so far!
+comments: true 
+---
 
-Each year Holiday Extras take on several industrial placement (IP) students as web developers; this year they hired 4 to become part of the web team. Here’s a short summary of what each wants to achieve in their year at HX and how their first few weeks have been so far!
+Hey, we're the new kids on the block at Holiday Extras, or maybe better known as Industrial Placement Students (IPS) that the company take on every year to work in their web team for experience. Here's a short summary of what each of us want to achieve in our year at HX and how our first few weeks have been so far!
 
 ## Rosie Watson
 
@@ -16,12 +17,12 @@ Each year Holiday Extras take on several industrial placement (IP) students as w
 **Pod:** Euro
 
 **Goals for the year** 
-There are many reasons why I chose to do a year in industry, and specifically why I chose to apply to do it at Holiday Extras. I want use this year to increase my programming abilities and broaden the types of technologies I have been exposed too, as I had never had much experience outside of my course. Along with this I am keen to learn how tech companies are run and how many large systems can be maintained and improved at such a high rate. I also hope to improve upon the soft skills I currently have to gain more experience; such as giving presentations and writing formal documentation.
+There are many reasons why I chose to do a year in industry, and specifically why I chose to apply to do it at Holiday Extras. I want to use this year to increase my programming abilities and broaden the types of technologies I have been exposed to, as I had never had much experience outside of my course. Along with this I am keen to learn how tech companies are run and how many large systems can be maintained and improved at such a high rate. I also hope to improve upon the soft skills I currently have to gain more experience; such as giving presentations and writing formal documentation.
 
 
 **How the first few weeks went:**
 
-The first few weeks consisted of lots of workshops (to give us a certain level of knowledge to work off of) and rotating through 3 different pods (for me it was Euro, Mobile and Integration) to get a understanding of what each team is working on and what their long term goals are. This was a great experience and really helped me understand how all of the different pods worked together to maintain the sites and improve the experience for customers. 
+The first few weeks consisted of lots of workshops (to give us a certain level of knowledge to work from) and rotating through 3 different pods (for me it was Euro, Mobile and Integration) to get a understanding of what each team is working on and what their long term goals are. This was a great experience and really helped me understand how all of the different pods worked together to maintain the sites and improve the experience for customers. 
 
 The day I was looking forward to the most was the day I was placed into my permanent pod as I was eager to get stuck into a full sprint and be able to pick up tickets that would require more time than you could put in during a pod rotation. Overall, these first weeks weeks have been better than I imagined, the HX team are all extremely friendly and supportive and I have already progressed technically much quicker than I expected. It would be an understatement to say that I am excited to see what the rest of the year will bring.
 
@@ -52,13 +53,13 @@ My goals for the year include progressing with my overall coding ability with a 
 
 **How the first few weeks went:**
 
-Starting work at HX has been a new and exciting experience. Having worked for a few years before starting University I had come accustomed to working environments where you are expected to just show up, do your work, and then leave again. Coming to HX has shown me a whole new work lifestyle that fully surpasses what I thought work could be.
+Starting work at HX has been a new and exciting experience. Having worked for a few years before starting University I had become accustomed to working environments where you are expected to just show up, do your work, and then leave again. Coming to HX has shown me a whole new work lifestyle that fully surpasses what I thought work could be.
 
 During my first few weeks I have been getting acclimatised to what and how people do things here. New tech and languages have been the focus of my work and understanding what it is like to be a part of a team/pod. HX encourages you to ask questions without being judged which has helped me feel more comfortable in the fact that it is ok to be wrong. This has already helped with progressing my knowledge and skills further as it has reduced my worry of not knowing everything.
 
 ## Latifah Parara
 
-![latifahparara.png]({{ site.baseurl }}/assets/img/latifahparara.png)
+![latifahparara.jpg]({{ site.baseurl }}/assets/img/latifahparara.jpg)
 
 **Role:**
 Booking
@@ -78,4 +79,4 @@ Now, I am actively working on completing tasks in the sprints while maintaining 
 
 ---
 
-Well, that's it from them! We will keep you posted so that you can follow them throughout the year!
+Well, that's it from us! We will keep you posted so that you can follow our progress by the end the year!
