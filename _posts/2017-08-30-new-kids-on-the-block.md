@@ -16,7 +16,8 @@ Hey, we're the new kids on the block at Holiday Extras, or maybe better known as
 
 **Pod:** Euro
 
-**Goals for the year** 
+**Goals for the year:** 
+
 There are many reasons why I chose to do a year in industry, and specifically why I chose to apply to do it at Holiday Extras. I want to use this year to increase my programming abilities and broaden the types of technologies I have been exposed to, as I had never had much experience outside of my course. Along with this I am keen to learn how tech companies are run and how many large systems can be maintained and improved at such a high rate. I also hope to improve upon the soft skills I currently have to gain more experience; such as giving presentations and writing formal documentation.
 
 
