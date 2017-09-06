@@ -59,7 +59,7 @@ During my first few weeks I have been getting acclimatised to what and how peopl
 
 ## Latifah Parara
 
-![latifahparara.jpg]({{ site.baseurl }}/assets/img/latifahparara.jpg)
+![latifahparara.JPG]({{ site.baseurl }}/assets/img/latifahparara.JPG)
 
 **Role:**
 Booking
