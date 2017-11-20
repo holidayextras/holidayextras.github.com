@@ -7,7 +7,7 @@ tags: agile
 comments: true
 excerpt: "My experience speaking at an Agile conference for the first time"
 hero: "/microphone-background.jpg"
-promoted: true
+promoted: false
 ---
 
 I recently spoke at [Agile in the City](http://agileinthecity.net/2017/london/). Honest! Here look at the programme, it’s me!
