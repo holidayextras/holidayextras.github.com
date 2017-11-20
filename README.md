@@ -3,6 +3,8 @@
 The Tech Team @ Holiday Extras Blog
 ========================
 
+**Deprecated. The tech blog is now hosted on [Medium](http://tech.holidayextras.co.uk/). For more information, come chat to us in #guild-tech-brand on Slack.**
+
 This is a new blog created using Jekyll and GitHub pages.
 The Holiday Extras Blog should be simple to use for everyone, it only requires a small amount of technical knowledge.
 The first part of this README breaks down the steps required in order to write and post a blog using git and your terminal. The second part explains how to use Prose.io to help you write and post your blog.
