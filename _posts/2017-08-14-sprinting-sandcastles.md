@@ -7,7 +7,7 @@ tags: agile scrum sandcastles
 comments: true
 excerpt: "‘You can Sprint anything’ they say! Well let’s give it a go shall we? Agile Coaches + Sandcastle competition... what’s not to love?"
 hero: "/sprinting_sandcastles.jpg"
-promoted: true
+promoted: false
 ---
 
 A few of us Agile Coaches here at Holiday Extras thought we should enter the local sandcastle competition this year but in an Agile way - "Let's do it in sprints... and blog about it”.  And so we set up a TPM (Technical Planning Meeting) to plan this all out.  One of the judges was a local artist, so the stakes were high - not just to prove that Agile could be applied to any activity, but that our artistic sandcastle-building skills were up to scratch! The theme this year was “double edged art was the key”!
